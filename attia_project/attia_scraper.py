@@ -11,11 +11,8 @@ from selenium.webdriver.support import expected_conditions as EC
 # ------------------ CONFIG ------------------
 
 BASE_URL = "https://podscripts.co"
-SEARCH_URL_TEMPLATE = (
-    "https://podscripts.co/podkeywordsearch/"
-    "?search_type=basic&keywordsToSearch=drive&exact_match=false"
-    "&slv=single&podSelectedId=75&page={page}"
-)
+PODCAST_SLUG = "the-peter-attia-drive"
+STARTING_URL = f"https://podscripts.co/podcasts/{PODCAST_SLUG}"
 
 Path("out").mkdir(exist_ok=True)
 
@@ -32,36 +29,54 @@ options.add_argument("--disable-dev-shm-usage")
 
 driver = webdriver.Chrome(service=service, options=options)
 
-# ------------------ COLLECT LINKS ------------------
+# ------------------ DETECT HOW MANY PAGES ------------------
+
+driver.get(STARTING_URL)
+
+WebDriverWait(driver, 10).until(
+    EC.presence_of_element_located(
+        (By.XPATH, "//a[contains(@href, '/podcasts/the-peter-attia-drive/')]")
+    )
+)
+
+# Find all page numbers
+page_links = driver.find_elements(By.XPATH, "//a[contains(@href, '?page=')]")
+
+max_page = 1
+for link in page_links:
+    text = link.text.strip()
+    if text.isdigit():
+        max_page = max(max_page, int(text))
+
+print(f"Detected {max_page} pages.")
+
+# ------------------ COLLECT EPISODE LINKS ------------------
 
 episode_urls = set()
 
-for page_num in range(1, 20):
-    url = SEARCH_URL_TEMPLATE.format(page=page_num)
-    print(f"\n=== Fetching page {page_num} === {url}")
-    driver.get(url)
+for page_num in range(1, max_page + 1):
+    page_url = f"{STARTING_URL}?page={page_num}" if page_num > 1 else STARTING_URL
+    print(f"\n=== Fetching page {page_num} === {page_url}")
+    driver.get(page_url)
 
-    try:
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.PARTIAL_LINK_TEXT, "Transcript"))
+    WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located(
+            (By.XPATH, "//a[contains(@href, '/podcasts/the-peter-attia-drive/')]")
         )
-    except:
-        print("No transcripts found. Stopping pagination.")
-        break
+    )
 
-    links = driver.find_elements(By.PARTIAL_LINK_TEXT, "View Full Transcript")
-    print(f"Found {len(links)} transcript links on page {page_num}")
-
-    if not links:
-        break
+    links = driver.find_elements(By.XPATH, "//a[contains(@href, '/podcasts/the-peter-attia-drive/')]")
 
     for link in links:
         href = link.get_attribute("href")
-        if href:
-            full_url = BASE_URL + href if href.startswith("/") else href
+        text = link.text
+        print(f"Link text: {text} | href: {href}")
+
+        if href and f"/podcasts/{PODCAST_SLUG}/" in href and href.rstrip("/") != STARTING_URL.rstrip("/"):
+            full_url = href if href.startswith("http") else BASE_URL + href
             episode_urls.add(full_url)
 
-print(f"\nTotal episodes found: {len(episode_urls)}")
+print(f"Total unique episodes found: {len(episode_urls)}")
 
 # ------------------ DOWNLOAD TRANSCRIPTS ------------------
 
@@ -75,7 +90,7 @@ for url in sorted(episode_urls):
     driver.get(url)
 
     try:
-        # Click Transcript tab if present
+        # Click Transcript tab if it exists
         try:
             transcript_tab = WebDriverWait(driver, 5).until(
                 EC.element_to_be_clickable(
@@ -84,11 +99,10 @@ for url in sorted(episode_urls):
             )
             transcript_tab.click()
             time.sleep(1)
-
         except:
             print(f"No transcript tab for {url}. Trying fallback scrape...")
 
-        # Try to locate the podcast-transcript div
+        # Find the transcript div
         try:
             transcript_div = WebDriverWait(driver, 5).until(
                 EC.presence_of_element_located(
@@ -106,7 +120,7 @@ for url in sorted(episode_urls):
             continue
 
         except:
-            print(f"No podcast-transcript div found on {url}. Trying to scrape page body.")
+            print(f"No podcast-transcript div found on {url}. Trying fallback scrape.")
 
         # Fallback: scrape entire page body
         page_text = driver.find_element(By.TAG_NAME, "body").text
