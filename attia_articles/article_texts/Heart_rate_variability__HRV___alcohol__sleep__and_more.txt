@@ -1,0 +1,91 @@
+In this “Ask Me Anything” (AMA) episode, Peter and Bob first answer a variety of questions related to heart rate variability (HRV): what it means, why it matters, and how to measure, interpret, and potentially elevate it. Next, they dive deep into the topic of alcohol, beginning with a discussion on the negative impact that it can have on sleep. They then break down the confusing body of literature suggesting potential health benefits to moderate levels of drinking compared to complete abstinence and point out the limitations of these studies. Finally, they conclude by analyzing data on the impact of moderate and heavy drinking on the liver and on risk for Alzheimer’s disease and dementia.
+Please note: this AMA is audio only. If you’re not a subscriber and listening on a podcast player, you’ll only be able to hear a preview of the AMA. If you’re a subscriber, you can now listen to this full episode on your
+private RSS feed
+or on our website at the
+AMA #31 show notes page
+. If you are not a subscriber, you can learn more about the subscriber benefits
+here
+.
+We discuss:
+What is heart rate variability (HRV), and why do we measure it? [2:10];
+The association between low HRV and mortality risk [10:00];
+What high and low HRV means and why athletes strive for a high HRV [15:30];
+Factors that can raise or lower HRV [18:00];
+How and when to measure HRV, and the best wearables [19:15];
+Interpreting your personal HRV number and why there’s so much individual variation [23:15];
+How Peter’s morning HRV reading impacts his decision to train [28:30];
+Alcohol’s impact on sleep [31:30];
+Metrics to track the impact of alcohol on your sleep [34:00];
+Alcohol’s impact on the need to urinate during the night [39:00];
+Alcoholic fatty liver disease (AFLD) [41:30];
+Individual differences in the way people metabolize and react to alcohol consumption [44:15];
+Analysis of epidemiology studies suggesting moderate alcohol consumption lowers mortality risk [52:00];
+Alcohol consumption and Alzheimer’s disease [1:05:15];
+Heavy alcohol consumption and risk of dementia [1:08:30];
+Chronic effects of alcohol on the liver [1:17:45];
+The relationship between alcohol, sleep, and automotive deaths [1:20:45]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Phone
+This field is for validation purposes and should be left unchanged.
+Δ
+What is heart rate variability (HRV), and why do we measure it? [2:10]
+What is HRV?
+HRV stands for heart rate variability
+HRV measures the variation in time between heartbeats, and that’s measured in milliseconds (1,000 milliseconds is one second)
+So if a person’s heart is beating 60 times per minute, you think there’s 1,000 milliseconds between every beat…but it turns out that it’s not really the case
+Even if your heart is beating 60 times per minute (i.e., once per second) between the first beat and the second beat, it might be 1,010 milliseconds
+And between that second beat and the third beat, it might be 960 milliseconds
+And between that beat and the beat thereafter, it might be 1,027 milliseconds.
+In other words, there is actually some variability
+If anybody has ever seen an EKG, most people will recognize that there is a very big spike for each of those beats (known as the spike in the R wave)
+If you now measure the distance between the Rs—the RR interval—and you take the RMSSD (The Root Mean Square of Successive Differences between normal heartbeats)…that means you calculate the time difference between each RR interval
+The RMSSD is obtained by first calculating each successive time difference between heartbeats (RR intervals) in ms.
+Then, each of the values is squared and the result is averaged before the square root of the total is obtained.
+So RMSSD is reported in milliseconds
+If using wearables that calculate HRV while you’re sleeping, you’ll notice it gives you a number in milliseconds
+Why do we measure HRV? [5:45]
+What can it tell us, possibly?
+HRV provides a snapshot into how your body is balancing between the two branches of your autonomic nervous system: sympathetic (“fight-or-flight”), and parasympathetic (“rest-and-digest”).
+The heart is not a metronome – it’s actually erratic
+A healthy nervous system has a balanced but strong push and pull between Sympathetic and Parasympathetic causing high Heart Rate Variability
+It turns out that that variability is heavily influenced by which of the autonomic nervous systems is most dominant
+What is the autonomic system, and what’s the difference between sympathetic and parasympathetic?
+The
+Autonomic system
+handles the unconscious processes (and even effects conscious behavior)
+Autonomic contains two branches – the Parasympathetic and the Sympathetic
+Sympathetic
+is activated in times of stress
+Fight or Flight
+Sacrifice long term to get through the short term
+Flood energy, dilate pupils, slow digestion/peristalsis, increase heart rate
+It’s slowing digestion and peristalsis, meaning it’s slowing down anything that’s not essential, and it’s increasing heart rate
+From a practical standpoint, if you’re laying in bed and you hear a loud bang in your house, you have no idea if it’s an intruder or if a picture fell off the wall, but you don’t even have to worry about it, your brain isn’t going to even force you to make that decision. It’s going to make the decision for you, which is this is a threat
+so your heart rate is going to shoot up, your pupils will dilate, any amount of digestive energy going on right now will cease, and your liver is going to start cranking out glucose and making you available for fight or flight
+Parasympathetic
+is activated in times of recovery
+Rest and digest
+Conserve energy, constrict pupils, aid digestion, slows heart rate
+What does this have to do with HRV?
+when the sympathetic system is revved up, HRV goes down
+when the parasympathetic system is in control HRV goes up
+As the heart rate speeds up, which is what’s happening under sympathetic tone, there’s less variability between the beats
+When the heart rate slows down, when the body is relaxing, there’s more variability between beats.
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member

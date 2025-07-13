@@ -1,0 +1,146 @@
+Sean Mackey is a professor of pain medicine at Stanford University and the director of the Stanford Systems Neuroscience and Pain Lab, where his research explores the neural mechanisms of pain and the development of novel treatments for chronic pain. In this episode, Sean joins Peter for a wide-ranging discussion on the multifaceted nature of pain—as both a sensory and emotional experience—and its evolutionary purpose as a critical survival mechanism. He dives into how pain is transmitted through the nervous system, the different types of pain, and why different individuals perceive pain so differently. Sean shares insights into pain management strategies ranging from medications like NSAIDs and opioids to neuromodulation techniques such as transcutaneous electrical nerve stimulation (TENS). Additionally, this episode explores the interplay between sleep and chronic pain and the psychological and emotional dimensions of pain, and it includes a personal story from Peter about his own experience with pain and how Sean’s expertise helped him more than two decades ago.
+Subscribe on:
+APPLE PODCASTS
+|
+SPOTIFY
+|
+RSS
+|
+OVERCAST
+Play
+#345 ‒ Chronic pain: pathways, treatment, and the path to physical and psychological recovery | Sean Mackey, M.D., Ph.D.
+#345 ‒ Chronic pain: pathways, treatment, and the path to physical and psychological recovery | Sean Mackey, M.D., Ph.D.
+1x
+15s
+30s
+0:00
+2:47:06
+We discuss:
+The definition of pain, and how our understanding of pain has evolved from a simplistic body-mind separation to a nuanced biopsychosocial model [2:30];
+The biological mechanisms behind how we perceive pain [9:30];
+The role of consciousness in the perception of pain, and how nociception functions during unconscious states [14:30];
+The four types of pain [22:00];
+Using fMRI to identify objective biomarkers of pain in the brain [31:30];
+The evolutionary role of pain in human behavior and survival [36:00];
+How the brain processes and modulates pain signals, Gate Control Theory, the variability in individuals’ pain perception, and effectiveness of neuromodulation techniques like TENS [41:00];
+The brain’s influence on pain: the role of emotion, beliefs, sleep, and individual differences in perception and tolerance [53:45];
+Peter’s personal journey with chronic back pain, and how the emotional consequences of pain can be more distressing than the pain itself [1:04:30];
+The pharmacology of common pain medications—NSAIDs, COX-2 inhibitors, and acetaminophen [1:09:30];
+Muscle relaxants: benefits, drawbacks, and personalized strategies [1:20:30];
+The definition of chronic pain [1:29:15];
+The role of antidepressants in pain management [1:30:15];
+Opioids: their controversial and nuanced role in pain management [1:33:45];
+Alternative therapies: acupuncture and cannabis [1:54:15];
+Fibromyalgia and chronic pain: clinical features, brain mechanisms, and emerging treatments like low-dose naltrexone [2:01:00];
+Possible brain benefits of low-dose naltrexone (LDN) for people with mild cognitive impairment [2:15:00];
+Peter’s recovery from severe chronic pain—how he went from immobility and high-dose opioids to full functionality [2:20:15];
+Breaking the pain cycle: how physical rehabilitation and psychological recovery work together in chronic pain treatment [2:30:45];
+Sean’s struggle with cluster headaches, and the value of knowledge, preparation, and empathy in both managing chronic pain and caring for patients [2:39:15]; and
+More.
+Show Notes
+The definition of pain, and how our understanding of pain has evolved from a simplistic body-mind separation to a nuanced biopsychosocial model [2:30]
+This morning Peter’s wife asked about the topic of today’s podcast and the guest, and when he said Sean Mackey, her face lit up
+She’s never met Sean but she’s heard Peter tell a story about his own experience through this
+It was then that Peter realized he hadn’t seen Sean since medical school
+They met 25 years ago, and Sean played an unbelievable role in bringing Peter back from arguably the brink of what could have been the end of his life
+What pain is
+There’s nobody listening to us right now who doesn’t know what pain is
+Who hasn’t experienced pain
+Yet if you ask for a definition of pain, you’d get a lot of using the word to describe the thing, which isn’t truly a definition
+If you were trying to explain to a Martian from another planet who doesn’t experience pain, what it is, what would you say?
+Formal definition
+: an unpleasant sensory and emotional experience associated with actual or potential tissue damage
+If you think of it as an unpleasant sensory and emotional experience is usually tied to something physically happening, but it may not be
+⇒
+What’s missing in that definition, is that pain is the great motivator
+Pain is one of the most primitive experiences going back to single cell organisms
+It’s either pain or reward
+You’re either being driven towards oxygen, food, sex, or you’re trying to get away from danger
+Pain is so wonderful because it’s so terrible
+It keeps us alive
+Without pain, we would’ve never lived as a species
+We have these genetic issues of congenital insensitivity to pain
+Pain is an unpleasant sensory and emotional experience
+To understand pain, whether you’re a Martian or you’re a human now, you have to look back in history
+Rene Descartes
+, 17th century French philosopher, thought to be the father of modern philosophy
+Incredible contributions: he brought Cartesian geometry to us, which led to calculus, and he had this dualistic model of pain that he put forward
+To his credit, it was the first mechanistic foundation for pain because beforehand pain was thought to be something mystical or religious
+It was punishment of the gods
+His framework is often illustrated with this famous picture [shown below] of a little boy with his foot in the fire
+And there’s a little string from his foot going up into his brain, and it ends up in the pineal gland, which was thought to be uniquely a human area
+The idea is the fire pulls on the little string, opens up pores, and the
+pineal gland
+rings a bell and the boy withdraws his foot
+Figure 1. Line drawing of the pain system by Louis La Forge based on Descartes’ description in
+treatise of Man
+. Image credit:
+Journal of Neurophysiology
+2013
+The idea is in this
+dualistic model
+, there is a complete separation between body and mind
+The body is where pain is generated
+The mind is where it’s perceived, but the mind is simply a passive receptacle receiving these signals
+That model put forward in the 17th century stuck with us for hundreds and hundreds of years, and today it has influenced medical care
+It has influenced policy
+It’s influenced everything in our society about the way we think about pain
+This dualistic model is utterly completely wrong
+Yes, Descartes got Cartesian geometry right, but he complete bollocks screwed it up when it came to pain
+It’s only been in the last number of decades that we’ve appreciated the nuance of what pain really is
+Sean explains about pain, “
+Instead of it being under this guise of this separate mind and body, we now appreciate it as this integrated biopsychosocial phenomenon meaning that, and I think this is one of the most important things that I’d like to drive across.
+”
+⇒
+Nociception
+is a term referring to electrochemical injury signals that occur in the periphery, that what goes on in the body and what goes on in the brain, the experience of pain, they may have nothing to do with each other or very little linkages (and Sean’s going to unpack that)
+For hundreds of years, we’re basing our understanding of pain on Rene Descartes’ dualistic model
+We still see this in medical care right now
+For many, many, years, when Sean talked with the surgeons, they were firmly of the opinion that the amount of pain that a patient had after surgery was related to how much the scalpel cut and how much tissue damage was done
+It’s only more in the last 20 or so years that he’s seeing surgeons really embracing this model that
+what people bring to the operating room table directly influences how much pain they have
+Their early life experiences, all this stuff that Sean will talk about
+The latter part of the 19th century brought a couple of other tools to pain
+Local anesthetics (from
+cocaine
+down to
+lidocaine
+)
+General anesthetics (
+ether
+) ‒ allowed surgeons to cut people without having to hold them down while they screamed
+These didn’t shed any new light on understanding pain
+They were viewed as a blunting instrument; it didn’t change the model
+This has had tragic consequences in the care of people, particularly with
+chronic pain
+Particularly women with chronic pain who have felt stigmatized, invalidated because absent something that’s obviously wrong out in the body of the periphery, they were just labeled as being histrionic housewives or being told it’s all in their head
+Not just women, but also some men as well
+That has gotten better with the evolution of our perception or our model into a biopsychosocial model
+The biological mechanisms behind how we perceive pain [9:30]
+Is there a pain receptor?
+Nociceptors
+are basically a transducer
+It’s a complicated name
+If you have an engineering background, you’ll all know that a transducer is simply a device that converts one form of energy into another form of energy
+This microphone is converting sound energy into electrical energy
+The speakers convert electrical energy back into sound energy
+We have these nociceptors that lie in our skin, our soft tissues, our deep tissues, our viscera, and they’re specialized, and they convert different forms of energy into electrochemical impulses
+They take pressure; they take heat, cold; they take chemical changes in the form of pH (that can occur during infection)
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Sean Mackey, M.D., Ph.D.
+Sean Mackey earned a Bachelor’s and Master’s of Bioengineering at the University of Pennsylvania. He then earned a M.D. and Ph.D at the University of Arizona. Then he moved to Stanford University where he completed a Residency in Anesthesiology and a Fellowship in Pain Management.
+Dr. Mackey is a physician-scientist experienced in neuroimaging, psychophysics, public health, health policy patient outcomes, and medical education. He is the Redlich Professor of Anesthesiology, Perioperative and Pain Medicine and at Stanford School of Medicine. He is also the Chief of the
+Division of Pain Medicine
+and Director of the
+Systems Neuroscience and Pain Lab
+. His research investigates multiple paths to understand mechanisms of pain and develop objective biomarkers. His ultimate goal is precision pair care, tailoring the best treatment to the patient at the right time and making that care broadly available. [
+Stanford Medicine
+]
+X:
+@DrSeanMackey
+Website:
+Sean Mackey, MD, PhD

@@ -1,0 +1,87 @@
+High blood pressure (hypertension) affects nearly half of all U.S. adults, and we’ve all heard that it poses an enormous threat to many aspects of health. I’ve often emphasized that blood pressure management – with lifestyle modifications and, in some cases, antihypertensive medications – is one of the most impactful moves you can make toward a longer, healthier life. Yet few (if any) medical interventions come without their share of downsides, and as a recent study suggests, antihypertensive drugs are no exception.
+1
+In helping to ward off risks to cardiovascular, kidney, and neurological health, these medications may
+increase
+risk of another concern for longevity and healthspan – falls and fall-related injuries. How should we interpret these data, and what can you do to offset this risk?
+What they did
+For this retrospective cohort study, investigators Dave et al. examined the association between pharmaceutical antihypertensive therapy initiation and fractures among long-term care nursing home residents (mean age 78; 97.7% male) in the Veteran’s Administration (VA) system.
+Using the VA’s extensive medical database, the authors looked at data from 29,648 different individuals over a period of almost 14 years. For the treatment group, they used data on patients who initiated new antihypertensive therapy, which was defined as increasing the number of antihypertensive medications taken compared to the previous four weeks. Only patients who then remained on the same number of antihypertensive medications throughout the four-week follow-up were included in the treatment analysis. Thus, the study included patients who started their
+first
+antihypertensive medication at the beginning of the data collection point, as well as those who started an
+additional
+antihypertensive drug.
+The authors looked at data from the same pool of patients to find controls, using subjects who met the study eligibility criteria (at least 65 years old, no signs of end-stage kidney disease in the past year, and at least one blood pressure reading within the past two weeks) but did
+not
+add a new antihypertensive drug to their regimen during the time period. The authors matched these potential control subjects with subjects in the treatment group who had the same baseline characteristics, attempting to reduce the effect of confounding variables by comparing patients who were similar to each other.
+As long as they continued to meet the study eligibility criteria, individual subjects could be counted for multiple treatment or control group episodes depending on their patterns of antihypertensive treatment over the almost 14 years of study data. The authors ultimately collected data on 12,942 treatment episodes and 51,768 control episodes (about 4 matched control episodes per treatment episode). The end point of the study was having a fracture (defined as arm fractures requiring medical intervention or any fractures of the pelvis/hip) within 30 days of initiating therapy.
+What they found
+Among treatment episodes (i.e., the four weeks following initiation of a new antihypertensive medication), the rate of fractures per 100 person-years was 5.4, while among control episodes (i.e., a four-week period after medication had been stable for at least four weeks), it was 2.2. This translates to an adjusted hazard ratio (HR) of 2.42 (95% CI:1.43-4.08) for the antihypertensive group, which means that their fracture risk was almost 2.5 times higher than controls.
+The patients initiating an antihypertensive medication also had an 80% higher risk of falls requiring an emergency room visit or hospitalization (HR=1.80, 95% CI: 1.53-2.13) and 69% higher risk of syncope (HR=1.69, 95% CI: 1.30-2.19). The authors also found an increased number of fractures in subgroups of residents. For example, those with no baseline antihypertensive use had more fractures after therapy initiation (HR=4.77, 95% CI: 1.49-15.32).
+What do these findings mean?
+The fact that the same patients could provide data for both the experimental and control episodes is a strength of the study, decreasing the chances that the effects seen were due to unknown differences between a separate experimental and a control group. Of course, this was a retrospective cohort study, so randomization was not possible. In addition, the subjects were 98% male despite the fact that women tend to have a higher incidence of hip fractures, so it’s unclear whether the added fracture risk associated with antihypertensives would be even higher among women than among men. Further, this study looked only at the number of antihypertensive drugs, not specific drug classes or different doses within a class, so its conclusions are very broad and can’t provide guidance about specific medications.
+Still, these findings are of interest given the importance of mitigating risks of falls, which can be
+particularly devastating
+in the elderly. Fall precautions are already the norm in a tightly controlled environment like a nursing home (the population under study in this investigation), so if there is an increased risk in that setting, the risk is likely even
+higher
+in a home setting without watchful staff and a carefully designed physical environment. (Indeed, the true elevation in risk even among nursing home residents is likely higher than what the authors reported. Data from patients who increased their number of antihypertensive medications but didn’t
+tolerate
+the increase for a full four-week period – for instance, by demonstrating a greater tendency to fall – would have been excluded from the treatment analysis.)
+But
+why
+might antihypertensives lead to increased falls (and therefore fractures) in the first place? It is likely related to orthostatic hypotension,
+2
+a condition that many of us have experienced at one time or another. When you stand up quickly after lying or sitting, your blood pressure can suddenly drop, making you feel weak or lightheaded. In more extreme cases, you may actually faint. Orthostatic hypotension can be caused by numerous factors, such as an aging nervous system (this is one of the reasons that the elderly are at high risk for falls), specific diseases, and alcohol consumption.
+2
+As this study implies, medications are a common cause, too. When antihypertensives do their job of lowering blood pressure, they can contribute to it falling
+too
+low when the body undergoes postural changes. Another cause of orthostatic hypotension is dehydration. When a person is dehydrated, blood volume is reduced and blood flow to the brain may become inadequate, especially with changes in body position.
+Using blood pressure medication safely
+Do these results mean you should avoid antihypertensives? Absolutely not. More than 75% of adults over age 65 and substantial numbers of adults in younger age groups have high blood pressure.
+3
+While diet and exercise can go a long way in keeping blood pressure in check, antihypertensive medications eventually become necessary for most individuals, and forgoing them simply isn’t an option.
+As I’ve said
+many times before, controlling your blood pressure is one of the most important things you can do to improve your healthspan and lifespan. It’s critical to prevent cardiovascular events and mortality, kidney disease, and possibly even dementia and other problems related to the nervous system. (See
+my blood pressure AMA
+and upcoming blood pressure premium article for more about the importance of blood pressure and tips on how to lower it.)
+However, we can (and should) exercise caution when using these medications, particularly just after starting a new antihypertensive therapy. This study indicates that the risk of falls and related injuries is significantly increased particularly during the first month after adding any antihypertensive to your regimen. Though the magnitude of risk elevation was greatest for those starting their
+first
+blood pressure medication, even those who had already been on antihypertensives saw an uptick in falls with the addition of a new drug. Thus, anyone starting a new blood pressure therapy – whether it’s the first or fourth drug you’re taking – should be cautious and take measures to mitigate fall risk.
+Preventing falls
+Fall risk increases with age for several reasons, including lower limb weakness, vestibular changes, and lower reactive speed – in addition to more prevalent use of antihypertensives. Bone density also decreases, so falls are more likely to result in fractures. As I’ve discussed in a past AMA on
+bone health
+, the consequences of bone fractures (particularly in the hip or femur) can become increasingly severe with advancing age. At least a quarter of adults age 65 and older fall each year, and falls are the leading cause of injury in this age group.
+4
+About 100 elderly Americans died
+each day
+as the result of an unintentional fall in 2021 (78 per 100,000 population of the elderly).
+5
+Hip fractures can be particularly deadly for older adults, who are more than 2.5 times as likely to die within a year (HR= 2.78, 95% CI: 2.12-3.64)
+6
+and 5-8 times more like to die in the first 3 months following the injury (HR=5.75, 95% CI: 4.94- 6.67 in women, and HR=7.95, CI: 6.13-10.30 in men).
+7
+The greatest thing you can do to prevent falls – starting at
+any
+age – is to engage in resistance training to improve bone mineral density and build strength, especially in your feet and lower legs, as well as maintaining ankle mobility and balance. (See
+my podcast on this topic
+for suggestions of specific exercises and resources on how to do this.) Additionally, you can adapt your physical environment to reduce fall risk by keeping stairs and floor spaces free of clutter and ensuring adequate lighting in occupied spaces. Pay attention when going up or down stairs, and don’t carry anything that’s large enough to block your view unless you have someone to help.
+Avoiding dehydration
+Even for those who are relatively young and devote plenty of time to strength and stability training, an oft-overlooked variable can drastically increase risk of falls and fall-related injuries: hydration status. Longtime readers may recall my own dramatic fall a few years back, when I rose from bed too quickly while in a
+dehydrated state
+(following blood donation and a long flight), briefly lost consciousness, and face-planted onto a table. I escaped with
+a few nasty facial lacerations
+instead of a fracture, but this incident opened my eyes to the importance of hydration for people of all ages and fitness levels.
+Symptoms of dehydration can include dizziness, headaches, and feeling lightheaded, progressing to more serious effects such as confusion in severe cases. Back in
+AMA #33
+, I discussed in depth the variables that impact hydration status and fluid requirements as well as the best options for staying hydrated under different conditions, such as during exercise versus at rest. But as a first approximation, urine output (rather than urine color) is a good indicator of hydration status and is an easy means of assessing whether you aren’t sufficiently replacing fluid losses on any given day.
+The bottom line
+The implications of this study reinforce the link between drops in blood pressure and risk of falls, and thus, they apply broadly to anyone at risk of hypotension or light-headedness – whether from blood pressure medications, dehydration, or other causes. Be extra cautious the first month after beginning an antihypertensive drug, but don’t let that discourage you from using these medications if you cannot control your blood pressure with diet and exercise alone. No matter what age you are, focus on building up muscle strength and bone density, pay attention to your physical surroundings, and stay hydrated. While falls have worse consequences for the elderly, we can take steps at any age to reduce both our current and future risk of falls and fall-related injuries.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Riedel A, Benz F, Deibert P, et al. The effect of physical exercise interventions on insomnia: A systematic review and meta-analysis. Sleep Med Rev. 2024;76(101948):101948. doi:10.1016/j.smrv.2024.101948

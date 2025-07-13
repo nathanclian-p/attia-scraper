@@ -1,0 +1,125 @@
+In this “Ask Me Anything” (AMA) episode, Peter answers a number of questions on optimizing sleep. He describes his pre-bedtime routine, how he utilizes a sauna, and his current regimen of medicines and supplements for improving sleep time and quality. He goes in depth on each of the molecules that have shown promise in boosting sleep, including their mechanisms of action as well as any noteworthy contraindications. Peter also discusses sleep wearables, including both the positives and potential negatives of using such trackers, and much more.
+If you’re not a subscriber and listening on a podcast player, you’ll only be able to hear a preview of the AMA. If you’re a subscriber, you can now listen to this full episode on your
+private RSS feed
+or on our website at the
+AMA #42 show notes page
+. If you are not a subscriber, you can learn more about the subscriber benefits
+here
+.
+We discuss:
+Peter’s current pre-bedtime routine [3:30];
+Sauna: Peter’s routine, sleep benefits, and tradeoffs [10:45];
+Importance of keeping an open mind as new information arrives [16:15];
+Importance of reducing stimulation leading up to bedtime [19:30];
+Medications that can enhance sleep: mechanisms of action, contraindications, risks, and Peter’s regimen [20:30];
+Why medications can enhance sleep, but should not replace good sleep habits [34:45];
+Sleep supplements: mechanisms of action, contraindications, and Peter’s regimen [37:30];
+Temperature during sleep, cooling devices, mattresses, and more [53:00];
+A tip to help avoid straining your back in the morning [59:15];
+Contrasting polysomnography with wearable sleep trackers [1:00:45];
+Sleep tracking wearables: interpreting metrics, and the pros and cons of trackers [1:04:30];
+Final takeaways on sleep [1:16:30]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Name
+This field is for validation purposes and should be left unchanged.
+Δ
+Peter’s current pre-bedtime routine [3:30]
+⇒ Peter recently
+shared
+a bit about his bedtime routine on instagram
+What does Peter’s current pre-bedtime routine consist of?
+The following is the result of many years of tinkering
+And a lot of these insights are not necessarily new, but it’s just a question of being diligent around putting them in place
+1 – Alcohol
+It’s very difficult to have a good night’s sleep if you have alcohol in the proximity of bedtime, or even if you have two or three drinks several hours removed from bedtime
+The negative effects manifest itself in a number of ways, but probably most notably is the reduction in the
+quality of sleep
+You’ll trade more deep sleep and REM sleep for light sleep
+And there will be much more frequent wake ups
+2 – Eating too close to bed
+Peter discovered when fasting the profound positive impact of the low glucose/empty stomach on sleep
+He was amazed how, when fasting, his sleep quality improved in ways that he’s never seen before
+Peter generally eats dinner early in the evening
+And he will notice that when he goes to bed, he’s a little bit hungry (in the past he would have a snack but not he doesn’t)
+Peter strives for about three hours between his last meal and when he goes to bed
+3 – Sauna
+About 7 years ago, when doing a deep dive into sauna literature, he came to the conclusion that there was really no benefit to sauna that wasn’t captured in a
+healthy user bias
+By this he means that all of the epidemiologic benefits associated with sauna (such as an enormous reduction in cardiovascular mortality and mortality associated with dementia) seemed to be mostly a healthy user bias
+But in late 2019/early 2020 he
+revisited the literature
+and changed his tune a little bit
+He still thinks that maybe the
+magnitudes
+of the benefits associated with sauna are being amplified by these biases that can’t be controlled for, but the direction of them & the consistency of them across studies led him to believe there’s probably something there in addition to the plausibility of the mechanisms
+Today, Peter personally does sauna 4-6 nights per week before bed basically for two purposes
+1 – He believes there is at least SOME mortality benefit that comes from it
+2 – Improving sleep – “empirically the impact this has had on my sleep is insane”
+Peter has often wondered if the mortality benefit of sauna is largely attributed to the sleep benefits that come from its use
+*Important note of clarification about the 3 principles listed above
+:
+These are general principles that are going to get violated quite often, but you want to kind of revert back to them whenever you can
+With sleep in particular, there’s such a psychological component to this that you just don’t want to get too wrapped up in your head about this sort of stuff because that can cause more harm than good
+Interpret what he’s saying as guidelines that we try to stick to, but we have the flexibility to deviate
+(see
+AMA #41
+for tips on prioritizing healthy habits while navigating the stresses of life)
+⇒ For more on the topic of sleep, be sure to check out the 7 episodes with sleep scientist, Matt Walker: All episodes are listed on the
+show notes page for episode #47
+Sauna: Peter’s routine, sleep benefits, and tradeoffs [10:45]
+What’s your current view on sauna use in terms of risk reward?
+It depends on the individual, say Peter
+There are probably some people who would need to consult with their doctors before getting into a sauna
+It is very hot inside a sauna (Peter keeps his at 198 degrees Fahrenheit)
+Peter’s typical routine is 15 minutes and then a cold plunge and then 20 to 25 minutes
+By the end of that second stint in the sauna, Peter is quite taxed and there’s a subset of the population for whom that might be a little too taxing
+Outside of that, the biggest risk of sauna is probably having accidents in saunas like falling
+Opportunity cost
+But like anything else, it comes at an opportunity cost
+For instance, Peter’s routine takes him about 1 hour
+The question becomes, is there something better you can be doing in that hour for your physical or mental health?
+For some people that opportunity cost might be too high
+Maybe it’s taking them away from an hour of sleep that they otherwise need
+Each person needs to figure out what they’re giving up for that amount of time
+Financial cost –
+These saunas are expensive to put in your home, so there’s a financial cost there
+These risks/costs need to be weighed against the “benefits”
+Some benefits are “soft” such as maybe it’s an opportunity time to spend with your spouse (Peter and his wife do the sauna together)
+Improvement of sleep is a tangible way to assess benefit if you fall in the camp of people who sleep is improved by that
+As far as the hard numbers around the reduction in mortality, Peter says…
+“I’d be hard pressed to believe that they are as strong as they are demonstrated in the finished data sets. . .But if they’re half that, they’re still pretty good”
+Note that Peter wouldn’t rate sauna nearly as valuable as exercise  – “
+An hour of exercise is better for you than an hour of sauna if you’re really playing the game of inches
+”
+Peter’s view on dry sauna and infrared sauna
+Peter says it’s unclear if infrared and dry have the same benefits
+It’s a very different mechanism
+And they produce a very different feeling if you’re in them
+The literature is mostly on dry saunas
+The infrared devices relatively inexpensive, relatively small, such that if you live in a tiny apartment, you could still have one
+Peter says he still thinks there is a benefit to infrared but it’s going to be much more difficult to quantify by attribution to the literature
+Warm bath/shower
+For those people who don’t have access, can’t get access, even a warm bath or even a hot shower can still have some of those sleep benefits that it’s worth people testing before they go to bed
+“
+The broader theme around sleep is you have to try things several times and realize if they work for you or not
+.”
+⇒ For info on sauna as a longevity tool, see
+AMA #16: Exploring hot and cold therapy
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member

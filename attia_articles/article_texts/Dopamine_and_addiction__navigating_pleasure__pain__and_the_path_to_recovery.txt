@@ -1,0 +1,154 @@
+Anna Lembke is the Chief of the Stanford Addiction Medicine Dual Diagnosis Clinic and author of
+Dopamine Nation: Finding Balance in the Age of Indulgence
+. In this episode, Anna dives deep into the biochemistry and neurobiology of addiction, exploring the critical role of dopamine and the prefrontal cortex. She shares her framework for diagnosing and treating addiction, providing real-world examples involving alcohol, gambling, cannabis, social media, and more. Anna outlines the risk factors for addiction, including inherited and nurture-based risks, explores the rise of addictions in younger generations, and discusses effective ways to address these issues with children. Additionally, she touches on healthy coping strategies, the evolution of the “marshmallow experiment,” and provides insights into GLP-1 agonists as a possible tool for addiction treatment. Finally, she reflects on the value of 12-step programs and how she navigates the emotional challenges of her work.
+Subscribe on:
+APPLE PODCASTS
+|
+RSS
+|
+GOOGLE
+|
+OVERCAST
+|
+STITCHER
+We discuss:
+The role of dopamine and the prefrontal cortex in addiction [3:00];
+The clinical definition of addiction, and the behavioral criteria for diagnosing it [13:00];
+Assessing alcohol use: patterns, risks, and addiction diagnosis [17:15];
+Applying the addiction diagnosis framework using gambling as an example [21:45];
+Exploring addiction variability: how nature, nurture, and access shape individual vulnerability and drug of choice [25:15];
+How abstinence from addictive behaviors can help reset the brain’s reward system and improve mental health [41:15];
+Safely abstaining from addiction substances, drugs needing medical supervision, and other key considerations [51:30];
+Transitioning from abstinence to long-term recovery: tools and considerations [59:00];
+Exploring behavioral addictions like sex addiction, and the gender differences in addiction patterns [1:08:30];
+Factors contributing to the increasing levels of addiction across the world [1:13:45];
+How online pornography can affect young boys’ developing brains and lead to addictive behaviors, and strategies for parents to address this issue [1:23:30];
+The link between social media use and declines in mental health, potential solutions, and protective measures [1:34:45];
+How exercise affects brain chemistry, the role of dopamine and endorphins, and how exercise can become addictive [1:44:00];
+Cold-water immersion for mood regulation, and other healthy coping strategies [1:47:15];
+The “marshmallow experiment”: how broken promises affect behavior and trustworthy environments helps children develop self-control [1:54:00];
+Can GLP-1 agonists be useful in treating addiction? [1:58:30];
+The benefits of 12-step programs [2:06:00];
+Why understanding a patient’s story is essential for meaningful psychiatric care [2:11:45]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Email
+This field is for validation purposes and should be left unchanged.
+Δ
+The role of dopamine and the prefrontal cortex in addiction [3:00]
+Understanding some of the biochemistry and neurobiology of dopamine
+Dopamine
+is a neurotransmitter, so it’s a chemical that we make in our brains
+Neurotransmitters
+are the chemicals that allow for fine-tuned modulation of the neural circuits that make us who we are
+You might think of the brain as a collection of wires
+Those wires are neurons
+They send electrical impulses, one to the other, but the neurons don’t actually touch end to end
+There’s a little gap between them called the
+synapse
+, and that gap is bridged by molecules called neurotransmitters
+Figure 1. Illustration of a synapse
+. Image credit:
+Wikipedia
+There are many different neurotransmitters in the brain, and they have many different functions
+Dopamine has become the common currency for measuring pleasure, reward, and motivation
+It’s not the only neurotransmitter involved in that process, but it is the final common pathway for all reinforcing substances and behaviors
+Whether the substance is primarily modulating our serotonergic system or norepinephrine or the nicotinic system or the endogenous opioid system or the endogenous cannabinoid system, the final common pathway for all of those chemical cascades is to release dopamine in a dedicated part of the brain called the
+reward circuitry
+Reward circuitry consists of the
+prefrontal cortex
+(that large gray matter area right behind our foreheads) and these deeper limbic or emotion brain structures like the
+nucleus accumbens
+and the
+ventral tegmental area
+Figure 2. Neuroanatomy of reward circuitry and dopamine release.
+Image credit:
+Foundations of Neuroscience
+2021
+We’re always releasing dopamine at a baseline tonic level
+But when we do something that’s pleasurable or reinforcing , then temporarily we will increase dopamine firing above baseline
+Something that our brains consider salient or important for survival, in some cases it might even be an aversive stimulus
+That generally feels good to us, which is how we tell our brains, “
+Oh, this is important. I should approach, explore, and consider doing this again.
+”
+Broadly speaking, that’s dopamine’s function
+It’s not its only function
+Dopamine is also really important for movement
+Parkinson’s disease
+(which is a movement disorder) is characterized by a decrease or a depletion of dopamine in a different part of the brain called the
+substantia nigra
+One of the ways that we treat Parkinson’s is to actually give people L-DOPA, which is a dopamine precursor
+Why do we give them L-DOPA and not dopamine?
+Because dopamine itself actually can’t cross the blood-brain barrier
+So we give them a precursor that crosses the blood-brain barrier and then binds to dopamine receptors in the substantial nigra allowing for more fluid movements in people with Parkinson’s
+Unfortunately, L-DOPA transformed to dopamine also binds dopamine receptors in the reward pathway, which is why about a quarter of folks with Parkinson’s who get treated with L-DOPA end up with addictive disorders that are usually reversible when you stop the L-DOPA and tend to be dose dependent
+So the more L-DOPA, the more likely the sex addiction, shopping addiction or whatever the compulsive behavior
+Are humans more susceptible to addiction because we have a larger prefrontal cortex, or is it not as simple as the anatomic size of this part of the brain?
+The prefrontal cortex comes up a lot when we talk about dementia and higher order cognitive function judgment centers
+It is also something that is more developed in our species than others
+The prefrontal cortex has many roles, and when we think about its role in addiction or other appetitive disorders, it actually has a stop function
+If you analogize to a car, the prefrontal cortex acts like the brakes on the car
+It allows for delayed gratification
+This is where we have the control centers
+It allows for appreciating future consequences
+It lights up when we’re engaged in autobiographical narrative
+And of course, narrative is part of the ways that we actually create metacognitive awareness to inform future decisions
+Having a very robust prefrontal cortex is potentially protective against addiction
+People who have cognitive or attentional disorders, who are thought to have a
+disorder of the prefrontal cortex
+(for example,
+attention deficit disorder
+) are at higher risk to develop addictive disorders
+The nucleus accumbens is the accelerator
+The nucleus accumbens is deep in the brain, is rich in dopamine releasing neurons, and that acts like the accelerator on the car
+“
+Addiction is a problem either with too little on the brakes, too much on the accelerator, or some combination thereof.
+”‒ Anna Lembke
+Anna explains, “
+In terms of whether or not humans are more likely to get addicted than animals, I would say no
+.”
+What’s remarkable about this reward circuitry is how incredibly conserved it is over millions of years of evolution and across species
+Neuroscientists used to talk about the lizard brain or the triune brain
+They’re not typically using that phraseology so much anymore, but what they were getting at was that if you look at the
+nucleus accumbens
+,
+ventral tegmental area
+, it’s amazingly unchanged across species over millions of years of evolution
+It’s really our reflexive approach in pleasure and avoiding pain is what has kept us alive for so many, many generations on the planet
+It’s a very basic primordial structure that all living organisms, even primitive organisms have
+Even the most primitive nematode or worm will release dopamine in response to food in its environment, which that dopamine allows it to locomote toward food
+It’s probably not that the same neurotransmitter involved in movement is also involved in pleasure, reward, and motivation, because prior to about 500 years ago, if you wanted to get a reward, you had to work for it
+That’s no longer true, which is one of the reasons our brains are so confused today
+You could almost make the argument that because we have these large frontal lobes that can sort of reason and appreciate future consequences, human beings might be even more capable of getting out of the cycle of addiction than other organisms
+It is miraculous that even people deep in the most severe addiction can find somewhere within themselves the capacity to stop using
+“
+It seems to me almost a miracle in my clinical work when I get people who have been in severe addictions for decades who somehow find it within themselves, either through some logical reasoning or some spiritual surrender or some combination to actually get into recovery.
+”‒ Anna Lembke
+The clinical definition of addiction, and the behavioral criteria for diagnosing it [13:00]
+How does one truly define an addiction in a clinical setting?
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Anna Lembke, M.D.
+Dr. Anna Lembke received her undergraduate degree in Humanities from Yale University and her medical degree from Stanford University. She is currently Professor and Medical Director of Addiction Medicine at Stanford University School of Medicine. She is also Program Director of the Stanford Addiction Medicine Fellowship, Chief of the Stanford Addiction Medicine Dual Diagnosis Clinic, and a diplomate of the American Board of Psychiatry and Neurology and the American Board of Addiction Medicine.
+A clinician scholar, Dr. Lembke has published more than a hundred peer-reviewed papers, book chapters, and commentaries. She has developed multiple teaching programs on addiction and safe prescribing, as well as opioid tapering. In 2016, she published
+Drug Dealer, MD – How Doctors Were Duped, Patients Got Hooked, and Why It’s So Hard to Stop
+, which was highlighted in the New York Times as one of the top five books to read to understand the opioid epidemic. Her most recent book and New York Times bestseller is,
+Dopamine Nation: Finding Balance in the Age of Indulgence
+. It combines the neuroscience of addiction with the wisdom of recovery to explore the problem of compulsive overconsumption in a dopamine-overloaded world. [
+Stanford
+]

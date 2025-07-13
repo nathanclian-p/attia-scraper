@@ -1,0 +1,103 @@
+This video clip is from
+#151 – Alex Hutchinson, Ph.D.: Translating the science of endurance and extreme human performance
+, originally released on March 1, 2021.
+Show Notes
+Breaking down VO2 max: Definition, history, why it plateaus, and whether it really matters [38:15]
+what VO2 max is, both in an absolute term, and then in a manner that we normalize it by weight, and what it is and what it isn’t. How it’s measured, how it matters, and maybe we’ll even talk about some notable exceptions.
+What is VO2 max
+The first order analogy = it’s the size of your engine
+Physiologically, VO2 max is telling you how quickly you can take oxygen from the air into your lungs, get it into your blood, pump it to your muscles, and then have your muscles use it in the metabolic processes that will provide energy to move you
+VO2 max is a rate ⇒ how much oxygen per unit time can you process going max effort
+Quick backstory
+VO2 max was first discussed/measured in the 1920s by a guy named
+A.V. Hill
+, a very good runner himself
+If you ask someone to go out and run at a gentle pace, let’s say they consume 2 liters of oxygen per minute
+Tell them to speed up and now they’re doing 3 liters of oxygen per minute
+Tell them to speed up again and now they’re going really fast and they’re losing 4 liters of oxygen per minute
+Tell them to speed up again and they are still only using 4 liters of oxygen a minute
+In other words, there’s a plateau—a point at which, even though you’re working harder, you’re not using any more oxygen
+What it means when you plateau
+Basically, you’ve reached a point where no matter how hard you push yourself, you can’t get more oxygen
+You can still go faster, because you’re starting to use other forms of energy, but this is the limits of your aerobic system
+VO2 max does NOT tell you exactly how fast you can run, but it tells you what sort of aerobic engine you have to play with
+Explaining the unit of measurement
+How body size affects your VO2 max
+When Alex was tested back in high school, he could get to around 5.1 or 5.2 liters per minute
+A good rower, by comparison, would be using 7 liters a minute or more
+However, the rower is much bigger than Alex
+So his higher liters per minute doesn’t necessarily mean that that rower is better at using oxygen, because the rower has way more muscle
+The amount of oxygen reaching any given muscle cell may actually be lower
+Milliliters per kilogram
+A better comparison between athletes is to divide by weight
+Rather than liters of oxygen per minute, VO2 max numbers are typically reported in
+milliliters of oxygen per minute, per kilogram of body weight
+For Alex, 5 liters of oxygen per minute works out to something like 80 milliliters of oxygen per minute, per kilogram of body weight
+An even better comparison
+Peter says a better comparison would be total liters per minute divided by lean mass, normalized at time
+Then you’re at least getting the metabolically active tissue, presumably.
+Does it even matter?
+At a certain point, it doesn’t matter that much anyway because you can’t just measure someone’s VO2 max and know how fast they’re going to race
+It’s really not that useful, especially for comparing between people
+Now comparing within yourself and how you improve, does tell you something, but in that sense it doesn’t matter what you’re dividing by
+What is it that causes VO2 max to plateau?
+Researchers love the VO2 max test because it is separated from motivation — “if you tested endurance by simply having someone run a mile as fast as possible, any test like that depends on motivation”
+The nice thing about VO2 max is that, in theory, it’s independent of motivation
+So if you see a plateau, you know that’s a property of their body and not a product of whether they were excited about the study
+-So what’s causing the plateau?
+It could be in the lungs
+heart
+circulation
+the muscle’s ability to extract oxygen
+It’s still a controversial topic
+-The picture that emerges
+:
+Almost every part along this cascade is engineered more or less to what it needs to be
+And so if you perturb any of those elements, you can get limitations
+For example, the conventional wisdom is that your lungs are not a limitation, that you can always breathe enough in
+And for decades, it’s been conventional wisdom that the lungs don’t respond to training because they’re overbuilt
+There was a big
+review paper
+published recently arguing that in some cases the lungs aren’t overbuilt and one of the situations is highly trained endurance athletes
+They can be limited by their ability to get enough oxygen in
+You can also run into situations where an athlete is so fit, their heart is so strong, it pumps blood past your lungs so quickly that it doesn’t have time to fully stock up on oxygen
+get something called
+exercise induced arterial hypoxemia
+usually an issue at altitude, but in elite endurance athletes is actually about half of them exhibit it even at sea level
+At every stage of the way, there can be limitations if anything is knocked off kilter
+Right down to the ability of the muscles to first extract the oxygen from the bloodstream and then to make use of it metabolically in the mitochondria
+“
+There isn’t one single answer
+”
+Is there a better way to test where the limitation is coming from?
+Peter says he’s always wanted to see this kind of experiment:
+Take a group of athletes and run them all to max
+Then you reduce the FiO2 of the incoming oxygen
+With room air, for context, you’re getting a fractional inhalation of oxygen of 21%
+The way they’re calculating how much oxygen is being consumed is they’re measuring the concentration of oxygen on the way out and calculating the delta
+Peter thinks it would be interesting to start selectively dropping FiO2 21%, 20%, 19%, 18%, etc.
+Presumably if the lungs aren’t the limitation, you should still see the same absolute delta
+This experiment would least start to eliminate one of those variables—which would be FiO2 and capillary exchange—and then you start pointing to some of these other variables
+The lactate paradox
+It’s interesting when you go to higher altitude and you reduce the amount of oxygen, “f
+unny things happen
+”
+First, you would think what would happen is you can’t get enough oxygen, so you’re going to be go anaerobic sooner, you’re going to produce more lactate
+And yet, the opposite happens — something called the
+lactate paradox
+Also, if you try and exercise to exhaustion at
+lower levels of altitude
+, you actually give up when your lactate levels are lower than you would at sea level
+The picture that makes sense to Alex is that these things are not just about how much oxygen is making it to the muscle:
+It’s also like, “What is your brain oxygen level?”
+Other circuit breakers that are starting to come down that aren’t even on this path from mouth to lungs, to blood, to muscle.
+“There’s other factors that are saying, ‘
+Whoa, wait a second. Oxygen is getting a little low, we’re going to actually cut off the supply to the muscles or reduce it in order to make sure that we don’t get stupid
+.’”
+§
+Alex Hutchinson, Ph.D
+Alex is a sports science journalist, author of the book
+ENDURE: Mind, Body, and the Curiously Elastic Limits of Human Performance
+, and former competitive runner for the Canadian national team. He currently writes the
+Sweat Science
+column for Outside Online. Prior to his journalism career, Alex acquired a Ph.D. from the University of Cambridge. He spent a few years as a postdoctoral researcher with the U.S. National Security Agency working on quantum computing and nanomechanics while simultaneously competing as a middle- and long-distance runner for the Canadian national team.

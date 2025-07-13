@@ -1,0 +1,94 @@
+The opioid crisis is no longer breaking news – it’s a well-known reality. And with it, naloxone (trade name: Narcan) has become a part of the public lexicon as a life-saving medication that can rapidly reverse an opioid overdose. Public health messaging has increasingly urged laypeople (not just clinicians or first responders) to carry naloxone or keep it at home. But is this message actually getting through?
+A recent study by Gage
+et al.
+sheds light on that question, offering a data-driven look at whether this advice is translating into action.
+1
+Are more people keeping naloxone on hand? And are they willing to use it if faced with a potential overdose? And if not, then
+why?
+How does naloxone work?
+Opioids mediate their effects by binding and activating mu-opioid receptors in the brain. These effects include slowed breathing, and in the case of an overdose, respiratory drive can stop altogether. This, of course, will quickly result in death — unless it can be rapidly reversed.
+Naloxone is a competitive antagonist at the mu-opioid receptor, meaning that it binds to the same receptors as opioids themselves — and does so with greater affinity — but doesn’t
+activate
+the receptors upon binding. This allows it to displace opioid molecules already bound to the receptor and block any further opioid activity. Sufficient doses of naloxone can therefore restore respiration in someone who has overdosed on opioids, often within two to three minutes — fast enough to make the difference between life and death.
+The most accessible form of naloxone today is a nasal spray. It doesn’t require needles and is simple to use, even without prior training. In many areas, it’s available for free through various community programs, libraries, and pharmacies. This accessibility is no accident; it’s a part of a broader effort to decentralize emergency response and put life-saving tools in the hands of as many people as possible. The more individuals equipped with naloxone, the greater our collective capacity to respond to overdose events, even before professional help arrives. But only if laypeople are willing to use it.
+About the study
+Gage
+et al.
+carried out a retrospective cross-sectional study analyzing national Emergency Medical Service (EMS) data to evaluate the trends in layperson-administered naloxone (LAN) from June 2020 to June 2022. Using over 65 million EMS 911 activations from the National Emergency Medical Services Information System, the study identified 744,078 instances in which naloxone was administered, 24,990 (3.4%) of which were given by laypersons before EMS arrival.
+While the overall rate of naloxone administration by EMS
+decreased
+by 6.1% over the study period (from 1140.1 to 1070.1 per 100,000 EMS activations), naloxone administration by laypeople
+increased
+by a staggering 43.5% over the study period, from 30.0 administrations per 100,000 EMS activations in 2020 (95% CI: 29.2–30.8) to 43.1 in 2022 (95% CI: 42.0–44.1). A joinpoint regression revealed a notable inflection point in LAN rates between October 2020 and March 2021, with a significant monthly percentage increase of 7.96% (95% CI: 2.22%–16.92%;
+P
+=0.04). The overall average monthly percentage increase in LAN was 1.13% (95% CI: 0.45%–1.97%;
+P
+=0.001).
+These findings highlight a substantial increase in bystander involvement in overdose response, providing compelling evidence of a shifting dynamic: more laypeople are intervening during opioid overdoses, often before EMS arrives — potentially saving lives in the critical minutes that matter most.
+A small public health victory
+The increase in layperson-administered naloxone is indeed a public health victory, as it was a direct result of deliberate public health efforts aimed at expanding access, educating the public, and normalizing the idea that friends, family members, and bystanders can — and should — intervene.
+This shift in behavior matters.
+A lot
+. In the event of an opioid overdose (as in cardiac arrest and stroke), time is the critical variable. EMS can be fast, but they’re not instantaneous. Nationally, the median EMS response time for overdose is about 6 minutes, yet brain damage from oxygen deprivation can begin within 4 to 5 minutes. A 2020 study by Schwartz
+et al.
+remarkably reported that nearly 60% of LAN cases involved bystanders stepping in
+five or more minutes
+before EMS arrived.
+2
+In over half of those cases, the individual recovered without needing hospital transport. It’s one of the clearest data-backed demonstrations we have of early intervention by non-professionals saving lives.
+However, while the study by Gage
+et al.
+shows an incredibly promising 43.5% increase in LAN over two years, a closer look at the numbers reveals a significant gap. Across the study’s 65 million EMS activations, there were 744,078 instances where naloxone was administered. Of these, only 24,990 doses, just
+3.4%
+, were given by a layperson before EMS arrived.
+Given that approximately 40% of opioid overdoses are witnessed by a bystander,
+3
+we can estimate that for around 297,631 overdose events during this period, someone was present who could have intervened. Yet laypeople intervened and utilized naloxone in only 24,990 of those cases — an action rate of just
+8.4%
+. This means that more than 9 out of 10 witnessed overdoses did not receive immediate naloxone from a bystander (assuming all cases were such that a bystander
+could
+be present, but even without such an assumption, the gap remains
+wide
+).
+In other words, while the relative increase in layperson naloxone use is encouraging, the absolute numbers are sobering: if every bystander who witnessed an overdose had intervened, there could have been nearly 300,000 potential layperson-administered naloxone saves during the study window. Instead, there were fewer than 25,000. This raises an uncomfortable but necessary question: why aren’t more people prepared to act?
+The barriers to naloxone use – and why they don’t hold up
+Despite naloxone’s life-saving potential, many remain hesitant to keep it on hand or to use it when it’s needed. The hesitancy stems largely from a set of common misperceptions — barriers that, when examined more closely, simply don’t hold up.
+Underestimating risk
+One of the most pervasive misconceptions is the tendency to underestimate risk. Many still perceive opioid overdose as something that happens only to those with substance use disorders. But overdoses can also occur in the context of legitimate prescriptions — for instance during chronic pain management, post-surgical recovery, or cancer treatment. It can happen to a teenager at a party who takes a counterfeit pill without knowing that it’s laced with fentanyl. It can happen when a child accidentally finds a medication bottle at home. These scenarios aren’t rare, and they don’t follow a script. As discussed by deputy sheriff
+Anthony Hipolito
+on the podcast, they’re closer to all of us than we like to admit. Many such accidents happen in familiar places: our homes, neighborhoods, even offices. Yet even in these everyday settings, naloxone often isn’t where it needs to be, and neither is the knowledge of how to use it.
+Fear of inexperience
+Many worry they wouldn’t know what to do in an overdose situation. But today’s formulations, especially the nasal spray, are intuitive and require no prior training. Instructions are straightforward, and most people can be ready to act in a matter of minutes.
+Fear of doing harm
+Another common fear is that, by taking action, a bystander might make the situation worse. Yet clinically, naloxone is among the safest emergency interventions available. If opioids aren’t present in the patient’s system, naloxone simply has no effect. It causes no harm if given during a seizure, diabetic coma, or cardiac arrest. It has no abuse potential and doesn’t intoxicate. In emergency medicine, few interventions offer such an enormous upside with virtually no downside. That said, it’s important to remember that naloxone buys time, but it doesn’t solve the underlying emergency. Its effects last 30–90 minutes, while synthetic opioids like fentanyl can last much longer. Calling 911 immediately remains essential.
+Legal concerns
+Related to the fear of making things worse is the fear of legal repercussions. Some hesitate out of worry that stepping in could backfire or that they could be blamed. However, nearly every state now has Good Samaritan laws protecting individuals who assist in an emergency, including those who administer naloxone. These protections are written into policy in order to
+encourage
+, not discourage, life-saving action.
+“It’s not my place”
+And then there’s the social barrier, the idea that “it’s not my place.” When overdoses happen in public or unfamiliar settings, people often assume someone else will step in. Yet the “bystander effect” — i.e., the fact that individuals tend to be less likely to help others, even in an emergency, if other bystanders are also present — is real and well-documented, and in many cases, your action may be the only thing standing between someone and irreversible injury or death.
+Fear of Stigma
+Some fear that carrying naloxone will send the wrong message and that others will assume they are at risk themselves. But carrying naloxone is no more an admission of opioid use than owning a fire extinguisher is an admission of a personal tendency toward pyromania or arson. Naloxone availability signals
+readiness
+, not risk.
+Should you have naloxone easily accessible?
+Indeed, whether or not you personally use opioids is just one small piece of the risk equation. The real question is whether your environment or circumstances put you in
+proximity
+to opioid risk such that you may want to be prepared to act should the occasion arise. From a purely risk-based perspective, there are many variables to consider in deciding whether to have naloxone on hand. An obvious risk factor is if someone in your life is taking prescription opioids. Likewise, another consideration is whether you live with or care for aging adults, adolescents, or anyone else who might have unsupervised access to medications.
+Geography matters, too. Overdose rates vary widely by region, and local public health departments often provide detailed maps of overdose hotspots. If you live in or near one of these areas, having naloxone accessible is a rational form of risk mitigation.
+Occupational exposure also plays a role. If you work in healthcare, education, fitness, social work, public safety, or any setting where you regularly interact with the public, you’re statistically more likely to witness an overdose than someone who isn’t.
+But beyond these specific categories, there’s a broader mindset worth adopting: if you believe in being prepared for low-probability, high-consequence events (the same logic behind learning CPR or wearing a seatbelt), then having naloxone available fits within that framework. It’s a form of responsibility that’s both simple and powerful.
+The bottom line
+The rise in layperson-administered naloxone marks a real step forward, but it’s only the beginning. The data show that public health messaging is starting to land. More people are stepping in when it matters most, and early action by non-professionals can, and does, save lives. But the gap between potential and actual intervention remains vast. The barriers, including misperceptions, stigma, and inaction, are still costing lives that might otherwise be saved. Naloxone is a practical, no-harm, high-impact tool that belongs wherever there’s risk, which increasingly means just about everywhere. The case for being prepared is clear, but a challenge remains in turning awareness into readiness.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Gage CB, Powell JR, Ulintz A, et al. Layperson-administered naloxone trends reported in emergency medical service activations, 2020-2022. JAMA Netw Open. 2024;7(10):e2439427. doi:10.1001/jamanetworkopen.2024.39427
+Schwartz DG, Ataiants J, Roth A, et al. Layperson reversal of opioid overdose supported by smartphone alert: A prospective observational cohort study. EClinicalMedicine. 2020;25(100474):100474. doi:10.1016/j.eclinm.2020.100474
+O’Donnell J, Gladden RM, Mattson CL, Hunter CT, Davis NL. Vital signs: Characteristics of drug overdose deaths involving opioids and stimulants – 24 states and the District of Columbia, January-June 2019. MMWR Morb Mortal Wkly Rep. 2020;69(35):1189-1197. doi:10.15585/mmwr.mm6935a1

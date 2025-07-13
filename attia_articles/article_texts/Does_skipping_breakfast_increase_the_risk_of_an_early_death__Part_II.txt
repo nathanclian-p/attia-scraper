@@ -1,0 +1,65 @@
+Check out more content about skipping breakfast:
+(May 12, 2019)
+The Bad Science Behind ‘Skipping Breakfast’
+(October 24, 2021)
+Does skipping breakfast increase the risk of an early death? Part I
+(October 31, 2021)
+Does skipping breakfast increase the risk of an early death? Part II
+In
+Part I, we examined a recent observational study
+(“the TTU study”) which suggested that skipping breakfast will reduce lifespan and increase the risk of death from cancer compared to regular breakfast consumption. The upshot of Part I? In the U.S., adults who skip breakfast more often are
+less health-conscious
+than those who skip breakfast less often.
+The TTU study tested the hypothesis that skipping breakfast leads to an increased risk of all-cause and cancer-related deaths compared to consuming breakfast regularly. But after reading Part I, it should be clear that implying causation from the findings of the TTU study makes about as much sense as implying causation between ice cream consumption and shark attacks.
+But what does the broader literature say about skipping breakfast and its potential impact on health?
+And if breakfast skipping truly causes more cancer mortality than regular breakfast consumption, why? In other words, what are the mechanisms? Let’s address these questions now.
+Want to learn more? Sign up for our
+Premium Membership
+for exclusive access to private podcasts, detailed show notes, and more!
+What are the proposed mechanisms?
+The investigators of the TTU study discuss three “plausible” reasons why skipping breakfast may lead to the development of chronic diseases like cancer.
+First, they propose that skipping breakfast affects appetite and satiety in a manner which promotes overeating, ultimately resulting in metabolic abnormalities. This hypothesis does not agree with their reported data, which showed that participants who skipped breakfast most often also ate the fewest number of daily calories. Also, a 2018
+meta-analysis
+of randomized controlled trials (RCTs) comparing breakfast skippers to breakfast eaters found that the breakfast skippers weighed less. I don’t want to spin into a discussion about how the term overeating is tautological (i.e., are you only overeating if you’re gaining weight?), but it is worth pausing to reflect on the veracity of the self-reported data from NHANES, and virtually all other food-frequency questionnaires (FFQs), from which the vast majority of observational studies collect their dietary data. I’ll come back to this very important point later in this discussion.
+The TTU investigators then proposed that skipping breakfast might disrupt circadian rhythm and metabolism by altering the expression of our “clock” genes. When we skip breakfast, it may adversely affect clock-gene expression, potentially leading to inflammation, hyperinsulinemia, and hyperglycemia. If that’s the case, we probably should see similar effects in RCTs of participants engaging in forms of time-restricted eating (TRE) in which the first meal of the day is delayed. What do the data show? Let’s look at a
+recent RCT
+examining the relationship between TRE and some of the metabolic hallmarks mentioned above. In this study, 58 obese men and women were randomly assigned to 1) TRE with an eating window between 3-7 PM (i.e., 4-h TRE), 2) TRE with an eating window between 1-7 PM (i.e., 6-h TRE), or 3) their usual diet pattern which served as the control group. After 10 weeks, both TRE interventions resulted in greater reductions in body weight, fasting insulin, insulin resistance, and oxidative stress compared to controls. Changes in fasting glucose and inflammatory markers were not significantly different across the three groups. In a
+2016 RCT
+, after eight weeks of TRE with an eating window between 1-8 PM (i.e., 8-h TRE), significant reductions in fasting glucose, insulin, insulin resistance, and inflammatory markers were observed in the TRE group compared to controls.
+The investigators of the TTU study point out that while skipping breakfast is often incorporated into some forms of intermittent fasting regimens (as in the TRE studies mentioned above), most observational studies don’t distinguish whether skipping breakfast was part of an intermittent fast or not. They argue that most individuals who skip breakfast also eat late-night dinners, which is
+associated
+with an increased risk for chronic diseases and mortality, and eliminating nighttime eating and prolonging nightly fasting intervals leads to
+improvements
+in
+metabolic health. So the metabolic health improvements seen with some forms of intermittent fasting may be due to eliminating nighttime eating and prolonging nightly fasting intervals, and the investigators argue that this might explain their reported connection between skipping breakfast and increased risk of cancer and all-cause mortality. This would indicate that nighttime eating, and not skipping breakfast
+per se
+, is responsible for the effect on chronic disease, especially considering the evidence described above that TRE involving breakfast skipping leads to improvements in metabolic health. These observations contradict the hypothesis that skipping breakfast itself contributes to the development of chronic diseases.
+The third reason provided by the investigators recapitulates the healthy user bias, and in my opinion, hits the nail on the head. Skipping breakfast in observational studies is associated with a host of factors that likely contribute to chronic diseases on their own, and we have already discussed how difficult it is to tease out a single variable — in this case skipping breakfast — when many other variables exist to confound it. “Taken together,” the investigators write, “
+the seemingly reduced all-cause and cancer mortality risk among persons who consume breakfast every day may simply be the reflection of habitual breakfast consumption being a proxy for a health-conscious lifestyle.
+” This is the most plausible explanation, and implies that skipping breakfast does not in any way increase one’s risk of cancer or death relative to eating breakfast.
+Is there any reason to be skeptical of the accuracy of the data?
+Beyond the necessary assumption that all participants stuck to their one-time self-reported habits for a lifetime, there is good reason to doubt whether baseline self-reported habits are reliable.
+To illustrate the questionable validity of NHANES self-reported information, let’s examine one of the exclusion criteria for the TTU study. The investigators arrived at 7,007 participants in their analysis in part because they excluded 460 participants who reported a daily total energy intake of either less than 500 calories or greater than 5,000 calories per day, as these energy intake values are
+deemed
+implausible. This line of reasoning is sound, but how are we to trust survey results when almost 1-in-10 people report consuming an unbelievable amount of calories? By excluding these 460 participants, have they weeded out all of the inaccurate information? A 2013
+study
+put this to the test by assessing the validity of reported energy intake from NHANES participants. The upshot? “Across the 39-year history of the NHANES,” the investigators write, “[energy intake] data on the majority of respondents (67.3% of women and 58.7% of men) were not physiologically plausible.” In other words, in order to evaluate the analyses and findings from NHANES and other FFQ studies, one must suspend a hearty level of disbelief and willingly exit the world of science in favor of fantasy. To ignore these shortcomings and avoid thinking critically about such publications is a recipe for rampant misinformation and grossly misguided public health policy.
+Déjà vu all over again?
+Observational epidemiology and nutrition is a match made in hell. We are exposed to an endless stream of nonsensical papers (often published in prestigious journals) and sensational headlines (often published in prestigious news outlets).
+Compounding the problem is the “Groundhog Day” aspect of it. I
+wrote about this phenomenon a few years ago
+, reflecting that my inbox is stuffed at least a few times a year with studies implying that red meat consumption shortens lives. And it’s not just red meat. For some, this discussion of the TTU study may seem like déjà vu. You may recall that I
+covered a very similar study from 2019
+on skipping breakfast and all-cause and cardiovascular disease mortality. How similar? They used the same data as the TTU study: nearly 7,000 adults 40-75 years of age from NHANES III. Interestingly, while both studies looked at the relationship between skipping breakfast and all-cause mortality, only the 2021 paper tortured the data until it confessed an association. Though both studies examined data from almost exactly the same participants (with slightly different follow-up lengths), the 2019 study did not find a significant association between skipping breakfast and all-cause mortality, but the TTU study did.
+Should I just ignore any observational study looking at associations between skipping breakfast and bad (or good) outcomes?
+Despite all I’ve said so far, I don’t ignore them entirely. But when considering these kinds of reports, it’s important to look at the actual study and not just the news headlines. Ask the questions listed above to help you determine if the results are truly meaningful. Consider the magnitude of the alleged association and weigh it against the characteristics the investigators claim to adjust for (and those they’ve missed). Read the
+5-part Studying Studies series
+and listen to
+my podcast with John Ioannidis
+(especially the section on how to improve nutritional epidemiology, which begins about
+38 minutes into the episode
+) to guard against the mass of biases in studies and in our own minds.
+It takes time to understand what you’re reading, and it takes consistent practice and repetition to master critical evaluation of research papers. Once you know what to look for and how to evaluate it, you save yourself time because you know what to dismiss and what to take seriously. For example, if you only examine the two tables provided in the TTU study paper (and the two tables in
+Part I of this post
+) and understand what you’re looking at, you needn’t look much further to conclude that the study fails to provide any reliable knowledge.
+– Peter

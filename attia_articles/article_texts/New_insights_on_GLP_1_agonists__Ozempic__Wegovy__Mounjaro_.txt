@@ -1,0 +1,133 @@
+In this “Ask Me Anything” (AMA) episode, Peter dives back into the increasingly popular topic of GLP-1 agonists, such as Ozempic and Mounjaro, which have garnered widespread attention for their ability to promote weight loss. Peter covers the latest findings in this rapidly evolving landscape, including new insights into their long-term efficacy, side effects, and what happens when the drug is discontinued. Peter also explores their impact on body composition and how resistance training interacts with these treatments. Additionally, he compares different GLP-1 receptor agonists and discusses promising new drugs in the pipeline. Finally, Peter addresses questions about the role of compounding pharmacies in the GLP-1 agonist market, compares oral vs. injectable options, and provides key considerations for anyone deciding whether to use a GLP-1 agonist for weight loss.
+If you’re not a subscriber and listening on a podcast player, you’ll only be able to hear a preview of the AMA. If you’re a subscriber, you can now listen to this full episode on your
+private RSS feed
+or on our website at the
+AMA #64 show notes page
+. If you are not a subscriber, you can learn more about the subscriber benefits
+here
+.
+We discuss:
+The rapidly evolving landscape of GLP-1 agonists [2:15];
+The mechanism of GLP-1 agonists, their origin as diabetes treatments, and how they evolved into weight-loss drugs [6:45];
+Overview of the new data and open questions related to the benefits and risks of GLP-1 agonists [10:30];
+New insights into the long-term safety of GLP-1 agonists, side effects, and more [16:45];
+The long-term efficacy of GLP-1 agonists, financial barriers, and more [19:45];
+The mechanisms behind GLP-1 agonists’ ability to promote weight loss [22:00];
+New data on body weight changes after discontinuing the drug [26:00];
+Effects of GLP-1 agonists on lean mass and body composition, and the role of protein and resistance training in preserving muscle [31:30];
+Semaglutide vs. tirzepatide: comparing benefits and side effects [36:30];
+How compounding pharmacies affect availability of GLP-1 drugs and the types of formulations that are available [39:15];
+How do oral formulations of GLP-1 drugs compare to injectable formulations? [44:15];
+How do sublingual (under tongue) formulations of GLP-1 drugs compare to injectable formulations? [46:15];
+Guidance for using compounding pharmacies to purchase GLP-1 agonists [47:15];
+Data on retatrutide—a promising new triple receptor agonist in the pipeline [50:15];
+Can GLP-1 agonists be beneficial for sleep apnea and immune function? [57:00];
+Potential neuroprotective benefits of GLP-1 agonists: impact on dementia risk [1:00:45];
+Exploring why GLP-1 agonists may reduce the risk of cancer, kidney disease, and cardiovascular disease [1:04:00];
+How GLP-1 agonists might boost fertility in women [1:10:15];
+Early indications that GLP-1 agonists may help treat substance abuse disorders [1:12:00];
+Potential health risks of GLP-1 agonists: addressing thyroid cancer concerns and the unknowns due to lack of data [1:14:00];
+Examining the potential link between GLP-1 agonists and increased depression or suicidal ideation [1:16:00];
+Major remaining questions: the effects of cyclic use, rebound appetite, impact on adolescents’ development, and more [1:19:30];
+Key considerations when deciding whether to use a GLP-1 agonist for weight loss [1:23:45]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Comments
+This field is for validation purposes and should be left unchanged.
+Δ
+Previous episodes on GLP-1 agonists:
+AMA #29
+AMA #45
+Episode #314 with David Allison
+The rapidly evolving landscape of GLP-1 agonists [2:15]
+Episode overview
+Typically, podcast episodes are recorded 10 to 12 weeks before release.
+This episode is an exception, being released ahead of schedule due to the rapidly evolving topic of GLP-1 agonists (e.g., Ozempic, tirzepatide).
+Peter first discussed GLP-1 agonists in November 2021 in a
+previous episode
+.
+Did a follow-up
+episode
+in March 2023.
+The topic has gained massive interest and has seen significant developments over time.
+Growing Popularity
+:
+When first discussed, GLP-1 agonists seemed overly technical and not widely known.
+Now, GLP-1 agonists are everywhere in the media, reflecting their growing prominence and relevance.
+Key Focus Areas of the Episode
+:
+How the drugs work: A brief recap of their mechanisms, although more detailed discussions are available in previous AMAs.
+Differences between the drugs: Exploring how different GLP-1 agonists compare.
+Compounded injections: Discussing alternative formulations like compounded versions of these drugs.
+Weight regain: Examining what is known about weight regain after stopping the medication.
+Safety profiles: Updating listeners on the safety concerns and new findings.
+Changed perspectives: Host mentions that the ongoing conversations and growing data have caused him to revise his views on certain aspects.
+Peter’s Perspective on GLP-1 Agonists
+Peter reflects on how much the understanding of GLP-1 agonists has evolved.
+He acknowledges that some of his earlier views have changed based on new evidence.
+Long History of the Drug Class:
+Liraglutide: First prescribed by Peter in 2014, it was not very effective for most patients.
+Semaglutide: In fall 2020, Peter began prescribing semaglutide, which was a much different and more effective experience than liraglutide, even before semaglutide was approved for obesity.
+The focus in this episode is more on what is newly known and relevant rather than repeating older, well-established information.
+Knowledge Gaps and Evolving Understanding
+Changes in Understanding:
+The field of GLP-1 agonists is continuously advancing, and Peter stresses that while they know much more now than before, there are still things left to learn.
+Peter highlights the importance of acknowledging the unknowns and remaining open to new information.
+Caution with Early Drug Generations:
+Earlier drugs like liraglutide did not have the same efficacy, highlighting how far the field has come with newer drugs like semaglutide.
+GLP-1 Agonists’ Growing Importance:
+Once a niche and technical topic, GLP-1 agonists are now widely recognized and are expected to have a transformative impact on obesity and diabetes treatment.
+As research and data continue to emerge, the understanding of these drugs and their use cases will likely evolve, with more to cover in future episodes.
+Focus of Upcoming Discussion
+The episode will dive into the new data on weight loss, differences between drugs, and how to approach these medications in light of new information.
+The mechanism of GLP-1 agonists, their origin as diabetes treatments, and how they evolved into weight-loss drugs [6:45]
+Overview of GLP-1 Agonists’ Origins and Role in Diabetes Management
+Initial Development:
+GLP-1 agonists were initially developed to manage Type 2 diabetes.
+These drugs mimic the hormone GLP-1 (glucagon-like peptide-1), which helps stimulate insulin release from the pancreas.
+This stimulation is vital for patients with Type 2 diabetes, as their pancreas is not producing enough insulin. Type 2 diabetes is largely managed through increasing insulin release and improving insulin sensitivity, which helps glucose enter the liver and muscles more effectively.
+Why GLP-1 Agonists Became a Hot Topic:
+GLP-1 agonists were primarily seen as tools to lower blood sugar and hemoglobin A1c in diabetic patients.
+Semaglutide vs. Liraglutide:
+Semaglutide’s key breakthrough was its ability to dramatically reduce patients’ weight, something that liraglutide did not accomplish as effectively.
+This unexpected benefit led to a new question: Can these drugs be used as weight-loss medications for non-diabetic patients?
+Clinical trials
+conducted around three years ago answered this question with a resounding yes, marking a significant development in the perception of these drugs.
+Quick Summary of How GLP-1 Agonists Work
+Key Mechanisms:
+Pancreas:
+Stimulates insulin secretion and reduces glucagon secretion, leading to lower blood sugar levels.
+Jejunum and Ileum (Small Intestine):
+Slows gastric emptying and reduces GI motility, which prolongs the feeling of fullness and slows glucose absorption.
+Liver:
+Reduces hepatic glucose production, similar to how Metformin works.
+Brain:
+Activates satiety signals and inhibits appetite-driving circuits, which plays a significant role in weight loss.
+Early research underestimated how much this central regulation of appetite contributed to weight loss.
+GLP-1 Agonists’ Effects on Fat and Muscle Tissue
+Fat Tissue:
+GLP-1 agonists increase glucose uptake from the blood and boost lipolysis (the breakdown of fat), which helps burn fat while improving insulin sensitivity.
+Though it may seem counterintuitive, the drugs do not make fat cells “fatter” but rather enhance the overall metabolic processing of fat.
+Muscle Tissue:
+Increases the muscles’ ability to oxidize glucose, further aiding in blood sugar control and energy use.
+Figure 1.
+Source:
+Saraiva and, Sposito Cardiovasc Diabetol. Oct 2014.
+Peter briefly mentions that GLP-1 agonists likely have significant effects on the heart and kidneys, which will be discussed in more detail later in the podcast. These areas are considered topics of immense interest due to their potential broader health benefits.
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member

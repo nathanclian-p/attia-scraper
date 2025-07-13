@@ -1,0 +1,79 @@
+The last few years have seen an astronomical rise in the power and capabilities of artificial intelligence (AI) — and with it, the mainstream
+use
+of AI for creating everything from memes and cartoons to software code and academic papers has likewise skyrocketed. There’s no question that deep learning and generative AI hold enormous promise for improving many aspects of daily life and even health (for some specifics, check out my interview with
+Dr. Isaac Kohane
+, an expert in AI and medicine), but concerns are also growing around the potential “dark sides” of AI use. Many of these concerns have thus far focused on ethical dilemmas, such as privacy considerations, socioeconomic disparities, and job displacement. But last week, new results from a study out of MIT sent a different fear into the spotlight: could the use of AI be bad for our brains?
+1
+The study has been publicized across popular press and social media, spreading alarm with headlines suggesting that the use of AI leads to cognitive deficits and a reduced ability to learn and think. But as we’ve seen so many times in the past, important nuance tends to get lost in the midst of media frenzies, and alarm spreads faster than truth. So what did the study really show? And how should it impact how we utilize AI tools going forward?
+What they did
+The MIT study sought to investigate the effect of using AI versus a search engine or the human brain alone for a series of essay-writing tasks on neural activity and cognitive engagement. A total of 54 participants (18–39 years of age) were tasked with writing three SAT essays, for which they were randomly divided into three groups: 1) a ChatGPT group, in which participants were restricted to using OpenAI’s ChatGPT-4o as a resource; 2) a search engine group, in which participants were prohibited from using any large language model (LLM) AI bots but were permitted use of any other internet resource; and 3) a brain-only group, in which participants had to rely exclusively on their own brains.
+Participants remained in the same group for all three writing sessions, which were conducted roughly at one-month intervals and each lasted 20 minutes. The investigators then had participants complete a fourth essay-writing task based on the previous three. However, for this fourth essay, the groups were switched: the ChatGPT group was no longer allowed to use any outside resources, while the brain-only group was allowed to use ChatGPT. (No search engine group was included in the fourth writing session.) During all four sessions, the researchers monitored participants’ brain activity using electroencephalography (EEG), and following completion of the essay, participants were interviewed about the experience. Essays were also analyzed by human teachers and a specialized AI tool.
+What they found
+Results showed a clear pattern: as use of external resources increased, participants’ cognitive engagement decreased. The authors reported that those in the ChatGPT group exhibited the weakest neural connectivity, particularly with respect to semantic processing, creativity, memory, and executive engagement, and activity in these areas decreased over the three sessions. By contrast, connectivity in the brain-only group was the strongest, most extensive, and increased with successive writing sessions. These results mirrored findings from post-writing interviews, in which participants in the ChatGPT group reported a low sense of ownership over the work compared to the brain-only and search engine groups. Essay analysis showed that use of ChatGPT resulted in more homogeneous essays across participants than was observed in essays from the other groups, though other aspects of essay scoring did not appear to differ systematically across groups.
+When participants switched groups for the fourth writing task, the ChatGPT→brain group exhibited significant performance deficits compared to the brain→ChatGPT group. While the brain→ChatGPT group demonstrated strong memory of previous prompts and essays, the ChatGPT→brain group underperformed in this capacity. Participants in the ChatGPT→brain group displayed greater neural connectivity in the fourth session than in the previous three, but it did not reach the peak levels observed in the brain-only group for sessions 2-3. Session 4 connectivity among the brain→ChatGPT group, on the other hand, exceeded the level of the ChatGPT group across any of the first three sessions.
+In other words, these results showed that the use of LLMs for essay writing leads to progressive reduction in neural connectivity and poor engagement. Even after a subsequent switch to using their own brains, those who had previously relied on ChatGPT failed to “catch up” to the levels of cognitive engagement achieved by those who had relied on their brains more regularly. The authors interpreted these findings as evidence that reliance on AI tools leads to “the accumulation of cognitive debt,” characterized by reduced critical thinking and creativity.
+What it does — and doesn’t — mean for cognition
+The news raced through social media and news outlets: AI is rotting our brains. But is that interpretation really justified?
+Hardly. This study — which notably has not yet undergone the peer-review process — was designed to evaluate the effect of AI on cognitive engagement, but it was
+not
+designed to evaluate effects on the
+capacity
+for cognitive engagement. In other words, it may have shown that the use of LLMs reduced the amount of thinking that was required for completion of the essay tasks, but it did not show that the use of LLMs impaired participants’
+ability
+to think.
+The availability of AI as a resource meant that the ChatGPT group didn’t need to rely so heavily on their own power of thinking in order to complete the essay, and neural activity in this group diminished even further with repeated sessions not because they were getting dumber, but the exact
+opposite:
+analysis of their ChatGPT use showed that they were getting progressively
+smarter
+in how to use AI most effectively and efficiently, thus further reducing the amount of “brain power” that was required for each successive essay.
+So what can we make of the poor performance of the ChatGPT→brain group on the fourth essay? Critically, this essay (which was completed by only 18 participants in total) was
+based on the previous three
+. The ChatGPT→brain group was thus at a distinct disadvantage, as their reduced engagement in the first three essays would naturally lead to worse memory of the material. These results are hardly surprising — they’re analogous to showing that copying someone else’s homework all semester is less effective as a means of learning than completing the work yourself. To properly assess whether the repeated use of AI bots truly compromised cognitive abilities, the researchers would have needed to assess the ChatGPT→brain group’s performance on an entirely
+new
+assignment.
+Questioning “neural connectivity” results
+At this point, you may be asking how the study’s EEG data fit into these conclusions, as a reduction in neural connectivity among those using ChatGPT would certainly suggest long-lasting, negative changes in cognitive capacity. Indeed, the EEG results were perhaps the greatest source of misunderstanding and alarm over this research, as the very term “neural connectivity” is misleading in this context.
+EEG measures neural
+activity
+, but it cannot directly assess neural
+connections
+. It can be used to
+infer
+connectivity by demonstrating coordinated patterns of neural activity across different brain regions,
+2
+but critically, the absence of activity does not mean that the connections don’t exist or have been lost — they just aren’t observable because they aren’t actively engaged. (As an analogy, we can imagine flipping on a light switch. If we flip the switch and a particular light goes on in the room, we can infer that the light is connected to the switch, even if we can’t see the wiring directly. But if no one flips the switch, it doesn’t mean that there is no connection between the switch and a light — we simply have no information that can confirm or refute any potential connections.) So although the EEG results from this study indicate that participants engaged neural circuits related to critical thinking, memory, and creativity less extensively when writing essays with AI assistance than they did when writing on their own, we cannot interpret these results as indicating that such circuits were in any way impaired or degenerating. They simply weren’t “switched on.”
+Of note, had ChatGPT truly caused losses in neural connectivity, it presumably might have shown up in session 4 (i.e., the ChatGPT→brain group’s first experience using only their brains) as a level of activation
+below
+that seen in session 1 of the brain-only group. This, however, was not the case. The ChatGPT→brain group exhibited
+greater
+neural activation in their first unassisted writing task than the brain-only group.
+A supplement rather than a replacement
+So does this mean that we can ignore this study entirely and outsource all of our thinking onto AI bots without fear of negative consequences for cognition? Not quite.
+The brain, like muscle, is something of a “use it or lose it” organ. The more we engage certain circuits, the stronger they become, whereas inactive circuits tend to weaken over time. While this particular study provides no evidence that repeated reliance on AI can result in reduced capacity for critical thinking or creativity, such an effect is certainly plausible — or even
+probable
+— if we never “practice” these cognitive skills ourselves and truly offload all such tasks onto AI tools. The risks are likely highest among children and adolescents, as the brain is especially malleable during these periods of development.
+Thus, we should approach these tools as a
+supplement
+to our own mental abilities rather than as a
+replacement
+for them. In the classroom, this will likely require updates to existing methods for teaching and evaluation that embrace the use of AI while still requiring active engagement by the student — just as the dawn of the internet shifted educational emphasis from fact-finding and memorization to information analysis and synthesis. Indeed, AI can facilitate
+greater
+cognitive engagement when used judiciously. To use writing as an example, AI assistance in grammar oversight and essay organization can free up time to devote more attention to crafting the strongest argument. The key to striking the right balance will be to assess which tasks truly demand deep thinking and ensure that, in such situations, we use these tools to
+inform
+our own thought process rather than relinquishing ownership to AI.
+Putting it all together
+Despite the alarm, this study certainly does not show that the use of AI is rotting your brain or impairing critical thinking skills. (Ironically, the writers responsible for the panicked headlines appear to have failed to apply critical thinking in their own evaluation of this research.) Rest assured, you do not need to cancel your AI subscriptions in an effort to preserve your cognitive health.
+The study does, however, demonstrate that the use of ChatGPT or other such tools have the potential to reduce engagement while completing cognitively demanding tasks. Though not shown by this work, such a tendency
+might
+eventually contribute to erosion of cognitive abilities, but only if we rely on these tools as a complete replacement for — rather than a supplement to — our own brains. As long as we keep ourselves in the driver’s seat, AI can just as easily serve to strengthen and expand our capacity for deep and creative thinking, and the combined force of human intelligence and artificial intelligence can yield advancements we have yet to imagine.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Kosmyna N, Hauptmann E, Yuan YT, et al. Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for essay writing task. arXiv [csAI]. Published online June 10, 2025. http://arxiv.org/abs/2506.08872
+Chiarion G, Sparacino L, Antonacci Y, Faes L, Mesin L. Connectivity analysis in EEG data: A tutorial review of the state of the art and emerging trends. Bioengineering (Basel). 2023;10(3):372. doi:10.3390/bioengineering10030372

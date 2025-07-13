@@ -1,0 +1,144 @@
+In this “Ask Me Anything” (AMA) episode, Peter tackles a diverse set of listener-submitted questions, covering a wide range of health and performance topics. He dives into assessing cardiovascular health, discussing key biomarkers and risk factors, and breaks down various fasting approaches, including time-restricted eating and prolonged fasting. The conversation also explores the impact of alcohol on health and disease risk, fundamental principles of nutrition, and optimal protein intake. Additionally, he examines the pros and cons of ketogenic and low-carb diets, strategies for building effective exercise routines, and the role of wearables in tracking health metrics. The episode concludes with insights on emotional health, making this a well-rounded discussion packed with practical takeaways for anyone looking to optimize their well-being.
+If you’re not a subscriber and listening on a podcast player, you’ll only be able to hear a preview of the AMA. If you’re a subscriber, you can now listen to this full episode on your
+private RSS feed
+or on our website at the
+AMA #68 show notes page
+. If you are not a subscriber, you can learn more about the subscriber benefits
+here
+.
+We discuss:
+Episode format: overview of common health topics based on listener questions [1:30];
+How to accurately assess your cardiovascular health [3:00];
+The impact of fasting, time-restricted eating, and dietary restriction on metabolic health [9:00];
+Alcohol: health risks of consumption, limitations of research, and how to weigh the risks against social and personal enjoyment [13:45];
+Principles of a well-balanced diet: macronutrients, micronutrients, protein, energy balance, and more [23:45];
+The benefits and drawbacks of ketogenic diets: impact on satiety, metabolic health, athletic performance, lipid levels, and more [29:15];
+Protein: best sources for muscle growth, total intake, PDCAAS scoring system, and getting adequate amounts on plant-based diets [36:15];
+Creating an effective fitness routine that fits into a busy schedule [41:45];
+The role of rest and recovery in a workout routine [46:00];
+How to track fitness progress beyond just weight on a scale [48:30];
+The best low-impact exercises for individuals with joint issues [52:00];
+Wearables: insight vs. compliance, and how to use them effectively [54:45];
+How to evaluate the risks and benefits of medical interventions: procedural risks, complication rates, and asking informed questions [59:00];
+Sleep: impact on metabolic and cognitive health, and tips for improving sleep quality [1:03:45];
+How to identify and address emotional health challenges [1:08:30]; and
+More.
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+Live Better, Longer: An Introductory Guide to Longevity by Peter Attia,
+weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Email
+This field is for validation purposes and should be left unchanged.
+Δ
+Show Notes
+Episode format: overview of common health topics based on listener questions [1:30]
+This AMA episode compiles listener-submitted questions gathered over the past three years from the
+AMA portal
+on the website.
+The questions cover a wide range of health topics in a structured yet broad manner.
+Diseases and health conditions
+Nutrition and fasting
+Exercise and fitness strategies
+Other general wellness topics
+How Listeners Can Participate in Future AMAs
+The AMA portal allows listeners to
+submit questions
+at any time.
+Questions can be related to:
+Past podcast episodes
+Newsletters
+Personal health concerns
+Episode Format & Experimentation
+This AMA will feature more questions with shorter answers, mimicking how Peter would respond in casual conversations (e.g., at a party).
+If listeners enjoy this style, Peter suggests doing quarterly AMAs with a mix of general Q&A and specific listener-submitted questions.
+Possibility of acknowledging specific individual submissions in future episodes.
+Goal: Test if this approach resonates with the audience and adjust accordingly.
+How to accurately assess your cardiovascular health [3:00]
+The Importance of Cardiovascular Health
+Cardiovascular disease (CVD) is the leading cause of death worldwide.
+Many people are curious about their current cardiovascular risk and how to properly assess it.
+Key Tools for Assessing Cardiovascular Risk
+Family History as a Primary Indicator
+One of the most overlooked yet critical aspects of risk assessment.
+It’s not enough to just know how long relatives lived; it’s important to understand:
+What conditions they had (e.g., high cholesterol, high blood pressure).
+Whether they took medications for cholesterol or hypertension.
+If they required cardiovascular procedures (e.g., stents, bypass surgery, revascularization).
+Early cardiovascular events in family members suggest potential heritable causes, such as:
+Elevated Lipoprotein(a) [Lp(a)]
+Podcast:
+#07 – Deep Dive: Lp(a) — what every doctor, and the 10-20% of the population at risk, needs to know
+Podcast:
+#210 – Lp(a) and its impact on heart disease | Benoît Arsenault, Ph.D.
+Podcast:
+#238 – AMA #43: Understanding apoB, LDL-C, Lp(a), and insulin as risk factors for cardiovascular disease
+Familial Hypercholesterolemia (FH)
+Podcast:
+#255 ‒ Latest therapeutics in CVD, APOE’s role in Alzheimer’s disease and CVD, familial hypercholesterolemia, and more | John Kastelein, M.D., Ph.D.
+More resources
+Calcium Scan (CAC) for Assessing Arterial Damage
+A CAC scan helps determine the extent of arterial calcification, which indicates advanced disease.
+Article:
+Coronary artery calcium scan
+Podcast:
+#247 ‒ Preventing cardiovascular disease: the latest in diagnostic imaging, blood pressure, metabolic health, and more | Ethan Weiss, M.D.
+Podcast:
+#203 – AMA #34: What Causes Heart Disease?
+Key points about CAC:
+An ideal score is zero, meaning no calcification.
+However, a score of zero is not always definitive, as 15% of cases can have soft plaque not detected by CAC.
+In these cases, a CT angiogram (CTA) can provide a clearer picture but exposes the patient to radiation and contrast dye risks.
+Calcification itself is a protective mechanism, but its presence suggests an underlying cardiovascular process that could indicate broader risks.
+Lipid Profile and Blood Markers
+ApoB and Lp(a) are the two most critical markers.
+More on apoB:
+Podcast:
+#229 ‒ Understanding cardiovascular disease risk, cholesterol, and apoB
+Article on apoB:
+Measuring cardiovascular disease risk and the importance of apoB
+Podcast:
+#238 – AMA #43: Understanding apoB, LDL-C, Lp(a), and insulin as risk factors for cardiovascular disease
+LDL cholesterol, HDL cholesterol, and non-HDL cholesterol are less relevant once ApoB and Lp(a) are known.
+Triglycerides are important only when extremely elevated (>400 mg/dL), which can indicate metabolic issues requiring intervention.
+Blood Pressure as a Major Risk Factor
+Hypertension is a significant predictor of cardiovascular disease and is often under-monitored.
+Key blood pressure considerations:
+Ideal blood pressure is below 120/80 mmHg.
+130/85 mmHg, previously considered normal, is now known to increase risk.
+Doctors often measure blood pressure incorrectly—proper technique includes:
+Sitting still for five minutes before measurement.
+Ensuring the arm is positioned at heart level.
+Using a properly fitting cuff and avoiding crossed legs.
+Checking multiple readings (duplicate or triplicate measurements).
+Monitoring at home twice daily for two weeks once a year provides a better assessment.
+Resources:
+Article:
+All things blood pressure: from measurement to management
+Podcast:
+#258 – AMA #48: Blood pressure—how to measure, manage, and treat high blood pressure
+Lifestyle and Metabolic Factors
+Smoking significantly increases CVD risk.
+Metabolic health plays a critical role, including:
+Hyperinsulinemia
+Insulin resistance
+Type 2 diabetes
+Addressing metabolic dysfunction is crucial for long-term cardiovascular health.
+Tests and Metrics Not Considered as Useful
+Carotid Intima-Media Thickness (CIMT)
+Peter does not find CIMTs particularly useful for assessing cardiovascular risk.
+The data does not support CIMT as a superior tool compared to the aforementioned tests.
+The impact of fasting, time-restricted eating, and dietary restriction on metabolic health [9:00]
+Defining Fasting vs. Time-Restricted Eating
+Common misconception: People often use the terms fasting and intermittent fasting interchangeably.
+Peter’s distinction:
+{end of show notes preview}
+Would you like access to this entire podcast episode, its extensive show notes, and more premium content?
+Become a Member

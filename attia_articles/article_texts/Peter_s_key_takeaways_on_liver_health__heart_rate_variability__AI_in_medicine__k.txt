@@ -1,0 +1,165 @@
+In this quarterly podcast summary (QPS) episode, Peter summarizes his biggest takeaways from the last three months of guest interviews on the podcast. Peter shares key insights from each episode, covering diverse topics such as liver health with Julia Wattacheril, heart rate variability with Joel Jamieson, artificial intelligence with Zak Kohane, klotho for brain health with Dena Dubal, and lactate and lactate metabolism with George Brooks. Additionally, Peter shares any personal behavioral adjustments or modifications to his patient care practices that have arisen from these engaging discussions.
+If you’re not a subscriber and listening on a podcast player, you’ll only be able to hear a preview of the AMA. If you’re a subscriber, you can now listen to this full episode on your
+private RSS feed
+or on our website at the
+episode #319 show notes page
+. If you are not a subscriber, you can learn more about the subscriber benefits
+here
+.
+Play
+#319 ‒ Peter's key takeaways on liver health, heart rate variability, AI in medicine, klotho, and lactate metabolism | Quarterly Podcast Summary #2
+#319 ‒ Peter's key takeaways on liver health, heart rate variability, AI in medicine, klotho, and lactate metabolism | Quarterly Podcast Summary #2
+1x
+15s
+30s
+0:00
+28:03
+We discuss:
+Overview of topics, and the positive feedback on the quarterly podcast summary format [2:00];
+Julia Wattacheril episode: liver health and disease [4:00];
+Noninvasive methods to diagnose liver conditions, and how to manage and improve liver health [16:00];
+Joel Jamieson episode: heart rate variability (HRV) for training and health [27:15];
+Practical tools for measuring HRV and how it informs training and recovery decisions [37:00];
+Zak Kohane episode: artificial intelligence and medicine [47:15];
+The current role of AI in medicine and how it could revolutionize medicine in the future [53:45];
+The limitations and concerns pertaining to AI [1:00:15];
+Dena Dubal episode: the potential benefits of klotho for brain health [1:05:00];
+Animal studies on klotho and brain health [1:11:00];
+Genetics-based variations in klotho levels in humans and their impact on cognition, disease risk, and longevity [1:14:15];
+Testing klotho levels, the significance of the KL-VS variant, the role of exercise in increasing klotho, and more [1:17:30];
+The potential of klotho as a treatment for cognitive decline and Alzheimer’s disease [1:23:15];
+George Brooks episode: a new paradigm to think about lactate and lactate metabolism [1:27:45];
+The potential for lactate infusions to aid in brain recovery following a head injury [1:34:00];
+The relationship between lactate and cancer, and the impact of exercise on lactate levels and cancer risk [1:36:30]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Name
+This field is for validation purposes and should be left unchanged.
+Δ
+Overview of topics, and the positive feedback on the quarterly podcast summary format [2:00]
+This is the second quarterly podcast summary we’ve done
+We released the first one in June and received really positive feedback
+In this conversation, we’re going to look recent episodes of
+The Drive
+and Peter will share
+His key takeaways
+Anything that has changed as a result
+Be that his behavior or how he is thinking about things
+In this episode we’ll cover topics such as the liver and liver health, heart rate variability and training, AI in medicine, klotho and Alzheimer’s disease, lactate, and more
+Positive feedback
+After the release of
+QPS #1
+, listeners expressed that they appreciated the recap of key takeaways from various episodes, which encouraged many to revisit or explore episodes they missed
+They plan to make these summaries a regular feature
+Julia Wattacheril episode: liver health and disease [4:00]
+#302 – Confronting a metabolic epidemic: understanding liver health and how to prevent, diagnose, and manage MAFLD and liver disease | Julia Wattacheril, M.D., M.P.H.
+(May 20, 2024)
+***
+Julia discussed liver health, liver disease (NAFLD, MASLD), everything as it relates to the liver
+This was at times a technical episode
+This is a classic episode of
+The Drive
+, meaning you don’t expect to turn on a podcast and walk into a graduate level seminar on the liver, but if you take a step back and think about it, we kind of need to
+The liver is arguably one of the most important organs in the body
+It is an organ for which we have no extracorporeal support
+Meaning if your kidneys fail (God forbid, that’s very bad), at least you have the option of dialysis
+If your lungs fail, at least you have a ventilator
+Even if your heart temporarily fails, we have ways to support that outside the body
+Remarkably we don’t have this for the liver
+If a person goes into liver failure, their only solution is a liver transplant
+And that speaks to the diversity and complexity of function in this organ
+We talk about the function of the liver in 3 categories: metabolism, protein synthesis, and detoxification
+There simply is no parallel for those things
+Then talked about the role of alcohol
+Everybody’s aware that alcohol is metabolized by the liver and therefore that excess alcohol is toxic
+We talk a little bit about the how and the why
+The metabolite of ethanol known as
+acetaldehyde
+basically causes all of the downstream problems by overwhelming the redox potential of cells in the liver
+And that creates the attraction of free radicals and inflammatory cells
+We did a great job talking about dose makes the poison here
+So if a standard drink contains about 14-15 grams of ethanol, that will usually be found in about 12 ounces of a regular beer
+Interestingly, Peter’s favorite beer contains 10% alcohol, and you would get that 14 g in far less volume
+14-15 g ethanol is also contained in
+5 oz. of wine contains
+1.5 oz. liquor
+Figure 1. Examples of a standard drink that contain 14 grams of alcohol
+. Image credit:
+Wikipedia
+It’s not intuitive for people to think about how many grams of ethanol they’re consuming
+The
+show notes
+give more details on the toxicity of ethanol based on how many grams per day or grams per week you’re consuming
+MASLD or metabolic dysfunction-associated steatotic liver disease
+“
+We talk about NAFLD, and that’s something that’s been talked about for the last 20 years. It’s the fastest growing form of liver disease in the developed world. And it’s probably poised in its long-term sequelae to be the leading indication for liver transplant within the next decade.
+”‒ Peter Attia
+The name has changed from NAFLD to
+MASLD
+to make the name more encompassing
+NAFLD has the intuitive point of saying it’s a fatty liver disease that does not result from the consumption of alcohol because
+AFLD (or alcoholic fatty liver disease)
+would be the sister disease
+This idea of MASLD (or metabolic dysfunction-associated steatotic liver disease) speaks to the complete overlap of insulin resistance metabolic syndrome type 2 diabetes
+The overlap is so strong that Peter doesn’t know that it matters that much
+According to Julia, 99.6% of people who meet criteria for NAFLD will also have the diagnosis of MASLD
+The diagnosis is based on metabolic dysfunction
+The key requirements for MASLD diagnosis
+You have to have insulin resistance
+It also requires that at least 5% of the hepatocytes (liver cells, it’s the functional unit of the liver) contain fat
+But it does not require fibrosis
+In this podcast Peter remembered things he once knew but had forgotten
+The difference between kids and adults is the pattern of fibrosis they have
+In
+kids
+, it’s more circulated around the portal vein
+The portal vein is the vein that brings the majority of the nutrients to the liver
+The portal vein is formed by the confluence of 2 enormous veins in the abdomen (the
+superior mesenteric vein
+and the
+splenic vein
+)
+In that sense, the liver has 2 blood flows that are coming into it: 1 through the portal vein and 1 through the hepatic artery
+The implication is what do you see from a diagnosis perspective, and in kids, you’re going to see an earlier increase in
+ALT, AST and GGT
+You often hear ALT, AST, and GGT referred to as liver function tests
+We talk about how we accept that as terminology, but the reality of it is they really tell us nothing about liver function
+They are enzymes that are associated with liver or hepatocyte health
+When those enzymes go up, we generally understand that some sort of injury has taken place (we’ll talk about that more in a moment)
+Pattern of fibrosis and steatosis in adults
+In adults, the fibrosis and steatosis tends to occur closer to the central vein
+As a result of that, you see a delay in the enzyme elevation
+So what does that mean clinically?
+It means that if you’re an adult and you’re developing steatosis and fibrosis, it could actually be taking place for quite a while before you see it
+And that’s why
+another huge takeawa
+y (which we’ll get to in a moment) is that this reliance on
+elevations of the transaminases
+(which are the technical names for ALT and AST), and using that as your threshold for concern might be waiting a little bit too long
+The top three causes of liver injury in the form of steatosis and fibrosis are:
+#1 MASLD, followed by alcoholic liver disease, and finally, infections (hepatitis is the most common)
+The fact that MASLD is now #1 is something that wasn’t even close to true 20, 30, 40 years ago
+There is an older
+episode with Chris Sonnenday
+on organ transplantation that talks about the liver
+In
+Outlive
+, Peter recounts a story when he was an intern more than 20 years ago doing pre-op on a patient
+…
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member

@@ -1,0 +1,67 @@
+Welcome to another edition of “Research Worth Sharing” — a roundup of recent research that we’ve found interesting and which we hope might provide worthwhile insights to others as well.
+Exercise improves survival odds after a cancer diagnosis
+Why we’re interested:
+Cancer is the second leading cause of death in the world, but results from a new meta-analysis suggest that exercise may help improve survival odds for those facing this deadly disease.
+1
+Analyzing data from prospective cohort and case-control studies across the four most common types of cancer (i.e., cancers of the breast, lung, prostate, and colorectum), researchers assessed the relationship between post-diagnosis physical activity and both cancer-specific and all-cause mortality.
+What they showed:
+Results showed a consistent and substantial association between physical activity and probability of cancer survival across cancer types. For instance, physically active individuals exhibited a 31% (95% CI: 25–37%) reduction in risk of breast cancer mortality over the follow-up period relative to patients who were physically inactive, while risk reductions for mortality from lung, prostate, and colorectal cancer were 24% (95% CI: 16–31%), 27% (95% CI: 13–38%), and 29% (95% CI: 20–37%), respectively. Physical activity also lowered risk of all-cause mortality by 22–37%, depending on cancer type.
+Importantly, this analysis was based entirely on observational data, and there’s a significant risk of “healthy user bias” — individuals who exercise following a cancer diagnosis are likely to adhere to a number of other health-promoting behaviors that could influence results. However, other work has provided plausible mechanistic links between exercise and cancer survival — in large part due to the effects of physical activity on immune function — which can increase our confidence in this association. Unfortunately, this study did not offer any insights on “dose dependency” or the amount of exercise necessary to see such a survival benefit, but this may also depend on the individual and their specific cancer case. If you’re facing a battle with cancer, be sure to confer with your physician about your exercise habits and what makes sense during your course of treatment.
+doi:
+10.1007/s11357-025-01647-0
+A ketogenic diet may help preserve lean mass for those on tirzepatide
+Why we’re interested:
+GLP-1 receptor agonist drugs (GLP1-RAs) like semaglutide (trade names Ozempic, Wegovy) and tirzepatide (trade names Mounjaro, Zepbound) have proven to be game-changers in combatting the obesity epidemic. However, as with most forms of weight loss, the loss of fat mass on these medications is accompanied by a degree of lean mass loss. Maximizing improvements in body composition and metabolic health on GLP1-RAs requires that we minimize lean mass losses without compromising fat mass losses, and results from a recent trial suggest that a ketogenic diet may help patients to achieve this goal.
+2
+What they showed:
+In this 12-week pilot study, 60 participants with overweight or obesity were divided into two groups: 1) a low-calorie diet (LCD) group (50% carbohydrates, 20% protein, and 30% fat); and 2) a low-energy ketogenic therapy (LEKT) group (<30 g of carbohydrates/day, 43% protein, and 44% fat). Both diets provided approximately 1,200 kcal/day, and both groups were given equivalent doses of tirzepatide for weight loss throughout the trial.
+Results showed that participants experienced significant weight reduction, which was comparable between the two groups. However, when total weight loss was broken down between fat mass and lean mass losses, it became apparent that, compared to the LCD group, the LEKT group had lost significantly
+more fat
+(−13.4±2.8% for the LEKT group vs. −10.2±3.1% for the LCD group;
+P
+=0.042) and significantly
+less lean mass
+(−4.29±1.31% vs. −0.50±0.82%,
+P
+=0.039). Accordingly, resting metabolic rate — which is heavily influenced by body composition — was found to have decreased relative to baseline among those on a low-calorie diet (−5.3±1.8%,
+P
+<0.001) but not among those on a ketogenic diet. While this study was not randomized (group allocation depended on participants’ willingness to adhere to the respective diets), it provides intriguing preliminary data on the potential benefit of a ketogenic diet for those on GLP-1 RAs.
+doi:
+10.3390/nu17071216
+A combination of rapamycin and trametinib has additive lifespan effects
+Why we are interested:
+Having an exogenous molecule that can extend lifespan is an attractive idea, and we have discussed a range of these possible “anti-aging” drugs, or geroprotectors (e.g., rapamycin, NAD+, metformin). Of these, rapamycin has been extensively studied and shown to extend lifespan across various species. But what if these lifespan-extending effects could be pushed even further?
+What they showed:
+Rapamycin acts on the mechanistic target of rapamycin (mTOR) to inhibit the activation of mTOR and extend lifespan. A parallel pathway, involving Ras proteins, has extensive crosstalk with the mTOR pathway. Thus, a combination of treatments that inhibit multiple targets in these pathways may prevent compensatory responses. In this study, researchers Gkioni
+et al.
+studied the lifespan-extending effects of trametinib — a small-molecule inhibitor of Ras — alone and in combination with rapamycin in male and female mice.
+3
+They found trametinib alone extended female and male median lifespan by 7.2% and 10.2%, respectively, while rapamycin alone increased median lifespan 17.4% and 16.6% in female and male mice, respectively. Most interestingly, the lifespan extension of trametinib
+combined
+with rapamycin was additive — female mice lived 29% longer and male mice 27% longer. While future research will need to confirm these results, we will be interested in keeping up with the research on the combination of these two FDA-approved drugs.
+doi:
+10.1038/s43587-025-00876-4
+Transcranial stimulation for fibromyalgia treatment
+Why we are interested:
+Fibromyalgia is a chronic condition that is associated primarily with widespread musculoskeletal pain, but also fatigue, sleep issues, and cognitive difficulties. There is currently no cure for fibromyalgia, so the 2.0–5.8% of the population suffering from the condition must rely on symptom management, but only 10–15% achieve pain reduction of more than 50% with current pharmacological interventions. As such, better pain management options are needed.
+What they showed:
+While the exact cause of fibromyalgia is unknown, it is thought to primarily affect the central nervous system, which can be modulated with the non-pharmacological intervention of transcranial direct current stimulation (tDCS). TDCS impacts neuronal excitability and has been effective in reducing fibromyalgia pain in clinical settings. Researchers Caumo
+et al.
+demonstrate that this effectiveness extends to an at-home treatment paradigm that includes tDCS, exercise guidance, pain neuroscience education, and motivational interviews.
+4
+Improvement of at least 50% in patient pain scores was achieved in 62.5% of participants receiving tDCS, compared to 37.5% in participants receiving sham tDCS. These findings demonstrate that a comprehensive, home-based pain management approach can lead to substantial symptom relief. Furthermore, incorporating tDCS contributes additional clinical benefits. Providing effective treatment options that can be administered at home not only alleviates symptoms but may also enhance accessibility by minimizing common obstacles to care, such as the burden of travel.
+doi:
+10.1001/jamanetworkopen.2025.14262
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Ungvari Z, Fekete M, Varga P, et al. Exercise and survival benefit in cancer patients: evidence from a comprehensive meta-analysis. GeroScience. 2025;47(3):5235-5255. doi:10.1007/s11357-025-01647-0
+Schiavo L, Santella B, Mingo M, et al. Preliminary evidence suggests that a 12-week treatment with tirzepatide plus low-Energy Ketogenic Therapy is more effective than its combination with a low-calorie diet in preserving fat-free mass, muscle strength, and resting metabolic rate in patients with obesity. Nutrients. 2025;17(7):1216. doi:10.3390/nu17071216
+Gkioni L, Nespital T, Baghdadi M, et al. The geroprotectors trametinib and rapamycin combine additively to extend mouse healthspan and lifespan. Nat Aging. Published online May 28, 2025:1-17. doi:10.1038/s43587-025-00876-4
+Caumo W, Franca BR, Orzechowski R, et al. Home-based transcranial direct current stimulation vs placebo for fibromyalgia: A randomized clinical trial. JAMA Netw Open. 2025;8(6):e2514262. doi:10.1001/jamanetworkopen.2025.14262

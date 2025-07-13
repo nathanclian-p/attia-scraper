@@ -1,0 +1,101 @@
+As we age, forgetfulness and dementia become significant health concerns, with memory and learning being especially vulnerable. The hippocampus (the brain region largely responsible for the consolidation of these memories) has been shown to decrease in volume with age.
+1
+Perhaps preventing or reversing hippocampal atrophy (shrinkage) and the associated decline in learning and memory could prevent the onset of dementia.
+Back in “Ask Me Anything”
+episode #46
+of
+The Drive
+, I discussed how physical activity can reduce risk of cognitive decline by various mechanisms, but research on the most effective
+forms
+of exercise for this purpose has been limited. Yet a randomized study by Blackmore & Schaumberg et al. recently addressed certain aspects of this very question, comparing the effects of various training intensities on learning and memory.
+2
+About the study
+The authors performed a randomized controlled study involving a six-month exercise regimen with cognitively normal participants (65-85 years old) split into one of three groups: light-intensity training (LIT, n=53), medium-intensity training (MIT, n=44), or high-intensity interval training (HIIT, n=54). In this case, LIT served essentially as a non-exercise control group, as training was limited to stretching, balance work, and relaxation. Participants across all groups exercised three times per week under supervision, with each session totalling 40-45 minutes including warmup and cooldown. Specific exercise protocols are detailed below.
+Table: Exercise protocols
+The authors were primarily interested in changes in cognitive function following these exercise regimens. This was measured using the Cambridge Neuropsychological Test Automated Battery (CANTAB) – a series of tasks performed on a computer that includes an array of memory tests.
+HIIT performs better than MIT or LIT in improving PAL scores
+While the investigators conducted four tests within the CANTAB battery, results from only one – the Paired Associates Learning (PAL) test – were found to differ significantly between groups. For this test, which assesses how well people learn and recall associations (i.e., visual learning and associative memory – which are among the earliest cognitive domains affected by Alzheimer’s disease), participants are shown patterns hidden behind rectangles and must click the correct one when a matching pattern appears, and performance is measured by the number of errors..
+Results from the PAL tests were reported as standardized changes from baseline and tracked over time for comparison across groups. At 6 months, HIIT outperformed LIT (effect size=0.72,
+P
+=0.004) and MIT (effect size=0.74,
+P
+=0.008). (For reference, an effect size of 0.2-0.5 is considered small; 0.5-0.8 is considered moderate; and >0.8 is considered a large effect.) The PAL score improvement in the HIIT group persisted for all of the follow-up time points after the conclusion of the intervention period, with one measurement taken at 12 months after baseline, followed by time points out to five years, presented as the average of 48-60 months.
+When the authors limited their analysis to only the
+worst
+performers at baseline (those with scores greater than one standard deviation above the mean in PAL scores), the HIIT group once again performed better than the LIT group and MIT group, but the effects were substantially larger (effect sizes of 1.4 and 1.7 for HIIT versus LIT and MIT, respectively). Again, this was maintained throughout the follow-up period. These results demonstrate that people with the worst cognitive performance at baseline benefited most from HIIT exercise.
+Is HIIT the best, case closed?
+This all sounds very promising, but don’t mistake these findings as a reason to drop other exercise modalities in exchange for cramming in as many HIIT sessions as possible.
+One major issue with the comparisons made in this study is rooted in the experimental design. While it may seem intuitive to normalize each group based on time spent in the gym, the results would actually be more comparable if the authors had normalized based on energy expenditure (i.e., metabolic equivalents, or METs). I am not surprised that the HIIT group performed better in some tests, as they did more work in the same amount of time. Let’s take a back-of-the-envelope calculation – say an MIT session has an energy expenditure of 5 METs while a HIIT session has an expenditure of 8 METs. (Of course, this is an estimate and would need to be measured in the study.) At 30 minutes per session, three days per week, and 24 weeks in the study, this would result in 180 MET-hours total for the MIT group and 288 MET-hours for the HIIT group. This experiment provides great insight for those who have limited time in the gym (e.g., three times per week, as done in the study). But for a more realistic comparison of the effect of exercise intensity, protocols should be normalized to the total amount of energy expenditure, rather than time.
+Another critical limitation of this study is its scope. PAL is just one of many cognitive tests – one of eight tests in the memory section alone of just one neuropsychological battery, making the scope of this study quite narrow.
+3
+The authors report findings for four of the eight tests (working memory, delayed match to sample, and emotional recognition task, in addition to PAL), but no significant differences were found between groups in any of the other cognitive tests performed in this study. Indeed, even for the PAL test, the “practice effect” (learning through repetition) could influence results, as the test-retest reliability of PAL has been called into question in previous analyses.
+4
+All of that to say – sure, HIIT is superior when you severely limit the scope to a small portion of cognitive function; and for those at high risk of dementia, HIIT could be quite beneficial in improving function. But, does this information allow us to make practically useful decisions when you consider a broader scope of longevity? Decidedly not.
+The benefits of a balanced exercise routine
+Familiar readers will know my framework for exercise is built on four pillars: stability, strength, aerobic base (Zone 2), and peak aerobic capacity (Zone 5). Most relevant to the discussion at hand are the latter two. High intensity training (Zone 5) has an important place in an overall exercise regimen; however, despite the results of the current study, it should not constitute the
+entirety
+of one’s exercise regimen, nor should it even consume a larger portion of time than moderate intensity training (Zone 2). This, of course, is because the benefits of exercise extend far beyond the one single cognitive domain reported by Blackmore & Schaumberg et al.
+I have detailed the many, varied benefits of each of the four pillars in past content, such as in my recent premium articles on
+Zone 2
+training and
+Zone 5
+(important to increase VO
+2
+max) training, as well as various discussions on
+stability and strength
+. But just to highlight a few here, improving Zone 2 threshold increases fat oxidation capacity and mitochondrial function, which in turn has benefits for combating aging and reducing risk of numerous diseases, including cardiovascular disease,
+5
+neurodegenerative disease,
+6
+and metabolic syndrome.
+7,8
+Stability and strength are both vital for preventing falls, a major cause of mortality in older adults, while strength training additionally improves metabolic health, bone density, and overall quality of life.
+So what?
+Is memory loss an inevitable part of aging? Are we doomed to a future of constantly searching for our glasses (which, let’s be honest, are usually on our head)? While the findings from Blackmore & Schaumberg et al. offer hope that regular exercise, particularly HIIT, might delay or even reverse cognitive decline, it doesn’t mean everyone should be doing HIIT exclusively. The results of the present study may add “associative memory and visual learning” to the list of the benefits of exercise
+in general
+for health and longevity; however, it is not clear whether this can be attributed specifically to the high intensity level of the exercise, or simply due to increased energy expenditure in the HIIT group. Without normalizing the exercise protocol to METs, we cannot know if these effects are associated with HIIT
+per se
+. Meanwhile, the list of benefits for
+other
+forms of exercise (e.g., Zone 2, strength training) had already been long, populated with effects that have
+at least
+as great an impact on lifespan and healthspan as those reported in this study.
+There’s still much to learn about the benefits of various exercise types and which precise balance of intensities and modalities might be optimal for different individuals, but none can be ignored completely. It’s clear that consistent exercise is crucial to aging well, and a well-balanced routine has components of moderate-intensity and high-intensity exercise, as well as strength and stability training.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Fujita S, Mori S, Onda K, et al. Characterization of brain volume changes in aging individuals with normal cognition using serial magnetic resonance imaging.
+JAMA Netw Open
+. 2023;6(6):e2318153. doi:
+10.1001/jamanetworkopen.2023.18153
+Blackmore DG, Schaumberg MA, Ziaei M, et al. Long-term improvement in hippocampal-dependent learning ability in healthy, aged individuals following High intensity interval training.
+Aging Dis
+. Published online July 8, 2024:0. doi:
+10.14336/AD.2024.0642
+Memory. Cambridge Cognition. Published February 13, 2023. Accessed September 20, 2024.
+https://cambridgecognition.com/memory/
+Karlsen RH, Karr JE, Saksvik SB, et al. Examining 3-month test-retest reliability and reliable change using the Cambridge Neuropsychological Test Automated Battery.
+Appl Neuropsychol Adult
+. 2022;29(2):146-154. doi:
+10.1080/23279095.2020.1722126
+Yang J, Guo Q, Feng X, Liu Y, Zhou Y. Mitochondrial dysfunction in cardiovascular diseases: Potential targets for treatment.
+Front Cell Dev Biol
+. 2022;10:841523. doi:
+10.3389/fcell.2022.841523
+Johri A, Beal MF. Mitochondrial dysfunction in neurodegenerative diseases.
+J Pharmacol Exp Ther
+. 2012;342(3):619-630. doi:
+10.1124/jpet.112.192138
+Ren J, Pulakat L, Whaley-Connell A, Sowers JR. Mitochondrial biogenesis in the metabolic syndrome and cardiovascular disease.
+J Mol Med
+. 2010;88(10):993-1001. doi:
+10.1007/s00109-010-0663-9
+Kim JA, Wei Y, Sowers JR. Role of mitochondrial dysfunction in insulin resistance.
+Circ Res
+. 2008;102(4):401-414. doi:10.1161/CIRCRESAHA.107.165472

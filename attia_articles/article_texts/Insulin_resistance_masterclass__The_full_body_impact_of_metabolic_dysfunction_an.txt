@@ -1,0 +1,164 @@
+Ralph DeFronzo is a distinguished diabetes researcher and clinician whose groundbreaking work on insulin resistance has reshaped the understanding and treatment of type 2 diabetes. In this episode, Ralph shares insights from his five decades of research, including his pivotal role in bringing metformin to the U.S. and developing SGLT2 inhibitors. Ralph explores the impacts of insulin resistance on specific organs, the pharmacologic interventions available, and the gold-standard euglycemic clamp method for measuring insulin resistance. This episode is a masterclass in the pathophysiology and treatment of type 2 diabetes, featuring an in-depth discussion of GLP-1 receptor agonists, metformin, and a lesser-known class of drugs that opened Peter’s eyes to new possibilities in diabetes care.
+Subscribe on:
+APPLE PODCASTS
+|
+SPOTIFY
+|
+RSS
+|
+OVERCAST
+We discuss:
+Metabolic disease as a foundational driver of chronic illness [4:00];
+Defining insulin resistance: effects on glucose, fat, and protein metabolism, and how it varies between healthy, obese, and diabetic individuals [8:15];
+The historical significance of the development of the euglycemic clamp technique for measuring insulin resistance [11:45];
+How insulin affects different tissues: liver, muscle, and fat cells [15:00];
+The different ways insulin resistance manifests in various tissues: Alzheimer’s disease, cardiovascular disease, and more [25:00];
+The dangers of hyperinsulinemia, and the importance of keeping insulin levels within a physiological range [29:00];
+The challenges of identifying the genetic basis of insulin resistance and type 2 diabetes [37:00];
+The “ominous octet”—a more comprehensive model of type 2 diabetes than the traditional triumvirate [45:45];
+The kidneys’ unexpected role in worsening diabetes, and how SGLT2 inhibitors were developed to treat diabetes [55:45];
+How insulin resistance in the brain and neurocircuitry dysfunction contribute to overeating and metabolic disease [1:04:15];
+Lipotoxicity: how overeating fuels insulin resistance and mitochondrial dysfunction [1:07:30];
+Pioglitazone: an underappreciated and misunderstood treatment for insulin resistance [1:10:15];
+Metformin: debunking the misconception that it is an insulin sensitizer and explaining its true mechanism of action [1:19:15];
+Treating diabetes with triple therapy vs. the ADA approach: a better path for diabetes management [1:24:00];
+GLP-1 agonists, the Qatar study, and rethinking diabetes treatment [1:31:30];
+Using a hyperglycemic clamp to look for genes that cause diabetes [1:45:15];
+The superiority of measuring C-peptide instead of insulin to assess beta-cell function [1:46:45];
+How GLP-1-induced weight loss affects muscle mass, the benefits and risks of myostatin inhibitors, and the need for better methods of evaluating functional outcomes of increased muscle mass [1:51:30];
+The growing crisis of childhood obesity and challenges in treating it [2:02:15];
+The environmental and neurological factors driving the obesity epidemic [2:07:30];
+The role of genetics, insulin signaling defects, and lipotoxicity in insulin resistance and diabetes treatment challenges [2:11:00];
+The oral glucose tolerance test (OGTT): detecting early insulin resistance and beta cell dysfunction [2:18:30]; and
+More.
+Show Notes
+Metabolic disease as a foundational driver of chronic illness [4:00]
+People who listen to Peter are familiar with him talking about these 4 horsemen:
+Cardiovascular disease and cerebrovascular disease
+Cancer
+Neurodegenerative and dementing diseases
+Metabolic disease
+This one is the squishiest because it’s not the one that shows up on the most death certificates, but in many ways, it’s the foundational one that is amplifying the risk of all of those other causes of death
+Spanning the spectrum from hyperinsulinemia to insulin resistance to fatty liver disease, all the way out to type 2 diabetes
+It seems very important that we should have a really thorough discussion of that foundational metabolic disease, and there’s no one better than Ralph to have that discussion
+Briefly tell folks what you’re doing at UT San Antonio and why you’ve spent the last 50 years working on this problem
+Ralph has been in this field of metabolic disease for a long time
+He may be the longest consecutively funded
+NIDDK
+investigator (53 years)
+He actually started even long before that when he was a medical student at Harvard
+He had this fantastic teacher,
+Professor Cahill
+, who gave the lectures on intermediary metabolism, and Ralph decided this is what he wanted to do
+He worked each summer with Professor Cahill
+“
+Sometimes in life you meet the right person, the right opportunity and it changes everything you do
+.”‒ Ralph DeFronzo
+What Ralph does now, he attributes directly to George
+When he gave the
+Banting Lecture
+in 2008
+People usually put a picture of their mother, and father, and children
+Ralph loves his mother, and father, and children, but he only showed one picture and that was Professor Cahill because he’s really the person who’s ended up directing him to where he is today
+People who are listening, who are particularly astute, might recall that Peter has referenced a number of Cahill’s
+papers
+One of the more interesting studies he did, was the 40-day starvation
+study
+in the mid-60s
+A group of students at Harvard did a water-only fast for 40 days, and he followed all the metabolites
+One of the things that was interesting to Peter was that even under a period of extreme starvation, the brain never gave up its dependency on glucose
+Even though ketone bodies began to service the brain by about day 7-10 as the majority of the fuel, glucose was still providing about ⅓ of the brain’s energy
+The brain did switch over to ketone metabolism
+Ralph was not one of the people who did the 40-day fast, but he did fast for 5-7 days
+If you fasted for 3 days you could get paid $50, and Ralph thought he was the richest guy in the world from this study
+He can assure you that the physical specimens in this study were phenomenal
+The interesting thing you realize is that we have so much energy stored into human body
+Who would’ve thought that a lean type person can fast for 40 days?
+⇒
+The real problem is at some point you start to break down muscle
+And then if you start to break down cardiac muscle, prolonged fasting at that point becomes a problem
+But you have a lot of
+energy stored in fat
+and you can starve for a long time
+And obese people easily can go for 3, 4 months with all of the reserves that are in the body
+Defining insulin resistance: effects on glucose, fat, and protein metabolism, and how it varies between healthy, obese, and diabetic individuals [8:15]
+Insulin resistance is a term that gets thrown around constantly, explain what it is from a technical standpoint
+Every time you eat a meal and your blood sugar level goes up, you’re going to release insulin
+⇒
+Insulin is a master regulator for all biochemical processes in the body
+1 – One of the things insulin is going to do, it’s going to talk to your muscles and say, “
+Take up glucose and burn that glucose
+.”
+What we need to know is, when you infuse insulin, how much of the glucose is taken up by the muscle
+We can compare a normal person, someone who is overweight, and someone who is diabetic
+“
+I actually developed the gold standard technique which is the insulin clamp technique to look at this
+.”‒ Ralph DeFronzo
+Comparing an overweight person to a lean person ‒ obese people are very insulin resistant
+in terms of muscle glucose uptake
+In a diabetic, they’re even more insulin resistant
+There are many processes that insulin controls
+2 – Insulin regulates how much fat is released from your fat cells
+Unfortunately, insulin keeps the fat in your fat cell
+But in obese people insulin doesn’t work so well
+So instead of keeping the fat in the fat cell, even though your insulin is high, you’re breaking down the fat
+You have to look at each individual process that insulin is controlling ‒ insulin resistance is a general term because insulin controls many things
+For that process, we know how a normal person should respond and how a diabetic responds
+And the diabetic is much more insulin resistant
+3 – Insulin controls protein metabolism ‒ it’s important in helping you build protein
+Ralph did a
+study
+infusing insulin and carbon-labeled leucine to define how insulin promotes protein metabolism in a normal healthy person
+He could do the same study in an obese person, and we know they don’t respond to insulin as well in terms of aggregating protein metabolism
+Peter asks, “
+Does that translate not just to structural proteins such as enzymes or cellular structural proteins but also macrostructural proteins such as muscle?
+”
+Absolutely
+You can look at specific enzymes within the cell or muscle in terms of muscle as a bulk
+There are many ways you could define insulin resistance, but whatever the particular process you’re looking at, you’re comparing what would be the normal response in a normal healthy person compared to what might happen in a diabetic person or an obese individual
+Peter’s takeaway on insulin resistance
+It’s a vague term and it’s non-specific because the actions of insulin are so many
+It has an action in the liver
+It has an action in the muscles
+It has an action with response to glucose
+It has an action with response to amino acids
+It has an action with response to fat, both in the liberation of fat, lipolysis, and presumably in response to oxidation
+The historical significance of the development of the euglycemic clamp technique for measuring insulin resistance [11:45]
+Explain how the euglycemic clamp test is done
+What would happen in a healthy individual?
+When Ralph was a fellow, at that time there was not a good measure of insulin sensitivity
+You do an oral glucose tolerance test and the insulin level would go up
+Some people would look at how much insulin comes out compared to the rise in glucose, and that’s a measure of ꞵ-cell function
+Then someone would just turn it around and look at how much the rise in glucose was per insulin, and that’s a measure of insulin resistance
+It was very clear to Ralph that this was insane
+You can’t take 2 variables and then, just depending upon how you want to look at them, switch denominator and numerator
+Ralph wanted to develop something more specific
+Unfortunately, clinicians are not able to do
+euglycemic clamps
+They are still looking at
+oral glycemic tolerance tests
+: giving people oral glucose, and sampling glucose and insulin every 30 minutes, and trying to impute what we can
+[we will come back to what you can learn from an OGTT at the end of the episode]
+Ralph
+developed
+a technique where you could take 100 people and infuse insulin (initially as a priming dose) and then just clamp the insulin level
+[and infuse enough glucose to keep it at 80; discussed further shortly]
+Give a prime continuous insulin infusion: raise their insulin level by 100 micro units per ml, and do that for 2 hours
+Figure 1. The euglycemic insulin clamp technique and examples of data obtained
+. Image credit:
+Obesity
+2022
+Now you know that the insulin stimulus, whether you’re lean, whether you’re obese, or whether you’re diabetic, whatever particular process that you want to look at
+Maybe you wanted to look at how insulin shut down a part of glucose production
+Ralph’s group was the first to ever use radioisotopes to trace this, and show that
+in normal people insulin shut down glucose production by the liver very quickly
+But obese people and diabetics were very, very resistant to the insulin
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Ralph DeFronzo, M.D.
+Ralph DeFronzo earned a B.S. in biology and biochemistry before attending Harvard Medical School. He did his residency in internal medicine at Johns Hopkins followed by a fellowship in endocrinology at the NIH, Baltimore City Hospital and then nephrology at the University of Pennsylvania. Dr. DeFronzo has been faculty at the Long School of Medicine at UT Health San Antonio since 1988, where he is currently the Joe R. & Teresa Lozano Long Distinguished Chair in Diabetes. He is a physician scientist who specializes in endocrinology and nephrology. Dr. DeFronzo is directly responsible for many seminal advances achieved in diabetes over the last 50 years. He was a leader in developing the concept of insulin resistance, the defining characteristic of Type 2 diabetes, resulting in novel ideas about the development and progression of diabetes.Dr. Ralph DeFronzo’s major interests focus on the pathogenesis and treatment of type 2 diabetes mellitus and the central role of insulin resistance in the metabolic-cardiovascular cluster of disorders known collectively as the Insulin Resistance Syndrome. Using the euglycemic insulin clamp technique in combination with radioisotope turnover methodology, limb catheterization, indirect calorimetry and muscle biopsy, he has helped to define the biochemical and molecular disturbances responsible for insulin resistance and impaired glucose metabolism.  Dr. DeFronzo is the longest consecutively funded investigator by the NIDDK/NIH – from 1975 to 2028 (53 years).  He currently is the PI on two five-year NIH grants and the Co-PI on two other five-year NIH grants in type 2 diabetes mellitus. [
+UT Health San Antonio
+]

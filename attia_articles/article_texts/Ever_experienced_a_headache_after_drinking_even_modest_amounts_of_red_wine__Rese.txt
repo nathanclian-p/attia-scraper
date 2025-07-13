@@ -1,0 +1,91 @@
+While many of us enjoy a few alcoholic beverages with friends and family now and then, the consequences of
+over
+indulgence are famously unpleasant. Headache, nausea, fatigue, and general malaise are commonly experienced by over-imbibers and can be temporarily debilitating. The post-consumption headache is particularly common, but many find that not all sources of alcohol are equally likely to result in this symptom. Red wine, in particular, is notorious for inducing headaches and does so roughly 3-fold more frequently than other beverages,
+1
+often within 30 minutes and after only a single glass.
+But what might explain such an effect? One study suggests that the polyphenol quercetin, a biologically active molecule present at relatively high concentrations in red wine, might be responsible.
+2
+What causes alcohol-related headaches?
+Alcohol (or more precisely,
+ethanol,
+the type of alcohol present in alcoholic beverages) has direct effects on many physiological systems and is responsible for the “buzz” sensations people experience when drinking. However, the metabolism of alcohol involves production of an intermediate compound known as acetaldehyde, and it is the build up of acetaldehyde that appears to induce the unpleasant side effects of alcoholic beverages.
+Production of acetaldehyde is the first step in alcohol metabolism, after which this intermediate compound is further metabolized by the enzyme acetaldehyde dehydrogenase (ALDH) into harmless end-products. Slowing the rate of this second step can therefore lead to accumulation of acetaldehyde and the consequent headaches and other negative sensations associated with alcohol intake.
+Indeed, the strongest evidence of acetaldehydes’ culpability in the undesirable effects of alcohol overconsumption comes from studies of individuals with a genetic defect in the ALDH2 gene. Those with a homozygous ALDH2 defect demonstrate almost no ALDH2 activity, and subsequently experience greatly increased acetaldehyde levels following even moderate alcohol consumption.
+3
+Similarly, suppression of ALDH2 by the drug disulfiram also leads to increased serum acetaldehyde. Importantly, the undesirable effects of alcohol consumption, including headache, are highly prevalent in both those with ALDH2 defects and those taking disulfiram.
+4
+But some data
+5
+suggest that ALDH2 activity may also be impaired by quercetin, a biologically active flavonoid compound found in high levels in red wine. Red wine contains roughly 10-100 times higher concentrations of quercetin than beer, white wine, or spirits,
+6
+so if the suppression of ALDH2 by quercetin is sufficient to significantly raise serum acetaldehyde levels, this might easily explain why undesirable effects seem more pronounced with red wine relative to other sources of alcohol. Investigators Devi
+et al.
+thus sought to determine the magnitude of the specific effects of quercetin on ALDH2 activity.
+What they did
+This study was designed to assess the ability of quercetin and its metabolites to affect the activity of ALDH2. To accomplish this, the researchers utilized an
+in vitro
+biochemical assay in which quercetin or related compounds were added to a solution containing human ALDH2 enzyme, and enzyme inhibition was measured by spectroscopy.
+Quercetin at a concentration of 20 μM was found to inhibit ALDH2 by 28%, but in addition to this direct effect of quercetin itself, a major
+metabolite
+of quercetin — quercetin-3-glucuronide (Q3G) — caused an astounding ~78% inhibition of ALDH2. The IC-50 (the concentration of a substance required to reduce a biological process by half its maximal value) for quercetin and Q3G was calculated to be 26.5 μM and 9.6 μM, respectively. (For reference, the IC-50 of the ALDH2 inhibitor disulfiram was calculated to be 1.45 μM, indicating a stronger inhibitory effect by disulfiram than either quercetin or Q3G.)
+Based on reports that quercetin is present in red wine at a concentration of about 50 μM and that most quercetin that reaches circulation is converted to Q3G, the authors calculated that consumption of a 150-ml glass of red wine would lead to serum Q3G concentrations of approximately 5 μM (out of a total quercetin concentration of ~6 μM). Given the findings of their
+in vitro
+tests, they then estimated that this amount of Q3G would impair ALDH2 activity by ~37%.
+Interpreting these data
+Though this study was well executed, its results only go so far. The use of an
+in vitro
+model, in which reagents are simply added together in a test tube, certainly presents a limitation to extrapolating these data to humans. When humans consume quercetin-containing food or drink, it must first be absorbed by the gastrointestinal tract and undergo first-pass metabolism by the liver before reaching circulation. What is the ultimate bioavailability of oral quercetin? The source (many vegetables and herbs contain quercetin, particularly capers, dill, fennel, and onions), presence of other macronutrients, and interindividual variation all appear to significantly impact absorption.
+7
+Indeed, studies measuring serum quercetin levels after wine consumption have reported highly variable results, and although the 6 μM concentration estimated by Devi
+et al.
+does fall within reported ranges, it’s important to keep in mind that this was an
+estimate
+— they performed no
+in vivo
+experiments to actually
+measure
+the resulting quercetin concentrations.
+This brings us to another noteworthy caveat, which is that these experiments also did not attempt to determine the effect of 37% ALDH2 inhibition on
+acetaldehyde
+build-up — the key variable in assessing whether ALDH2 inhibition by quercetin might translate to noticeable differences in the negative symptoms of alcohol intake. (Again, this is weaker inhibition than is seen with disulfiram, which is known to have a very strong effect on alcohol-related side effects.) While it is
+possible
+that red wine consumption could increase serum quercetin metabolite concentrations high enough to significantly impact ALDH2 activity and therefore increase serum acetaldehyde to a level sufficient to induce a headache, Devi
+et al.
+demonstrate only one isolated link in this chain of events — albeit a critical one for which we had the least prior evidence. No study has yet attempted to simultaneously measure
+all
+of these variables, let alone in human subjects.
+Can you enjoy red wine but avoid the headache?
+Still, if we assume these results reflect a genuine, significant pathway underlying the dreaded “red wine headache,” does this mean that you can never enjoy a cabernet or merlot without pain? Not exactly, as various strategies exist for mitigating the headache-inducing effects.
+The simplest approaches are old standbys: drink less in total, make sure to consume plenty of water while drinking wine, and extend the consumption window to allow more time for acetaldehyde metabolism to occur and prevent it from building up in the blood. But wines also vary significantly in their quercetin content. White wines and rosés contain far less quercetin than reds, and even among reds, some varieties and vintages will have higher or lower levels than others. (In fact, some winemakers take intentional steps to reduce quercetin content through filtration and fining agents during the winemaking process, as quercetin tends to cause precipitates to form in wine.) Choosing a variety with a low level of quercetin may be advantageous, though this can be challenging since factors such as soil properties and sun exposure — which can change from year to year and aren’t generally disclosed on a bottle’s label — can have substantial impacts.
+Unfortunately, these mitigation strategies don’t apply universally. If you happen to carry two copies of a defective ALDH gene (common for those of East Asian descent) and experience symptoms after any alcohol consumption, it is unlikely any of these approaches will provide much relief. Further,
+if
+quercetin contributes to headaches with red wine, it may not be the
+only
+factor that does so. Some individuals find that at-home wine filters, which remove many sulfites and histamines but do not affect quercetin, help to prevent wine-related headaches, suggesting that these other molecules play a role in generating this particular symptom. Finally, we must emphasize that these strategies might prevent the
+short-term
+negative effects of alcohol, but, with the exception of reducing
+total intake
+, we have no evidence that they would reduce alcohol’s numerous
+long-term
+negative effects on health.
+The bottom line
+Devi
+et al.
+identified a plausible mechanism to explain the headache and hangover symptoms commonly experienced by red wine drinkers. A study using human subjects and simultaneously measuring the quercetin content of alcoholic beverages, serum acetaldehyde, serum quercetin content following consumption, and the presence and severity of headache and hangover symptoms would help confirm the proposed links between red wine and headaches, though there would still exist some possibility that quercetin is not the only culprit.
+In the meantime, those who wish to enjoy wine without the headache might try various mitigation strategies to lessen symptoms, but of course, the surest strategy — and the one that is best for long-term health, as well — is to reduce overall intake.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Davis-Martin RE, Polk AN, Smitherman TA. Alcohol use as a comorbidity and precipitant of primary headache: Review and meta-analysis. Curr Pain Headache Rep. 2017;21(10):42.
+Devi A, Levin M, Waterhouse AL. Inhibition of ALDH2 by quercetin glucuronide suggests a new hypothesis to explain red wine headaches. Sci Rep. 2023;13(1):19503.
+Enomoto N, Takase S, Yasuhara M, Takada A. Acetaldehyde metabolism in different aldehyde dehydrogenase-2 genotypes. Alcohol Clin Exp Res. 1991;15(1):141-144.
+Edenberg HJ, McClintick JN. Alcohol dehydrogenases, aldehyde dehydrogenases, and alcohol use disorders: A critical review. Alcohol Clin Exp Res. 2018;42(12):2281-2297.
+Kitson TM, Kitson KE, Moore SA. Interaction of sheep liver cytosolic aldehyde dehydrogenase with quercetin, resveratrol and diethylstilbestrol. Chem Biol Interact. 2001;130-132(1-3):57-69.
+Showing all foods in which the polyphenol Quercetin is found – Phenol-Explorer. Accessed April 10, 2025. http://phenol-explorer.eu/contents/polyphenol/291
+Almeida AF, Borge GIA, Piskula M, et al. Bioavailability of quercetin in humans with a focus on interindividual variation: Variability in quercetin bioavailability…. Compr Rev Food Sci Food Saf. 2018;17(3):714-731.

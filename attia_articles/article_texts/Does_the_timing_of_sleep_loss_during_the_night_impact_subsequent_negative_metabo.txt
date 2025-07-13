@@ -1,0 +1,80 @@
+Chronic sleep loss is associated with many disease states (see
+Episode #47
+of
+The Drive
+with Dr. Matthew Walker) and is an increasingly pervasive problem, with
+1 in 3 US adults
+¹
+reportedly getting inadequate sleep
+every night
+.
+Even a single night of altered sleep can lead to
+insulin resistance
+²
+in healthy individuals and can disrupt satiety
+hormone signaling
+³
+, which may contribute to poor metabolic health in the long term through altered eating patterns. However, when sleep loss is unavoidable, are there ways to minimize the damage by adjusting the
+timing
+of sleep loss (i.e., which specific hours of sleep are lost)? To shed light on this question, a recent
+study
+investigated whether the metabolic impact of sleep loss differed when one loses sleep in the first half of the night versus the latter half.
+Study design
+This randomized, crossover study assessed the impact of sleep loss timing on hunger and appetite-regulating hormones among fifteen healthy, normal weight, young males (mean age=24.6 years, mean BMI=23.3). (Note that women are very often excluded from small trials such as this in order to avoid the possibility that menstrual cycles might impact results, so it’s important to keep in mind that findings might therefore
+only be applicable to men.
+) In addition to ensuring all participants were in good metabolic health, the investigators also excluded individuals on the basis of variables known to impact sleep, such as consumption of >50 g alcohol per day or >300 mg caffeine per day, shift work, recent travel between time zones, and habitual sleep <6 hours per day. All fifteen participants underwent three different sleep conditions, conducted 3-5 weeks apart in a random order for each subject: (i) late night sleep loss (sleep from 22:30-03:00 and awake the rest of the night), (ii) early night sleep loss (awake until 02:15 and sleep from 02:15-06:45), and (iii) regular sleep (sleep from 22:15-06:45).
+On each experimental night, subjects were given a standardized 380-kcal meal at 20:15 and afterwards were only allowed to drink water until 11:00 the following day. In the sleep loss conditions, participants remained awake in a sitting position and were permitted to read and watch non-arousing movies during wake time. Blood samples were taken to assess circulating concentrations of ghrelin and leptin – hormones which signal hunger and satiety, respectively – at regular intervals during wake and sleep time (20:00, 21:00, and 22:00 during the night waking period, every 2 hours from 00:00, to 06:00, and each hour from 07:00 to 11:00 during the morning waking period). Hunger, desire to eat, and appetite data were assessed using a self-report scale (each ranked from 0-10) at 60-minute intervals during awake periods.
+Late night sleep loss initially appears worse for hormones and hunger…
+The authors observed that though leptin levels did not differ between conditions, plasma ghrelin was significantly altered depending on the sleep condition. Specifically, sleep onset increased ghrelin in the conditions where participants started their sleep early, but did not spike during the early night sleep loss condition. Further, the morning blood collection data revealed that at 08:00, 10:00, and 11:00, ghrelin concentrations were elevated in the late-night sleep loss condition, but not the early-night sleep loss or regular sleep comparisons, and pairwise comparisons revealed that ghrelin in the late-night sleep loss condition was statistically significantly elevated compared to the early-night sleep loss condition.
+Regarding the self-reported data, the authors observed that feelings of hunger, desire to eat, and appetite were increased in the morning after late night sleep loss versus regular sleep and early night sleep loss conditions (at 07:00 and 08:00). However, by the middle-end of the morning observation period (09:00, 10:00, and 11:00), feelings of hunger, desire to eat, and appetite had largely converged, and were no longer significantly different between conditions (though appetite was slightly lower in the regular sleep group at 11:00).
+…But closer examination reveals significant issues that invalidate the conclusions
+Though the crossover design allows a greater degree of confidence that confounders are not influencing the findings of this study, several outstanding issues still undermine the validity of the conclusion that late night sleep loss is most detrimental to hunger and appetite regulation.
+Though ghrelin was elevated in those with late night sleep loss, the statistical comparison that achieved significance was between late night and early night sleep loss. Next-day ghrelin levels were not statistically different between late night sleep loss and
+regular sleep
+. We know that sleep loss is detrimental to health, so why would regular sleep not be
+better than both sleep loss conditions
+, and particularly the condition that appears to significantly increase hunger? Indeed, ghrelin levels in the regular sleep condition trended slightly (albeit non-significantly)
+higher
+than the early night sleep loss condition. These data would suggest that the best option for controlling hunger would be to get just 4.5 hours of sleep per night, starting around 2:00. Since we know this conclusion is categorically untrue, we must assume that these results are attributable to either unreported methodological issues or to the possibility that ghrelin may not be driving the differences in hunger/appetite regulation after sleep loss.
+The latter conclusion is further supported by the fact that the self-reported data do not reflect ghrelin observations. No groups differed significantly in hunger or desire to eat after 09:00 (at either 10:00 or 11:00). This seems contrary to their results that ghrelin was consistently elevated in the late night sleep loss group through the entire observation period. Ghrelin is far from the only hormone regulating appetite, and we know self-reported data have limited reliability, but if participants were equivalently hungry and had similar desires to eat regardless of the sleep pattern, can we really draw any conclusions about the real-world significance of a short-term difference in ghrelin levels? If the hormone differences do not translate into eating differences (something we cannot know since participants did not have access to food, but we might infer based on the self-report data), it’s hard to argue that this result has any relevance to metabolic health.
+Additionally, although the authors collected blood samples at regular intervals throughout the night, they only report data from the morning following each sleep condition (07:00-11:00). What do leptin and ghrelin values look like throughout the night? These results might give us a much better picture about how the timing of sleep disruption impacts hormonal regulation of hunger/satiety, and their conspicuous absence in the manuscript raises the possibility that the investigators cherry-picked data in order to draw clearer conclusions. For example, if ghrelin changes observed during waking periods in the early night sleep loss condition were similarly elevated, we might conclude that ghrelin fluctuations are, in sum, equivalent between early night and late night sleep loss, and perhaps a full night’s sleep would be found to be better than
+both
+sleep loss conditions. In that case, we would conclude that any sleep loss changes satiety signaling and may in turn drive eating behavior in uncontrolled conditions, regardless of
+when
+sleep is disrupted.
+Alternatively, the overnight ghrelin measurements might reveal more about the impact of
+meal timing relative to sleep
+on hunger and satiety. The only meal provided during each observation period was given at the same time (20:15), regardless of the sleep condition. Being awake for 6 hours after your last meal, compared to 2 hours, is likely to alter the release of hunger and satiety-related hormones. Further, release of these hormones is known to follow circadian rhythms, and it certainly wouldn’t be surprising if forcing someone to go without food for 9 hours after waking would correspond to greater hunger hormone signaling than going without food for 4 hours after waking. (When was the last time you ate breakfast ≥9 hours after getting out of bed??) This might explain, for instance, why no difference was observed between the early sleep loss and regular sleep groups.
+The bottom line
+We can’t really be sure about anything new regarding how the timing of sleep loss impacts hunger and satiety hormones based on this study. Despite a seemingly strong randomized, crossover design, it’s likely that the investigators simply didn’t examine enough metrics and didn’t cover (or report) on a long enough period of time through the day to draw any firm conclusions. However, one thing we can say for certain (based on a large body of evidence) is that
+good sleep
+, or sleep that is long enough and consistently timed, is important for health, and we should all continue to practice it as such. (For more information on improving your sleep,
+Episode #221
+of
+The Drive
+provides an extensive summary of sleep optimization techniques.) If you
+must
+limit sleep duration for any reason, the best strategy for minimizing damage to health is to ensure maximal sleep
+quality
+during the limited time that you have – not trying to choose between early versus late night sleep loss.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References:
+What Are Sleep Deprivation and Deficiency? NHLBI, NIH. Accessed March 27, 2024.
+https://www.nhlbi.nih.gov/health/sleep-deprivation
+Donga E, van Dijk M, van Dijk JG, et al. A single night of partial sleep deprivation induces insulin resistance in multiple metabolic pathways in healthy subjects.
+J Clin Endocrinol Metab
+. 2010;95(6):2963-2968.
+van Egmond LT, Meth EMS, Engström J, et al. Effects of acute sleep loss on leptin, ghrelin, and adiponectin in adults with healthy weight and obesity: A laboratory study.
+Obesity
+. 2023;31(3):635-641.
+Meyhöfer S, Chamorro R, Hallschmid M, et al. Late, but Not Early, Night Sleep Loss Compromises Neuroendocrine Appetite Regulation and the Desire for Food.
+Nutrients
+. 2023;15(9). doi:
+10.3390/nu15092035

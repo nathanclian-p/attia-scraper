@@ -1,0 +1,206 @@
+Check out more content from Layne Norton, Ph.D.:
+(May 24, 2021)
+#163 – Building muscle, losing fat, and the importance of resistance training
+(May 2, 2022)
+#205 – Energy balance, nutrition, & building muscle
+Layne Norton holds a Ph.D. in nutritional sciences and is a physique coach, natural bodybuilder, and
+previous guest on The Drive
+. In the first half of this episode, Layne dives deep into the topic of energy balance, including the role that macronutrients and calories play in weight loss. He describes how many people struggle with tracking food and calories on their own across a variety of diets and how all of this can impact nutritional habits and behaviors. In the second half of the episode, Layne discusses the importance of protein and weightlifting for improving one’s body composition and increasing muscle mass. He explains how he would prescribe different training and nutrition programs for two hypothetical clients—a 50-year-old female who is entering menopause and wants to improve her health, and a 40-to-50-year-old male who wants to maximize muscle mass. Additionally, Layne discusses a number of supplements that could potentially benefit a training program including whey protein, branch chain amino acids, creatine, nitric oxide boosters, and more.
+Subscribe on:
+APPLE PODCASTS
+|
+RSS
+|
+GOOGLE
+|
+OVERCAST
+|
+STITCHER
+We discuss:
+Defining energy balance and the role of calories [2:30];
+Defining a calorie, whether they are all created equal, and how much energy you can extract from the food you eat [8:00];
+Factors influencing total daily energy expenditure [12:15]:
+The challenge of tracking energy expenditure accurately, and the thermic effect of different macronutrients [23:30];
+Challenges of sustained weight loss: metabolic adaptation, set points, and more [34:45];
+Weight loss strategies: tracking calories, cheat meals, snacks, fasting, exercise, and more [40:45];
+Sitting in discomfort, focusing on habits, and other lessons Layne learned as a natural bodybuilder [52:15];
+Commonalities in people who maintain long-term weight-loss [1:01:15];
+Does a ketogenic diet result in greater energy expenditure? [1:03:15];
+The metabolic benefits of exercise, muscle mass, and protein intake [1:15:00];
+The impact of lean muscle and strength on lifespan and healthspan [1:20:00];
+Hypothetical case study #1: Training program for 50-year-old female [1:27:45];
+Muscle protein synthesis in a trained athlete vs. untrained individual following a resistance training program [1:31:30];
+Protein and amino acids needed to build and maintain muscle mass [1:37:15];
+Nutrition plan for the hypothetical 50-year-old woman starting a program to build lean muscle [1:42:45];
+Dispelling myths that excess protein intake increases cancer risk through elevations in mTOR and IGF [1:55:30];
+Hypothetical case study #2: Training program for a 50-year-old, trained male wanting to increase muscle mass [2:04:00];
+Maximizing hypertrophy while minimizing fatigue—is it necessary to train to muscular failure? [2:11:30];
+Ideal sets and reps for the hypothetical 50-year-old male interested in hypertrophy [2:16:15];
+Maximizing hypertrophy by working a muscle at a long muscle length [2:22:15];
+Recommended lower body exercise routines and tips about training frequency [2:24:00];
+Nutrition plan for the hypothetical 50-year old male wanting to add muscle [2:29:00];
+Cycling weight gain and weight loss when building lean muscle mass, and expectations for progress over time [2:33:30];
+Supplements to aid in hypertrophy training [2:38:30];
+More.
+[fusebox_full_player social_twitter=”true” social_facebook=”true” social_linkedin=”true” social_pinterest=”true” social_email=”true” ]
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Name
+This field is for validation purposes and should be left unchanged.
+Δ
+Defining energy balance and the role of calories [2:30]
+Most people think
+energy balance
+is about tracking calories in and calories out
+If I burn 250 calories a day and eat 2000 calories then I should lose 1 lb a week
+When this doesn’t happen they say, “
+this doesn’t work
+”, and there’s a lot of different reasons for this (we’ll come back to later)
+Energy balance is calories in versus calories out (energy consumed and energy spent)
+What is energy?
+A lot of people say calories don’t exist, you can’t see them under a microscope
+We’re talking about energy stored in the chemical bonds of food
+When food is broken down these molecules go through metabolism: glycolysis, the Krebs cycle (shows in the figure below)
+Energy is liberated in these cycle but captured mostly as ATP
+ATP is our high-energy phosphate
+Figure 1. Metabolism: glycolysis and the Krebs cycle
+Image credit:
+Wikimedia Commons
+How energy is stored
+But you can’t store a bunch of
+ATP
+because it is an unstable molecule
+We have evolved to store fat in adipose tissue; this is a store of excess energy
+You can store some energy in glycogen
+Layne argues that you can’t really store energy as protein
+Some claim that you can break down lean tissue but to him this is like saying, “
+Let’s build a house so it’s a reservoir for wood
+”
+The contribution of
+glycogen
+to your relative energy stores, it’s actually really small
+About 1500 to 2000 calories of energy
+So your adipose tissue is by far the biggest energy store
+It’s economical for space because you can fit a large amount of lipid/fat in a small area
+It’s energy dense
+It’s relatively easy to convert fat to ATP
+Glycogen has to track with a lot of water; it’s not an efficient way to store energy
+Defining a calorie, whether they are all created equal, and how much energy you can extract from the food you eat [8:00]
+Calories
+are literally a measurement of energy
+It’s just a unit of measurement
+When people ask, “
+Aren’t all calories created equal?”
+That’s like saying, “
+Are different notches on your speedometer different?
+”
+Think of calories as the energy stored in chemical bonds that can be transferred through various metabolic processes
+Metabolism is simply trying to capture the metabolizable energy in food
+One important caveat— not everything in food is metabolizable, especially with regards to
+fiber
+and specifically insoluble fiber
+It used to be thought that insoluble fiber can’t be digested at all, that it contributes zero calories
+Now there is some evidence that our gut microbiome can extract some calories from insoluble fiber
+Work by
+Suzanne Devkota
+shows this, maybe 1-4 calories per gram
+4 calories per gram is the normal amount found in carbohydrates
+Food component
+Calories/ gram
+(or kcal/g)
+Polyols (sugar alcohols, sweeteners)
+2.4
+Organic acids
+3
+Carbohydrate
+4
+Protein
+4
+Alcohol (ethanol)
+7
+Fat
+9
+So the big C (calorie) = 1000 little c (calories) or kcal (kilocalories)
+Most people say they eat 2000 calories but in realities this is 2000 kcal
+A calorie is defined as
+the energy needed to heat 1 gram of water from 14.5 to 15.5-degrees Celsius at 1 atmosphere
+Normally we would think of a
+joule
+as a unit of energy
+It’s also important to point out the
+conservation of energy
+as it changes forms
+The energy in food is stored in its chemical bonds (chemical energy)
+This is turned into electrical energy via the
+electron transport chain
+(shown in the earlier figure)
+Then we turn it back into chemical energy with the generation of
+ATP
+(at the end of the electron transport chain)
+ADP + P
+i
++ free energy → ATP + H
+2
+O
+The phosphate bond created between ADP and inorganic phosphate (P
+i
+) stores energy
+This energy is transferred to a hydrocarbon with the production of fatty acids; reactions are coupled to ATP hydrolysis to transfer energy to another bond
+ATP hydrolysis releases energy, ATP + H
+2
+O → ADP + P
+i
++ free energy
+Carbon-hydrogen bonds are the most energy dense bonds in our body, more so than carbon-oxygen bonds
+Fatty acids
+are long chains of carbons and hydrogens; this is why fatty acids have more calories per g than carbohydrates
+Carbohydrates
+have more oxygens; see the figure below
+Figure 2. Comparing the composition of a fatty acid to the carbohydrate glucose.
+Image credit:
+Wikipedia
+Fats, through
+beta-oxidation
+are broken down in 2-carbon units to directly create Acetyl-CoA which goes directly into the Krebs cycle
+For glucose, there’s a lot more involved to generate ATP
+Glucose does have benefits in terms of the amount of oxygen required [is less] to generate the same ATP
+Peter notes, “
+you can really liberate different amounts of energy from the same foods, depending on many things, but presumably based on your gut microbiome. That’s probably one of the things that’s going to create a pretty sizable delta when it comes to how much food you’re capturing. In other words, how much of that chemical energy you are able to recoup and repurpose into electrical energy.
+”
+Layne agrees, there is evidence that the gut microflora in people prone to obesity are better able to extract energy from the foods they eat
+This could be reverse causation, that the diet these obese people eat causes these types of gut microfloa to grow and so forth
+You have to be careful about establishing correlation versus causation
+It is possible to assess how much energy is lost in fecal matter
+It’s usually 5-10%; this accounts for 95% of people but there is variation
+So for the vast majority of people, differences in calories extracted by gut microflora isn’t going to cause a significant difference (only for a few outliers)
+There is some variability in the amount of energy you can extract from the food you eat
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Layne Norton, Ph.D.
+Layne Norton is a natural pro bodybuilder, professional powerlifter, and a bodybuilding / figure / physique coach.  He has won numerous bodybuilding and powerlifting competitions and currently holds the world record for the IPF 93 kg class squat (303 kg, 668 lbs).  He is the co-author of several books, including
+Fat Loss Forever: How to Lose Fat and KEEP It Off
+, as well as several research publications. He has a degree in biochemistry from Eckerd College and earned his PhD in nutritional sciences from the University of Illinois.
+Website:
+Biolayne
+Podcast:
+Physique Science Radio
+Twitter:
+@BioLayne
+Facebook:
+Layne Norton
+Instagram:
+Biolayne

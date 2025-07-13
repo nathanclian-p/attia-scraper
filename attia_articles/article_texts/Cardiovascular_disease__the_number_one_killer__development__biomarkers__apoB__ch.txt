@@ -1,0 +1,185 @@
+Tom Dayspring is a world-renowned expert in clinical lipidology and a previous guest on The Drive. In this episode, Tom explores the foundations of atherosclerosis and why atherosclerotic cardiovascular disease (ASCVD) is the leading cause of death worldwide for both men and women. He examines how the disease develops from a pathological perspective and discusses key risk factors, including often-overlooked contributors such as insulin resistance and chronic kidney disease. He breaks down the complexities of cholesterol and lipoproteins—including LDL, VLDL, IDL, and HDL—with an in-depth discussion on the critical role of apolipoprotein B (apoB) in the development of atherosclerosis. Additionally, he covers the importance of testing various biomarkers, the impact of nutrition on lipid levels, and the vital role of cholesterol in brain health, including how cholesterol is synthesized and managed in the brain, how it differs from cholesterol regulation in the rest of the body, and how pharmacological interventions can influence brain cholesterol metabolism.
+Subscribe on:
+APPLE PODCASTS
+|
+SPOTIFY
+|
+RSS
+|
+OVERCAST
+Play
+#334 - Cardiovascular disease, the number one killer: development, biomarkers, apoB, cholesterol, brain health, and more | Tom Dayspring, M.D.
+#334 - Cardiovascular disease, the number one killer: development, biomarkers, apoB, cholesterol, brain health, and more | Tom Dayspring, M.D.
+1x
+15s
+30s
+0:00
+2:17:37
+We discuss:
+Defining atherosclerotic cardiovascular disease (ASCVD): development, risks, and physiological impact [2:45];
+The pathogenesis of ASCVD: the silent development over decades, and the importance of early detection for prevention of adverse outcomes [10:45];
+Risk factors versus risk markers for ASCVD, and how insulin resistance and chronic kidney disease contribute to atherosclerosis [17:30];
+How hyperinsulinemia elevates cardiovascular risk [24:00];
+How apoB-containing lipoproteins contribute to atherosclerosis, and why measuring apoB is a superior indicator of cardiovascular risk compared to LDL cholesterol [29:45];
+The challenges of detecting early-stage atherosclerosis before calcification appears [46:15];
+Lp(a): structure, genetic basis, and significant risks associated with elevated Lp(a) [55:30];
+How aging and lifestyle factors contribute to rising apoB and LDL cholesterol levels, and the lifestyle changes that can lower it [59:45];
+How elevated triglycerides, driven by insulin resistance, increase apoB particle concentration and promote atherosclerosis [1:08:00];
+How LDL particle size, remnant lipoproteins, Lp(a), and non-HDL cholesterol contribute to cardiovascular risk beyond apoB levels [1:21:45];
+The limitations of using HDL cholesterol as a marker for heart health [1:29:00];
+The critical role of cholesterol in brain function and how the brain manages its cholesterol supply [1:36:30];
+The impact of the ApoE genotype on brain health and Alzheimer’s disease risk [1:46:00];
+How the brain manages cholesterol through specialized pathways, and biomarkers to track cholesterol health of the brain [1:50:30];
+How statins might affect brain cholesterol synthesis and cognitive function, and alternative lipid-lowering strategies for high-risk individuals [1:57:30];
+Exciting advancements in therapeutics, diagnostics, and biomarkers coming in the next few years [2:09:30];
+Recent consensus statements on apoB and Lp(a) from the National Lipid Association (NLA) [2:12:30]; and
+More.
+Show Notes
+Defining atherosclerotic cardiovascular disease (ASCVD): development, risks, and physiological impact [2:45]
+We’re here to talk about ASCVD, cardiovascular disease
+There aren’t many people who heard our first podcast series together
+[the 5-part series is listed in the see the “selected links” section at the end of these notes]
+Peter still gets many notes from people who are just discovering that or who listened to it way back
+That discussion is a little bit intimidating for someone who’s trying to understand this topic
+Today, Peter wants to bring a little bit of brevity to what they discussed then and also update people on all the things that have changed in the past 6 years
+Define what is meant by atherosclerotic cardiovascular disease (ASCVD)
+⇒
+That’s a very specific type of a vascular disease, and that means arteries throughout your body acquire a pathology: deposition of cholesterol in the artery wall
+If you don’t have cholesterol in your artery wall, you don’t have atherosclerotic heart disease
+We have many arteries in our body and some are much more afflicted than others
+The arteries of most concern are the smaller ones supplying our heart and brain
+Because those are essential organs that need a profuse blood flow with all the nutrients and oxygen in the blood
+The lumen of the
+cerebral arteries
+is so small: it’s like the dot of a pencil, so it doesn’t take much to affect the blood flow that’s going through it
+Over time, with this deposition of cholesterol, 2 things that can happen
+1 – It can build up, and the artery lumen starts to narrow-narrow, which would interrupt the blood flow
+2 – Probably more often is the deposition of cholesterol in the artery wall, and those collections are called
+plaque
+That plaque can become very inflamed and rupture or erode, and that sets off the
+coagulation system
+in the arteries, which rapidly cause narrowing or obstruction of that coronary artery
+Atherosclerosis is the deposition of cholesterol in the artery wall
+How did this happen?
+The artery is not over-synthesizing cholesterol
+Tom’s joke is, “
+It’s a dump job
+,” somebody brought cholesterol into that artery wall
+Peter’s summary
+Arteries come in all shapes and sizes
+The largest is the aorta coming off the heart, running up in an arch to supply the vessels of the head and then down into the abdomen where every artery of the body arises
+It’s not that the arteries of the heart are uniquely susceptible to this process you just described as atherosclerosis, it’s 2 things that are conspiring against us
+1 – Very small arteries: it doesn’t take a significant amount of obstruction to create ischemia (a technical term for when oxygen is no longer able to perfuse the tissue)
+2 – It happens to afflict an artery that is specifically sensitive to the demands of oxygen
+Peter remembers explaining this to his daughter’s 7th-grade class
+He came in to do a dissection, and explained part of the reason we don’t have “butt attacks” and we have heart attacks is that the glute muscles are not quite as sensitive to oxygen, and there were many forms of collateralization
+Of course, what everyone remembered was “butt attacks”
+Brain and heart have this issue where tiny blood vessels are very susceptible to collateralization
+And catastrophic things happen
+1 – The gradual occlusion of the arteries is probably what more often leads people to complain of chest pain when under demand
+Such as climbing the stairs or when at the gym
+Under normal circumstances, they don’t feel it
+If they take a
+nitroglycerine
+, everything goes away
+(we’ll talk about why all of that’s happening in a moment)
+2 – A plaque ruptures causing complete occlusion of a coronary artery
+That’s really a frightening scenario
+The clotting system of the body responds in the way that it should respond when damage occurs
+For example, if you cut your skin
+But this turns out to be the worst thing the body could have done
+This clotting response is what creates a sudden occlusion, and in an ironic way, the body kills itself
+If that occurs in the wrong part of the anatomy of the heart, that person will be dead within a matter of minutes if an intervention is not performed
+The brain and heart can’t go very long without nutrients
+The bigger arteries that are bringing in blood to the brain are pretty asymptomatic until they are 75, 80% occluded
+At which point those organs are deprived of the nutrients they need
+This can build up for a long time without you knowing it
+At least if you report chest pain, you will get diagnosed in time to do something about it
+⇒
+This is different from a plaque rupture where you’ve got 4 minutes for somebody to dial 911 and hopefully somebody can give you CPR until you can get and take a
+clot buster
+The pathogenesis of ASCVD: the silent development over decades, and the importance of early detection for prevention of adverse outcomes [10:45]
+The timeline of events
+Atherosclerosis is the leading cause of death in the US and globally, of both men and women
+This is largely viewed as a disease of the elderly
+Does that give us any insight into the time horizon of this disease or the pathophysiology?
+It clearly does
+If the deposition of cholesterol is the problem, and you got your cholesterol checked and it’s very high, you don’t have to rush out to see a cardiologist to check your arteries that day, because
+it takes a long, long time for this cholesterol deposition to occur
+These are very small molecules
+The way it’s being deposited in your artery wall: they’re very, very tiny dump trucks carrying cholesterol
+“
+It takes decades for this plaque to finally get to a point where it’s noticeable on some diagnostic image. Certainly, it would take even longer for symptoms to occur, and everything. So, it’s a slow-slow process.
+”‒ Tom Dayspring
+But we know this is occurring, basically, from childhood on
+There are pediatric studies (
+PDAY
+,
+Bogalusa Heart Study
+) where young children have died of this or that, and they get autopsied and they have fatty streaks in their aorta at ages 4, 5, 7, and 8
+We know from autopsy studies of military personnel who, unfortunately, get killed in their job, that these young men, many of them robust, in great shape, have subclinical atherosclerosis
+But none of them are dropping dead of heart attacks while they are serving in the military, with rare exception
+The point is, it takes a long, long time
+Most of the heart attacks occur after age 40 (in men and women)
+Tom explains, “
+We are recognizing now, the real opportunity is to diagnose who might be having cholesterol deposition at a much younger age when we can just arrest it with various modalities.
+”
+Peter’s story from medical school (almost 30 years ago)
+In the 1st year of medical school, the pathology professor asked, “
+What’s the most common presenting sign of myocardial infarction?
+”
+Of course, every medical student put up their hand and went through the litany of symptoms that you might have; chest pain, shortness of breath, left shoulder pain, nausea, etc.
+He said, “
+No, it’s actually sudden death
+.”
+That was true at the time
+It’s not still true today, but it’s close
+⇒
+The last thing Peter read suggested <50% of people’s first
+MI
+will be a fatal one
+Do you happen to know the most recent stats on that?
+No, but it’s still quite high
+The majority do survive, but it’s got to be close to 40% that just don’t have that opportunity
+To think that only 25, 30 years ago, that number was north of 50%
+The other statistic Peter has shared before, but it always bears repeating
+⇒
+If you take all of the men who are going to suffer a
+major adverse cardiac event [MACE]
+, 50% of them will experience their first event before the age of 65
+MACE includes heart attack, stroke, cardiac death, etc.
+That’s a pretty big number
+And 33% of women in the same boat will experience their first event before the age of 65
+Peter adds, “
+The older I get, the younger 65 feels… I don’t think of 65-year-olds as old people anymore.
+”
+50% of men and a third of women who are ultimately suffer a cardiac event will suffer their first one (potentially fatal) before age 65
+This puts in perspective the temporality of this condition
+Peter’s summary
+This is a disease that begins at birth
+This is largely established through autopsy studies where children, teenagers, people in their 20s die for other reasons; car accidents, homicides, war; and in the process of doing an autopsy, we see the early stages of atherosclerosis
+The evidence is quite conclusive that this is a disease process that might be inevitable to our species, if we live long enough
+What might separate the people who never get it (or the people who die from something else at old age versus the people who do), simply has to do with the rate of the accelerator and the rate of the brake application, vis-à-vis, these modifiable and non-modifiable risks
+Tom’s addendum on how early this can start
+There are
+fetal autopsy studies
+in mothers who have familial hypercholesterolemia, and when they look at the little fetus’ heart, they actually see the beginning of plaque development
+Figure 1. Lipid accumulation in fetal aortas
+.
+It occurs early, and this is why pediatric guidelines have now at least encouraged lipid testing in the pediatric age group, probably age 8 or 9
+You don’t wait until you are 40 or 50
+Even though we can still help that patient
+We are moving into what’s called “
+primordial prevention
+” ‒ discover the risk factors early, and whatever ones you can modify earlier rather than later is the time to do it
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Tom Dayspring, M.D.
+Thomas Dayspring MD is a Fellow of both the American College of Physicians and the National Lipid Association and is certified in internal medicine, and clinical lipidology. After practicing in New Jersey for 37 years, in 2012 he moved to Virginia and served as an educational director for a nonprofit cardiovascular foundation and until mid-2019 as a Chief Academic Advisor for two major CV laboratories. Since then, he has served as a virtual cardiovascular / lipidology educator. Career-wise he has given over 4000 domestic (in all 50 states) and several international lectures, including over 600 CME programs on atherothrombosis, lipids/lipoproteins (and their treatment), vascular biology, biomarker testing, and women’s cardiovascular issues. He has authored several manuscripts and lipid textbook chapters and performed several podcasts. For several years he was an Associate Editor of the
+Journal of Clinical Lipidology
+. He was the recipient of the 2011 National Lipid Association’s President’s Award for services to clinical lipidology and the 2023 Foundation of NLA Clinician/Educator Award. He has over 38K followers on his educational Twitter (X) feed (
+@Drlipid
+). He has Gold Heart Member status as a professional member of the American Heart Association and serves as a Social Media Ambassador for the European Atherosclerosis Society and for the National Lipid Association.

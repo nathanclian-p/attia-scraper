@@ -1,0 +1,145 @@
+In this “Ask Me Anything” (AMA) episode, Peter and Bob take a deep dive into zone 2 training. They begin with a detailed definition of zone 2 and continue by discussing the importance of adding it to your exercise regimen. They talk about how to program zone 2 training, including intensity, frequency, and duration, and metrics for tracking improvement. Additionally, they provide a detailed overview of all things related to magnesium supplementation. The two conclude with insights about how to effectively engage with your doctor in the pursuit of getting your questions answered and considerations for finding a physician that’s right for you.
+If you’re not a subscriber and listening on a podcast player, you’ll only be able to hear a preview of the AMA. If you’re a subscriber, you can now listen to this full episode on your
+private RSS feed
+or on our website at the
+AMA #19 show notes page
+. If you are not a subscriber, you can learn more about the subscriber benefits
+here
+.
+We discuss:
+Defining zone 2 exercise (3:30);
+The most effective ways to engage in zone 2 exercise (14:00);
+The process of training a deconditioned individual with zone 2: Dosage, frequency, and metrics to watch (19:45);
+Training for health vs. performance, and the importance dedicating training time solely to zone 2 (25:00);
+Why Peter does his zone 2 training in a fasted state (31:30);
+Improving mitochondrial density and function with zone 2 training (34:00);
+Metrics to monitor improving fitness levels from zone 2 training (36:30);
+Advice for choosing a bicycle for zone 2 exercise at home (42:30);
+Comparing the various equipment options for aerobic training: Rowing machine, treadmill, stairmaster, and more [48:15];
+Back pain and exercise, and Peter’s stability issues as a consequence of previous surgeries (51:45);
+A deep dive into magnesium supplementation, and Peter’s personal protocol (55:30);
+Advice for engaging with and questioning your doctor (1:03:15); and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Comments
+This field is for validation purposes and should be left unchanged.
+Δ
+Defining zone 2 exercise [3:30]
+Exercise framework
+:
+Peter has a framework for exercise which has four components: Stability, strength, aerobic efficiency, and anaerobic performance (see
+AMA #7
+and
+AMA #12
+)
+So when we talk about zone 2, we must understand that it is but
+one component
+Defining zone 2 exercise
+:
+⇒ Zone 2 exercise was covered in a
+previous podcast with Iñigo San Millán
+Zone 2 is defined
+as your highest metabolic output/work that you can sustain while keeping your lactate level
+below two millimole per liter
+(mmol/L)
+Biochemically, what’s happening as you exercise (or do anything) is the process of respiration, the process of using substrate
+We use glucose, we use fatty acids, we use oxygen, and we undergo a chemical process.
+We take the chemical energy that is stored in the bonds of those molecules and turn that into electrical energy (via the
+electron transport chain
+)
+It then gets turned back into chemical energy as we borrow from that energy to make
+ATP
+—our currency for how we do everything
+-The first step
+:
+Turning glucose (just using glucose in this example for simplicity) which it’s a six carbon ring, into two smaller molecules that are each made up of three carbons called
+pyruvate
+This step yields some energy, and costs some energy
+–
+Step two
+: The body has a choice whether to:
+A) Continue this process
+outside of the mitochondria
+where I make another by-product called lactate (which can generate a little bit more ATP); Or
+B) Take that pyruvate and shuttle it into the mitochondria, and undergo a separate chemical pathway and a separate process called the
+Krebs cycle
+where you can make MANY more ATPs
+Figure 1. ATP generation.
+[
+source
+]
+Figure 2. Krebs Cycle.
+[
+source
+]
+==> Krebs Cycle explained by Khan Academy
+here
+-How does your body decide between A and B pathways to ATP?
+If you need to make ATP really quickly, you’ll take that former pathway and make lactate because you don’t need oxygen to do it—meaning you’re not limited by the amount of oxygen that is being taken up by the muscle
+If you have more time on your hands, you’ll take the latter pathway—meaning you will utilize oxygen and actually take that substrate into the mitochondria, and you will be able to make tons of ATP
+What differentiates individuals…
+Note: Not all people are not created equal—Both genetically, but more importantly,
+through training
+What differentiates the highly trained/metabolically fit from the untrained/metabolically unfit…is that
+ability to, under a greater and greater array of metabolic demands, make that input of substrate into the mitochondria
+Mitochondrial health
+then can be somewhat estimated and proxied by the ability a person has to do this
+-How would you measure this?
+One of the most valuable ways to do this is to measure lactate levels
+If you start producing too much lactate, it will actually escape the muscle and get into your circulation… which can then be easily measure with a
+finger prick
+Lactate levels at rest and during exercise
+A healthy person when they’re sitting there at rest has a lactate level of about
+1.0 mmol/L
+Basic activities of daily living (walking, standing, eating) shouldn’t at all be pushing you to generate higher levels of lactate to the point that you accumulating lactate
+What happens if you start doing something a little more strenuous?
+At some point, you’re going to have to start generating lactate (even the fittest person ever)
+If you need to make energy (ATP) faster than you’re able to deliver oxygen to your muscles, at some point the
+lactate begins to accumulate in excess of what is cleared
+It’s a bit more complicated…
+The organ that is primarily responsible for clearing lactate is the liver (via gluconeogenesis), and that takes longer so there’s a big time lag there
+The other thing is that different people have different amounts at which they clear lactate from the cytoplasm of the cell—which is done via transporters called MCTs—and different people can have different levels of MCT expression
+The upshot:
+The fitter a person is, the healthier a person is,
+the more work they can do with less lactate
+For a given individual, we use this metric of zone 2 as a place to understand
+how metabolically healthy they are;
+how good their mitochondria are; and
+how much work can be done while keeping your lactate about 1.7 to 2.0 mmol/L
+⇒ For example, You could say, “My zone two is 200 watts.” And that would mean you could hold 200 watts on a bike for a very long period of time, because you’re never really going above 2.0 mmol
+2.0 mmol/L is a very sustainable level of lactate production well below lactate threshold
+Lactate thresholds for most people is about 4.0 mmol/L
+An athlete, for context, is really only able to hold a 4.0 mmol pace for tens of minutes if not less
+And peak output is going to produce lactates easily over 10 and in some cases over 20 and those efforts can only be sustained for seconds
+You can think of zone 2 as your “all day pace”
+In the
+podcast with Iñigo San Millán
+…
+They discussed a
+study
+that compared 3 groups of people: i) type 2 diabetic ii) normal fit people, and iii) to world-class athletes (cyclists)
+The difference in the amount of power that the athletes could put out on a bicycle while keeping lactate at 2.0 mmol/L was staggering — Especially once you normalize for weight and you get how many watts per kilos
+Figure 3.
+Image credit: (
+Brooks and Millan, 2018
+)
+The most effective ways to engage in zone 2 exercise [14:00]
+Machines for doing zone 2 exercise
+:
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member

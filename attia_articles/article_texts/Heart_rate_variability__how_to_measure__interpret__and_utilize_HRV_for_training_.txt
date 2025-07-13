@@ -1,0 +1,133 @@
+Joel Jamieson is a conditioning expert who developed
+Morpheus
+to give people a smarter way to build their conditioning regimen and improve their recovery. In this episode, Joel dives deep into the world of heart rate variability (HRV), explaining its scientific foundation, how it measures the balance between the sympathetic and parasympathetic nervous systems, the various methods of measurement, and how it can guide healthier lifestyle choices and improved training performance. He explores the nuances of HRV calculation, the impact of aging on HRV, and the roles of genetics, exercise, and other lifestyle factors in this process. He also covers Morpheus, the innovative training tool that won Peter over after his initial skepticism, highlighting its practicality and effectiveness in guiding training and optimizing fitness outcomes.
+Subscribe on:
+APPLE PODCASTS
+|
+RSS
+|
+GOOGLE
+|
+OVERCAST
+|
+STITCHER
+We discuss:
+Heart rate variability (HRV): evolution, science, and practical applications of HRV in athletic training [4:00];
+Methods of measuring HRV: EKG, wrist-based sensors, and more [11:30];
+How HRV is calculated from the data [22:30];
+The role of the autonomic nervous system (ANS) in regulating HRV [25:45];
+The decline in HRV with age, and the mitigating effects of fitness and other lifestyle factors [33:30];
+The role of genetics in HRV, the modifiability of HRV, and a comparison of VO2 max and HRV as predictors of mortality [37:00];
+How aging affects HRV and sympathetic drive, and the importance of spontaneous movement and exercise in maintaining the body’s adaptability [43:30];
+How Morpheus measures HRV using RMSSD and normalizes it to a 100-point scale for easier interpretation [49:45];
+The Morpheus system: development, integration with various metrics, and personalized daily training recommendations to optimize fitness and recovery [51:30];
+The benefits of morning HRV readings for assessing daily readiness compared to overnight HRV measurements [1:03:00];
+Why Morpheus recommends using a chest strap rather than an arm band [1:10:00];
+The impact of consistent exercise, stress, alcohol, and other lifestyle factors on HRV [1:11:15];
+Optimizing zone 2 training with Morpheus [1:18:15];
+Using heart rate recovery (HRR) as an indicator of athletic conditioning and the balance between aerobic and anaerobic systems [1:22:45];
+The importance of tracking HRV trends over time rather than focusing on data from a given day [1:29:00];
+Effect of GLP-1 agonists on heart rate and HRV [1:34:45];
+Where HRV belongs in the hierarchy of health metrics [1:42:00];
+Parting thoughts [1:46:30]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Email
+This field is for validation purposes and should be left unchanged.
+Δ
+Heart rate variability (HRV): evolution, science, and practical applications of HRV in athletic training [4:00]
+Heart rate variability (HRV)
+is something everybody has heard of, people have a vague sense of what it is, but once you get beyond a superficial description of it, most people don’t really understand
+Certainly people (Peter included) don’t understand how to use the data
+Before we dive into that, give folks a bit of your background and what brought you to study this
+Joel has been using HRV for 20 years, and it’s really interesting to see the growth of it
+He was in his early 20s when he graduated from the University of Washington
+He interned there and did strength and conditioning
+Then he progressed to the Seahawks to work with the same coaches
+A track coach named
+Randy Huntington
+was the USA Track and Field Jumps coach
+He coached
+Mike Powell
+, who broke Carl Lewis’s long jump world record in 1991
+Randy was a tremendous coach and when Joel was talking to him one day, asking him general advice for a young coach, he recommended he contact a guy named Val who would then tell him all about HRV (this was 20 years ago)
+Joel met Val at a hotel by the airport where he was instructed to take off his shirt and Val proceeded to pull out a big laptop, plug in wires, attach electrodes to Randy’s chest, ask him about his birthdate and weight
+After 3 minutes, Joel sees all this stuff happening on the computer
+Val then tells him about his recovery status, his readiness, his metabolic profile, his central nervous system
+He explained, “
+You’re much more strength oriented and your cardiovascular system’s not very good
+” (which was accurate at the time)
+20+ years ago, HRV was not something people were aware of
+The idea that you could take something out of a laptop, connect it with the body and have any idea physiologically about the athlete was completely new and foreign to Joel
+He immediately realized that he needed this
+There’s so much of a black box when it comes to fitness
+Sometimes he does a workout and gets better and sometimes he doesn’t. Why?
+Val explained the history of HRV, and this is interesting because it goes way back to the 1700s (awareness of beat-to-beat intervals)
+The Chinese have used pulse medicine for a long time
+The Russians were ahead of the game as far as application of HRV
+In the 1950s, they were aware that from an
+ECG
+you could pull out these beat-to-beat intervals and get something more than just heart rate
+When they sent the first human being in space (
+Yuri Gagarin
+), they were able to send back the ECG and some respiratory data and see fundamentally what happened to people when you shot them into space
+They saw as soon as he went into space, his HRV went way up
+Probably because you have changes in blood pressure, you have less gravity so you don’t have to have as much muscle activity
+They started using this in the ‘60s, which is fascinating because it wasn’t seen in Western literature until decades later
+They dominated the Olympics in 1980
+They had a very elaborate drug program and an elaborate training program
+In the mid-80s they started figuring out how to use this tech for sport performance
+They put together an engineering team and they started collecting data on thousands of Russian athletes of all levels from their school age kids all the way up to the Olympic athletes
+They collected just populational norms
+They started building the system that was meant to monitor training and be used for training
+They spent years working on this platform, but before they could finish it, the Soviet Union collapsed and the team involved dispersed
+By chance, a lot of them were involved in track and field and different sports
+They ended up reconvening at a track meet in Eugene and talking about this past project
+They decide that they want to get together and keep working on this because they’d never brought to fruition, and they did
+That was the first system commercially available for sport and fitness, and this is what Joel was introduced to at the time
+The first HRV system
+It was a very research heavy, medical type system that was not easy to interpret
+Joel didn’t have $35,000 to buy it, but he convinced them to let him help them introduce it to teams across the US and gain some exposure for them
+He started using it
+It gave you 12 or 14 different metrics of heart rate variability
+It required you to connect electrodes to people before you’d measure them
+Joel explains, “
+That introduction to it ,where I started this whole journey and 20 years of looking at data and coaching people and trying to understand what the data was telling me and how it aligned with all these other metrics, [it] has really just led down this path of how you get to heart rate variability today.
+”
+He spent the next 20 years coaching with it
+Looking at HRV, he opened a gym, he worked with lots of fighters, athletes, different teams, military groups
+Methods of measuring HRV: EKG, wrist-based sensors, and more [11:30]
+When Joel was first introduced to HRV and it was done off an
+EKG
+, Peter assumes that 3 leads would be sufficient
+You could get it from 3 leads but they used 6
+Is EKG still the gold standard for measuring HRV?
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Joel Jamieson
+Joel Jamieson is an authority on strength, conditioning, and energy systems for combat sports and the author of
+Ultimate MMA Conditioning
+. He has spent the past 20 years coaching world champion athletes. He has consulted extensively for teams and organizations including the Navy SEALS, UFC champions, and professional sports teams from the NFL, NBA, MLS, and NCAA. Joel is the founder of
+8WeeksOut
+and
+Morpheus
+. His training strategies are evidence-based, individualized, and practical to apply. [
+Breaking Muscle
+]
+Instagram:
+@coachjoeljamieson

@@ -1,0 +1,87 @@
+Whether from grade school health class, decades of television PSAs, or my own oft-repeated refrains on the topic, anyone reading this will be well aware of the conventional wisdom that exercise reduces risk of heart disease. So when a study this year reported that longer durations of physical activity were associated with
+increased
+coronary artery calcification
+(CAC, a marker of atherosclerotic plaques),
+1
+you can imagine the flurry of questions and concerns that followed. But as is so often the case, these findings are less than they might initially seem, so let’s set the record straight.
+What they did
+To investigate how the intensity and duration of physical activity (PA) impact the relationship between activity levels and CAC, authors Pavlovic et al. evaluated data from 23,383 generally healthy men (mean age: 51.7±8.3 years) from the Cooper Center Longitudinal Study cohort. Participants had undergone a CAC scan and completed a thorough questionnaire on PA between 1998 to 2019. The questionnaire was designed to assess exercise habits over the previous three months, and using these results, the investigators categorized participants based on their average PA
+intensity
+(calculated as total volume divided by total duration and binned as follows: 1 MET; 3 to 5.9 METs; 6 to 8.9 METs; or 9 to 12 METs) as well as their weekly
+duration
+of activity (0 hours/week; >0 to <2 hours/week; 2 to 5 hours/week; or ≥5 hours/week). They then analyzed these data to characterize their association with CAC after adjustment for age, smoking status, BMI, circulating glucose and cholesterol levels, and resting systolic blood pressure.
+What they found
+As one might expect, results on PA intensity demonstrated that CAC levels (as measured in Agatston units, or AU) was inversely correlated with average PA intensity, meaning that higher exercise intensity was associated with less artery calcification. Specifically, for every one-MET increase in average PA intensity, mean CAC decreased by 3.1% (95% CI: -4.6% to -1.6%).
+More surprisingly, however, the researchers observed a
+direct
+correlation between PA
+duration
+and CAC. For each additional hour of weekly exercise duration, mean CAC score
+increased
+by 2.4% (95% CI: 1.1% to 3.7%). Further, in comparing higher (≥5 hours/week) versus lower (<5 hours/week) durations as a categorical variable, the authors report that average CAC in the higher duration group were 19.9% (95% CI: 10.1% to 29.7%) greater than averages among the lower duration group.
+Figure:
+Mean coronary artery calcium in men as a function of average intensity of physical activity (blue) and total weekly duration (red). Created using data from Pavlovic et al.
+Pavlovic et al. note that their findings with respect to exercise intensity and duration were independent of each other(
+P
+interaction
+=0.246). In all, they conclude that both low intensity and long duration of physical activity are independently associated with elevated CAC, leading to public concerns that exercising too much might in fact be detrimental to cardiovascular health.
+Another case of misleading correlations
+So do these results mean that everyone should cut down on their exercise time and only focus on short bursts of high intensity training? Absolutely not. Concerns over “too much” exercise as a result of this study are yet another example of inappropriate causal inference based on strictly correlational data, and once again, closer inspection reveals plenty of alternative explanations for the apparent association.
+A correlation between weekly PA duration and CAC score does not tell us anything about whether increased PA duration in any way might
+cause
+increased artery calcification, and conclusions about causality are even less valid when relying exclusively on a cross-sectional snapshot, as was the case with this investigation. Indeed, a recent
+longitudinal
+study by the
+same research group
+suggests that such a causal link does
+not
+exist, as no differences in CAC progression were observed across different volumes of PA over a mean follow-up period of 7.8 years.
+2
+In that paper, the authors themselves admit that various biases or confounding factors could lead to a discordance between cross-sectional and longitudinal data. It’s even conceivable that a
+reverse
+causality relationship might be at play, as those who learn they have a high CAC score might be more inclined to engage in more exercise in an attempt to mitigate their risk of cardiovascular events.
+Additionally, Pavlovic et al. report the association between exercise duration and CAC as a dose-dependent relationship (i.e., CAC increases incrementally with every incremental increase in PA duration), but this dose-dependency falls apart when we look at the group of participants recording
+zero
+hours of PA per week. Mean CAC score in this group (226.9±625.9) was
+much higher
+than it was for any other category of weekly PA duration (the next highest being 199.7±566.6, among the ≥5 hours/week group), and the 0 hours/week group also included a higher percentage of individuals with CAC ≥100 than any other group.
+All of this isn’t even to mention the limited representation of the study cohort (mostly white and entirely male) or the fact that the analyses relied on self-reported PA data, a notoriously unreliable means of collecting information. Biases in reporting, particularly with respect to health-related behaviors like exercise, can significantly influence results from participant questionnaires – and thus, influence the results of the studies relying on these questionnaires.
+A question of risk and benefit?
+Still, Pavlovic et al. are not the first to report a seemingly paradoxical relationship between exercise volume and CAC. Some who are reading this may recall an interview I had with
+Dr. Ethan Weiss
+, in which we discussed evidence that endurance athletes with high cardiorespiratory fitness often tend to have an unexpectedly high degree of coronary artery calcification. As he explained, such a link might be plausible given the increased shear stress on vasculature associated with extreme exercise, but even at this upper end of activity levels, evidence to date suggests that increased CAC in these individuals is
+not
+associated with increased risk of cardiovascular or all-cause mortality (again, work done in part by the research group behind the Pavlovic et al. study).
+3
+Ultimately, CAC is only valuable as far as it is an indicator of one’s risk of cardiovascular events or mortality – a low CAC score is not an end in itself, but rather a means of ensuring low CV risk. Thus, even if large volumes of exercise
+do
+promote CAC progression (again, not clearly established), if this effect doesn’t correspond to an increase in CV risk, it’s possible that the CAC is particularly stable – in which case, the
+reduction
+in CV risk associated with more exercise (for instance, by reducing blood pressure and maintaining metabolic health) almost certainly outweigh any
+increase
+in risk associated with a higher CAC score.
+Exercise is still good bet for heart health
+In all, the results of the present study provide very little meaningful information with regard to exercise intensity or duration and their relationship to CAC, let alone to cardiovascular mortality. While we have focused our critiques on the aspect of the study that has received the most attention and concern – i.e., the results regarding exercise
+duration
+– it’s worth noting that they similarly apply to results regarding exercise intensity. (Faulty methodology is faulty methodology, whether results happen to align with existing knowledge or not.)
+Meanwhile, exercise has many well-established benefits that reduce risk of cardiovascular disease, such as by improving metabolic health, helping to maintain a healthy body weight and body composition, and reducing blood pressure. So on the balance, we have very questionable risks against very clear and substantial rewards. The choice seems obvious to me…
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Pavlovic A, DeFina LF, Leonard D, et al. Coronary artery calcification and high-volume physical activity: role of lower intensity vs. longer duration of exercise.
+Eur J Prev Cardiol
+. 2024;31(12):1526-1534. doi:
+10.1093/eurjpc/zwae150
+Shuval K, Leonard D, DeFina LF, et al. Physical activity and progression of coronary artery calcification in men and women.
+JAMA Cardiol
+. 2024;9(7):659-666. doi:
+10.1001/jamacardio.2024.0759
+DeFina LF, Radford NB, Barlow CE, et al. Association of all-cause and cardiovascular mortality with high levels of physical activity and concurrent coronary artery calcification.
+JAMA Cardiol
+. 2019;4(2):174-181. doi:10.1001/jamacardio.2018.4628

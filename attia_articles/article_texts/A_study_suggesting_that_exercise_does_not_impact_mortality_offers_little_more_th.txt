@@ -1,0 +1,99 @@
+In the world of health and longevity, there exist a handful of general guidelines that few would dispute (though opinions on specific details might differ). Keep calorie intake and fat mass in check. Don’t smoke. Get enough sleep. Stay physically active.
+And yet, now and then a paper comes along that claims to upend one or more of these basic tenets. Such was the case with a preprint, shared last year on bioRxiv, in which the authors concluded that physical activity is
+not
+causally related to reduced mortality.
+1
+But although such unexpected reports make for eye-catching headlines in the popular press,
+2
+novelty is no guarantee of quality.
+You might question why it’s even worth spending time delving into the details of such a study. Well, I’m often asked, “How can I develop the skill to make sense of headlines?” The answer lies in the process. You simply need the reps. You need to develop the “muscle” of going through studies in detail to understand the limitations. So, while the punchline of this newsletter should not be surprising, I hope the process of deconstruction is illustrative and serves a broader purpose. Let’s dive in.
+About the study
+Study authors Kankaanpää et al. aimed to determine the relationship between leisure-time physical activity (LTPA) and risk of all-cause mortality. The study involved pairs of same-sex twins born prior to 1958 from the older Finnish Twin Cohort who were 18-50 years of age at study baseline in 1975. LTPA was assessed via questionnaires mailed to participants in 1975, 1981, and 1990 and categorized as sedentary, moderately active, active, and highly active (the basis for these categories was unclear, but they are depicted in terms of MET-hours per day in the
+Figure
+below). Mortality was monitored from 1990 through 2020 using data from the Population Register Centre of Finland and Statistics Finland. After excluding those who had died prior to 1990 or did not return at least one LTPA questionnaire, the final analysis included a total of 22,750 participants.
+Figure:
+Leisure-time physical activity across timepoints and activity levels, as expressed in MET-hours per day. The dashed line indicates the minimum activity level recommended by World Health Organization guidelines.
+Kankaanpää et al.’s data revealed that a significantly higher proportion of participants in the sedentary group died during the 1990-2020 follow-up period than participants in any of the other three group (38.8% vs. 30.8%, 29.0% and 25.4% for the moderately active, active, and highly active groups, respectively). Relative to the sedentary group, this corresponded to a 15% risk reduction in all-cause mortality in the moderative active group (95% CI: 0.80-0.90), an 18% risk reduction in the active group (95% CI: 0.77-0.87), and a 23% risk reduction in the highly active group (95% CI: 0.70-0.84).
+However, the investigators report that after adjusting for other health-related variables (namely, BMI, education level, smoking status, and alcohol use), the difference in risk between sedentary individuals and those in the moderately active or active categories dropped to just 7% (95% CI: 0.88-0.99 for both comparisons), while the highly active group showed no statistically significant reduction in risk relative to the sedentary group. Further, after excluding participants who reported having angina, diabetes, or a history or heart attack prior to the start of the mortality follow-up (i.e., in either the 1975 or 1981 questionnaires),
+none
+of the three active groups demonstrated statistically significantly lower risk than the sedentary group. Based on these data, the authors conclude that apparent associations between greater LTPA and lower mortality risk are due to confounding from other health-related variables. Or to put it in their words, “rather than LTPA
+per se
+reducing the risk of mortality, being active may be an indicator of a healthy phenotype and an overall healthy lifestyle, which co-occur with a lower mortality risk.”
+Do we buy this argument?
+In terms of strengths, I can say that this study has a long follow-up period. But that’s about where the list of virtues ends. When it comes to weaknesses, on the other hand, we’re talking about a list that makes
+War and Peace
+look like a quick read. So to save us all some time, let’s just focus on two overarching issues that impair this study’s credibility: critical flaws in data collection and critical flaws in analysis and interpretation.
+Unreliable and insufficient data collection
+With the exception of mortality data, all data used to generate these findings came from
+self-report
+questionnaires in 1975, 1981, and 1990 – all long before the 30-year mortality follow-up had even begun. Even in the best of circumstances, self-reported data are subject to countless biases related to inaccurate recall, social acceptability, and other factors, but when we consider the likelihood that exercise habits reported in early adulthood or middle age will be maintained for the next 30 years, this methodology is nothing less than absurd. And it gets worse – recall that participants were only required to have returned a minimum of
+one
+questionnaire in order to be included in the analysis, and indeed, nearly half of all participants failed to respond to the 1990 poll, meaning that this study assumed that LTPA habits from 1981 (or even 1975) were maintained for the next
+four decades
+.
+And that’s just
+exercise
+data. How many of us have the same BMI at 65 as we had at 25? How many individuals who smoked in the 1970s may have subsequently quit as awareness spread about the negative health effects? And for that matter, how many variables with substantial implications for health weren’t assessed
+at all
+in this study? Body composition? Blood pressure? Socioeconomic status? Adherence to cancer screening guidelines?
+Even the restriction of physical activity questionnaires to
+leisure-time
+physical activity leaves us with an incomplete picture of the variable most central to the study – would professional dancers, personal trainers, firefighters, or other individuals with highly active “day jobs” be misrepresented by a questionnaire that specifically asks about physical activity outside of work? This certainly seems likely, considering that around 90% of participants averaged <4 MET-hours per day – roughly the
+equivalent
+of an hour of gardening. (Indeed, such low numbers are impossible according to the very
+definition
+of “MET-hours,” as one MET-hour is defined as the energy expended during one hour of rest.)
+Questionable analysis and interpretation
+Let’s go on a very shaky, very remote limb (more like a leaf, really) and assume that the questionnaires in this study did indeed paint a complete and accurate picture of each participant’s health and physical activity and that all participants’ habits and health metrics underwent no significant changes over the ensuing 30-45 years. Even if this were the case, we still can’t put any faith in the conclusion that LTPA
+per se
+has no impact on mortality risk.
+The authors point out that, after adjustments for the covariates of BMI, education, smoking, and alcohol consumption, the difference in risk between the three active groups and the sedentary shrinks, yet it remains statistically significant for both the moderately active and active groups. Only the comparison between the highly active group and sedentary group loses statistical significance, and this is only due to the fact that these two groups had
+much smaller numbers of participants
+than the two intermediate groups. This increases the width of the confidence interval such that it exceeds the limit of statistical significance, yet the direction of the association still favors high activity.
+But perhaps the most frustrating part of the analysis was the model that excluded participants with a history of angina, heart attack, or diabetes as of 1990 – i.e., the model that showed no effect of LTPA on mortality for any of the active groups relative to the sedentary group. Many studies exclude participants with health conditions at baseline, and often, this practice is perfectly acceptable – but only if the “baseline” occurs
+before
+the exposure of interest.
+In the present study, “baseline” for mortality (i.e., the outcome of interest) was defined as the
+end
+of data collection on the exposure of interest (i.e., LTPA), meaning that any difference in health between groups as of 1990
+could have been caused by differences in LTPA.
+In other words, those who had been sedentary for the 15 years leading up to the mortality follow-up might have been more likely to have angina, heart attacks, or diabetes than more active groups, but in excluding those participants, we’re left with only the most healthy subset of the sedentary group but a much wider spectrum of health represented within the more active groups. This constitutes a form of bias known as “informative censoring,” in which the groups under study are
+defined
+by a variable that is directly related to the outcome.
+(Excuse me just a moment while I bury my head in my hands and scream…)
+A note on preprints
+At this point, it’s worth a reminder that the manuscript for this study was released as a preprint – meaning that it hadn’t been peer-reviewed prior to publication (and, as of this writing, still has not made it through the peer-review process).
+Preprints certainly have an important place in scientific research, as they allow researchers to share results as quickly as possible (as they circumvent the usual peer-review process, which can take months or even years). Further, since preprint servers lack the paywalls that are typically in place in peer-reviewed journals, research released as a preprint also has the potential to reach a wider audience. These advantages are vital when researchers need to communicate high-impact and time-sensitive results – such as in the setting of the COVID-19 pandemic, for instance, when COVID-related research was often shared prior to peer review.
+The presumption is that manuscripts submitted initially as preprints will subsequently be published in a peer-reviewed journal after experts have vetted the quality of the research and made suggestions for revisions. Yet many preprints never make it through this rigorous review process, and in the meantime, the information presented in them is nevertheless shared and reported in the press and social media as if it had already passed such expert critiques, increasing the risk of widespread misinformation.
+3
+I strongly suspect that this will be the case with the present study. Indeed, the preprint for this work was released over a year ago, and while my team initially awaited the peer-reviewed version before making any critiques, it now seems unlikely that such a publication will ever come to fruition. But the stories and headlines are still out there. That’s the problem with media reporting on preprints (which says nothing about the problem of media reporting on science if they are ill-equipped to understand the nuances of what they are reporting on).
+Attention-grabbing, but not game-changing
+Several converging lines of evidence support the long-held and widespread belief that exercise is beneficial for health and longevity. We’ve covered various pieces of such evidence many times in the past (see
+here
+,
+here
+, and
+here
+, just for a few examples).
+Thus, reports which claim to challenge such a long-established (and well-supported) health principle are certainly capable of grabbing attention (and therefore, media headlines). But despite the click-bait appeal of contrary opinions, the mere fact that they are contrary does not make them reliable. Quite the opposite – they must be backed by such irrefutable evidence as to overcome the mountain of support for conventional wisdom.
+The present study, to say the least, does not meet this high bar. Indeed, it likely fails to meet even the standards required for publication in a respectable peer-reviewed journal. So although novelty and reversal of conventional opinion may attract attention, in the words of William Shakespeare, “All that glisters is not gold.”
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Kankaanpää A, Tolvanen A, Joensuu L, et al. The associations of long-term physical activity in adulthood with later biological ageing and all-cause mortality – a prospective twin study.
+bioRxiv
+. Published online June 5, 2023. doi:
+10.1101/2023.06.02.23290916
+Diaz A. Exercise may not be the key to living longer — it might even be aging you faster.
+New York post
+.
+https://nypost.com/2023/12/06/lifestyle/exercise-may-not-be-the-key-to-living-longer-new-research/.
+Published December 7, 2023. Accessed September 11, 2024.
+Bauer M. The risk of scientific misinformation with preprints and science twitter. Bill of Health – The blog of the Petrie-Flom Center at Harvard Law School. Published February 7, 2022. Accessed September 12, 2024.
+https://blog.petrieflom.law.harvard.edu/2022/02/07/the-risk-of-scientific-misinformation-with-preprints-and-science-twitter/

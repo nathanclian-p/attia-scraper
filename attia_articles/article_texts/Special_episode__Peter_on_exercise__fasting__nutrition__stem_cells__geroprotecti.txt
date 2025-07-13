@@ -1,0 +1,151 @@
+In this special edition celebrating 300 episodes of The Drive, Peter discusses a variety of popular topics and health interventions and classifies them based on their level of evidence and relevance using the following categories: proven, promising, fuzzy, noise, and nonsense. Peter first delves into the topic of geroprotective molecules, covering rapamycin, metformin, NAD and its precursors, and resveratrol. Next, he explores the significance of metrics like VO2 max and muscle mass, as well as emerging concepts like blood flow restriction and stem cells. The conversation extends to nutrition, addressing questions surrounding long-term fasting, sugar consumption, sugar substitutes, and the contentious role of red meat in cancer. Peter not only provides his current stance on each topic—most of which have been covered in great detail in the previous 300 episodes—but also reflects on how his opinion may have evolved over the years.
+Subscribe on:
+APPLE PODCASTS
+|
+RSS
+|
+GOOGLE
+|
+OVERCAST
+|
+STITCHER
+We discuss:
+Defining the categories of “proven, promising, fuzzy, noise, and nonsense” [3:15];
+Rapamycin [9:30];
+Metformin [17:00];
+NAD and its precursors [24:30];
+Resveratrol [32:45];
+The importance of VO2 max, muscle mass, and muscular strength for lifespan [38:15];
+Blood flow restriction (BFR) training [44:00];
+Using stem cells to treat osteoarthritis or injury [51:30];
+Fasting as a tool for longevity (and why Peter stopped his fasting protocol) [55:45];
+The energy balance theory [1:06:30];
+The idea that sugar is poison [1:12:00];
+The idea that sugar substitutes are dangerous [1:22:15];
+The debate on red meat and cancer [1:28:45]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Email
+This field is for validation purposes and should be left unchanged.
+Δ
+Defining the categories of “proven, promising, fuzzy, noise, and nonsense” [3:15]
+Did you ever think we would get to episode 300 when we started recording the first few 7 years ago?
+Peter asks, “
+Was it 7 years ago or 6 years ago?
+”
+It launched in June 2018, but we were recording previous because the original episodes were part of Peter’s research for his
+book
+So we started having some of these discussions in 2017
+Peter never really thought about it
+To him it was binary
+We started it as a 12-part series and thought it was going to be either uninteresting/ unhelpful/useless (in which it dies) or it was going to be potentially interesting/ valuable (and we keep doing it)
+Once we hit that binary spot after 3 months and decided to keep doing it, he never really thought of the milestones
+What we like to do for every hundred episodes is do a special episode, something a little different, and release it to everybody
+It’s shot as an AMA, but just a little bit of a different style
+When we were thinking of how we wanted to do this one, we thought of a recent
+interview
+Peter did, which was structured in a way we liked
+He gave his opinion on various drugs, supplements, behaviors, interventions, and put them in the following
+categories
+: proven, promising, fuzzy, noise, nonsense
+We thought it was a cool way to go through and talk about some of these different things in a little detail and categorize them so people could understand how he thinks about them, how he applies them to his life and his patients
+A lot of these topics, are things that we’ve covered in various podcasts, newsletters, and we’ll link to those [see the
+selected links
+section at the end]
+The goal here isn’t to be super in depth, go through all these studies, all this background research
+We’ll link to those in the show notes for anyone who is interested
+This is going to be more of a conversation where a patient comes to Peter and asks about something
+We use the terms “proven, promising, fuzzy, noise, and nonsense” as heuristics, but what does Peter really mean by those things?
+To be clear (and people have heard him say this before): in biology there is no such thing as proof
+This is not physics or mathematics or even physics
+In biology it’s all probability
+When we say
+“proven”
+, what we’re really saying is what we’re talking about has such well-established data that the probability that it is untrue is so small that it would be foolish to not act on it
+Conversely,
+“promising”
+says the claim looks really good
+There are a lot of data supporting it, but there’s something that’s missing from a data perspective
+Either there isn’t just quite enough human data or there just isn’t quite enough
+RCT
+data or there’s some slight thing that’s missing that would keep you from saying, this is effectively proven
+“Fuzzy”
+is shorthand for there are some data around this claim, but they might be the best data
+The data might be inconsistent, they might be contradictory
+Not just one study is contradicting another study, but it’s like there’s real contradictions here and therefore we clearly need to do more before we could elevate this
+“Noise”
+is an interesting category, and it largely says that the data out there today are not of sufficient quality to make a judgment, but there might be something compelling that could move this in the other direction
+For example, there might be very compelling mechanistic data
+There might be a very compelling biochemical story around an idea, but the data have just been too small, too incomplete, to even elevate it up to fuzzy
+And by the way, noise can quickly turn into nonsense when you shine enough light on it
+“Nonsense”
+basically says, “
+No, actually this has been studied and it’s bunk.
+”
+We really have a high degree of confidence in saying that there is nothing there that should be paid attention to
+And that doesn’t necessarily mean it’s harmful, but it means that this is not doing what people say it is doing
+All of that takes a long time to explain, so Peter doesn’t want to have to explain it every time, but he thinks explaining it upfront hopefully gives people a sense of where we are
+With each example, we’ll provide enough detail to rationalize that position (hopefully)
+The beauty of science is that as new evidence comes out, Peter is happy to change his opinion on what he thinks about things
+Let’s say we do this in another hundred episodes, then what we’re going to talk about with new evidence can easily move up or down the chain
+So it’s not like this is how it is and this is how it will be
+And if we did this a hundred episodes ago, Peter can even look at this list and tell you things he would’ve said different 100 episodes ago
+He would be foolish to suggest that 100 episodes from now, if we come back and revisit this list, he would have the exact same things to say about it
+That’s very unlikely
+Rapamycin [9:30]
+This includes rapamycin, metformin, NAD, and resveratrol
+Peter’s definition of a geroprotective drug and how he thinks about that
+Geroprotection really talks more broadly about mechanisms that target hallmarks of aging
+A geroprotective drug would be a drug or a molecule that you’re taking not because it necessarily provides benefit in 1 arena against 1 chronic disease or 1 symptom, but rather because you believe it is fundamentally altering the biology of aging
+And as such, taking this drug moves things in your favor, and that should mean that you would live longer taking this drug
+That’s a very high bar
+There are lots of drugs that are really effective at doing things that wouldn’t quite rise to the level of being geroprotective
+What category do you put rapamycin in?
+Peter puts rapamycin in the promising category, but clearly it’s not proven
+We’ve covered rapamycin so much in other podcasts, and this podcast is in no way meant to displace or be a substitute for those things [see the
+selected links
+section at the end]
+At a high level,
+rapamycin
+is a substance that was discovered from a bacteria discovered on Easter Island in the mid-sixties
+The bacteria was
+Streptomyces hygroscopicus
+, which at the time was a very novel organism that had never been discovered anywhere else
+And it secreted this chemical that was named rapamycin to honor the island where it was discovered,
+Rapa Nui
+This molecule was found to be a very potent antifungal and made it a very logical choice for a bacteria to have evolved to produce it
+Bacteria is trying to fight a fungi by inhibiting them through this molecule
+The first thought was, “
+Hey, this might be the next cure for athlete’s foot
+.”
+That drug, which almost died a thousand deaths due to lack of interest, finally was championed through a guy named
+Suren Sehgal
+(who has since passed away)
+Suren single-handedly figured out utility for this drug that ultimately put it on the map as a drug with clinical application in organ transplantation as an immune suppressant
+In 1999, the FDA approves this drug for solid organ transplantation, and it spends the next decade in relative obscurity
+When Peter was in his residency, rapamycin was used amongst a cocktail of other drugs for patients who had received heart transplants, kidney transplants, and liver transplants
+Fast-forward to 2009, and a very well-done
+study
+is published as part of the
+Interventions Testing Program (ITP)
+that looked at the use of rapamycin in a very well-documented strain of mice that are far more representative of what happens in biology than the typical strain of mice that are used in a clinical research setting
+That study showed more convincingly than any other study in the ITP history that rapamycin extended life in male mice, in female mice, and most importantly, when initiated very late in life (a period of time in which no other drug had ever been able to extend life)
+This was replicated many, many times in the ITP and elsewhere
+It was also replicated in other model systems, meaning it wasn’t just replicated again in mammals
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member

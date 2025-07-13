@@ -1,0 +1,65 @@
+I’ve often highlighted the importance of quality sleep for cognitive health, but might certain sleep metrics actually serve as an
+indicator
+of neurodegenerative disease? In light of a recent study reporting a correlation between increased REM sleep latency (the amount of time between becoming unconscious and entering REM sleep) and the severity of neurodegenerative biomarkers in Alzheimer’s disease (AD),
+1
+some health influencers believe the answer is “yes” — and they’ve even gone so far as to advocate for using REM sleep latency measurements from one’s home sleep trackers as a biomarker for brain health. However, while the study may have provided a small piece of information about the relationship between neurodegeneration and sleep architecture, trying to use the study to evaluate or intervene on one’s own health based on REM sleep latency is a waste of time at best.
+Specifics of the study
+This cross-sectional study examined 128 adults (mean age: 70.8 years; 56.9% female), of which 64 had Alzheimer’s disease, 41 had mild cognitive impairment (MCI), and 23 were cognitively normal. Individuals with certain known sleep disorders or forms of dementia other than AD or MCI (e.g., Parkinson’s disease) were excluded. The investigators used overnight polysomnography (PSG) to evaluate sleep architecture, with metrics including total sleep time, sleep efficiency, sleep onset latency, REM latency, and time spent in each sleep stage. To evaluate the severity of AD pathophysiology, they assessed three plasma biomarkers of AD (p-tau181, NfL, BDNF) and employed positron emission tomography (PET) to quantitate amyloid β (Aβ) deposition.
+After adjusting for confounding variables such as age, sex, BMI, and APOE-ε4 status, the researchers found a handful of significant associations between various sleep parameters and AD pathology. While most of these associations were abolished after applying corrections for multiple comparisons (an essential adjustment to avoid false positives; explained in more detail
+here
+), two remained statistically significant — both of which related to the metric of REM latency. Specifically, they found that, compared with those in the lowest tertile of REM sleep latency (<98.2 min), those in the highest tertile (>192.7 min) had higher PET Aβ burdens (β=0.07; 95% CI: 0.02, 0.12) and reduced BDNF levels (β=−0.50; 95% CI: −0.69, −0.19).
+Based on these data, the authors propose that extended REM sleep latency might be an early warning sign of neurodegenerative disease and may have value in tracking progression of AD. Some health influencers have taken this interpretation a step further, advising their audiences to use their at-home wearable sleep trackers to self-diagnose their own Aβ burdens. But before you run off to pore through your sleep data and put a neurologist on speed dial, let’s take a closer look at these claims — and why they are deeply unserious.
+The direction of the causal arrow
+As I mentioned at the outset, yes, sleep absolutely influences long-term cognitive health. But here’s the kicker —
+cognitive health also influences sleep
+. All forms of dementia involve dramatic changes to the brain’s structure and function, and disruptions in sleep timing and sleep architecture are observed in all types of neurodegeneration. Specifically, there is an extremely high prevalence of sleep disorders observed in AD, and dysregulation of sleep is one of the most common and difficult to manage symptoms of AD.
+2
+The finding that the severity of AD pathology is correlated with increased REM sleep latency is thus not particularly surprising given the known (and almost certainly causal) role that neurodegenerative diseases play in sleep dysfunction.
+Should we be concerned about the possibility of a causal connection going the other direction? That is, should we be concerned that longer REM sleep latency
+per se
+might increase one’s risk of developing cognitive decline or dementia? Again, ensuring adequate quality sleep is one of the most important things you can do to protect your brain, but critically, this study provides
+no evidence
+that REM sleep latency in particular is any more or less important than any other sleep parameter in this respect. As a purely observational study, it can’t provide any evidence that the REM sleep latency (or any other aspect of sleep) has any
+impact
+on cognitive trajectories. It demonstrates
+nothing
+about causality.
+Is REM latency a marker of cognitive health?
+Still, putting the question of causality aside, what about the claim that REM latency might be uniquely valuable as a
+marker
+of cognitive health or AD progression? Here, too, this study falls short.
+Not only was this an observational study, it was a
+cross-sectional
+observational study, meaning that it simply looked at data from one snapshot in time. The researchers did not examine changes in REM sleep latency over time and how they tracked with the development or progression of neurodegenerative disorders. It was merely an observation that those with more severe AD pathology appear to have longer REM sleep latency.
+Further, most of the participants in this study
+already
+had AD or MCI, at which point reverse causality (i.e., neurodegenerative disease causing extended REM latency) becomes extremely likely. So even if REM sleep might serve as a marker of disease progression in those with baseline AD, it makes little sense to extrapolate this finding to make the recommendation that cognitively normal people should monitor their cognitive health by tracking REM latency. In no way does this work provide evidence that REM sleep latency differences in those who are
+healthy
+are correlated with risk of developing neurodegenerative disease.
+Indeed, REM sleep latency is a complex and multifactorial phenomenon such that even saying whether a “shorter” or “longer” latency is good or bad is impossible. Many disorders, such as major depression and narcolepsy, involve shortened REM sleep latency. Sleep apnea, medication use, stress, chronic inflammation, and myriad other factors also affect REM sleep latency in diverse ways which may themselves impact neurodegenerative disease.
+To illustrate this point, consider the fact that sleep deprivation itself also tends to shorten REM sleep latency. The conclusions made by the study authors (and the social media claims surrounding this study) would imply that someone who is chronically sleep-deprived — but who therefore has relatively short REM sleep latency — would be cognitively
+healthier
+than someone who regularly gets sufficient sleep but whose REM latency is a bit longer. This, of course, is absurd, yet it demonstrates why REM sleep latency on its own
+has no utility as a biomarker for cognitive health or neurodegenerative disease progression
+.
+Limitations of at-home wearables
+A separate but important point to keep in mind concerns the limitations of at-home wearables, such as watches and rings, that purport to track your sleep. Data from this study derived from polysomnography tests performed in a sleep clinic, not from wearable sleep trackers. So even if we put aside the countless other problems, the notion that this study justifies making at-home judgements about cognitive health based on personal sleep trackers is a step too far.
+These wearable devices will often report your sleep architecture (which is to say, how much and when you experienced various phases of sleep), and they can sometimes provide interesting and useful data in specific circumstances, but information gathered from them should be taken with a large grain of salt. They are
+not
+a replacement for polysomnography, and should not be used for making medical decisions. These devices all use different technology to track sleep and different algorithms to assess sleep architecture, and whether they are able to accurately measure REM sleep latency at all is unclear.
+A red herring for cognitive health tracking
+We know sleep is vital for cognitive health. So when a study comes along that suggests a particular aspect of sleep — namely, REM sleep latency — has unique value in tracking cognitive trajectories and neurodegenerative disease, it may be tempting to scan through your sleep tracker data and panic if this specific metric appears a little off-target. Yet in reality, this study is a far cry from providing clinically actionable insights capable of guiding treatment decisions or lifestyle changes. Yes, sleep quality — of which REM sleep latency is just a single element — has an impact on cognitive health, but the brain changes that accompany neurodegenerative disorders also have an impact on sleep, potentially including REM sleep latency. The latter impact is just as likely as (if not more likely than) the former to explain the results of the present study, so we have no evidence that targeting an optimal REM sleep latency will in any way improve cognitive trajectories or reduce AD risk.
+Indeed, this study doesn’t even offer real evidence that using REM sleep latency as a
+biomarker
+of cognitive health has any utility whatsoever, especially for those who are healthy. So in this case, the alarm over REM latency and neurodegenerative disease is little more than a red herring — just another drop in an endless sea of misinterpreted information.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Jin J, Chen J, Cavaillès C, et al. Association of rapid eye movement sleep latency with multimodal biomarkers of Alzheimer’s disease. Alzheimers Dement. 2025;21(2):e14495. doi:10.1002/alz.14495
+Wu M, Rosenberg P, Spira A, Wennberg A. Sleep disturbance, cognitive decline, and dementia: A review. Semin Neurol. 2017;37(04):395-406. doi:10.1055/s-0037-1604351

@@ -1,0 +1,79 @@
+This audio clip is from our
+“Ask Me Anything” episode #31 – Heart rate variability (HRV), alcohol, sleep, and more
+, originally released on January 31, 2022.
+If you’re a member, you can now listen to this full episode on your
+private RSS feed
+or
+on our website
+. If you are not a member,
+learn more about the how to become a member and the benefits here
+.
+In this audio clip, Peter discusses metrics to track the impact of alcohol on your sleep. Peter has
+discussed this on his Instagram as well
+.
+§
+Show Notes
+Alcohol’s impact on sleep [31:30]
+Does alcohol negatively impact sleep?
+“
+Yes, hands down
+” says Peter
+However, there is some confounding data
+Alcohol is a sedative, it’s a GABA agonist
+It will put you to sleep quicker, you will lose consciousness more quickly, but we should never confuse a loss of consciousness with falling asleep
+For instance, “if someone took a baseball bat to your head, you would lose consciousness. You’d be laying on the ground. You wouldn’t be moving. You might look like you’re sleeping, but there’s nothing that’s happening in your brain that mimics sleeping or the restorative nature of sleeping”
+So we never want to confuse consciousness with sleep
+According to Matt Walker (
+episode #49
+), alcohol does three things to sleep
+:
+1 – It’s a sedative, so it works like sleeping pills. You might lose consciousness more quickly, but you’re not “falling asleep” faster.
+2 – Alcohol
+fragments sleep
+You wake up more times during the night; oftentimes so brief that you don’t remember. But it still impacts your physiology. You’re basically vacillating between non-REM light and one-minute wake-ups while not fully awakened / conscious.
+3 – Alcohol
+blocks REM sleep
+You tend to wake up unrefreshed and unrestored. But it doesn’t seem to negatively impact deep sleep.
+Peter personally notices that even just two drinks is enough to have this impact on his sleep—
+very little change in his deep sleep
+But his REM sleep gets very disrupted, and gets displaced by more wake-ups (that he doesn’t necessarily perceive)
+And he ends up with more light sleep (Stage one and stage two)
+Mechanism of sleep disruption
+It’s not clear what the mechanism of action is but it’s been speculated that it might be the aldehydes which is a byproduct of ethanol metabolism
+Matt Walker writes in his
+book
+: “
+When the body metabolizes alcohol it produces by-product chemicals called aldehydes and ketones. The aldehydes in particular will block the brain’s ability to generate REM sleep
+.”
+2015 study writes: Alcohol-induced reduction in glutamate has been implicated in alcohol-induced suppression of REM sleep [in rats] (
+Prospero-García et al., 1994
+).
+In summary
+:
+Alcohol is reducing REM sleep
+It’s not having much of an effect on deep sleep and in some cases it can actually slightly increase deep sleep
+It can definitely reduce sleep latency so you can fall asleep quicker
+But overall reduces the quality of sleep (which has implications for disease)
+Metrics to track the impact of alcohol on your sleep [34:00]
+How alcohol affects Peter’s sleep
+:
+In Peter personally, alcohol will impact the four biometric parameters:
+resting heart rate
+heart rate variability
+respiratory rate
+body temperature
+Note that it’s a function of i) how much you drink and ii) when you drink in relation to sleep
+For example, a single drink, four or five hours before bed really doesn’t have an effect on Peter
+But after two drinks, he’ll start to see a deterioration in sleep
+And the closer those drinks are to bedtime, the more impact it will have
+So two drinks close to bedtime will have the following impact on Peter:
+Resting heart rate really go up easily 6-8 beats per minute
+Heart rate variability will be dramatically compressed at a minimum 20-25%, and even up to 50% if that alcohol is close to bed
+respiratory rate goes up by about 2 breaths per minute
+body temperature will go up by 0.3-0.6 °F
+Side not about food:
+Food has a thermogenic effect
+For Peter, the more closely he’s eating to bedtime will drive his body temperature up
+Why do these metrics matter? [36:00]
+“It just seems to me that all of these things are suggestive of more sympathetic tone, and that’s the underlying issue.” —Peter Attia
+§

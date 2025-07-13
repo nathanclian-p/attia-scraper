@@ -1,0 +1,66 @@
+The importance of dietary protein is a recurring theme in these newsletters and on
+The Drive
+podcast. So imagine the flood of emails, phone calls, and questions I received last month following the publication and press coverage of a recent study
+1
+reporting that high protein intake, via activation of mTORC1 (mammalian target of rapamycin complex 1), drives atherosclerosis development and progression.
+But as we’ve so often seen in the past, media attention is no guarantee that flashy claims are supported by good science. As we’ve discussed in detail in previous content, the increases in circulating levels of amino acids (AAs) following intake of dietary protein are certainly known to stimulate mTORC1 (and its core component, mTOR), but how might this effect then lead to atherosclerosis? And how convincingly do the results of this new study substantiate such a link?
+About the study
+The recent study by Zhang et al. involved experiments across a range of test systems – including human participants, mouse models, and cultured cells. For human trials, subjects with BMIs in the overweight range were divided to participate in one of two crossover studies. Study 1 (n=14) compared responses to a 500-kcal low-protein liquid meal (LP; 10% of total energy from protein, 17% from fat, and 73% from carbohydrates) and an isocaloric very high-protein liquid meal (VHP; 50% energy from protein, 17% from fat, and 33% from carbohydrates), while Study 2 (n=9) compared a 450-kcal standard-protein mixed meal (15% of total energy from protein, 35% from fat, and 50% from carbohydrates) and an isocaloric mixed meal more typical of human “high-protein” diets (22% energy from protein, 30% from fat, and 48% from carbohydrates). For both studies, participants each completed both test meals in random order, with approximately 1–2 weeks separating the two tests.
+Following an overnight fast and immediately prior to consuming the test meals, participants underwent a baseline blood draw in order to permit assessment of plasma AA concentrations and isolation of circulating immune cells (monocytes). For Study 1, participants were given five minutes following the baseline blood draw to consume the test meal, and further blood samples were collected one and three hours post-meal. For Study 2, which involved “real food” meals (containing homogenized beans, vegetables, bacon, eggs, etc), participants were instructed to consume the meal within 30 minutes following baseline blood draws, and further blood samples were collected one and two hours after meal initiation. In addition to quantification of AA concentrations, blood samples were assayed for indicators of mTORC1 activation and autophagy in circulating monocytes.
+What they found
+Results showed that consumption of greater amounts of protein led to a greater influx of amino acids into circulation and greater activation of mTORC1. Total AA concentrations in plasma increased after consuming the VHP meal (but not the LP meal) in Study 1, as well as after the HP meal (but not the SP meal) in Study 2. Markers of mTORC1 activation in circulating monocytes increased in a dose-dependent manner, with the most dramatic increases observed after the VHP meal, followed by the HP meal. Modest increases were observed after the SP meal, and no significant elevations were observed after the LP meal. Both higher-protein meals were also associated with decreased markers of autophagy relative to baseline and to lower-protein meals.
+In investigating postprandial plasma concentrations of specific AAs, seven AAs were found to be elevated after both the very-high-protein liquid meal and the high-protein mixed meal: leucine, isoleucine, valine, methionine, threonine, serine and arginine. The authors therefore sought to determine which of these AAs contribute to mTORC1 activation. By treating cultured monocyte-derived macrophages variously with these different AAs, they found that leucine was the primary activator of mTORC1, and activation in response to elevated leucine concentrations occurred in a dose-dependent manner above an apparent threshold between 100-300 μM.
+Bridging results to atherosclerosis
+The obvious question at this point is, “what does any of this have to do with heart disease?” To develop this part of their story, Zhang et al. turned to a mouse model of atherosclerosis in which the animals lack apolipoprotein E (a model known as apoE
+-/-
+mice). These mice were separated into one of three western diets (roughly equivalent in energy density) for eight weeks: low-protein (7% kcal from protein, 51% carbohydrates, and 42% fat), moderate-protein (21% kcal from protein, 36% carbohydrates, and 42% fat), or high-protein (46% kcal from protein, 11% carbohydrates, and 43% fat). (Due to differences in total food intake, the authors argue that these diets corresponded to human diets of ~15% and 22% protein for moderate- and high-protein mouse diets, respectively).
+As we will discuss in an upcoming AMA, varying a diet’s protein content impacts total energy consumption, as protein tends to be more satiating than other macronutrients. Thus, the authors found that animals across the different diet groups consumed different amounts of total calories. Low-, moderate-, and high-protein groups consumed an average of about 5.7 g, 4.8 g, and 3.3 g of total food per day, respectively, corresponding to an average protein consumption of 0.4 g, 1.0 g, and 1.5 g per day, respectively. Consistent with these discrepancies in total calorie intake, body weights following the 8-week diet intervention were likewise inversely correlated with protein content, with the animals on the low-protein diet exhibiting the greatest amount of weight gain and animals on the high-protein diet exhibiting the least weight gain. The divergence in body weight was attributable specifically to differences in fat mass, as the three groups did not differ significantly in lean mass.
+Yet despite the trends in fat mass, animals on the high-protein diet – but not moderate-protein diet – were found to have
+increased
+atherosclerotic plaque burden in the aortic root relative to low-protein animals at the end of the 8-week study. Based on these findings, Zhang et al. argue that the increased activation of mTORC1 associated with high dietary protein consumption drives atherosclerosis. Further, by conducting follow-up experiments in which the moderate-protein diet was adjusted to high-protein levels by fortifying with i) leucine, ii) all AAs except leucine, or iii) all AAs, the researchers found that high intake of leucine in particular is necessary and sufficient for promoting the atherogenic effects of protein.
+A bridge too far
+Based on all of the results described above, the authors state that they have “uncovered a mechanism by which high protein intake, through an increase in plasma leucine, causes mTORC1-mediated inhibition of monocyte/macrophage autophagy and subsequent atherogenesis.” As we’ve seen, mouse experiments form the critical bridge linking protein intake to atherosclerosis, which in turn has naturally been the focus of media coverage related to the study. So how well does this link stand up to scrutiny? Let’s just say that if I had to compare it to a more literal bridge, the
+Tacoma Narrows
+might be the first to come to mind.
+Mice are a notoriously terrible model for studying human heart disease, as their lipid metabolism pathways differ from those of humans and they do not spontaneously develop atherosclerosis on normal diets. Zhang et al. sought to work around this problem by using the atherosclerosis-prone apoE
+-/-
+mouse model, but making mice more susceptible to atherosclerosis requires genetic manipulations which may have myriad off-target effects, making it difficult to translate results to humans.
+ApoE
+-/-
+mice, for instance, were initially developed based on the logic that knockout of apoE would reduce hepatic clearance of LDL, thus mimicking humans with high LDL. But apoE has also been shown to combat atherosclerosis through antioxidative, antiproliferative and anti-inflammatory actions, and knocking out this gene would impair these pathways as well as LDL clearance. Given the widespread cellular effects of mTORC1, the impact of losing these alternative anti-atherogenic pathways could certainly be modulated by protein intake in such a way that would appear to favor low-protein diets, but the atherosclerotic plaques developed in this way would still be a result of pathways that are completely irrelevant to humans or other genetically normal animals. (As a simple example for illustration, let’s say that apoE plays a role in suppressing pro-inflammatory signals induced by mTORC1 activation. In apoE
+-/-
+mice, this suppression is lost, so more protein → more mTORC1 activation → more inflammation, but in humans or mice with functional apoE, protein-induced mTORC1 activation is blocked from triggering rampant inflammation.)
+So what
+can
+we learn from this study?
+Let’s recap. 1) In the couple of hours following a high-protein meal, humans exhibit elevated levels of circulating amino acids. 2) The elevation in amino acid concentration is associated with increased mTORC1 activation and decreased autophagy among circulating monocytes. 3) Leucine is primarily responsible for these effects, which take place when plasma leucine reaches a threshold concentration of 100-300 μM. 4) Atherosclerosis-prone mice demonstrate a greater atherosclerotic plaque burden after eight weeks on a high-protein (or high-leucine) western diet than on a low-protein western diet.
+We’ve just seen that the atherosclerosis results leave plenty to be desired with respect to their relevance to humans, so what else can we take away from this study? We already knew that protein (and leucine in particular) stimulates mTORC1 signaling and that there is a threshold over which this effect takes place. This is a good thing! This is why, for example, protein consumption by itself can stimulate muscle protein synthesis (though not as much as exercise and protein consumption combined). The present study adds that the mTORC1 effect can be observed specifically in immune cells (monocytes) – whereas it has previously been studied primarily in muscle tissue – yet the implications of this mTORC1 activation for health and longevity remain unclear.
+The mTOR-activating effects of dietary protein are relatively acute. In this study, data from the human SP group indicate that mTORC1 activity diminished by two hours after meal initiation. This is substantially less time than a typical gap between meals for the average person, leaving plenty of time for mTOR signaling to return to baseline even after a higher-protein meal. In other words, the activation of mTOR induced by dietary protein is not constant, and while
+chronic
+suppression of mTOR (e.g., via rapamycin) has been shown to increase lifespan in various species, we currently have no evidence that suppressing or avoiding short, postprandial spikes would similarly extend lifespan (or that it wouldn’t have the opposite effect).
+Additionally, it’s noteworthy that this study was specifically conducted in untrained participants, as exclusion criteria included engaging in structured exercise for >90 min/week. However, as discussed in a soon-to-be-released episode of
+The Drive
+with
+Dr. Luc van Loon
+,
+responses to dietary protein differ between trained and untrained individuals. In the former, dietary protein appears to be more preferentially directed toward muscle, perhaps reducing the impact on mTORC1 signaling in immune cells.
+The bottom line
+I’ve often repeated that adequate dietary protein is essential for building and maintaining muscle mass, which in turn is essential for maintaining physical function and avoiding frailty. Yet despite the wealth of evidence underlying that recommendation, it seems that every few months, a new research report sets off alarms with respect to dietary protein and
+negative
+consequences for health. Invariably, closer inspection of these studies reveals that the terror-inducing conclusions are based on inappropriate methods and/or logical gymnastics between unrelated findings.
+The present study by Zhang et al. unfortunately falls into both traps. Yes, it provides a few nuggets of value regarding protein effects on circulating monocytes and cellular signaling. But rather than fully characterizing these effects by, for example, monitoring them over a longer time course or repeating experiments in trained participants, the investigators chose to draw dubious connections to the headline-grabbing topic of heart disease by employing a heavily flawed model with limited relevance to the general
+mouse
+population, let alone the general human population. So once again, the media fire turns out to be a false alarm – unless of course you’re a transgenic mouse.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+1.
+Zhang X, Kapoor D, Jeong SJ, et al. Identification of a leucine-mediated threshold effect governing macrophage mTOR signalling and cardiovascular risk.
+Nat Metab
+. 2024;6(2):359-377.

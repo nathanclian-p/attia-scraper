@@ -1,0 +1,109 @@
+In the health and geroscience sphere, resveratrol is
+like a bad penny.
+After this polyphenol compound burst onto the scene as an alleged “anti-aging” therapy about 20 years ago, the science behind the hypothesis was soon
+discredited
+, though not before it had captured public and commercial interest. To this day, countless resveratrol-based supplements and skincare products are marketed for combatting the ravages of time in various ways – from preventing wrinkles and reducing inflammation to extending lifespan. The continued commercial popularity has led to greater research interest and more hypothesized benefits
+beyond
+aging and lifespan, and these additional purported benefits in turn fuel further commercial popularity.
+Apart from aging, resveratrol has garnered substantial attention for potential positive impacts on metabolic health and has been proposed to reduce risk of obesity, improve glycemic control, and reduce circulating lipid levels.
+1,2
+But is there any merit to these claims? A recent systematic review and meta-analysis sought to answer this question – and the results spell more bad news for resveratrol advocates.
+3
+Why might resveratrol impact metabolic health?
+The idea that resveratrol might have positive effects on metabolic health stems from the same biochemical mechanism proposed for its alleged anti-aging effects. Early evidence indicated that resveratrol activated a class of enzymes known as sirtuins, which were thought to mediate the well-documented health- and longevity-promoting effects of calorie restriction – effects which include reductions in oxidative damage and in chronic, systemic inflammation. Resveratrol supplementation has therefore been touted as mimicking these benefits of calorie restriction through activation of sirtuins. And because oxidative damage and chronic inflammation contribute to many of the hallmarks of cellular aging (including metabolic dysfunction) and are thought to increase risk of several chronic diseases, slowing or halting these processes may plausibly extend lifespan and reduce risk of metabolic disease, among other effects.
+Thus, investigators involved in the present meta-analysis put this chain of logic to the test to examine whether the preponderance of data to date indicate that resveratrol supplementation might indeed improve various measures of metabolic health.
+What they did
+Authors Zahoor et al. analyzed data from randomized, placebo-controlled trials on resveratrol therapy in participants with overweight or obesity but without major comorbid conditions. After excluding studies that did not assess relevant outcome measures (which they specified as changes in triglyceride levels, total cholesterol, HbA1c, insulin, liver enzymes, or BMI), studies with fewer than nine participants per treatment arm, and studies in which participants were on other treatments which might have affected results, the investigators were left with five trials to include in their meta-analysis, comprising a total of 491 participants.
+Details of the included studies are shown in the table below. If an original study featured a crossover design, Zahoor et al. used only data from the first intervention period (pre-crossover) in order to avoid potential carryover effects from the initial treatment. For all included studies, the authors assessed data on outcome measures at the 4-week time point following treatment onset, though treatment duration for two of the included original trials had continued beyond this point. Results were generally reported as standardized mean differences (SMD), a metric used to estimate effect sizes in pooled data sets. (For further explanation of SMD, please refer to
+this newsletter
+.)
+Table: Randomized trials included in the present meta-analysis
+What they found
+Analyses of circulating triglycerides and insulin levels utilized data from all five studies (n=267), while four studies (n=177) were used for analysis of total cholesterol and three studies (n=87) supplied data for analysis of HbA1c and liver enzymes (AST and ALT). In their evaluation of plasma lipids, the authors reported that changes in both triglycerides and total cholesterol were statistically equivalent between resveratrol and placebo treatments, though resveratrol treatment was associated with a trend toward higher triglycerides than placebo (SMD=0.11; 95% CI: −0.14 to 0.35;
+P
+=0.39). No significant differences were observed between resveratrol treatment and placebo in effects on HbA1c, insulin, or the liver enzymes AST and ALT. Based on data from the two studies (112 participants) that assessed changes in BMI between pre- and post-intervention, Zahoor et al. noted that participants on resveratrol exhibited a slight, non-significant increase in BMI relative to participants on placebo (MD=0.21; 95% CI: −0.97 to 1.39;
+P
+=0.70).
+Altogether, these findings reveal that resveratrol offered no evident benefits relative to placebo across any measured parameters, which encompassed multiple facets of metabolic health such as glycemic control, plasma lipids, and liver function. Of note, analysis of heterogeneity indicated that results were highly consistent across included studies, adding to the reliability of these data.
+A closer look at the chain of logic
+Recall that the hypothesized connection between resveratrol and metabolic health relies on three main concepts: 1) resveratrol is bioavailable; 2) resveratrol activates sirtuins; and 3) activation of sirtuins mediates the health and longevity benefits of calorie restriction. If we accept these concepts as facts, then the logic behind the idea that resveratrol improves metabolic health is certainly sound. We might be tempted to dismiss Zahoor et al.’s negative results by pointing out the [admittedly] short intervention period and relatively small number of participants, and we’d continue on our merry way with unshaken faith in the power of resveratrol.
+But in reality, we
+can’t
+accept the concepts above as facts – indeed, we can’t even accept them as good
+guesses
+. While ~75% of oral resveratrol is absorbed, rapid metabolism limits its effective bioavailability to
+less than 1%
+.
+9
+The so-called “sirtuin activating” effects of resveratrol have been shown to be nothing more than an artifact of
+in vitro
+experimental methods.
+10
+Lifespan extension with sirtuin activation in yeast has been found to occur through pathways distinct from those of calorie restriction, and analogous longevity benefits in multicellular organisms have been irreproducible
+11
+(a topic we will cover in greater depth in an upcoming premium article). In other words, the entire premise underlying both alleged anti-aging and pro-metabolic health effects of resveratrol has been rotten from the start, which renders Zahoor et al.’s findings anything
+but
+surprising. Far from validating potential “new” benefits in metabolism, this meta-analysis instead adds to the weight of evidence
+against
+resveratrol as an effective treatment or prevention strategy for
+any
+indication – whether aging, metabolic dysfunction, or otherwise.
+Another nail in the coffin
+And so here we are. The notion of resveratrol as a wonder drug has taken root in popular opinion, and eliminating it now requires more than simply debunking the original evidence which supposedly supported it. Even as research refutes some claims, new purported benefits emerge, creating a game of whack-a-mole for future studies and for those of us who genuinely wish to differentiate between promising interventions and marketing noise when it comes to health. And as the game continues, ever more time and money – which would be better spent on therapies with more legitimate support – drains into resveratrol research and consumer products.
+The present meta-analysis refutes metabolic improvements with resveratrol therapy and, in so doing, indirectly adds to the body of evidence that collectively undermines the proposed biochemical basis for nearly
+all
+of resveratrol’s alleged benefits. With any luck, these results might bang another nail into the resveratrol coffin. But this particular compound seems to have a talent for resurrection, and since I’m sure this won’t be the last we hear of it, the best we can do is stand ready with the hammer.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Barber TM, Kabisch S, Randeva HS, Pfeiffer AFH, Weickert MO
+.
+Implications of resveratrol in obesity and insulin resistance: A state-of-the-art review.
+Nutrients
+. 2022;14(14):2870. doi:
+10.3390/nu14142870
+Ghavidel F, Hashemy SI, Aliari M, et al. The effects of resveratrol supplementation on the metabolism of lipids in metabolic disorders.
+Curr Med Chem
+. Published online October 11, 2023. doi:
+10.2174/0109298673255218231005062112
+Zahoor HS, Arshad A, Masood MA, Qureshi MAM, Iqbal J. Effect of resveratrol supplementation on metabolic risk markers and anthropometric parameters in individuals with obesity or overweight: A systematic review and meta-analysis of randomized controlled trials.
+Obesity Pillars
+. 2024;12(100141):100141. doi:
+10.1016/j.obpill.2024.100141
+Poulsen MM, Vestergaard PF, Clasen BF, et al. High-dose resveratrol supplementation in obese men: an investigator-initiated, randomized, placebo-controlled clinical trial of substrate metabolism, insulin sensitivity, and body composition.
+Diabetes
+. 2013;62(4):1186-1195. doi:
+10.2337/db12-0975
+van der Made SM, Plat J, Mensink RP. Resveratrol does not influence metabolic risk markers related to cardiovascular health in overweight and slightly obese subjects: a randomized, placebo-controlled crossover trial.
+PLoS One
+. 2015;10(3):e0118393. doi:
+10.1371/journal.pone.0118393
+van der Made SM, Plat J, Mensink RP. Trans-resveratrol supplementation and endothelial function during the fasting and postprandial phase: A randomized placebo-controlled trial in overweight and slightly obese participants.
+Nutrients
+. 2017;9(6):596. doi:
+10.3390/nu9060596
+de Ligt M, Bergman M, Fuentes RM, et al. No effect of resveratrol supplementation after 6 months on insulin sensitivity in overweight adults: a randomized trial.
+Am J Clin Nutr
+. 2020;112(4):1029-1038. doi:
+10.1093/ajcn/nqaa125
+Batista-Jorge GC, Barcala-Jorge AS, Silveira MF, et al. Oral resveratrol supplementation improves Metabolic Syndrome features in obese patients submitted to a lifestyle-changing program.
+Life Sci
+. 2020;256(117962):117962. doi:
+10.1016/j.lfs.2020.117962
+Walle T. Bioavailability of resveratrol.
+Ann N Y Acad Sci
+. 2011;1215(1):9-15. doi:
+10.1111/j.1749-6632.2010.05842.x
+Kaeberlein M, McDonagh T, Heltweg B, et al. Substrate-specific activation of sirtuins by resveratrol.
+J Biol Chem
+. 2005;280(17):17038-17045. doi:
+10.1074/jbc.M500655200
+Dang W. The controversial world of sirtuins.
+Drug Discov Today Technol
+. 2014;12:e9-e17. doi:10.1016/j.ddtec.2012.08.003

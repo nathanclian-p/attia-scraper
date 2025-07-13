@@ -1,0 +1,64 @@
+This week, I’m sharing another collection of oldies-but-goodies — pieces from our newsletter archive that address a variety of topics of continued interest to our audience. Some provide additional context for recent or upcoming content; some address frequently asked questions; and some are simply worth repeating for anyone who might have missed them.
+The world of biomedical science is constantly evolving, but in evaluating what has changed, we like to pause now and then to acknowledge information and ideas that have remained relevant despite the passage of time — a celebration of “aging well,” if you will.
+How failures in study selection can sink a meta-analysis
+After the initial results of the Women’s Health Initiative (WHI) indicated an increase in
+relative risk
+of breast cancer with the use of hormone replacement therapy (HRT), changes in HRT use occurred virtually overnight, resulting in generations of women being denied treatment. As I discussed in a recent conversation with
+Dr. Rachel Rubin
+, this reaction was based on faulty data and faulty interpretations, and as these misconceptions around HRT have gradually reversed, HRT is once again becoming a common treatment for menopausal symptoms and related emotional and physical concerns. So when a 2022 meta-analysis once again reported an increase in breast cancer risk with HRT,
+1
+I feared history would repeat itself.
+When conducted well, meta-analyses can provide some of the highest quality of evidence in clinical research. However, whether or not they achieve this standard depends not only on the quality of the studies they include but also on how well those studies fit together to answer a given question. In this
+piece
+, we break down the 2022 meta-analysis, demonstrating how it fails to select studies that are appropriate for the research question it claims to address. So while the study may not provide new information about the risk of HRT use in breast cancer survivors, it does offer some important lessons on pitfalls in meta-analyses.
+Cumulative time spent in “vigorous” physical activity lowers mortality risk
+The health benefits of consistent physical activity across a variety of training modalities have been established by numerous studies, but every so often, a new headline or study proclaims some dubious way to cut corners on this vital aspect of a healthy lifestyle. We discussed one such study — which suggested that very brief (<2 minutes) bouts of vigorous physical activity adding up to just 54 minutes per week was “optimal” for reducing mortality risk
+2
+— in this
+newsletter
+, pointing out the many flaws with the study and its apparent conclusions. Ultimately, short, random spurts of activity are no substitute for dedicated training. So instead of adding up the number of times you chase down your kids throughout the week and hoping this fulfills your health requirement to exercise, take a look at this
+podcast
+I did last summer on how to begin a more balanced and effective exercise program.
+Taurine improves the health and longevity of mice and monkeys – but what about humans?
+Humanity’s search for treatments that can reverse the effects of aging has been going on for millennia, but only in the last hundred or so years have potential geroprotective drugs been the subject of systematic scientific inquiry. Research to develop geroprotective drugs begins in model organisms such as mice, and when they show promise, they will often progress to primates before finally being studied in humans. So when a publication in the prestigious journal
+Science
+reported efficacy of the amino acid taurine in combatting aging in mice and monkeys,
+3
+it sparked excitement that similar evidence in humans was soon to follow.
+But as we explained in this
+newsletter
+two years ago, taurine is more likely to become a case-study in one of the primary reasons why anti-aging interventions so often fail to translate from animals to humans: separate species differ in their physiology in ways that can fundamentally alter the impact of a given treatment. I recently sat down with Dr. Brian Kennedy, an expert in the field of aging science, to discuss this and other common roadblocks in research surrounding potential geroprotective molecules in an upcoming episode of
+The Drive
+, as well as to highlight pathways with greater promise as possible aging targets.
+Continuous glucose monitoring to improve health in non-diabetics
+One of the most harmful aspects of metabolic disease is the gradual decline in the body’s ability to control blood glucose levels, and thus, monitoring blood glucose dynamics in real time — i.e., with continuous glucose monitoring (CGM) —  has undeniable value for those with diabetes or prediabetes. But do CGM devices offer any benefit for those
+without
+existing metabolic dysfunction? This is hands-down one of the most common questions I receive with respect to metabolic health, and as discussed in detail in this
+newsletter
+from late 2023, my answer is a definite “yes.”
+Using a CGM provides valuable personalized information about blood glucose levels, including responses to certain foods, the effects of exercise, and the magnitude of glucose swings — which in turn can help to identify subclinical metabolic dysfunction. CGM is thus an important tool to direct changes in lifestyle toward optimal metabolic health, and as the saying goes, “what gets measured, gets managed.”
+Reassessing the relationship between alcohol intake and cardiovascular disease risk
+Last weekend was Memorial Day, meaning that summer has finally arrived — a time of backyard barbecues, vacations, and pool parties. For many, these festivities would hardly feel complete without a few beers, glasses of rosé, or cocktails. As such, there’s no better time to revisit some important lessons regarding the health risks of alcohol consumption. Though epidemiology has long suggested that low levels of alcohol consumption might be beneficial for health, this
+newsletter
+focuses on a more robust Mendelian randomization analysis, which found that
+all
+levels of alcohol exposure were associated with increased risk of hypertension and cardiovascular disease.
+4
+Further, disease risk increased
+exponentially
+with progressive levels of alcohol consumption. The good news? This exponential relationship means that even small decreases in intake can yield enormous reductions in risk. So while the safest bet might be to skip the poolside rosé altogether, even cutting down from three glasses per day to two can reduce risk by over
+two-thirds
+… something to keep in mind throughout your summer socializing.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Poggio F, Del Mastro L, Bruzzone M, et al. Safety of systemic hormone replacement therapy in breast cancer survivors: a systematic review and meta-analysis. Breast Cancer Res Treat. 2022;191(2):269-275. doi:10.1007/s10549-021-06436-9
+Ahmadi MN, Clare PJ, Katzmarzyk PT, Del Pozo Cruz B, Lee IM, Stamatakis E. Vigorous physical activity, incident heart disease, and cancer: how little is enough? Eur Heart J. 2022;43(46):4801-4814. doi:10.1093/eurheartj/ehac572
+Singh P, Gollapalli K, Mangiola S, et al. Taurine deficiency as a driver of aging. Science. 2023;380(6649):eabn9257. doi:10.1126/science.abn9257
+Biddinger KJ, Emdin CA, Haas ME, et al. Association of habitual alcohol intake with risk of cardiovascular disease. JAMA Netw Open. 2022;5(3):e223849. doi:10.1001/jamanetworkopen.2022.3849

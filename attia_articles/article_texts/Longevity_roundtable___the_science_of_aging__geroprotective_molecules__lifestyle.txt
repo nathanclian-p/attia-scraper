@@ -1,0 +1,163 @@
+In this special episode of The Drive, Peter introduces a brand-new roundtable format. Joined by three renowned experts in longevity science—Steven Austad, Richard Miller, and Matt Kaeberlein—the group explores the rapidly evolving field of geroscience. Together, they dive deep into topics like the relationship between healthspan and lifespan, evaluating interventions like rapamycin and senolytics, the role of epigenetic changes in aging, and whether GLP-1 receptor agonists hold geroprotective potential. They also tackle major challenges in funding and public acceptance of longevity research including how geroprotective interventions might be tested in humans. Packed with nuanced debate, humor, and groundbreaking insights, this episode is a must-listen for anyone fascinated by the science of aging.
+Subscribe on:
+APPLE PODCASTS
+|
+SPOTIFY
+|
+RSS
+|
+OVERCAST
+Play
+#333 ‒ Longevity roundtable — the science of aging, geroprotective molecules, lifestyle interventions, challenges in research, and more | Steven Austad, Matt Kaeberlein, Richard Miller
+#333 ‒ Longevity roundtable — the science of aging, geroprotective molecules, lifestyle interventions, challenges in research, and more | Steven Austad, Matt Kaeberlein, Richard Miller
+1x
+15s
+30s
+0:00
+2:41:39
+We discuss:
+The recent rise in public interest in longevity, misconceptions, and the link between healthspan and lifespan [3:45];
+Redefining healthspan, the US healthcare paradox, and separating longevity science from commercial hype [12:30];
+The need to redirect medical research from disease-specific models to aging-focused approaches [21:30];
+Proactive healthcare: rethinking health, disease, and the role of aging [30:00];
+Biologic age versus chronologic age, and the limitations and potential of epigenetic clocks [35:00];
+The utility and drawbacks of the “hallmarks of aging” as a framework for research and funding [49:30];
+The role of epigenetic changes in aging and the challenges of proving causality [56:45];
+The translational challenges of moving aging research from preclinical studies to human applications [1:03:45];
+Distinguishing between a biomarker of aging and aging rate indicators [1:17:15];
+The difficulties of translating longevity research in mice to humans, and the difficulties of testing interventions in humans [1:21:15];
+Exercise, aging, and healthspan: does exercise slow aging? [1:35:45];
+Are GLP-1 receptor agonists geroprotective beyond caloric restriction effects? [1:41:00];
+The role of senescent cells in aging, challenges with reproducibility in studies, and differing views on the value of current research approaches [1:46:15];
+How funding challenges and leadership in NIH and other institutes impact the advancement of aging-related research [2:00:15];
+Metformin: geroprotective potential, mechanisms, and unanswered questions [2:02:30];
+Canagliflozin and rapamycin as geroprotective molecules: mechanisms, dosing strategies, and longevity potential [2:10:45];
+Resveratrol and NAD precursors—a lack of evidence for anti-aging effects [2:22:45];
+The potential of parabiosis and plasmapheresis to slow aging, the challenges in translating mouse studies to humans, and possible design for human studies [2:29:45]; and
+More.
+Show Notes
+The recent rise in public interest in longevity, misconceptions, and the link between healthspan and lifespan [3:45]
+The rising interest in longevity, misconceptions, and the link between healthspan and lifespan
+The term longevity is clearly at a peak in terms of public interest
+The number of times “longevity” is searched on Google is similar to “Bitcoin”
+All of today’s guests have devoted decades to studying longevity
+Why are people so interested in longevity? Is there a bubble going on?
+Steve Austad
+It’s a surprise that longevity has become so big, because for a long time we tried to move away from that in the aging field because we were worried that people were thinking of longevity as we’re going to keep frail, feeble old people alive longer
+When really what we were trying to do is extend health
+He thinks it’s because there are certain people of a certain age who’ve started to think about their own longevity
+There’s also a whole new generation of tech entrepreneurs that really feel like this is a problem that will allow them to live healthily for several decades (at least) longer than they are now
+He hasn’t seen this level of interest before
+30 years ago, he would’ve said, “
+Let’s not even say the word longevity, let’s say healthspan
+.”
+That has changed as more and more people have been peeking in at the field from the outside
+The field hasn’t changed they way they talk, it’s the people eaves dropping on the field that have changed
+Rich Miller
+People have always been fascinated for millennia on things they could do to stay alive and healthy as long as possible
+But there were actually scientific discoveries in the ’90s that showed that it could be done
+Then in the last 20 years there’s evidence (in mice) that it can be done with pills
+So that naturally should lead to speculation that there could be pills you could give to people that would postpone poor health for a substantial amount of time
+⇒
+20-30% [extension of healthspan] is what we’re seeing in mice, and 20-30% would be very important for people
+That is one part of it
+The other part is that there are now people who are making a lot of money by selling stuff that is untested (or useless) to gullible customers
+People who want to make a lot of money have finally found that there’s an impetus that will allow them to sell stuff, even if there’s no evidence that it works
+And they control an enormous amount of advertising dollars, both formal and informal
+That’s a big part of the difference
+With regard to something Steve said about the balance between healthspan and lifespan
+It’s become fashionable, for the last 20 or 30 years, to imagine that you get one or the other, that you have to make a choice
+That it’s a decision, and that if you give up on lifespan that allows you to extend healthspan
+Rich thinks that’s ridiculous and controverted by all the available evidence
+⇒
+All of the drugs at least that extend lifespan in mice (and could potentially do so in people) do so by postponing diseases
+Both the diseases that will kill you (that’s why they extend lifespan) and the diseases that won’t kill you, but which will annoy you and make you very unhappy to be old
+Peter points out ‒ that’s also true of exercise and not being insulin resistant
+Healthspan and lifespan are linked together, they go up and down together
+⇒
+Getting people disabused of that false seesaw metaphor [that for healthspan to go up, lifespan goes down, and visa versa] is an important goal for the public interface between longevity scientists, aging scientists
+15 years ago the first ITP was published showing the overwhelmingly surprising and positive results of rapamycin
+After a decade-long lag, those results were repeated
+Cynthia Kenyon’s
+work was
+published in ‘93
+, and this may have been the thin edge of the wedge into the idea that lifespan was malleable
+Albeit through a genetic manipulation in a less relevant model
+Thinking about this lag, do you buy Steve’s argument that it’s a confluence of technology, tech entrepreneurs?
+Rich answers the first question: why the lag?
+There’s a whole batch of important reasons
+1 – The prevailing attitude about aging is there’s nothing you can do about it
+I’m not going to outwit aging, though maybe I can be healthier in my older years
+“
+The notion that aging is not malleable, though wrong and provably wrong, is still the overwhelming opinion even of reasonably educated scientists and certainly of the lay public
+.” ‒ Richard Miller
+2 – Commercially, there are companies that make a ton of money selling stuff that doesn’t work by pretending, with a wink and a nod and a lawyer, that it might slow the aging process down
+And since they can make a lot of money, they don’t actually have to spend valuable marketing dollars on doing research and stuff to prove that it works
+The long road to developing a longevity drug
+In the hands of the
+ITP (Interventions Testing Program)
+, for some of the drugs, the patent is owned by another company
+Or they’re out of patent
+Or it’s a natural product
+None of that says take me to whoever owns a big pharmaceutical firm
+Even if you want to do it right and you’ve got a very large budget, it’s not an overnight kind of thing
+For the half a dozen drugs that have been shown to work in the ITP (in mice), finding something in the same family that works really well for people (and is safe) is not trivial
+Of which
+rapamycin
+is the leading agent
+That takes a long time and it takes a commitment of money and time and effort and intellectual resources, and so far it has not been enormously successful (unfortunately)
+Steve Austad, “
+Can I push back a little on what Rich said about healthspan versus lifespan?
+”
+Several papers have come out recently showing that the gap between healthspan and lifespan in people is actually increasing
+It’s increasing the fastest in the United States
+It’s increasing faster among women than men
+In humans this is a very real gap and it’s a growing gap
+In the area of geroscience (the stuff that we do), Rich is right
+We don’t see this in our experimental systems
+To Steve, this emphasizes the fact that we need to change the focus
+One of the reasons that the gap exists is we’re getting better and better and better at treating heart disease and cancer and all these things
+Keeping people alive when they wouldn’t have been alive 10 years ago
+This is a really important factor when thinking of public health globally
+Matt Kaeberlein
+Thinks both Rich and Steve are right, but looking at it from different angles
+Steve pointed out that you can make people live longer when they’re sick
+What Rich is saying (and Matt agrees with) is that if we target the biology of aging, he hasn’t seen anything to make him believe that you can separate healthspan and lifespan
+Meaning he hasn’t seen things that slow aging/increase lifespan that don’t also increase healthspan
+Steve Austad
+That’s an important point: if we target aging, we’re doing something different than the way medicine is operating now, which is targeting individual diseases after they occur
+Redefining healthspan, the US healthcare paradox, and separating longevity science from commercial hype [12:30]
+Peter makes the connection to healthcare spending
+This came up in a recent podcast with Saum Sutaria [
+episode #327
+] talking about healthcare costs
+One thing that emerged is the sad statistic that among the
+OECD nations
+, the US has the lowest life expectancy
+Which is ironic given that we are spending, on average, about 80% more, and in some cases double what most other developed nations spend on healthcare
+So how do you reconcile this?
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Steven Austad, Ph.D.
+Dr. Austad is a Distinguished Professor and Protective Life Endowed Chair in Healthy Aging Research of the Department of Biology, University of Alabama at Birmingham and Scientific Director of the American Federation for Aging Research. In addition, he directs the NIH-supported UAB Nathan Shock Center of Excellence in the Basic Biology of Aging, one of only six such Centers in the United States. He is also the Co-director of the Nathan Shock Centers Coordinating Center and serves on the Executive Committee of the National Institute on Aging’s Research Centers Collaborative Network.
+Dr. Austad’s current research seeks to understand the underlying causes of aging with a long-term goal of developing medical interventions that slow the age-related decay in human health. Dr. Austad is the author of more than 200 scientific peer-reviewed publications covering nearly every aspect of aging from cells to societies. Dr. Austad is a fellow of the American Association for the Advancement of Science, and of the Gerontological Society of America. He has received multiple prestigious awards for his research work. [
+UAB
+]
+Website:
+Let’s Talk Science by Steven Austad
+X:
+@StevenAustad
+Matt Kaeberlein, Ph.D.
+Dr. Matt Kaeberlein is the Chief Executive Officer at Optispan, Inc., Affiliate Professor of Oral Health Sciences at the University of Washington, and Co-Director of the Dog Aging Project. Dr. Kaeberlein’s research interests are focused on understanding biological mechanisms of aging in order to facilitate translational interventions that promote healthspan and improve quality of life for people and companion animals. He is a Fellow of the American Association for the Advancement of Science (AAAS), the American Aging Association (AGE), and the Gerontological Society of America (GSA). Dr. Kaeberlein has published more than 250 scientific papers in the field of aging biology and has received several prestigious awards including young investigator awards from the Ellison Medical Foundation and the Alzheimer’s Association, the Vincent Cristofalo Rising Star in Aging Research Award, the Murdock Trust Award, the NIA Nathan W. Shock Award, and the Robert W. Kleemeier Award for outstanding research in the field of gerontology. Dr. Kaeberlein is the founding Director of the University of Washington Healthy Aging and Longevity Research Institute, former Director of the NIH Nathan Shock Center of Excellence in the Basic Biology of Aging and the Biological Mechanisms of Healthy Aging Training Program at the University of Washington, and former CEO and Chair of the American Aging Association.
+X:
+@mkaeberlein
+Richard Miller, M.D., Ph.D.
+Richard A. Miller, M.D., Ph.D., is a Professor of Pathology, Associate Director of Research for the Geriatrics Center, and Director of the Paul F. Glenn Center for Biology of Aging Research at the University of Michigan.  He received the BA degree in 1971 from Haverford College, and MD and PhD degrees from Yale University in 1976-1977. After postdoctoral studies at Harvard and Sloan-Kettering, he began his faculty career at Boston University in 1982 and then moved to his current position at Michigan in 1990.
+Dr. Miller has served in a variety of editorial and advisory positions on behalf of the American Federation for Aging Research and the National Institute on Aging, and served as one of the Editors-in-Chief of Aging Cell. He is the recipient of the Nathan Shock Award, the AlliedSignal Award, the Irving Wright Award, an award from the Glenn Foundation, and the Kleemeier Award for aging research. He has been a Senior Scholar of the Ellison Medical Foundation, and is a Fellow of the American Association for the Advancement of Science and a member of the American Association of Physicians. At Michigan, he directs the Paul Glenn Center for Aging Research.
+His research program includes ongoing studies of the mechanisms that link stress, nutrients, and hormones to delay aging in mice, development of new approaches to slow aging and disease through drugs and targeted mutations, and studies of the ways in which cells from long-lived birds, rodents, and primates differ from those of short-lived species. [
+RichMillerLab.com
+]Website:
+RichMillerLab.com

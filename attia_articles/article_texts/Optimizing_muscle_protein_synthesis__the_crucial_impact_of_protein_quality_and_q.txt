@@ -1,0 +1,153 @@
+Luc van Loon is an internationally renowned expert in skeletal muscle metabolism. In this episode, Luc starts with an exploration of the roles of insulin and triglycerides in endurance exercise, highlighting their impact on skeletal muscle metabolism, and he offers profound insights into the significance of protein in this context. He elucidates how different protein types and forms influence muscle protein synthesis rates, exploring the nuances of protein absorption, digestibility, amino acid quality, and their implications for performance and recovery. Delving deeper, he differentiates between animal and plant protein sources, unraveling the distinctive properties of various protein types, from the differences between whey and casein to the emerging trends in collagen protein supplementation. Moreover, Luc dissects the intricate connections among physical activity, lean muscle mass, muscle protein synthesis induced by resistance training, and dietary protein.
+Subscribe on:
+APPLE PODCASTS
+|
+RSS
+|
+GOOGLE
+|
+OVERCAST
+|
+STITCHER
+We discuss:
+Luc’s background and insights about fuel selection during exercise [3:30];
+Fuel utilization during endurance exercise [9:30];
+Fat metabolism, intramuscular lipids, and the nutritional dynamics of endurance sports [17:15];
+The optimal window for replenishing intramuscular fat stores and glycogen post-exercise [25:15];
+Luc’s interest in protein metabolism and exploration of amino acids’ dual role as building blocks and signaling molecules in driving muscle protein synthesis [32:15];
+How protein metabolism differs between sedentary individuals and those engaged in predominantly strength training or endurance training [38:45];
+The basics of how proteins are digested and absorbed, and how muscle protein synthesis is measured [50:30];
+How factors like food texture, cooking methods, and protein composition’s impact on muscle protein synthesis, and the importance of protein distribution throughout the day [59:45];
+Differences in whey and casein proteins, and the ability of ingested protein to stimulate muscle protein synthesis [1:03:30];
+Dietary protein distribution and quantity for the maximization of muscle protein synthesis [1:09:00];
+Muscle loss with age and inactivity and the importance of resistance exercise to maintain type II muscle fibers [1:17:15];
+Differences between whey and casein proteins, and the importance of both quantity and quality of protein sources [1:28:30];
+Optimizing muscle protein synthesis: exercise, timing of protein intake, protein quality, and more [1:37:00];
+How to preserve muscle while trying to lose weight [1:46:00];
+Anabolic resistance and overcoming it with physical activity [1:55:45];
+Importance of protein intake and physical activity in hospitalized patients [2:06:30];
+Reviewing the efficacy of collagen supplements [2:13:30];
+Plant-based diets: how to ensure a balance of amino acids, and other considerations [2:20:30];
+Future research: understanding protein metabolism in the brain [2:23:45]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Comments
+This field is for validation purposes and should be left unchanged.
+Δ
+Luc’s background and insights about fuel selection during exercise [3:30]
+Luc didn’t didn’t know where to go to college
+Most exercise physiologists are field athletes, so we want to know how our genetics can be compensated for by science
+He wanted to do movement sciences, so he studied movement sciences at Maastricht in the Netherlands
+After that, he went to Austin, Texas to work with
+Jack Wilmore
+at UT for his Master’s internship
+After that, he finished his PhD in Maastricht again
+Then, he went to Melbourne to work with
+Mark Hargreaves
+After spending some time in Melbourne, he came back and has spent the rest of his career in the Netherlands
+From assistant prof to associate and to full professor, over the past 15 years
+The focus of this episode
+Today, we’re going to not talk so much about the movement stuff, although that would be very interesting to our audience
+Instead we’re going to talk more on the nutrition side of things, specifically (and in great detail) about protein
+Protein is not necessarily your first foray into nutrition, correct?
+No, that’s correct
+Luc’s main interest in the beginning and also in his PhD was in
+fuel selection
+Substrate selection during exercise, and most of that stuff is done during endurance-type exercise
+And if you’re thinking about substrates, you’re not thinking about protein, which is from a quantitative point of view is not a very good substrate
+Instead, it’s carbohydrate and fat metabolism
+The most interesting thing for him at that time was that they had set up a stabilizer dope research facility where you could track metabolites
+The first things that that lab did is actually measure carbohydrate oxidation rates
+You would simply throw in some stable isotope labeled carbohydrates in your drink and simply by the oxidation of those carbohydrates, you would exhale
+13
+CO
+2
+If it’s labeled with
+13
+C
+, you get
+13
+CO
+2
+after you oxidize it
+And by simply acquiring your expired breath, you can calculate how much of your energy came from a sports drink
+Luc explains, “
+That was so cool for me at that time
+.”
+Just to be clear, you would also need to know the amount of oxygen consumption to be sure that that CO
+2
+came from glucose and not from fat, correct?
+Yeah, it’s a combination of indirect telemetry, so that’s total oxygen uptake and total carbon dioxide production, combined gives you total energy expenditure and also total oxidation of carbohydrates and fats
+Then, because you know what percentage of the carbohydrates derived CO
+2
+was expired by
+13
+CO
+2
+, you could calculate back how much of the carbohydrate is coming from your drink
+That is cool, because then you’ll see how much of the drink are you actually using
+Peter mentions a method that uses deuterated water in C-13 (
+doubly labeled water
+) to measure energy expenditure in a free living environment over a long period of time
+Is the method you are referring to only using labeled carbon and therefore only suitable for a short period of time to evaluate glucose oxidation, or do you also label oxygen and potentially get energy expenditure over a long period of time?
+If you use doubly labeled water, you need several days to do that
+You’re getting carbohydrates in, you start oxidizing them, that CO
+2
+is also mixed in your blood
+It takes a while before the expiration of labeled carboy is a good proxy for the amount of carbohydrates that you’re oxidizing
+In 2 hours, they’re in a nice steady state
+That’s why he’s measuring oxidation rate at 1-2 hours for endurance athletes
+That’s only for exercise trials
+Peter asks, “
+Did this tend to be more accurate than the estimate you would get of carbohydrate oxidation rate just using the indirect calorimetry and the Weir equation? Or was the point here to determine not total carbohydrate metabolism, but specifically how much is coming from the drink?
+”
+Exactly, you can see how much of that carbohydrate is coming from your drink (versus glycogen)
+You have your glycogen coming from your liver, you have your glycogen coming from your muscle, you can actually detect that with an intravenous glucose tracer with a different label, and then you have your
+13
+C label in your drink, so you can actually see all 3 substrates
+You can see what is coming from the drink, what is coming from your muscle glycogen, and what is total coming from your plasma glucose
+Plasma glucose includes the drink, but you can subtract that from the total
+That was not enough for Luc, he also wanted to know what
+fatty acids
+are being used from your intramuscular triglycerides (the fat inside your muscle fibers) and what is come actually from the fat tissue that is releasing fatty acids and then transported to the circulation and taken up in the muscle
+Because that is also an important topic for athletes, and also diabetes patients
+Fuel utilization during endurance exercise [9:30]
+Peter is preparing for a long endurance event
+An event that’s going to take about 20 hours
+It’s been so long since he’s thought about how to prepare energetically for something like this
+Peter believes that nutrition can make or break you in these 20-hour marathon events
+What did you learn about the rate of carbohydrate metabolism, muscle glycogen, liver glycogen in the steady state?
+One of the most important things is that all the glucose that is coming into circulation will be used for oxidation during exercise
+It’s a good idea to have a continuous supply of glucose coming from your gut
+To keep your liver glycogen intact, or at least not to deplete too fast
+You want to maximize your liver glycogen
+We know that glucose polymers are oxidized at a rate of 1.0-1.1 grams per minute
+About 60-70 grams per hour
+However it can be a little bit higher if you add some fructose
+Because fructose requires a different transporter
+So if you combine glucose with fructose, you can get a little bit higher, but that’s only for the high-end athletes that can actually gain that high energy expenditure
+Then you go up to maybe 1.3-1.4 grams per minute
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Luc van Loon, Ph.D.
+Luc van Loon studied movement sciences at Maastricht University in the Netherlands, after which he completed an internship at the University of Texas at Austin in the Department of Kinesiology and Health Education. He then earned his Ph.D. in the Department of Human Biology at Maastricht University, where he studied the effects of exercise and nutrition on muscle fuel selection. Next, he completed post-doctoral research at both Maastricht University and Deakin University in Melbourne, Australia. Currently, Dr. van Loon is a Professor of Physiology of Exercise and Nutrition in the Department of Human Biology and head of the
+M3-research group
+at Maastricht University Medical Centre. The objective of his research is to gain insight in the benefits of more physical activity and exercise training on health and performance, and the impact of nutrition on the skeletal muscle adaptive response to exercise training.
+Dr. van Loon has expertise in the area of skeletal muscle metabolism and has published over 500 peer-reviewed articles. Current research in his laboratory focuses on the skeletal muscle adaptive response to physical (in)activity, and the impact of nutritional and pharmacological interventions to modulate metabolism in both health and disease. The latter are investigated on a whole-body, tissue, and cellular level, with skeletal muscle as the main tissue of interest. To support the use of stable isotopes in biomedical research, Luc is also scientific coordinator of the Stable Isotope Research Centre (SIRC) at Maastricht University Medical Centre+. [
+Maastricht University
+]

@@ -1,0 +1,98 @@
+Popular media has touted a provocative claim that exercise is purportedly as effective as medication in treating symptoms of depression and anxiety. Such headlines are undoubtedly appealing, suggesting a simple, accessible remedy within everyone’s reach. Yet while the benefits of exercise for mental and physical health are well documented, we must be careful to assess such findings with a critical eye, even when they align so neatly with prevailing narratives and views, including some of my own.
+The claims arose from a 2023 study that quickly became a favorite reference in the world of health and wellness,
+1
+but a closer examination reveals that the research contains key design flaws that muddy its findings. What’s worse, the data have further been subjected to interpretations that stretch beyond the reasonable implications of the actual results, veering into misrepresentation. Thus, this study serves as a classic example of how the necessary criticism of flawed research can be outpaced by a rush to produce attractive headlines rather than nuanced interpretations.
+Unpacking the study
+Investigators Verhoeven et al. sought to examine the therapeutic efficacy of traditional antidepressant medications compared to an alternative form of therapy – namely, running. The study targeted individuals diagnosed with depression and anxiety disorders to understand how each treatment modality impacts not only mental but also physical health.
+The partially randomized study included 141 participants (mean age: 38.2 years, 58.2% female) assigned to either antidepressant medication (specifically escitalopram or sertraline, brand names Lexapro and Cipralex or Zoloft, respectively) or group-based running therapy (twice per week) for an intervention period of 16 weeks. To gauge the effectiveness of these treatments, assessments including the Beck Anxiety Inventory (BAI) and the Inventory of Depressive Symptomatology Self Report (IDS-SR) were conducted at the beginning (T0) and the end (T16) of the treatment period. These evaluations covered a wide range of metrics concerning both mental health status (such as diagnostic status and symptom severity) and physical health indicators (like metabolic and immune markers, heart rate variability, waist circumference, grip strength, and overall fitness).
+By the end of the 16-week period, the intention-to-treat analysis revealed that remission rates for depression and anxiety were similar between the two groups – 44.8% for those on antidepressants and 43.3% for those participating in running therapy – with no statistically significant difference (
+P
+=0.881) in these rates. In addition, response rates (defined the proportion of participants achieving a reduction in IDS-SR and BAI scores of >50%) were also not statistically distinct, though on the BAI, they trended higher among participants in the antidepressant group (32.4% and 47.2% for running and antidepressants groups, respectively;
+P
+=0.20).
+However, when it came to
+physical
+health outcomes, the differences between the two treatments were unsurprisingly more pronounced, with participants in the running therapy group showing significant improvements in several physical health metrics compared to those in the medication group. Among these metrics were waist circumference (−1.6±0.8 cm in running group vs. +1.5±0.9 cm in the antidepressant group;
+P
+=0.011), both systolic (−2.5±1.6 vs. +3.8±1.8;
+P
+=0.011) and diastolic (−2.9±1.0 vs. +1.9±1.2;
+P
+=0.002) blood pressure, heart rate (−3.4±1.1 vs. −0.1±1.1;
+P
+=0.033), and heart rate variability (+1.2±3.8 vs. −14.4±3.9;
+P
+=0.006). The researchers thus concluded that while both interventions had comparable effects on mental health, running therapy offered
+additional
+benefits by improving several key physical health indicators, whereas the antidepressant group experienced some deteriorations in these areas.
+The elephant in the room
+And, boom. Cue the headlines. But as we delve into the study by Verhoeven et al., we must return to one small experimental detail with big implications for the reliability of these findings.
+Recall that this was a
+partially
+randomized trial, meaning that the investigators allowed participants to choose whether they wished to be randomly assigned to a treatment group or, alternatively, if they wished to choose their
+preferred
+treatment method. Of the 141 participants included in the study, the majority (83 individuals, or 59%) actively
+chose
+running therapy, with an additional 13 participants being assigned to this group. In contrast, 36 participants opted for medication, with nine more being assigned thereafter. Thus, only a small
+minority
+of the study participants were truly randomized, leading to an overwhelming
+84%
+selecting their preferred treatment method. (Of note, the authors mention that they analyzed “inclusion type” – i.e., randomized vs. participant preference – and found no statistically significant interaction with treatment, suggesting that randomization versus preference had no impact on results. However, with only 22 participants in the randomized group, the lack of statistical significance could very easily be attributed to inadequate statistical power, and results stratified by inclusion type are not included in the published report.)
+The deviation from random allocation risks introducing significant potential confounds and biases, and, indeed, this turned out to be the case. Baseline assessments revealed that those opting for medication exhibited statistically significantly
+higher levels of depression
+based on the IDS-SR compared to their counterparts in the running group, with average scores of 46 for the medication group versus 40.5 for the running group (
+P
+=0.028). (Possible scores on this test range from 0 to 84, with higher scores indicating more severe depressive symptoms.)
+This suggests that the severity of symptoms may have
+driven
+the participants’ treatment choices – and indeed, a preference for antidepressants in the context of more severe depression would make sense given that loss of motivation is so often a devastating symptom of depression. Of course, this asymmetry in baseline depression severity prohibits any meaningful comparative analysis because any superior outcomes observed in one group might be due to the differences in participants’ baseline states rather than to differences in effectiveness of the treatments. If the running group started with milder symptoms, they might naturally show better outcomes simply due to a lesser severity of depression, rather than any particular efficacy of running therapy.
+Additionally, the preference for running therapy over medication could also reflect underlying participant characteristics for which the study does not account. For instance, these individuals might have a more positive initial attitude towards exercise and a belief in its benefits, which could contribute to a placebo effect or a bias in reporting symptoms, especially in light of the milder symptoms of depression in the group. Mental health metrics necessarily rely to a large extent on subjective reporting from participants, and such data are more susceptible to the influence of placebo effects or reporting biases.
+The elephant
+missing
+from the room
+The interpretation that has spread around popular media has been that this study shows running to be superior to antidepressants as a treatment for depression and anxiety, given its added physical health benefits and [alleged] equivalence to medication in mental health performance. Yet even if we ignore the huge problem of partial randomization and baseline differences in depressive symptoms, this interpretation is not quite justified, as the readouts the authors chose to compare have the potential to hide important differences between groups. In presenting their data, the authors chose to highlight the absence of significant differences in what they term “response rates greater than 50% on IDS-SR and BAI” between the treatment groups. This approach, however, raises a question: could it be possible that the medication-treated group actually experienced a higher response rate – say, 75% – compared to, say, 55% in the group undergoing running therapy? Without comparison of absolute percentages of response (as opposed to an arbitrary all-or-none threshold of 50% symptom reduction), the unfortunate reality is that we will never know.
+The authors also conspicuously omitted another more informative (and standard) indicator of efficacy: a between-group comparison of the respective reductions in symptom severity on the IDS-SR and BAI scales. Instead, they focused on
+within-group
+changes (i.e., differences between pre- and post-treatment within the same group), which can only tell us how an intervention changes depression symptoms relative to baseline rather than how it compares to an alternative treatment. But ironically, a face-value comparison of these within-group changes actually favors antidepressants, indicating that
+medication had a much more substantial impact on improving symptoms than running therapy
+. While running therapy improved BAI score by an average of –4.8±1.8 and IDS-SR by –8.5±2.4, antidepressants improved these scores by –9.0±2.0 and –13.9±2.1, respectively. Thus, depression and anxiety symptom scores decreased nearly twice as much in individuals who used antidepressants compared to those who engaged in running therapy, raising doubts about the earlier suggestions of equivalence between the two treatment modalities.
+Why bother?
+It’s fairly obvious that exercise would be superior to antidepressants in improving physical health, and plenty of evidence has already pointed to benefits of exercise on mood and mental health (including depression and anxiety). However, the claim that exercise could
+match
+the effectiveness of medication in treating mental health conditions is not supported by this study. It’s reasonable to conclude that this paper does not significantly enhance our understanding of running therapy’s efficacy in treating depression and anxiety whatsoever, let alone relative to antidepressant medications. So why bother giving this study any attention?
+The first reason is simply to highlight some of the flaws in interpretations of this study that have circulated around popular press and social media. While this work may generate appealing headlines or support popular narratives on “natural” solutions over medical treatments, these conclusions oversimplify complex treatment dynamics, leading to the widespread propagation of reductive and sometimes misleading advice.
+Such interpretations and narratives can be particularly harmful when they influence public perceptions of mental health. They can undermine the real challenges faced by individuals with severe depression, for whom initiating an exercise regimen can be a daunting, if not impossible, task – and may not be sufficient to keep depressive symptoms at bay. Thus, the implication that running alone can suffice as treatment not only trivializes the nuanced nature of mental illness but also poses potential risks to those who might forgo necessary medical treatment in light of these research interpretations. If anything, this study should caution against any one-size-fits-all approach to mental health treatment and should certainly not be interpreted as endorsing such a simplistic solution.
+But perhaps an even larger motivation for discussing this work is to emphasize the importance of critical analysis even (or perhaps,
+especially
+) when it comes to scientific research that might at first glance support one’s own biases and preferences. It’s no secret that I believe exercise to be a vital and powerful tool for promoting mental, cognitive, and physical health and well-being, and research to date certainly strongly supports this perspective. It would be easy to take a quick look at Verhoeven et al.’s results, latch onto them as more evidence that exercise is a “miracle drug” without giving them any further thought, and share them in a newsletter titled “See? I told you so!” But this would be a disservice to my readers and would only serve to add to the widespread oversimplification and misinterpretation that I’ve just described above. Indeed, it is when I encounter research that aligns with my own biases that I must be
+most
+critical in order to ensure that I am assessing the work for what it
+is
+– not for what I
+hope
+it to be. And I strongly encourage anyone reviewing scientific findings to do the same.
+A more constructive takeaway on exercise and mental health
+Regular physical activity has been demonstrated to support health in numerous ways, including enhancing mood, improving sleep, and reducing stress, anxiety, and feelings of depression. For many individuals, initiating an exercise regimen could serve as a first step in supporting their well-being – with respect to mental
+and
+physical health. And it’s certainly possible that exercise alone may promote improvements in health to an extent that reduces the need for a variety of pharmacological therapies, from medications for depression to medications for blood pressure to medications for diabetes. But just as it would be reductive and irresponsible to assume that exercise alone will
+always
+be sufficient to treat high blood pressure or diabetes, it would likewise be reductive and irresponsible to assume that exercise alone will
+always
+be sufficient to treat depression or anxiety. This is not to diminish the value of exercise as a beneficial intervention but highlights the need for a balanced and well-rounded approach to mental health treatment that may include, but not rely solely on, physical activity.
+Though Verhoeven et al.’s data fit nicely into popular perceptions of “lifestyle”-based approaches to health over medical treatments, they in fact provide no clear insights on the relative effectiveness of exercise and antidepressant medications for mental health. While exercise is beneficial and should – regardless of mental health status – be incorporated into any health plan, it should nevertheless be one part of a
+comprehensive
+approach to health that may also include other treatments and interventions, especially for those with moderate to severe depression and anxiety. Each individual’s needs and responses to different treatments will vary, making it essential to consider a range of options and possibly combine several strategies for optimal outcomes.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+1.
+Verhoeven JE, Han LKM, Lever-van Milligen BA, et al. Antidepressants or running therapy: Comparing effects on mental and physical health in patients with depression and anxiety disorders.
+J Affect Disord
+. 2023;329:19-29. doi:
+10.1016/j.jad.2023.02.064

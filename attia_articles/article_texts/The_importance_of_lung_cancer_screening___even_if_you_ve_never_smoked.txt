@@ -1,0 +1,54 @@
+Last week, my wife and I had our annual screening tests for lung cancer. Neither of us have any history of lung disease or cancer, nor have we ever been smokers. We therefore aren’t among those for whom the American Cancer Society guidelines recommend regular screening, and insurance doesn’t cover the cost.
+1
+So I wouldn’t be surprised if many of you are now asking the question, “why bother?”
+The answer, as I explained in a recent video (shared below), is grim but simple: not only is it
+possible
+to develop lung cancer with no history of smoking, it is incredibly and tragically common.
+Lung cancer in never-smokers
+Lung cancer
+in general
+is by far the leading cause of cancer mortality both nationally and globally, and certainly, smoking plays an enormous role in risk — an estimated 80-90% of lung cancer cases are attributable to cigarette smoking or second-hand smoke exposure. But even if we exclude all cases of lung cancer among current or former smokers,
+lung cancer specifically among never-smokers
+would
+still
+rank about 7th or 8th (depending on the year) as a cause of cancer deaths in the US, accounting for over 20,000 deaths each year.
+2
+Most of these cases are in women, among whom rates of lung cancer in never-smokers are roughly double those among men. (The reasons for this aren’t fully understood, but likely involve interactions between sex hormones and lung cancer, as discussed in a
+past newsletter
+.)
+A flaw in screening guidelines
+As is the case with any cancer, early detection and treatment of lung cancer greatly improve odds of survival, and the best (and usually
+only
+) way to catch it early is through screening. Indeed, the American Cancer Society recommends that current and former smokers between the ages of 50 and 80 undergo annual screening by low-dose CT scan. The test is quick, involves virtually non-existent exposure to radiation, and is capable of detecting stage I lung cancer with a sensitivity of about 88-90% and a specificity of 94-99%.
+3,4
+Moreover, it’s typically covered by insurance for those with a history of smoking. But what about everyone else? Unfortunately, current guidelines make no screening recommendations for never-smokers, even for those with a family history of lung cancer or substantial exposure to second-hand smoke.
+A major reason for this is simply a lack of evidence regarding the feasibility and effectiveness of implementing screening recommendations in reducing lung cancer mortality specifically among never-smokers, as trials to date have focused almost exclusively on populations of current and former smokers.
+5
+And the reason studies haven’t been performed in never-smokers isn’t because screening is unlikely to have any benefit, but rather that it’s not likely to have as
+dramatic
+a benefit as it would in a smoking population, since the overall risk for developing lung cancer as a never-smoker is roughly 1/20th that of smokers.
+6
+Researchers trying to give themselves the best chance of seeing a statistically significant effect (without using prohibitively large cohorts) will opt for studying a subset of the population that is at highest risk for the outcome of interest. In other words, because smokers are more likely than your average person to develop lung cancer over a given follow-up period, using smokers as your study population will result in more cases of lung cancer and thus better chances of seeing a significant difference between groups in the benefits of screening.
+The trouble is, even if the impact of screening on lung cancer mortality is greater in a smoking population than in a non-smoking population, those
+population
+differences mean little for any
+individual person
+. If you develop lung cancer, regular screening tests drastically improve your odds of catching it early, and catching it early drastically improves your odds of survival. Period.
+Consider getting screened for lung cancer — even if you’ve never smoked
+Tens of thousands of never-smokers are diagnosed with lung cancer each year in the US alone. Some are lucky — they visit a doctor for a CAC scan to assess atherosclerosis or a chest CT scan to evaluate potential rib fractures after a fall or accident, and the scan picks up a lung adenocarcinoma in its early stages. (Such a serendipitous discovery occurred in our clinical practice with a woman in her 40s following a CTA for ASCVD screening.) But far more often, lung cancer in never-smokers is not diagnosed until it causes symptoms, typically in more advanced stages of the disease, and more often than not, such cases result in death.
+Yet we are not powerless in reducing our chances of meeting a similar fate. Low-dose CT scans are effective screening tests with virtually no risks (beyond some potential for false positives). I recommend having them annually, particularly for women. While they are not covered by insurance for most never-smokers, their out-of-pocket cost is around $100-200 — less than you probably pay annually for Netflix. It’s a small price to pay for peace of mind, let alone for potentially adding years to your life.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Cancer screening guidelines. American Cancer Society. Accessed June 4, 2025. https://www.cancer.org/cancer/screening/american-cancer-society-guidelines-for-the-early-detection-of-cancer.html
+Siegel RL, Miller KD, Wagle NS, Jemal A. Cancer statistics, 2023. CA Cancer J Clin. 2023;73(1):17-48. doi:10.3322/caac.21763
+Qiao L, Zhou P, Li B, et al. Performance of low-dose computed tomography on lung cancer screening in high-risk populations: The experience over five screening rounds in Sichuan, China. Cancer Epidemiol. 2020;69(101801):101801. doi:10.1016/j.canep.2020.101801
+Menezes RJ, Roberts HC, Paul NS, et al. Lung cancer screening using low-dose computed tomography in at-risk individuals: the Toronto experience. Lung Cancer. 2010;67(2):177-183. doi:10.1016/j.lungcan.2009.03.030
+Arrieta O, Arroyo-Hernández M, Soberanis-Piña PD, et al. Facing an un-met need in lung cancer screening: The never smokers. Crit Rev Oncol Hematol. 2024;202(104436):104436. doi:10.1016/j.critrevonc.2024.104436
+CDC. Lung cancer risk factors. Lung Cancer. February 13, 2025. Accessed June 5, 2025. https://www.cdc.gov/lung-cancer/risk-factors/index.html

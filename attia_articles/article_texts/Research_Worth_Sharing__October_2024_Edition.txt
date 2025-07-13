@@ -1,0 +1,55 @@
+Welcome to another edition of “Research Worth Sharing” – a roundup of recent research that we’ve found interesting and which we hope might provide worthwhile insights to others as well.
+Adaptive diet and physical activity interventions based on biofeedback enhance weight loss in obese individuals
+Why we are interested
+: For individuals with obesity, loss of fat mass is a critical step toward the goal of improving healthspan and lifespan, but after the first few pounds are shed, the body compensates in a number of ways to prevent further losses – for instance, by reducing metabolic rate and increasing hunger. As a result, patients tend to plateau in weight loss before achieving their final goal, as the diet and physical activity regimens that had initially shown promise prove to be ineffective after this early phase. One potential strategy for preventing such a premature plateau is to modulate diet and activity plans based on changes in whole-body energy expenditure over time. This study sought to examine whether using biofeedback on energy expenditure to inform and adapt weight loss strategies would enhance losses in body weight and fat mass relative to standard diet and activity counseling alone.
+What this study showed:
+In this randomized trial, 52 participants with obesity were counseled by dietitians and advised to maintain a standard level of calorie restriction (30% or 500 kcal/day below daily energy requirements, whichever was greater) and a minimum of 150 min of physical activity per week for the course of the 24-week study. For half of these participants (INT group), dietitians modulated recommendations throughout the study based on energy expenditure information derived from portable indirect calorimetry devices, while dietitians did not modify recommendations for control participants. By the end of the trial, participants in the INT group had lost more total weight than controls (-2.3 kg; 95% CI: -3.1 to -1.5;
+P
+<0.001) and showed greater reductions in body fat percentage (-1.5%; 95% CI: -2.31 to -0.72;
+P
+<0.001). Further, a substantially higher proportion of participants in the INT group achieved a minimum of 5% weight loss from baseline than participants in the control group (42% of INT group vs. 8% of control group;
+P
+=0.007). These results indicate that integrating ongoing feedback on metabolic changes to personalize and adapt diet and physical activity plans can improve the probability of avoiding weight plateaus prior to achievement of weight loss goals.
+doi:
+10.1111/cob.12703
+Exercise may be the best defense against falls in older adults
+Why we are interested:
+Falls are a major contributor to both disability and mortality among older adults. Many strategies may help to reduce one’s risk of falls and fall-related injuries – for instance, installing railings in homes or using nutritional supplements to enhance bone density. Yet although these approaches may have positive effects, the most critical prevention strategy relies on exercise for building strength and stability.
+What this study showed:
+The authors of this report analyzed data from randomized clinical trials investigating either exercise-based (37 trials, n=16,117) or multifactorial (28 trials, n=27,784) interventions for the prevention of falls and fall-related injuries. Multifactorial interventions typically involved various components such as nutrition, medication management, environment modification, and some aspects of exercise, whereas exercise-specific interventions involved various exercise modalities, frequencies, and intensities. Both intervention types were associated with significant and roughly equivalent reductions in overall fall risk (~15% risk reduction), while exercise-focused interventions were additionally associated with significant reductions in risk of injurious falls (incidence rate ratio: 0.84; 95% CI: 0.74-0.95) and in individual risk of ≥1 falls (i.e., the number of participants who experienced falls; risk ratio: 0.92; 95% CI: 0.87-0.98).
+Given the homogeneity of multifactorial interventions and the fact that neither this analysis nor the trials included within it assessed how these intervention types performed relative to
+each other
+(as opposed to relative to control groups with no intervention), these results should not be interpreted as evidence that exercise alone is superior to a combinatorial approach to fall prevention. However, they do support the notion that exercise is likely the single
+most
+effective strategy and thus is an essential element of any approach to fall prevention.
+doi:
+10.1001/jama.2024.4166
+Supportive social interactions may reduce susceptibility to stress eating
+Why we are interested:
+Calorie intake in excess of energy needs leads to gains in fat mass, which in turn increases risks for all four “horsemen” of chronic disease (cardiovascular disease, neurodegenerative disease, cancer, and metabolic disease). Many individuals are particularly susceptible to excess calorie intake during periods of high stress – a phenomenon known as “stress eating.” The resulting sensations of guilt or gains in body weight can exacerbate feelings of stress, leading to a vicious downward cycle in mental and physical health. Insights into possible ways of reducing susceptibility to stress eating thus have the potential to help many to escape the cycle and improve overall health trajectories.
+What this study showed:
+This study assessed how emotional support from social relationships impacted the link between stress, food intake, and weight gain. Stress-eating tendencies were evaluated at baseline in a cohort of 1,264 individuals, and emotional support was assessed over an 8-day window. Body mass index (BMI) and waist-to-hip ratio (WHR) were then monitored for a follow-up period of approximately 10 years. Results showed that baseline susceptibility to stress eating positively correlated with increases in BMI and WHR only among participants who had reported
+lower
+than average emotional support during the initial 8-day assessment period. In other words, baseline susceptibility to stress eating was
+not
+associated with weight gain among those who were more likely to receive emotional support from friends and family. In a separate cohort (n=536), the authors evaluated the relationship between stress eating and emotional support more directly over the course of 24 days, reporting that individuals who were typically susceptible to stress eating were less likely to engage in this behavior on days when they reported higher (vs. lower) perception that others cared about them.
+Importantly, this study was purely observational and cannot establish causality. Indeed, investigating the health effects of social support in humans in a manner that isn’t plagued by countless potential confounds is virtually impossible. However, the results nevertheless suggest that those who struggle with stress eating may benefit from fostering close personal relationships or otherwise taking action to increase social support.
+doi:
+10.1037/hea0001389
+An atlas of changes associated with skeletal muscle aging
+Why we are interested:
+Aging is associated with marked declines in skeletal muscle mass and strength, resulting in gradual loss of physical function in our later years. Understanding the cellular and molecular biology behind this decline may inform the development of strategies to slow or prevent it, and the process of reaching such an understanding can be aided by the organization and public dissemination of data upon which future research might build.
+What this study showed:
+This study utilized single-cell and single-nucleus RNA sequencing of over 90,000 muscle cells and nuclei from 17 human donors in order to characterize muscle aging on the cellular and subcellular level. Results revealed clues as to the mechanisms underlying several phenomena related to age-related declines in muscle function, including degeneration of neuromuscular junctions, reduction in activation of muscle stem cells, and increases in muscle inflammation. In an effort to promote further advances in this area, the investigators also developed an
+online atlas
+in which these data are available publicly.
+doi:
+10.1038/s43587-024-00613-3
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama

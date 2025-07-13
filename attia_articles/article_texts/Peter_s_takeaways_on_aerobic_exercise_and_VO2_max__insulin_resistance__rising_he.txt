@@ -1,0 +1,179 @@
+In this quarterly podcast summary (QPS) episode, Peter summarizes his biggest takeaways from the last three months of guest interviews on the podcast. Peter shares key insights from his discussions on diverse topics such as aerobic efficiency and VO2 max with Olav Aleksander Bu; insulin resistance with Ralph DeFronzo; economics of the US healthcare system and cost-saving strategies with Saum Sutaria; diagnosis and treatment of autism, ADHD, and anxiety in children with Trenna Sutcliffe; and strength training with Mike Israetel. Additionally, Peter shares any personal behavioral adjustments or modifications to his patient care practices that have arisen from these fascinating discussions.
+If you’re not a subscriber and listening on a podcast player, you’ll only be able to hear a preview of the AMA. If you’re a subscriber, you can now listen to this full episode on your
+private RSS feed
+or on our website at the
+episode #338 show notes page
+. If you are not a subscriber, you can learn more about the subscriber benefits
+here
+.
+https://youtu.be/z3_R_7gBU64
+We discuss:
+Overview of topics to be discussed [2:00];
+Olav Aleksander Bu Pt.2 episode: metrics to track aerobic efficiency and insights about VO2 max, and the ability of increased carbohydrate consumption to boost performance [4:30];
+The best practices for performing a VO2 max test, the differences between VO2 max training and all-out efforts, and the role of energy intake in endurance performance [14:45];
+Ralph DeFronzo episode: the pathophysiology of insulin resistance and type 2 diabetes—how it impacts different organs, flaws in conventional diabetes treatment, and more [24:30];
+Understanding type 2 diabetes beyond the traditional triumvirate of features: the “ominous octet” describes changes in other organs [31:45];
+Pharmacological treatments for insulin resistance and type 2 diabetes [41:30];
+The importance of early detection and intervention in insulin resistance [50:30];
+Saum Sutaria episode: the economic and systemic drivers of high healthcare costs in the U.S. [54:00];
+Reducing health care costs: redefining health insurance, lowering drug prices while maintaining innovation, leveraging AI for efficiency, and more [1:07:15];
+Trenna Sutcliffe episode: insights on autism, ADHD, and anxiety in children—definitions and diagnosis [1:11:45];
+Exploring the rising prevalence of autism spectrum disorder [1:17:15];
+Trenna’s views on caring for children with autism [1:21:15];
+Misconceptions around vaccines and autism [1:26:00];
+Mike Israetel episode: insights about strength training, minimum effective dose, troubleshooting plateaus, tips for beginners, and more [1:28:15];
+Topics Peter is interested in exploring in future podcasts [1:40:15]; and
+More.
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+Live Better, Longer: An Introductory Guide to Longevity by Peter Attia,
+weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Name
+This field is for validation purposes and should be left unchanged.
+Δ
+Show Notes
+Overview of topics to be discussed [2:00]
+Purpose of the Episode
+:
+Review past episodes from the quarter.
+Highlight main takeaways, insights, and changes in behavior or practice based on the discussions.
+Serve as an augmentation to the original episodes, not a replacement.
+Many listeners use this summary episode to revisit key moments in prior episodes.
+Topics Covered in the Past Quarter
+Olav Aleksander Bu Pt.2
+– Training, Performance, and VO2 Max
+Second appearance on the podcast.
+Attempted to make the episode less technical than the first, but ended up being equally or more technical.
+Breakdown of key insights and takeaways from Olav’s expertise.
+Ralph DeFronzo
+– Insulin Resistance, Type 2 Diabetes, and Medications
+Discussion on Metformin, SGLT2 inhibitors, and other drugs.
+In-depth analysis of insulin resistance and diabetes management.
+Saum Sutaria
+– U.S. Healthcare System
+Exploration of why U.S. healthcare costs nearly double per capita compared to other developed nations.
+Examination of inefficiencies and systemic issues in healthcare.
+Trenna Sutcliffe
+– Autism, ADHD, and Anxiety
+Review of research and insights into neurodevelopmental conditions.
+Discussion of anxiety and its relationship to ADHD and autism.
+Mike Israetel
+– Resistance Training
+Deep dive into resistance training principles.
+Impact on health, longevity, and overall well-being.
+Peter’s Reflection on the Past Quarter
+Volume of Notes Taken:
+This quarter had the most extensive set of notes Peter has ever taken for a quarterly review.
+The episodes with Ralph (diabetes) and Som (healthcare) stood out, with 3-4 times the usual amount of notes.
+Attempted to synthesize the insights but acknowledges the dense nature of these discussions.
+Expectation for a Long Episode:
+Given the richness of the topics covered, this summary episode might be the longest quarterly review yet.
+Olav Aleksander Bu Pt.2 episode: metrics to track aerobic efficiency and insights about VO
+2
+max, and the ability of increased carbohydrate consumption to boost performance [4:30]
+#331 ‒ Optimizing endurance performance: metrics, nutrition, lactate, and more insights from elite performers | Olav Aleksander Bu (Pt. 2
+) (January 13, 2025)
+***
+Peter’s biggest insights from the second episode with Olav
+We talked beforehand about trying to make it a little less technical because the first one was pretty technical
+Peter could not resist the tractor pull of trying to explain some technical things
+Looking back, he was probably more technical
+They started the discussion by explaining the difference between things like functional threshold power and critical power
+Peter hesitates to bring these up now because he just doesn’t think they’re relevant unless you are a cyclist
+⇒
+The
+functional threshold power (or FTP)
+is the power that you can hold for one hour
+One way to test it: get on a stationary bike and ride as hard as you can without blowing up for 1 hour
+Whatever the average power is that you held is your FTP
+When Peter was a cyclist, he would do this in a 20-minute test and would typically discount it by 10%
+Olaf suggested discounting by only 5%
+In Peter’s experience, 10% was necessary
+⇒
+Critical power
+is very similar, but rather than it being the power you can hold for an hour, it’s the power you can hold for 30 to 40 minutes
+The important distinction here is critical power is much easier to calculate
+You can do it from a set of curves that are derived from 3-4 individual tests that are much shorter
+Why is this relevant?
+If you want to have other
+metrics
+beyond VO
+2
+max
+for higher end aerobic efficiency
+, you might want to know your FTP or critical power, and critical power is much easier to measure
+These days Peter doesn’t spend a lot of time worrying about his FTP
+In fact, he doesn’t know what it is
+It made Peter realize maybe he ought to do a critical power test just so that he has another benchmark to be tracking
+A personal insight about power at VO
+2
+max (PVO
+2
+max)
+This is the relationship between VO
+2
+max and PVO
+2
+max (or vVO
+2
+max [which is velocity at VO
+2
+max])
+VO
+2
+max is maximum ventilation, meaning maximum oxygen consumption
+It’s usually sustained for at least a minute when you’re doing the test
+It’s the highest amount of oxygen in liters per minute that can be consumed for a minute
+This is achieved during a ramp exercise, almost exclusively done on a stationary bike or on a treadmill
+And when you hit that VO
+2
+max, you will note the velocity
+If you’re on a treadmill, assuming you’re running flat
+Or if you’re on a bike, then your PVO
+2
+max is the power that you’ve achieved
+Some have argued that vVO
+2
+max or PVO
+2
+max are actually more predictive of sports specific performance than just the number VO
+2
+max
+Peter thinks there might be something to that because he shared his numbers with Olaf and the truth of it is he has always had a very low PV0
+2
+max to VO
+2
+max
+Stated another way, he has always had a VO
+2
+max that is higher than many people who are much better cyclists
+It wasn’t uncommon when he was training that his VO
+2
+max was 15 points higher than people who had a higher FTP than him
+What Olaf suggested speaks to an
+inefficiency
+there
+Peter may be over-training aerobically and undertraining anaerobically
+That inefficiency means that he is actually requiring more energy across the board to put out more power
+Something interesting that comes from that is there might be an association between people like that and a lesser propensity to gain weight
+Every time Peter has done a resting metabolic expenditure test (he’s actually done the doubly labeled water test and the metabolic chambers), he always seems to have a through-the-roof energy expenditure for his body weight
+For the first time, that all came together
+On the one hand he has an advantage perhaps in that he has a very high energy expenditure
+So relative to somebody else who eats as much as he does, he’s going to be leaner
+The flip side of that is he is actually quite inefficient at utilizing energy
+Beyond training, is there anything a person can do to boost their VO
+2
+max
+⇒
+Beetroot concentrate is rich in nitrates
+{end of show notes preview}
+Would you like access to this entire podcast episode, its extensive show notes, and more premium content?
+Become a Member

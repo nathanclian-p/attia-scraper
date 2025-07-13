@@ -1,0 +1,130 @@
+In this “Ask Me Anything” (AMA) episode, Peter delves into the crucial topic of exercise, starting with the importance of having a goal in training, including how and why Peter uses the goal of training for the “Centenarian Decathlon” when structuring his training plans. Peter elaborates on how to identify deficient areas within the four pillars of exercise and guides listeners on incorporating periodization training for optimal improvement and training variety. The episode explores diverse case studies, offering insights into tailored workouts for individuals of various training backgrounds, from seasoned enthusiasts to complete beginners. Additionally, Peter tackles the universal issue of emotional stress and its impact on training, as well as how exercise can help manage stress and how to determine when training should be adjusted during a high-stress period.
+If you’re not a subscriber and listening on a podcast player, you’ll only be able to hear a preview of the AMA. If you’re a subscriber, you can now listen to this full episode on your
+private RSS feed
+or on our website at the
+AMA #55 show notes page
+. If you are not a subscriber, you can learn more about the subscriber benefits
+here
+.
+We discuss:
+Overview of exercise topics [2:15];
+Importance of training with a goal in mind, the Centenarian Decathlon, and the natural decline of fitness with age [4:00];
+The four pillars of exercise [12:15];
+Measuring peak aerobic output with VO2max, and the importance of VO2max as a predictor of longevity [16:45];
+Measuring aerobic efficiency with zone 2 [25:45];
+Measuring and tracking muscle mass and strength [27:30];
+Case study of a fit person with a neglected pillar: why adding more training volume may not the best strategy [30:30];
+Periodization training: what it is and why it is beneficial [36:15];
+Periodization case study: high cardio fitness, lacking muscle and strength [40:00];
+Periodization case study: adequate muscle, low cardio fitness [44:45];
+Case study: significant improvement needed across all exercise pillars [48:45];
+Best ways to do zone 2 exercise and how to use relative perceived exertion (RPE) to find your zone 2 level [56:30];
+How the body responds to physical and emotional stress, its impact on training, and the consequences of chronic stress [1:01:00];
+The difference between “good” stress and “bad” or chronic stress [1:10:30];
+The complex relationship between exercise and stress, and the importance of adjusting exercise goals during high-stress periods [1:13:30];
+Clues that stress may be impacting your training [1:19:15];
+The use of wearables and devices for tracking trends and making decisions related to training [1:21:00];
+Parting thoughts regarding the importance of exercise for longevity and stress management [1:32:00]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Comments
+This field is for validation purposes and should be left unchanged.
+Δ
+Overview of exercise topics [2:15]
+A lot of questions come in regarding how to improve cardiorespiratory fitness, how to increase muscle mass, and increase strength
+Peter will discuss this and how we approaches this with patients in his practice
+First is really identifying and clearly defining what the goal of training is
+From there, helping people understand how they can identify the area in their life that they need the most help in when it comes to exercise
+On a more technical front, how people can use periodization training to facilitate improvements in areas that are most needed
+Peter will use case studies of what a different weekly workout could look like for a few different types of people
+Additionally, Peter also look at some training questions that apply to everyone no matter what level of expertise they’re at
+To conclude, Peter will discuss how stress can impact a workout and what to do about it as well as how people should look at wearables and the data from wearables as it relates to making decisions on training
+Importance of training with a goal in mind, the Centenarian Decathlon, and the natural decline of fitness with age [4:00]
+Importance of training with a goal in mind
+Like most people, Peter is no longer an athlete training for a specific athletic event
+Peter has made the
+Centenarian Decathlon
+his goal
+More context from Peter
+Recently, Peter saw picture of himself from 2014 and it was after a training session
+Fiesta Island is where we used to train for the time trials and it was a picture of me and
+Meb
+after a training session.
+At that time, Peter was 168 pounds, 25 pounds less than today
+And there’s just no comparison to what he was then versus what he is today
+Peter’s training at that time was 3x more than nowadays in volume, and it was
+very specific
+When Peter stopped competing, and he was done with cycling, swimming, and just done with being competitive at some level, he needed to find another goal — “
+It’s very difficult to train without a purpose
+.”
+Peter had an epiphany in the summer of 2018 (discussed in his
+book
+)
+He had an aimless three years where he was exercising and he was reasonably fit, but there was no purpose — “it wasn’t anchored to anything”
+This all came in a flash of inspiration when he was sitting at the funeral of the parent of a close friend, realizing that in the last decade of this person’s life that person was largely debilitated, physically
+That tragic to Peter because he had seen them be healthy in their 60s and 70s
+But that’s what gave Peter this idea: we need a goal and we need to treat life just as we would treat an athletic event
+This idea of a centenarian decathlon came to his mind in part because decathletes are generally regarded as the best overall athletes, despite not being the best in any one of the 10 things that they do
+Of course, centenarian decathlon is not an actual event, but even becoming a centenarian is not necessarily the objective — we don’t have that much control over how we stretch our genes
+What we really need to say to ourselves is…
+In the last decade of my life, what do I want to be able to do and how do I begin to train for that now?
+When you take that look at the future and you say, “Look, these are the things I want to be able to do,” you can apply metrics to those activities.
+You can say, “Hey, if I want to be able to hike on uneven surfaces to the tune of two mile round trip in an hour, that requires this much cardio respiratory fitness, this much strength, this much balance
+And I know how much each of those things will decline over the next decades. So how much stronger do I need to be at 50 than I would expect to be at 85 or 90?”
+Figure 1.
+Source:
+Westerterp et al.  Am J Clin Nutr. Nov 2021
+Overview of the figure:
+On the left, it shows women and on the right it shows men
+The bottom two figures show physical activity level over time.
+Age is always shown on the X axis
+And the upper figure shows fat-free mass in kilograms on the Y axis versus again age on the X axis
+So fat-free mass of course is a very good proxy for lean mass or muscle mass
+And you can see that these have data collected all the way from when people are teenagers up until the end of life
+Observations:
+Remarkable trends here
+There’s some obvious differences between men and women—the most notable one of just the difference in lean mass, men have significantly more lean mass than women—but if you put that aside, you’ll realize two things:
+The first is that we have a steady increase in muscle mass and lean mass that occurs from birth right up until about the age of 25
+And then you have a relatively minor decline in lean mass from 25 to 75
+Then at age 75, it literally falls off a cliff
+Now looking at physical activity, we see that from the ages of 25 to 75, physical activity level is even more consistent and conserved than lean mass in both men and women
+And yet what happens at the age of 75 for both men and women? It just falls off a cliff
+Of course, this figure cannot give us causality—you can’t look at this figure and tell you that the reason physical activity level falls off a cliff at 75 is because muscle mass does the same
+Nor can you say that muscle mass is declining because physical activity goes down
+Peter believes, however, that it is bi-directional
+“
+In other words, I suspect that what’s happening is that at 75 or thereabouts for the average person, activity declines and as activity declines, muscle mass declines, and as muscle mass declines, activity declines further and these things spiral out of control
+.”
+The average life expectancy is about 80
+So that means that for people who are living to average life expectancy and slightly beyond, they’re basically going to spend the last 5 to 10 years of their life in a very poor physical state
+Key point
+: you must focus on
+healthspan
+at least as much as you focus on lifespan
+And if there’s an enormous failure in medicine 2.0, it’s the myopic focus on lifespan at the complete exclusion of health span
+Therein lies the why:
+It really doesn’t matter what your athletic background is.
+Maybe you were a stud athlete growing up, maybe you’ve never played a sport in your life and you’ve never done so much as run a local 5K
+None of that matters
+“
+Everyone needs to be an athlete for life and therefore everyone needs to think about becoming the best version of their centenarian decathlete
+.”
+The four pillars of exercise [12:15]
+Overview of the four pillars of exercise and why it’s relevant to the centenarian decathlon
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member

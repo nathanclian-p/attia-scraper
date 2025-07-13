@@ -1,0 +1,92 @@
+This audio clip is from
+episode #48 with Matthew Walker, Ph.D., on sleep – Part II of III: Heart disease, cancer, sexual function, and the causes of sleep disruption (and tips to correct it)
+, originally published on April 8, 2019.
+Show Notes
+Fighting cancer and improving immune function with sleep [34:30]
+For the development of cancer, a couple things must go wrong:
+First, a genetic insult
+Second, that insult must be missed by immune system (most of the time
+T cells
+identify it)
+How does sleep affect the immune system?
+Significant link between sleep and cancer of
+bowel
+,
+prostate
+, and
+breast
+(3 of top 4 cancers)
+Causal evidence so strong that
+WHO has classified night shift work as a “probable carcinogen”
+⇒ UCLA study:
+Partial sleep deprivation reduces natural killer cell activity in humans.
+healthy adults limited to 4 hrs sleep for one night
+They measured natural killer cells (which identify foreign elements like cancer cells and destroy them)
+One night of poor sleep caused 70% drop in natural killer cell activity;
+“imagine what it could be after months of insufficient sleep”
+“
+I don’t think people necessarily appreciate that we pretty much always have cancer, and our immune system is pretty much always protecting us. It’s actually the exception when the cancer develops into something clinically.
+” says Peter
+Why does cancer increase non-linearly as you age? A few hypotheses…
+1) Is it an increase in the rate of
+mutagenesis
+? Do you experience, on a per unit of time basis, a greater insult to the genome?
+2) If the rate of mutagenesis does NOT increase, is it then that over time the accumulation and the expression, the phenotype of that, becomes more problematic?
+3) Is it that our immune system, specifically the adaptive immune system, is weakening and the balance starts tipping in favor of cancer? ⇒ Lowering the volume of natural killer cells (like the
+CD4 and CD8 cells
+)
+When posing this question to experts on the topic, Peter says they mostly stay that they suspect it’s all of the above, but they all agree that
+the weakening of the adaptive immune system is almost assuredly playing a role in why we get cancer more as we age
+Sleep gets worse as we age, and therefore our immune system gets worse
+“One of the most dramatic changes with age, and the most sizable and robust physiological changes with age that we see, is that your sleep gets worse. And sleep is probably one of the most powerful regulators of your immune system.”
+Most people have had at least one situation where they could only get 4 hours of sleep for one night… but it’s
+staggering to think of the compounding problem
+We have a system to cope with excess nutrients, even if not our modern diet, but we are terrible at measuring short-term consequences of sleep deprivation
+A lack of sleep bends curve of lifespan very dramatically, but no good way to measure or cope
+Was the lightbulb a step in wrong direction? When society switched from agrarian to industrial is when problem started, but not very long ago evolutionarily
+Sleep and cancer development:
+⇒
+Study using mice
+by David Gozal at the University of Chicago
+Two groups of mice
+Both groups have cancer
+One group got normal sleep
+Other group has their sleep restricted
+Underslept mice had
+tumors 200% larger
+than mice who slept normally
+Cancer in underslept mice had also metastasized
+The study also controlled for hypercortisolemia by having the adrenal glands removed, which means they removed the possibility that the tumor growth was fueled by hepatic glucose output by controlling for the metabolic response
+The mechanism?
+⇒
+Macrophage M1 cells
+downregulated, and
+M2 cells
+(which promote tumor growth) upregulated by lack of sleep
+⇒ In humans…you would have both the M2 cells upregulated as well as a “tsunami” of cortisol impacting the body and driving tumor growth
+A current clinical tragedy in diagnosis and managing cancer:
+A patient with cancer diagnosis has anxiety,
+can’t sleep
+, etc. simply due to hearing the news of their diagnosis
+We are careful with chemotherapy, and meticulous in our research into causes of and types of cancer, yet we have almost but no papers on this topic of sleep and cancer
+“Something like this seems so obvious, and yet we just seem ill equipped to deal with it.”
+§
+Matthew Walker, Ph.D.
+Dr. Walker earned his degree in neuroscience from Nottingham University, UK, and his PhD in neurophysiology from the Medical Research Council, London, UK. He subsequently became a Professor of Psychiatry at Harvard Medical School, USA. Currently, he is Professor of Neuroscience and Psychology at the University of California, Berkeley, USA. He is also the founder and director of the Center for Human Sleep Science.
+Dr. Walker’s research examines the impact of sleep on human health and disease. He has received numerous funding awards from the National Science Foundation and the National Institutes of Health, and is a Kavli Fellow of the National Academy of Sciences.
+Dr. Walker is the author of the International Bestseller, Why We Sleep. It has a singular goal: to reunite humanity with sleep.
+In addition, Dr. Walker is an internationally recognized
+speaker
+, a successful
+entrepreneur
+, and a Sleep Scientist for Google.
+[sleepdiplomat.com]
+Twitter
+:
+@sleepdiplomat
+Center for Human Sleep Science
+:
+https://www.humansleepscience.com/
+Matthew’s publications
+:
+https://www.humansleepscience.com/p-u-b-l-i-c-a-t-i-o-n-s

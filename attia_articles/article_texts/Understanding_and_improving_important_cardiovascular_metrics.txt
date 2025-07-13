@@ -1,0 +1,16 @@
+Through wearable devices and other at-home technology, we have more access than ever to information about our health. Among the most ubiquitous metrics for at-home monitoring are those related to cardiovascular function — in particular, resting heart rate, heart rate recovery, heart rate variability, VO
+2
+max, and blood pressure — and tracking these metrics over time can certainly offer critical information to facilitate a personalized, preventative approach to assessing and improving our health.
+And yet, there’s a catch: while these metrics have the
+potential
+to provide value, their utility is wholly dependent on the
+accuracy
+of their measurement and the appropriate
+interpretation and application
+of the resulting data. Indeed,
+inaccurate
+measurement and
+incorrect
+interpretation can easily have a net
+negative
+effect — causing undue health anxiety or false senses of security. Thus, we have created this user guide for laying out what these metrics mean, why they’re important, how to measure them accurately, and how to interpret and improve them. For those who are just starting out in their journey toward better health, this guide can help cut through confusion about how to get started with using these metrics effectively, while for those who are already entrenched in the world of fitness tracking, it may provide valuable insights on common pitfalls to avoid and how to maximize utility of each data point.

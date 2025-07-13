@@ -1,0 +1,46 @@
+Whether the goal is reducing stress or preventing cardiovascular disease, nearly every list of proactive health measures includes exercise. But although exercise is deemed nearly universally beneficial, a lack of time is the most commonly cited barrier to regular physical activity. In my opinion, exercise is the best way to spend your time for your overall health – both in terms of lengthening your life and improving its quality. But if time constraints are putting your workouts on the chopping block, can you reap the benefits of exercise in more frequent, very short durations of high-intensity exercise?
+The vast majority of prospective exercise studies use surveys of physical activity to stratify participants into different volumes of exercise. Even though these methods are rife with problems, several studies have made the same observation: those who engage in higher percentages of vigorous physical activity (VPA) have an increased lifespan over those who only engage in moderate physical activity. A 2022
+study
+attempted to quantify if VPA accrued through very short bouts could confer the benefits of improved health outcomes, and if so, how much VPA was optimal for reducing the risk of mortality.
+In general, I would encourage you to be wary of exercise studies with titles that include “how little is enough” – especially since studies keep trying to show that less and less exercise volume can be beneficial for health (at times to the point of
+absurdity
+). Alex Hutchinson once joked with me that it’s only a matter of time until someone tries to publish a study showing the benefits of simply
+thinking
+about doing one-minute bursts of exercise! As I discussed in depth in
+AMA 38
+, prospective exercise studies have consistently shown a roughly inverse exponential relationship between exercise and all-cause mortality or exercise and incident cardiovascular disease. The steepest portion of the curve is the initial drop from the group that is sedentary to the first group with the smallest volume of exercise. The benefits of increasing exercise volume keep accruing, although at a slower rate until eventually there are diminishing returns.
+What did the study find?
+In this prospective exercise study of >70,000 subjects from the UK Biobank (average participant age 62), participants were given a wrist-worn accelerometer to wear 24 hours per day for 7 consecutive days. This allowed the researchers to measure and quantify all physical activity by intensity level rather than relying on self-recall using survey methods. The activity intensity level was determined from measured accelerations during movement (in increments of 10-second windows) and was classified as sedentary, light, moderate, or vigorous. “Vigorous” activity (accelerations >3.9 m/s
+2
+) meant the subject was likely walking fast or jogging, equivalent to an estimated threshold of at least six metabolic equivalent units (METs). The authors assessed the relationship between both total VPA minutes per week and the frequency of short bouts of VPA with all-cause mortality (ACM), incident cardiovascular disease, and incident cancer over an average follow-up period of 5.9 years.
+Perhaps not surprisingly, the trend of an increasing volume of vigorous physical activity was associated with a decrease in all-cause mortality, cancer mortality, and cardiovascular disease incidence and mortality. And so the study found that the same conclusion holds: in the case of exercise, something is always better than nothing. The researchers concluded that the “minimal effective dose” of accrued VPA was 15-20 minutes per week, which decreased the risk of ACM by 18%. The “optimal” dose, or the point on the curve beyond which increasing activity had no additional benefit, was about three times longer at 54 minutes per week, reducing the risk of ACM by 36%. Hmmmm. Does that seem right?
+Physical activity vs Exercise
+For 96% of recorded bouts of VPA, the duration was less than 2 minutes (mostly under 1 minute and as little as 10 seconds at a time). That means the vast majority of VPA was
+not
+recording a participant going out for a jog or even a sustained brisk walk. Jogging for less than a minute while playing with your kids is not the same as dedicated training.
+Recall that exercise is categorized by energy expenditure in units of METs. Despite the problems with survey-based studies, previous research has found that the risk of ACM continues to decline until at least 30 – 75 MET-hr/week (and is likely even higher). Small volumes of physical activity (<2 minutes) are less likely to be captured with questionnaires, so the accrual of VPA as measured in this study is likely present
+in addition to
+the survey-reported exercise volume. If the optimum dose of 54 minutes of VPA accrual was performed at a vigorous intensity well above the threshold, say 10 METS, it would contribute 9 MET-hr per week, well below the exercise volume that maximizes health benefits. Furthermore, what MET-hrs alone do not capture is that sustained activity increases the demands on your cardiovascular and respiratory systems. I would be highly doubtful that the accrual of a few minutes of vigorous activity at a time would lead to the same physical adaptations as sustained activity. In this case, the diminishing benefits seen at higher volumes of VPA are because this population is not doing dedicated high-intensity exercise.
+Although the authors did not harp on such a thing as “too much VPA,” the confidence intervals on the curves balloon at VPA volumes of ≥40 minutes. This makes any “optimal” dose absolutely meaningless since it was based on a nadir or minima in the hazard ratio curve (supposedly at 54 minutes). A minimum implies that increased VPA volume beyond this point may lead to an increase in the risk of ACM or incidence of CVD and cancer. However, in addition to the lack of sustained exercise, this observation is due to common limitations that exist in most prospective exercise studies. That is, the population is concentrated toward the low end of the exercise volume curve. The estimates of risk at higher activity levels are being made from a smaller number of subjects reflected by the gigantic confidence interval, which indicates that strong conclusions can’t be drawn from this data.
+Accruing VPA vs Dedicated Training
+Part of the problem with these types of studies is that recommendations and scientific studies distinguish moderate physical activity from VPA at a threshold of ≥6 METs. For comparison, a MET of 6 is a VO
+2
+of 21 ml/min/kg, which is at or below even zone 2 for most people (zone 2 is often over 10 METs for a fit person). A threshold of 6 METs, especially for short bursts of movement, doesn’t distinguish a fit person from an unfit person. On the other hand,
+cardiorespiratory fitness
+as measured by VO
+2
+max has more convincingly and consistently been shown to be inversely associated with ACM. But measuring VPA accrual is not an indirect measure of cardiorespiratory fitness. VO
+2
+max is trained by doing short bouts of high-intensity exercise at a level near your maximum heart rate. Even though the overall time dedicated might be the same, a person doing weekly zone 5 training (e.g., 30 minutes dedicated to 4×4 interval training) should not be lumped in with someone who happened to move briskly for a minute at 30 discreet times over the span of a week.
+The bottom line
+While I understand the frustration of trying to get patients to regularly exercise, it is a disservice to recommend accruing “vigorous” activity in bouts of less than a minute. Even for people with poor fitness or risk factors such as obesity, being more physically active throughout the day is simply a starting point. Showing “optimal” benefits from simply being less sedentary misses out on the diversity of benefits that can be reaped from dedicated exercise (e.g., cardiorespiratory fitness, strength, stability, balance). This might do if the goal is to simply live a little longer, but if the aim is to live
+better,
+that’s going to require some dedicated training.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama

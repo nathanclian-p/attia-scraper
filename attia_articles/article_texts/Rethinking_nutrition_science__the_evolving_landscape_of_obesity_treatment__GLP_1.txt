@@ -1,0 +1,160 @@
+David Allison, a leading expert in obesity and nutrition, quantitative genetics, clinical trials, and research methodology, returns to The Drive to explore the evolving landscape of nutrition science and obesity treatment. In this episode, David begins by discussing the intricate relationship between nutrition, obesity, and body composition, emphasizing the multifaceted impacts of food beyond mere calorie intake. David provides a critical analysis of the complexities in nutrition research and their practical implications for tackling obesity. He critiques historical public health policies, addresses the trust issues plaguing nutrition science, and underscores the need for a paradigm shift to more effectively combat obesity. The conversation also delves into the rise of GLP-1 receptor agonists like Ozempic and Mounjaro, exploring their ethical and practical considerations in obesity treatment. The episode concludes with an in-depth look at protein intake recommendations and highlights the significant research gaps that remain in the field.
+Subscribe on:
+APPLE PODCASTS
+|
+RSS
+|
+GOOGLE
+|
+OVERCAST
+|
+STITCHER
+We discuss:
+The complex relationship between nutrition, body weight, and body composition [2:30];
+The slow progress in addressing obesity and public health despite substantial effort and investment [7:30];
+The very limited success of public health initiatives in curbing obesity [17:15];
+The evolving landscape of obesity research: public health initiatives and the impact of pharmacological success [26:30];
+Rethinking obesity solutions: the need for a paradigm shift [32:45];
+Understanding environmental triggers and embracing a balanced approach to addressing obesity that includes both pharmacological treatments and realistic lifestyle changes [41:45];
+The need for higher standards in obesity research [51:45];
+The rapid success of GLP-1 receptor agonists for weight loss: a discussion on the societal impact and controversy of their growing usage [1:02:15];
+The ethical and practical considerations of obesity drugs: risks, benefits, and motivations for usage [1:11:30];
+The use of GLP-1 agonists by athletes as performance enhancers [1:23:45];
+Unanswered questions about protein intake and health [1:30:45];
+Future research needed to understand basic questions around protein intake [1:45:00];
+David’s weekly newsletter: “Obesity and Energetics Offerings” [1:50:45]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Phone
+This field is for validation purposes and should be left unchanged.
+Δ
+The complex relationship between nutrition, body weight, and body composition [2:30]
+The world of nutrition and health are always in the spotlight, in particular around a class of drugs:
+GLP-1 agonists
+Before we talk about that let’s talk a little bit about what we know and maybe don’t know about the relationship between nutrition and obesity
+Tell us what you think is actually known about the relationship between food and body composition
+David likes the way Peter phrased this question, using the phrase “body composition” as opposed to just obesity or weight
+Those are 3 different things
+Obesity
+implies a threshold, too much; there’s a judgment about the effects of the excess
+Then there’s
+body composition
+, the tissue, how much is fat, how much is lean?
+Where is the fat/ lean, what is the fat composed of?
+What is the lean composed of?
+Then there’s just
+weight
+, which is just your mass on this planet
+Those 3 things are highly related but not identical
+What we know indisputably and even people who sort of rail against something they call the
+“energy balance model”
+(discussed in
+episode #197
+) whether it’s really a model is unclear
+It’s really more of a constraint
+It is a constraint by which all other descriptions of what happens with weight and mass and food intake and energy and taken energy expenditure must operate
+It’s really a restatement of the
+first law of thermodynamics
+, which is the law of conservation
+Matter and energy can neither be created or destroyed but only converted
+It’s not a description or an explanation of what happens
+It just says if you describe any proposed explanation of what happens, it’s got to follow that first law of thermodynamics in order to make sense
+And that first law of thermodynamics in the field of nutritional obesity often gets stated as something like changes in energy storage equal changes in energy intake minus changes in energy output or delta energy stores equals delta energy in and minus delta energy out
+Food intake can affect those things
+Alternatively, you could say that energy intake is one of those things
+So it gets back to that descriptive thing
+One of the questions becomes: How does all the other aspects of food besides the mere energy content of it affect the amount of weight one gains or loses, the body composition, the tissues, where the mass is distributed, what types of tissues it’s in, composition of those tissues?
+Then whether or not one exceeds some threshold
+There’s every reason to believe that many aspects of food can influence the intake of it and other things as well
+From the marketing and pricing of it
+To the taste, the smell, the smell, the timing, what you eat it with, what it’s combined with, phytochemicals in it, micronutrients, macronutrients
+All can affect energy expenditure, subsequent energy intake or nutrient partitioning
+Which is a fancy phrase for where you stick the energy that you store in the body
+Do you stick it into fat or muscle or bone or visceral fat or subcutaneous fat, etc.
+“
+The truth is, I think what we know is modest, and partly that’s because it seems to me to be very specific
+.”‒ David Allison
+When you do a study and find in this species with this delivery of this composition in this way, this thing happens
+When you look in a different species or a slightly different food, you get different results
+Even when it’s well done and honestly done
+So there’s many, many studies saying, “
+Well, we got this with pea protein and casein but not whey. Or we got it with whey but not casein. Or we got it when we fed it 2 hours before the test meal, but not 1 hour before. Or we got it in men but not in women
+.”
+David’s conclusion:
+This makes me think we’re talking often about subtle effects that may not be that clinically reliable and meaningful. And so the really big effect seems to be how many calories do you eat?
+All these other aspects of food may then influence how many calories you eat, either of that food or in subsequent occasions
+And those can seem to have big effects, but we’re still sort of trying to suss those out
+The slow progress in addressing obesity and public health despite substantial effort and investment [7:30]
+Peter asks, “
+Do you ever spend time interacting with physicists or chemists, biochemists who sit on the sidelines and sort of look at the field of human energetics and wonder to themselves, ‘Why is there so much noise and why is there so little understanding?’”
+Peter doesn’t think anybody is blaming the scientists
+What do you think it is at the meta level that explains the obvious but important observation that our knowledge in this space is woefully deficient relative to the effort that has been put into elucidating truth?
+For example, why do we know very little relative to the same amounts of effort that have gone into physical sciences?
+There are many reasons; some are perceptual and some are actual
+Perceptual: do we really know that much less?
+In physics, how is it that relativity and quantum physics are compatible; or is dark matter real?
+We don’t’ give ourselves credit for certain things
+In physics, there’s not a lot of discussion in modern times of the power of Newton’s, universal law of gravitation
+It was figured out a long time ago and we take it for granted
+Some simple examples at the practical level in energetics
+In most industrialized countries, there’s very little food shortage
+It’s a big deal that we know that alcohol contains calories (we take that for granted)
+Wilbur Atwater
+who stated the caloric content of alcohol was vilified for it at the time by the Temperance Movement
+He himself was a teetotaler by the way that alcohol had no nutritional value
+Folate
+supplementation, which has radically reduced
+spina bifida
+Iodized salt, micronutrient deficiencies being maybe not eradicated in this country, but radically reduced a
+Other supplementation and greater food safety
+We’ve made a lot of practical progress
+We’ve been feeding a number of people through nutrition and agriculture
+More recently in the 1970s when we were told there was going to be a population explosion that would threaten our ability as a species
+Peter asks, “
+But isn’t that really more about agriculture than nutrition science?
+”
+It’s agriculture, it’s food science
+Some of the nutrition science is more the micronutrients
+All the way back to eliminating
+scurvy
+through the work of
+James Lind
+and figuring out eventually that it was vitamin C
+They first thought it was just citrus in general
+They didn’t assume it was the vitamin C
+To the folate and so forth, David thinks our notions, our understanding about LDL-cholesterol is very important
+The role of
+saturated fats
+and that we’re still learning more, but we do know some things about that
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+David Allison, Ph.D.
+David B. Allison received his Ph.D. from Hofstra University in 1990. He then completed a post-doctoral fellowship at the Johns Hopkins University School of Medicine and a second post-doctoral fellowship at the NIH-funded New York Obesity Research Center at St. Luke’s/Roosevelt Hospital Center. He continued there as a research scientist and Associate Professor of Medical Psychology in Psychiatry at Columbia University College of Physicians & Surgeons. In 2001, he moved to the University of Alabama at Birmingham where he served as a distinguished professor and director of the NIH-funded Nutrition Obesity Research Center. In 2017, he became Dean and Provost Professor at the Indiana University School of Public Health-Bloomington.
+He has authored more than 600 scientific publications and received many awards, including the 2002 Lilly Scientific Achievement Award from The Obesity Society (TOS); the 2002 Andre Mayer Award from the International Association for the Study of Obesity (IASO); the National Science Foundation–administered 2006 Presidential Award for Excellence in Science, Mathematics, and Engineering Mentoring (PAESMEM); and the 2018 Harry V. Roberts Statistical Advocate of the Year Award from the American Statistical Association. In 2009, he was awarded the Centrum Award from the American Society of Nutrition (ASN) and the TOPS research achievement award from the Obesity Society. In 2013, he was awarded the Alabama Academy of Science’s Wright A. Gardner award and the American Society of Nutrition’s (ASN) Dannon Institute Mentorship award. He was elected as a Fellow of the American Statistical Association (ASA) in 2007, the American Psychological Association (APA) in 2008, the American Association for the Advancement of Science (AAAS) in 2009, the NY Academy of Medicine in 2014, the Gerontological Society of America in 2014, the Academy of Behavioral Medicine Research in 2017, and inducted into the Johns Hopkins Society of Scholars in 2013. In 2012, he received an NIH Director’s Transformative Research Award entitled “Energetics, Disparities, & Lifespan: A unified hypothesis.” In 2020, he was awarded the American Statistical Association’s San Antonio Chapter 2020 Don Owen Award in recognition of excellence in research, statistical consultation, and service to the statistical community. In 2021, he received the Obesity Society’s Friends of Albert (Mickey) Stunkard Lifetime Achievement Award.
+In 2012 he was elected to the National Academy of Medicine of the National Academies. In addition to co-chairing their Strategic Council for Research Excellence, Integrity, and Trust (with Marcia McNutt and France Córdova), he was selected for their ad hoc committee to develop methods for assessing misinformation about biological threats. He has also served on the Scientific Advisory Board for the Nutrition Science Initiative (NuSI) and served on the board-appointed Committee on Science and Technology Engagement with the Public (CoSTEP) for the American Association for the Advancement of Science (AAAS), 2014–2020.
+He has contributed to many editorial boards and is currently an associate editor or statistical editor for
+Obesity
+;
+International Journal of Obesity; Nutrition Today; Obesity Reviews; Public Library of Science (PLOS) Genetics; Surgery for Obesity and Related Diseases (SOARD)
+, and
+American Journal of Clinical Nutrition
+. Dr. Allison is also proud to be the founding Field Chief Editor of
+Frontiers in Genetics
+. His research interests include obesity and nutrition, quantitative genetics, clinical trials, statistical and research methodology, and research rigor and integrity. [
+Indiana University Bloomington School of Public Health
+]

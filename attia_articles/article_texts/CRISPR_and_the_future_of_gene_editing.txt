@@ -1,0 +1,146 @@
+Feng Zhang, a professor of neuroscience at MIT and a pioneering figure in gene editing, joins Peter to discuss his groundbreaking work in CRISPR technology, as well as his early contributions to optogenetics. In this episode, they explore the origins of CRISPR and the revolutionary advancements that have transformed the field of gene editing. Feng delves into the practical applications of CRISPR for treating genetic diseases, the importance of delivery methods, and the current successes and challenges in targeting cells specific tissues such as those in the liver and eye. He also covers the ethical implications of gene editing, including the debate around germline modification, as well as reflections on Feng’s personal journey, the impact of mentorship, and the future potential of genetic medicine.
+Subscribe on:
+APPLE PODCASTS
+|
+RSS
+|
+GOOGLE
+|
+OVERCAST
+|
+STITCHER
+Play
+#323 - CRISPR and the future of gene editing: scientific advances, genetic therapies, disease treatment potential, and ethical considerations | Feng Zhang, Ph.D.
+#323 - CRISPR and the future of gene editing: scientific advances, genetic therapies, disease treatment potential, and ethical considerations | Feng Zhang, Ph.D.
+1x
+15s
+30s
+0:00
+2:05:40
+We discuss:
+Feng’s background, experience in developing optogenetics, and his shift toward improving gene-editing technologies [2:45];
+The discovery of CRISPR in bacterial DNA, and the realization that these sequences could be harnessed for gene editing [10:45];
+How the CRISPR system fights off viral infections, and the role of the Cas9 enzyme and PAM sequence [21:00];
+The limitations of earlier gene-editing technologies prior to CRISPR [28:15];
+How CRISPR revolutionized the field of gene editing, potential applications, and ongoing challenges [36:45];
+CRISPR’s potential in treating genetic diseases and the challenges of effective delivery [48:00];
+How CRISPR is used to treat sickle cell anemia [53:15];
+Gene editing with base editing, the role of AI in protein engineering, and challenges of delivery to the right cells [1:00:15];
+How CRISPR is advancing scientific research by fast tracking the development of transgenic mice [1:06:45];
+Advantages of Cas13’s ability to direct CRISPR to cleave RNA, and the advances and remaining challenges of delivery [1:11:00];
+CRISPR-Cas9: therapeutic applications in the liver and the eye [1:19:45];
+The ethical implications of gene editing, the debate around germline modification, regulation, and more [1:30:45];
+Genetic engineering to enhance human traits: challenges, trade-offs, and ethical concerns [1:40:45];
+Feng’s early life, the influence of the American education system, and the critical role teachers played in shaping his desire to explore gene editing technology [1:46:00];
+Feng’s optimism about the trajectory of science [1:58:15]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Comments
+This field is for validation purposes and should be left unchanged.
+Δ
+Feng’s background, experience in developing optogenetics, and his shift toward improving gene-editing technologies [2:45]
+There isn’t anybody who hasn’t heard the term CRISPR, but very few people can explain it and what a powerful tool it is
+Feng earned his Ph.D. at Stanford in the lab of
+Karl Deisseroth
+; he was there for 5 years
+Peter and Karl were classmates at Stanford
+Karl has been on the podcast [
+episode #191
+]
+A quick summary of the work Feng did with Karl Deisseroth on optogenetics
+When Feng worked with Karl, they developed a technology called
+optogenetics
+It’s a way of studying brain cells in the brain, how they are connected together and how they mediate memory, mediate different types of physiological function
+The way it works is that we took a gene from a green algae, and this is a gene that senses light and converts it into electrical current in a cell
+We can put this gene from the green algae right into the brain cells in a mouse, and we can shine blue light or a yellow light and control the brain activity in these mice
+For example, if you wanted to study sleep, you can put this gene into different groups of cells in the brain and stimulate them
+You can find out which ones of these are controlling wakefulness or which one are causing the mouse to become more sleepy
+If you do this systematically, one by one, from one type of cell to another type of cell, you can gradually start to put together a picture of how the brain is wired together, and then also what are the different components that govern all sorts of behaviors from sleep and wakefulness to thirst and hunger to memory, and even to motivation and happiness
+Feng adds, “
+It was really fun to be at Stanford and working with Karl.
+”
+For Peter, the thing that always stood out about the technique was the resolution
+Analogy: If you think about a book, it provides a resolution at the level of the word rather than the page
+Feng explains what is incredible about these algal proteins: they are very, very fast
+You can show the way the brain cells are able to signal to each other at the action potential level
+Action potentials
+are these individual signals that are basically like the phonemes of the speech that one neuron speaks with another neuron, and you can control it at every single phoneme level
+What was the technique that you used to insert those algal genes into brains?
+The way that you would put a gene into the brain is usually by using a virus
+This is a virus that exists in nature, but we have engineered it by removing everything that is pathogenic by the virus and then replacing those pathogenic genes with the gene that we’re trying to put into the brain
+In this case, it’s the gene from the green algae
+By injecting the virus into a brain area that you want to study, the virus will infect all the cells in that region and then make those cells begin to produce this algal protein
+Once the neuron starts to carry this algal protein, it becomes light sensitive, so you can turn blue light on it and then be able to stimulate it
+Feng finished his Ph.D. in 2009 and then went to Harvard for about a year, followed by MIT and the Broad
+As he was working on optogenetics (especially towards the end of graduate school), he began to realize that one of the biggest bottlenecks facing optogenetics is our ability to insert the algal gene into specific places in the genome
+The reason for that is because in order for us to study different types of brain cells, we need to have very precise targeting of
+different types of brain cells
+Brain cells are not just one type
+Neurons is not a single type
+There are probably hundreds of different types of brain cells
+The way that they’re defined is based on their molecular property
+Each brain cell, even though they all share the same genome, they have different sets of genes that are turned on
+That’s why brain cells that control pain sensation versus brain cells that are involved in Parkinson’s disease are different
+The way that you would target one or another type of brain cell is by figuring out what are the molecular signatures of that cell?
+If you know that gene A is turned on in that brain cell and not in another type of brain cell, then you can insert this algal gene into the region that’s controlling gene A
+That way, it will only get turned on in the first type of neuron
+The way to insert this gene into that precise place in the genome require gene editing, and it was really hard to do at the time
+“
+I thought maybe if I wanted to get optogenetics to become even more powerful and useful, we need to make gene editing more easy to use.
+”‒ Feng Zhang
+By the time he went to Harvard, he began to focus more on trying to figure out: how do you more easily be able to modify the genome?
+Peter asks, “
+Why was it easy to do what you did in Karl’s lab (relatively speaking), where you’re putting an entire gene into presumably an adenovirus and letting the adenovirus infect the neurons and stick a whole gene in? Why is that a different problem than the one you just described that you started to solve at Harvard?
+”
+The work he did as a graduate student with Karl was simply trying to insert a gene into brain cells ‒ we can get it into the rough area of the brain, but there are many different types of cells there
+We weren’t as precise in our ability to target those cells
+We also developed some tricks to be able to get it into a specific type of cell, but that was only limited to mice because we can genetically modify mice, and it’ll take a long time
+It will take a year or two years to be able to make those mice available to engineer them, but it wasn’t generally applicable
+Especially if you think about how to turn optogenetics into a therapeutic to use in humans
+We certainly couldn’t go in and use those transgenic technologies to make it work in the human brain ‒ this was a major problem
+The discovery of CRISPR in bacterial DNA, and the realization that these sequences could be harnessed for gene editing [10:45]
+The origins of gene editing in the ‘80s
+Gene editing stems from an observation that grew out of a discovery in sequences that existed in bacterial DNA, a certain type of repeating structure
+Feng was born in the ‘80s and back in the ‘80s, there was a group of Japanese researchers who were looking at DNA sequences of bacteria (at
+E. coli
+)
+What they found is that within some of the genomes (the DNA sequences of these bacteria) there are these regions that are very repetitive
+They just repeat over and over and over again
+Normally, genome sequences are not repetitive because they encode genes and different genes
+Here, they found that there are these repeat sequences that are all grouped together (they’re clustered) and they are not tandem repeat (so it’s not repeat one next to each other), but they’re interspaced by a short fixed length gap
+It’s basically A-B, A-C, A-D, A-E, A-G
+It just continues to repeat itself, but in this regularly space pattern
+When they first found it, they had no idea what the sequence was all about
+These repeating sequences were also
+palindromes
+DNA is double-stranded; there’s a top strand and there’s a bottom strand
+This is why they look like a double helix, so they twist and turn
+What is interesting is that when you read these repeat sequences from the top and you read in the reverse way on the bottom, they’re almost the same (they are palindromes)
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Feng Zhang
+Feng Zhang earned his AB in chemistry and physics from Harvard College and his Ph.D. in chemistry from Stanford University. Dr. Zhang is a core institute member of the Broad Institute of MIT and Harvard, as well as an investigator at the McGovern Institute for Brain Research at MIT, co-director of the K. Lisa Yang and Hock E. Tan Center for Molecular Therapeutics at MIT, the James and Patricia Poitras Professor of Neuroscience at MIT, and a professor at MIT, with joint appointments in the departments of Brain and Cognitive Sciences and Biological Engineering. Zhang is also an investigator at the Howard Hughes Medical Institute.
+Dr. Zhang is a molecular biologist seeking to improve human health by discovering approaches to modulate cellular programs, including returning diseased, stressed, or aged cells to a more healthful state. These approaches include developing molecular technologies for modifying the cell’s genetic information and the delivery vehicles needed to get these tools into the right cells as well as larger-scale engineering to restore organ function. Zhang hopes to apply these approaches to neurodegenerative diseases, immune disorders, aging, and other disease contexts.
+Dr. Zhang pioneered the development of CRISPR-Cas9 as a genome editing tool for human cells. Zhang has also developed new methods to deliver these tools into human cells. Zhang’s group has developed and applied CRISPR-based technologies, including large-scale screening methods, to advance our understanding of human diseases and to diagnose pathogens. Collectively, these tools, which he has made widely available, are accelerating research. In 2023, the first Cas9-based therapeutic, which is based on a design Zhang developed in 2015, was approved for clinical use to treat sickle cell disease.
+Zhang is a recipient of many awards including the Lemelson-MIT Prize, the Tang Prize, the Canada Gairdner International Award, and the Merkin Institute Fellowship at the Broad. Zhang is an elected member of the National Academy of Sciences, the National Academy of Medicine, and the American Academy of Arts and Sciences. [
+Broad Institute
+]
+Website:
+zlab
+X:
+@zhangf

@@ -1,0 +1,146 @@
+In this quarterly podcast summary (QPS) episode, Peter summarizes his biggest takeaways from the last three months of guest interviews on the podcast. Peter shares key insights from his discussions on diverse topics such as dopamine and addiction with Anna Lembke, the current state and exciting future of CRISPR-mediated gene editing with Feng Zhang, how to build and maintain strong bones from youth to old age with Belinda Beck, how calorie restriction may influence longevity and metabolic health with Eric Ravussin, and the role of testosterone and TRT in prostate cancer with Ted Schaeffer. Additionally, Peter shares any personal behavioral adjustments or modifications to his patient care practices that have arisen from these engaging discussions.
+If you’re not a subscriber and listening on a podcast player, you’ll only be able to hear a preview of the AMA. If you’re a subscriber, you can now listen to this full episode on your
+private RSS feed
+or on our website at the
+episode #325 show notes page
+. If you are not a subscriber, you can learn more about the subscriber benefits
+here
+.
+We discuss:
+Overview of topics to be covered [1:45];
+Anna Lembke episode: addiction, dopamine’s role in pleasure and pain, and managing addictive behaviors [4:15];
+Follow-up questions about addiction: heritability, cold therapy, exercise, and strategies for breaking addictive behaviors [14:45];
+Feng Zhang episode: the potential of gene editing with CRISPR technology for treating diseases and the challenges ahead [21:00];
+Feng Zhang’s impactful education experience, and how early exposure and curiosity-driven learning can develop scientific interest for kids [28:30];
+The future of CRISPR: weighing the scientific potential to combat complex diseases against ethical considerations around genetic modification [33:45];
+Belinda Beck episode: how to build and maintain strong bones from youth to old age [37:30];
+How both nutrition and exercise are crucial for bone health at all ages, and why it’s never too late to start [54:45];
+Eric Ravussin episode: calorie restriction, energy expenditure, exercise for weight maintenance, and more [59:00];
+Measuring energy intake and energy expenditure: techniques and challenges [1:09:45];
+Ted Schaeffer episode: the nuance role of testosterone in prostate cancer, TRT, and the need for better cancer biomarkers [1:14:30];
+Peter’s favorite bands [1:25:45]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Email
+This field is for validation purposes and should be left unchanged.
+Δ
+Overview of topics to be covered [1:45]
+Our quarterly podcast summaries are still relatively new, and what we’re doing is going over Peter’s notes from previous episodes
+We won’t necessarily summarize these episodes as much as talk about Peter’s biggest takeaways
+We’ll also have a conversation on how that’s affected either his behavior or how he deals with patients
+Today we’re going to talk about
+Dopamine through Anna’s podcast
+CRISPR, which is super interesting through Feng’s podcast
+Bone mineral density and lifting in females with Belinda
+Calorie restriction with Eric
+Prostate cancer with Ted (a shorter episode)
+This is not a substitute for going back and listening to the podcast
+Peter is not attempting to provide the full context of everything
+What he’s trying to do is capture what he’s taking away in real time as he’s having these discussions
+He shares what he’s making notes on and what he’s pulling out as the most interesting stuff
+Sometimes that comes with an assumption that other content is heard and understood
+The hope is that you’re listening to this after you’ve heard these podcasts, or that you listen  to this and maybe go back and listen to a podcast that you skipped because the insight is particularly interesting
+Anna Lembke episode: addiction, dopamine’s role in pleasure and pain, and managing addictive behaviors [4:15]
+#321 – Dopamine and addiction: navigating pleasure, pain, and the path to recovery | Anna Lembke, M.D.
+(October 14, 2024)
+***
+Start with your main takeaways from that episode
+Peter read Anna’s book [
+Dopamine Nation
+] before interviewing her and enjoyed it a lot
+He was looking forward to talking about this and had a lot of questions about what really constitutes addiction
+The book is really about addiction more than it is about dopamine
+Dopamine
+is one of the most important neurotransmitters in the reward system (and therefore in the addiction system), but it’s not the only one
+Peter’s interest was less about the nuts and bolts of dopamine and more around the science of addiction
+We started with defining the traditional aspects of what defines addiction
+Out of control compulsive use
+The cravings
+The continued use despite consequences
+Tolerance to the stimulus
+Ultimately withdrawal when the stimulus is removed
+You can view that through the traditional lens of how people think of an addiction like alcohol ‒ all of those things check-off
+And there are behavioral addictions that show up as well
+Everything from gambling to sex to workaholism
+What are the factors that influence an addiction?
+Peter wanted to understand how heritable addiction is
+Meaning how much is this written into the genetic code?
+It turned out quite a bit according to the heritability data
+This came up in the
+podcast with Karl Deisseroth
+where we talked about eating disorders, depression, schizophrenia
+The typical way that these
+twin studies
+are done is they look at the prevalence of a certain condition in identical twins that were raised apart
+That’s really the best tool we have to
+understand how much of a role do genes play?
+You take 2 people with identical genes raised in a completely different environment,
+“
+Based on that, Anna said that addiction is about 50 to 60% heritable… it’s a big enough amount that it can’t be ignored, but it’s not so big an amount that the die is cast.
+”‒ Peter Attia
+Meaning just because you come from a line of people who have an addiction to one thing or another doesn’t mean that your fate is sealed
+Other things that play a role in addiction
+She described them as nature, nurture, and neighborhood
+1 – Nature is your genes
+2 – Nurture is how you’re raised
+3 – Neighborhood is the environment you’re in
+If heritability is 50-61%, 40-50% comes from how you were raised (obvious things and subtle things)
+Are you raised around people that are engaging in a certain behavior?
+Do you have experiences in life, for example, trauma that might predispose you to certain addictive behaviors?
+This idea of
+neighborhood
+is very important and has a lot to do with anybody who’s ever considered trying to break a bad habit
+If you struggle with gambling, it’s really hard to break a gambling habit if all your friends are gamblers
+You either have to get a bunch of new friends or somehow just decide you’re going to hang out with a bunch of people who gamble but not do it yourself
+Very difficult
+Why do some people have a certain lock and key configuration for certain addictions?
+This is another topic that Peter found incredibly fascinating, and we don’t know the answer
+Peter used himself as an example: he really enjoys alcohol
+He enjoys the taste but doesn’t think he could be an alcoholic if he tried
+If you surrounded him with alcoholics, it would never appeal to him to drink in the morning or drink in a manner that would lead to excessive use
+It’s not clear why that is
+It’s not moral superiority
+There’s something in his brain that doesn’t get enough of that cycle from alcohol; it doesn’t work that way for him
+The same is true with gambling
+Peter was in Vegas giving a talk a  little while ago and had to walk through a casino 25 times to and from where he was going
+Not to be disparaging of people who are in casinos at 7 in the morning…
+If someone offered Peter a job to sit in the casino and play blackjack and they’ll pay him a million dollars a month to do this and cover all his losses and he can keep all the winnings
+He couldn’t do it
+He couldn’t imaging something less appealing
+Yet there are people who ruin their lives doing this, why?
+Similarly, there are things Peter is addicted to that most people would look at and say, “
+Who could do that?
+”
+“
+This ‘why’ question I don’t think we have an answer to yet. And yet it totally fascinates me. To me, that’s the most interesting question in this space.
+”‒ Peter Attia
+How Anna works with clients
+She’s a psychiatrist, and one of the first steps that she does is a
+4-week dopamine fast
+Which means a 4-week total abstinence from the behavior that one is trying to rid themselves of
+Peter thinks this 4-week dopamine fast is valuable for any of us that are trying to cope with our own addictions
+She said that 80% of her patients will feel better after the 4-week fast
+Now she also noted some of those people need medications to help them through that
+For example, if a person is trying to do a dopamine fast around alcohol, they may actually require
+benzodiazepines
+medically to help with that transition
+Of course, that’s not always the case
+We also discussed a woman that was basically smoking pot 24/7 and was doing it because of her anxiety
+It turned out the anxiety was coming from smoking all that pot, but this wasn’t realized until she was able to abstain from it
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member

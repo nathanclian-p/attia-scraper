@@ -1,0 +1,49 @@
+The notion that in some cases food can be a medicine rings true. For better or for worse, diet can change one’s physiology. One of the more popular diets today is the high-fat, very low-carbohydrate (typically between 20-50 grams) diet (VLCD), which we will also refer to as a
+ketogenic diet
+. In some, the ketogenic diet may help to ameliorate metabolic syndromes like
+obesity
+and
+type 2 diabetes
+, and positively affect
+problematic
+cardiometabolic markers. However, a recent
+paper
+published in the
+Journal of Clinical Lipidology
+highlights five cases in which patients had severe lipid perturbations while on the diet. Though these patients lost weight, they were found to have elevated total cholesterol (TC) and low-density lipoprotein cholesterol (LDL-C). These lipid perturbations were due to pre-existing conditions, some of which were identified in the paper, and the cases suggest that abnormal lipid responses to the ketogenic diet is driven, in part, by genetics.
+About the Study
+While it is not a revelation to say that genetic factors can influence one’s physiologic response to diet, the VLCD importantly did not
+cause
+aberrant baseline lipids in the instances under discussion. Rather, the diet may interact with intrinsic factors to exacerbate underlying conditions, which may or may not be known upon starting the diet. Some patients in the study had an identified family history of cardiovascular disease, and in all cases, subjects responded to the diet with elevated TC and LDL-C (Table). In one case, the patient had two copies of the
+apolipoprotein E2
+gene variant, a variant associated with development of
+dysbetalipoproteinemia
+. This lipid disorder is characterized by the presence of atherogenic lipoprotein remnant particles, which are associated with significant elevations in triglycerides (TG) and calculated-LDL-C. In another case, the patient had familial hypercholesterolemia that contributed to the abnormal increase in TC and LDL-C observed in response to the ketogenic diet. Further, two of the study subjects had a family history of lipid abnormalities and atherosclerotic cardiovascular disease which might have explained, in part, the observed elevations in TC and LDL-C (Table). Although one out of these five total subjects did not report a pre-existing condition or family history of lipid abnormalities, the patient’s apoE genotype revealed a single copy of the
+apolipoprotein E4
+allele, often
+correlated
+with the hyperabsorption of cholesterol. This association could explain the concomitant increase in TC, TG, and LDL-C on a ketogenic diet.
+Table.
+Case study characteristics including family history and preexisting conditions, along with lipid panel results on a ketogenic diet vs an alternative diet or lipid-lowering treatment.  Data adapted from
+Goldberg et al., 2021
+.
+Why is elevated LDL-C a concern?
+The case study report, among
+others
+, sounds the alarm because of the elevated baseline LDL-C. Elevated LDL-C is a concern for many because it is a measure of cardiovascular disease risk used in most health guidelines, including those by the
+American Heart Association
+. The logic goes like this: the LDL-C measure refers to how much cholesterol is carried in LDL particles, each of which also carries a single copy of apolipoprotein B (apoB). ApoB-containing lipoproteins transport cholesterol content into the arterial wall, which may
+cause
+plaque to develop. Given the one-to-one ratio of LDL and apoB,
+an apoB measure, compared to LDL-C, provides a more accurate measure of cardiovascular disease risk
+, though LDL-C and not apoB is often reported in studies. Some
+analyses
+suggest that a ketogenic diet compared to a low-fat diet reduces cardiovascular risk factors despite an increase in LDL-C. With that said, LDL-C remains the primary guideline target for lipid-lowering drug therapy and for dietary management as it pertains to atherosclerotic risk.
+What information is missing from the study?
+Though this case study reports personal and family medical history for each patient, as well as genotypes for relevant genes where available, the study might have benefited from more complete clinical profiles for each subject. First, although the paper refers to a ketogenic diet, the investigators did not take blood measurements confirming nutritional ketosis (characterized by beta-hydroxybutyrate levels between 0.4 and 0.6 mmol/L). The study also failed to include other useful markers that would have helped create a better clinical picture and better guide for individualized corrective action. For instance, in addition to lipoprotein burden, I evaluate cardiovascular risk based on measures of inflammation such as C-reactive protein, molecules such as uric acid and homocysteine that relate to endothelial function, and metabolic markers of insulin resistance/sensitivity and kidney function.
+The case study report also does not mention evaluating markers of cholesterol synthesis. In some people, dietary saturated fat
+induces
+excess cholesterol synthesis and can also decrease the expression of LDL receptors in the liver, which impairs clearance cholesterol-carrying apoB particles from the plasma. Understanding the potential effect of dietary saturated fat on increasing circulating LDL particles can inform the decision to pursue a ketogenic diet. While there is no “real-world” measure for LDL receptor activity, cholesterol production can be measured by lathosterol and desmosterol, and if production is found to be elevated, statins can be used to inhibit cholesterol synthesis. In the cases I have seen where a ketogenic diet induces significant dyslipidemia, cholesterol synthetic markers have always been very elevated, suggesting that at least part of the problem is excess cholesterol synthesis, presumably in response to the high saturated fat burden. (And in a few of those cases, dyslipidemia was reversed when the fat content was changed from primarily saturated to primarily monounsaturated fat.)
+The Bottom Line
+The five case series presented in the paper illustrate the interactive effects of intrinsic factors like genetics and dietary responses. Those who are starting a ketogenic diet or have experienced abnormal physiological responses to this diet can and should be tested for underlying predispositions. Collecting information to triangulate the responsible drivers of elevated LDL particles and apoB allows for appropriate diet modifications, unique to the individual. A ketogenic diet often has many metabolic benefits, even among those who respond with an increased burden of potentially atherogenic particles. In such cases, replacing dietary saturated fat or implementing lipid modulating therapies may preserve the diet’s benefits while mitigating possible cardiovascular risks. Thus, I interpret lipoprotein results in the context of other variables in my evaluation of metabolic health and cardiovascular risk.  Irrespective of the diet someone chooses, one thing is for certain: people vary greatly in their response to any given diet, making it especially important to track and assess each scenario on an individual basis.
+– Peter

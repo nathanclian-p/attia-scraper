@@ -1,0 +1,50 @@
+How many times have you heard “let’s meet up for a drink,” usually intended as a casual, innocuous, social get-together? Unless, of course, one drink turns into many drinks, leaving you with a painful hangover that extends the less pleasant effects of drinking well into the next day. But what if you could take a pill that
+prevents a hangover
+and helps you instead wake up refreshed? Such a miracle pill (literally, the name is “Myrkl”) reportedly hit consumer markets in the UK this past summer.
+Is it a miracle?
+A quick search for “hangover prevention” will send you down a rabbit hole of suggestions, although the most common is alternating water and alcohol consumption. And focusing on hydration is good advice: blood alcohol concentration (BAC) is directly affected by your
+body water content
+. Alcohol consumption also induces mild dehydration, which is thought to cause, at least in part, the classic hangover headaches and fatigue. Hangover pills require much less thought: one to twelve hours before drinking, take two pills and supposedly wake up hangover-free. So what exactly is in these pills that make them different? The Myrkl hangover pills aren’t affecting your hydration; the
+active ingredients
+in these pills are the amino acid L-cysteine, vitamin B12, and two probiotics:
+bacillus subtilis
+and
+bacillus coagulans
+.
+Why might it work?
+The origin of vitamin B12 as part of a hangover treatment may stem from the fact that chronic alcohol consumption in alcoholics can lead to
+B12 deficiency
+. While vitamin B12 is an effective treatment in chronic drinkers, there is a dearth of evidence to show that B12 has any impact on acute drinking-related hangovers. That hasn’t stopped IV clinics from adding it to their “hangover cures,” on the unproven grounds that it may help with hangover symptoms such as tiredness or lightheadedness – symptoms which overlap with a B12 deficiency. In other words, this ingredient is not harmful, but not necessarily helpful either when it comes to hangovers.
+The rest of the active ingredients may have some credibility in impacting hangover severity. Keep in mind that this is a supplement, so the bar for reporting ingredients is lower than it is for regulated pharmaceuticals. (The only listed dosage in Myrkl is 0.9μg of vitamin B12.) While it is unclear how much L-cysteine a dose of Myrkl contains, a supplement of 1200 mg of
+L-cysteine
+was shown to reduce hangover symptoms of nausea, headache, stress and anxiety during a controlled study of alcohol consumption. Although it wasn’t a surefire hangover cure for every subject, L-cysteine covalently binds to acetaldehyde, creating a stable compound. This reduces the toxicity of acetaldehyde, the byproduct of alcohol metabolism that is thought to contribute to hangover symptoms.
+The inclusion of the two probiotics is where things start to get even more interesting. Strains of both
+bacillus subtilis
+and
+bacillus coagulans
+have shown co-expression of alcohol dehydrogenase (ADH) and aldehyde dehydrogenase (ALDH). Recall that ADH is one of the main factors affecting the rate of alcohol metabolism, but the amount of ADH varies from person to person, although there are some general trends
+by sex
+and age. Prophylactically supplementing with probiotics that produce ADH and ALDH may
+increase
+your metabolic rate of alcohol and its byproducts. Experiments in mice and humans have shown a reduction in BAC after seven days of supplementation with either
+recombinant
+B. subtilis
+or
+B. coagulans
+, indicating a higher rate of alcohol metabolism and less alcohol absorption.
+Are there any downsides?
+That depends on what your intentions were for having a drink in the first place. The increased rate of elimination of alcohol and acetaldehyde may help reduce hangovers, but this effect comes at the expense of the alcohol-induced “buzz.” If your goal is to get drunk, this pill is not for you, since it will increase the volume of alcohol needed to achieve the desired effect, and it won’t help to reduce a hangover if you do reach that same intoxication level. For example, if you normally get buzzed on three drinks, by preceding drinking with a hangover pill, you might instead need four drinks to reach that same level of intoxication, and the hangover you experience from four drinks will likely be similar in intensity to the hangover you’d normally experience after three drinks.
+It might seem appealing to be able to drink more with the effects of drinking less, but keep in mind that intoxication is not the only effect that alcohol consumption has on the human body. For instance, alcoholic drinks are associated with numerous metabolic effects and are notoriously high in calories. Drinking more means consuming more excess calories, and a hangover pill won’t have any mitigating effect on that. The use case of hangover pills is targeted at those who are looking to reduce the next-day effects of having a couple drinks for enjoyment or socially.  Like the buzz? This pill won’t work. Like the taste of wine with dinner or the social aspect of a beer with the guys after work? This pill might provide some benefit.
+Does it actually work?
+Because this is a supplement and not a medication, the studies indicating efficacy of combining these ingredients are very limited. In
+one crossover study
+performed by the company, subjects were given either placebo or hangover pills every day for a week before alcohol consumption. After eating a light breakfast, subjects were dosed with 0.3 g alcohol per kg bodyweight, and BAC was measured using a breathalyzer and a blood draw at set time points over the next three hours. For a 70-kg person, this would be the equivalent of drinking 1.5 standard shots. Remarkably, there was a 70% reduction in area under the curve for BAC and a 30% reduction in breath alcohol when subjects took the hangover supplements. However, while this is impressive, it doesn’t answer the question of the efficacy of taking a single dose right before drinking. It remains unclear if longer-term supplementation is required to build up the level of probiotics to have this effect.
+Despite the difference in recommended use from experimental conditions, the product page boasts success for 70% of people. Why this supplement might work for some people and not others is not obvious. It may be that a probiotic top-off of ADH and ALDH is effective at reducing alcohol absorption in small amounts. But healthy user bias would indicate that if you are inclined to take a hangover pill to avoid next-day discomfort, you might also be more likely to drink water and consume alcohol with food and less likely to lose track of how many drinks you’ve had (and thereby drink less), all of which will mitigate your hangover.
+The bottom line
+There is no magic or “miracle” in alcohol metabolism. A hangover pill may reduce alcohol absorption and increase the metabolism of alcohol byproducts if you consume only a drink or two. But, given the numerous harmful effects of alcohol, the prospect of a hangover might not be such a bad thing if it encourages one to simply
+drink less
+. After all, the only truly fool-proof way to prevent a hangover is to avoid consuming alcohol in the first place.
+– Peter
+For a list of all previous weekly emails, click
+here
+.

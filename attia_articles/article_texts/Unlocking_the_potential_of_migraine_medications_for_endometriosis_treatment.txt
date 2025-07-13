@@ -1,0 +1,69 @@
+For the estimated 10% of women of reproductive age suffering from endometriosis – a condition characterized by painful inflammatory lesions outside the uterus – current treatments, primarily hormonal therapies and surgery, are not completely effective.
+1
+In fact, an estimated one-quarter to one-third of endometriosis patients do not find adequate relief from hormonal treatment.
+2
+The search for effective treatments can be frustratingly slow, as the path from drug discovery to FDA approval is notoriously long and expensive – often taking 12-15 years from the initial idea to an on-the-market product and potentially costing over $1 billion.
+3
+However, a recent study by Fattori
+et al.
+offers hope that drugs which are
+already
+FDA-approved for treating migraines may also prove to be an effective treatment for endometriosis.
+4
+A mechanistic look into endometriosis
+Fattori
+et al.
+performed experiments in mice to investigate the signaling pathways involved in endometriosis, focusing their efforts on a pathway involving calcitonin gene-related peptide (CGRP), a neuropeptide released by pain-sensing nerve fibers, and its receptor, RAMP1. CGRP and RAMP1 have long been recognized as having key roles in migraines, and because migraines are a common comorbidity of endometriosis, the authors hypothesized that this signaling pathway might mediate the pain associated with
+both
+conditions. Therefore, they sought to characterize CGRP’s involvement in endometriosis in the hope that existing anti-CGRP migraine drugs might perhaps prove useful in treating endometriosis as well.
+4
+After first confirming that CGRP-positive nerve fibers were present in both human endometriosis lesions and lesions from a mouse model of endometriosis, the investigators found that selectively killing these pain-sensing CGRP fibers in mice significantly reduced pain. Specifically, they showed that animals in which CGRP fibers had been destroyed demonstrated reduced sensitivity to painful stimuli relative to control animals with intact nerve fibers, with controls responding to forces nearly four times lower (0.1 grams vs. 0.4 grams) than the experimental group. This suggests that the CGRP-containing nerve fibers are responsible for the pain in this mouse model of endometriosis.
+Indeed, killing these nerve fibers not only lessened painful symptoms in the mice, it also reduced the size of the endometriosis lesions, a key indicator of disease progression. While the total number of lesions was not affected, ablation reduced lesion size by about one-third (from ~0.6 mm to ~0.2 mm). As such, targeting the CGRP-containing nerves may help not only with pain management but also with stemming progression of the disease itself.
+Of course, killing an entire class of nerve fibers is a much more dramatic intervention than existing medications targeting CGRP signaling, so to better assess whether results might translate to therapies for human use, Fattori
+et al.
+also evaluated the effects of approved anti-CGRP migraine drugs on pain in mice. Specifically, they tested two antibody-based drugs targeting the CGRP receptor (fremanezumab and galcanezumab) and two drugs that act as receptor antagonists (rimegepant, and ubrogepant), and they found that the medications yielded similar benefits as nerve ablation. For instance, rimegepant showed dose-dependent reductions in both spontaneous pain (watching the animal to see if they displayed pain-related behaviors) and evoked pain (applying calibrated forces to determine how sensitive the animals are), along with decreased lesion size.
+Taken together, this study tells us that CGRP nerve fibers are present in endometriosis lesions and mediate pain associated with the disease as well as disease progression. Further, these experiments show that pharmaceuticals targeting this mechanism offer a promising strategy for treatment.
+Why this matters
+The idea that CGRP may play a role in endometriosis is not completely new, but the work by Fattori
+et al.
+provides the first clear evidence that CGRP-targeting migraine drugs may help in disease treatment. This would offer a non-hormonal, non-opioid treatment option for patients who cannot tolerate or don’t respond to current therapies. Additionally, these drugs appear to provide dual benefits – addressing both pain relief
+and
+disease progression.
+Still, these tests were all conducted in mouse models of endometriosis, so is optimism for humans premature? We know that animal studies are useful for understanding the mechanism behind disease and serve an important role in assessing safety early in the drug development process. However, when most drugs undergo these preliminary animal tests, clinical utility of the results for humans is still years or even decades away. The vast majority of drugs showing success in animals never make it to market at all and die in early phases of clinical trials. So why are we bothering to report on Fattori
+et al.
+’s results if the road ahead is so long and carries such a high risk of disappointment?
+The answer lies in a handy shortcut known as
+drug repurposing
+. Drug repurposing, or using existing approved medications for new conditions, can dramatically accelerate the path to treatment for patients. Since these medications have already passed safety trials, have already received FDA approval for migraine indications, and are already on the market, they could move much more quickly through clinical trials for the new indication of endometriosis than a completely novel drug. As one example, rimegepant has a well-known safety profile, with the most commonly reported side effect being nausea (2.7% vs. 0.8% with placebo), according to the manufacturer site.
+5
+Yet although prior FDA approval for migraine treatment sidesteps the need for trials demonstrating
+safety
+, it’s important to note that it does not diminish the need for evidence demonstrating
+efficacy
+for endometriosis (at least in order to receive FDA approval for this indication, though any drug that has approval for one condition might technically be prescribed off-label for others). Fattori
+et al.
+’s results are promising, but mouse models don’t always translate perfectly to human disease. Still, with the safety of these medications already known, the amount of preclinical and early-stage clinical evidence needed to move forward with larger human efficacy studies is lower than if the drugs were newly developed. This suggests that a viable human treatment for those suffering from endometriosis may be relatively close, rather than a decade away with marginal chance of success.
+The road ahead
+This study highlights the value of mechanistic research in identifying new applications for existing drugs – potentially offering shorter paths to relief for patients with difficult-to-treat conditions. For the millions suffering from endometriosis, particularly those who have exhausted current treatment options, this research offers hope for faster access to a potentially effective new(ish) therapy. While we await clinical trials, physicians might consider these medications for off-label use in patients who have failed conventional treatments. But Fattori
+et al.
+’s data have caught a substantial amount of attention in the scientific and medical community, so with any luck, human data won’t be far behind.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+1. Endometriosis. Accessed January 3, 2025. https://www.who.int/news-room/fact-sheets/detail/endometriosis
+2. Becker CM, Gattrell WT, Gude K, Singh SS. Reevaluating response and failure of medical treatment of endometriosis: a systematic review.
+Fertil Steril
+. 2017;108(1):125-136. doi:10.1016/j.fertnstert.2017.05.004
+3. Hughes JP, Rees S, Kalindjian SB, Philpott KL. Principles of early drug discovery: Principles of early drug discovery.
+Br J Pharmacol
+. 2011;162(6):1239-1249. doi:10.1111/j.1476-5381.2010.01127.x
+4. Fattori V, Zaninelli TH, Rasquel-Oliveira FS, et al. Nociceptor-to-macrophage communication through CGRP/RAMP1 signaling drives endometriosis-associated pain and lesion growth in mice.
+Sci Transl Med
+. 2024;16(772):eadk8230. doi:10.1126/scitranslmed.adk82305. Safety Profile. Accessed January 3, 2025. https://www.nurtec.com/side-effects
+5. Safety Profile. Accessed January 3, 2025. https://www.nurtec.com/side-effects

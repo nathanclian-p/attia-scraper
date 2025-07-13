@@ -1,0 +1,62 @@
+Epidemiological studies are full of flaws and considerable limitations – not the least of which being that they often make inappropriate
+causal
+claims based on purely
+correlational
+data. Nevertheless, as long as we remain aware of their shortcomings, such studies can serve the purpose of generating new hypotheses or providing results which might corroborate (not
+prove
+) existing theories regarding the relationships between two variables.
+Such is the cautious mindset we must adopt in considering a recent paper by Cavaillès
+et al.
+1
+on the relationship between poor sleep and brain aging. Although many methodological flaws limit the conclusions that can be drawn from the study itself, the work serves as a timely reminder (this past week was the National Sleep Foundation’s annual “Sleep Awareness Week,” after all) of the much
+larger
+body of evidence supporting the critical role of sleep in cognitive health.
+About the study
+The authors of this observational study used data from 589 participants (mean age: 40.4±3.4 years at baseline) in the long-term CARDIA study of cardiovascular disease who had filled out a baseline sleep quality questionnaire in 2000-01 (566 of whom had also filled out a second sleep questionnaire in 2005-06). The questionnaires asked participants about six of what the authors termed “poor sleep characteristics” (PSCs), which included factors like daytime sleepiness, early morning awakening, and difficulty initiating or maintaining sleep. Each questionnaire was then assigned a score of 0-6 depending on how many of these PSCs were present.
+As part of the CARDIA protocol, all subjects underwent a brain MRI scan 15 years after the initial sleep questionnaire, after which the authors used the Spatial Pattern of Atrophy for Recognition of Brain Aging (SPARE-BA) method to determine “brain age” for each subject. The SPARE-BA method uses algorithms involving structural brain characteristics to quantify differences in age-related atrophy. The higher the value determined by the SPARE-BA method, the more age-related atrophy is present, and thus, the “older” the brain (or so the logic goes).
+The authors found that MRI-determined brain age increased in subjects with PSCs in a dose-response manner. Compared to the group with 0-1 PSCs, subjects with 2-3 PSCs reportedly had a brain age that was 1.9 years older (95% CI: 0.55–3.18), while subjects with greater than 3 PSCs had a brain age that was 3.5 years older (95% CI: 1.53–5.56). They also found that difficulty initiating sleep and early morning awakening were both specifically associated with the greatest increases in brain age relative to not having those specific PSCs.
+Again, this study is observational, so the observed correlations do not provide evidence of causation. To make matters worse, sleep quality was measured by questionnaires, which are subject to response bias and other sources of error associated with self-reporting – not to mention that they assume sleep habits aren’t subject to substantial changes over time. And finally, it’s unclear how well MRI data and the SPARE-BA method were truly capable of accurately predicting “brain age” or potential cognitive consequences. It’s doubtful whether a difference in MRI-determined brain age of 1.8 years is actually meaningful or would correspond to clinically noticeable differences in an individual’s cognitive function or future cognitive trajectory. (The authors did not have data on cognitive function among the MRI subjects.) Indeed, it seems there is no end to the shortcomings of this study, so why even bother discussing it?
+The bigger picture
+The methodological problems should make us extremely skeptical of the study’s results (we certainly can’t conclude, for instance, that the tendency to wake early in the morning at your present age will cause your brain to be 3.8 years older than it otherwise would have been 15 years from now). And yet, as is true for virtually all attempts to ascertain long-term health consequences of chronic lifestyle habits, investigating the impact of sleep on brain health over the course of decades is extremely challenging, so we have to consider how the entire body of evidence fits together. A definitive evaluation of the relationship between sleep and brain health in a long-term randomized trial isn’t possible for numerous ethical and logistical reasons. So instead, we must take the many imperfect pieces that exist – i.e., from animal studies, short-term RCTs, and yes, epidemiology – and try to build as complete a picture as possible.
+Cavaillès
+et al.
+’s work may add little to the existing body of knowledge on sleep, brain aging, and cognitive health, but the correlations they report nevertheless align with clues we’ve obtained from more rigorous investigations. For instance, mechanistic experiments have shown that loss of sleep triggers an increase in neuroinflammation and impairment of the glymphatic system (the brain’s “sewage system”), which in turn have been linked to neurodegenerative disease.
+2
+Even a single night of sleep deprivation has been found to increase levels of amyloid-beta, a protein implicated in Alzheimer’s disease pathology,
+3
+as well as altering learning-related neural connectivity.
+4
+I discuss this evidence in greater detail in my
+three
+–
+part
+series
+with sleep expert Matthew Walker on
+The Drive
+, but collectively, findings to date strongly support the importance of sleep as a preventative measure against dementia, to support learning and memory, and to promote mental health, among countless other benefits. Thus, at the very least, the study by Cavaillès
+et al.
+helps to draw fresh attention to a conclusion better made by previous work: sleep is vital for brain health.
+The bottom line
+Scientific literature must always be evaluated with a critical and unbiased eye, whether it supports our pre-existing beliefs or not, and this recent study on sleep and brain health is no exception. From flawed methods for acquiring sleep data to unvalidated methods for assessing brain age, the many problems with this study prevent us from drawing reliable conclusions from it.
+However, the value of this work can perhaps be found in how it fits within the larger pool of knowledge generated to date on the effect of sleep on long-term brain health. Given the logistical difficulty of directly examining this subject, we must look to that body of evidence as a whole (which includes several far more rigorous investigations than observational study discussed here). In taking that wider view, we can see more clearly that sufficient, high-quality sleep is one of the most important “interventions” we can make for our cognitive health.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+1.Cavaillès C, Dintica C, Habes M, Leng Y, Carnethon MR, Yaffe K. Association of self-reported sleep characteristics with neuroimaging markers of brain aging years later in middle-aged adults.
+Neurology
+. 2024;103(10):e209988.
+2. Gottesman RF, Lutsey PL, Benveniste H, et al. Impact of sleep disorders and disturbed sleep on brain health: A scientific statement from the American heart association.
+Stroke
+. 2024;55(3):e61-e76.
+3. Ooms S, Overeem S, Besse K, Rikkert MO, Verbeek M, Claassen JAHR. Effect of 1 night of total sleep deprivation on cerebrospinal fluid β-amyloid 42 in healthy middle-aged men: a randomized clinical trial.
+JAMA Neurol
+. 2014;71(8):971-977.
+4. Yoo SS, Hu PT, Gujar N, Jolesz FA, Walker MP. A deficit in the ability to form new human memories without sleep.
+Nat Neurosci
+. 2007;10(3):385-392.

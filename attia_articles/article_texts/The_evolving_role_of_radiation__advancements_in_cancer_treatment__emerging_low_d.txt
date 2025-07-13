@@ -1,0 +1,115 @@
+Sanjay Mehta is a radiation oncologist with over 25 years of experience, and is currently the president of Century Cancer Centers in Houston, Texas (drsanjaymehta.com). In this episode, Sanjay explores the rapidly evolving field of radiation oncology, addressing common misconceptions about radiation exposure. He delves into radiation’s critical role in modern oncology, examining recent advancements that precisely target tumors while minimizing damage to surrounding healthy tissues and reducing side effects, with specific insights into breast, prostate, and brain cancers. Sanjay discusses fascinating international practices involving low-dose radiation therapy for inflammatory conditions such as arthritis, tendonitis, and sports injuries, highlighting its effectiveness and potential for wider adoption in the United States. Wrapping up on a lighter note, Peter and Sanjay discuss their mutual passion for cars and reveal how this shared interest first brought them together.
+Subscribe on:
+APPLE PODCASTS
+|
+SPOTIFY
+|
+RSS
+|
+OVERCAST
+Play
+#343 – The evolving role of radiation: advancements in cancer treatment, emerging low-dose treatments for arthritis, tendonitis, and injuries, and addressing misconceptions | Sanjay Mehta, M.D.
+#343 – The evolving role of radiation: advancements in cancer treatment, emerging low-dose treatments for arthritis, tendonitis, and injuries, and addressing misconceptions | Sanjay Mehta, M.D.
+1x
+15s
+30s
+0:00
+2:12:12
+We discuss:
+How radiation oncology became a distinct, rapidly evolving medical specialty [2:45];
+Defining radiation, ionizing vs. non-ionizing, and common misconceptions about radiation exposure [5:30];
+How radiation doses are measured, real-world examples of radiation exposure, and safety practices [9:00];
+Radiation doses from common medical imaging tests, and why benefits of routine imaging outweigh risks [14:15];
+Therapeutic radiation oncology: the evolution of breast cancer treatment toward less invasive surgery combined with targeted radiation [23:30];
+Modern radiation oncology treatments for breast cancer—minimizing risks and maximizing patient comfort and outcomes [27:15];
+How advances in radiation dosing, technology, and treatment precision have significantly reduced side effects [39:45];
+How breast implants affect radiation treatment [44:45];
+Radiation therapy for prostate cancer: advancements in precision, effectiveness, and patient selection criteria [48:00];
+Radiation therapy options for inoperable prostate cancer or those seeking alternatives to surgery, and a remarkable patient case study [55:15];
+How patients can effectively evaluate and select a high-quality radiation oncologist [1:05:45];
+Radiation therapy for brain cancer: the shift toward precise, targeted techniques that minimize cognitive side effects, and remaining challenges [1:08:30];
+The origins of radiophobia and how it influenced perceptions of radiation use in medicine [1:18:00];
+Treating chronic inflammatory conditions such as tendinitis, arthritis, and more with very low-dose radiation [1:23:45];
+Using low-dose radiation to treat spine injuries, scar tissue, fibrosis, keloids, and more [1:30:00];
+The current barriers preventing widespread adoption of low-dose radiation therapy for inflammatory conditions [1:35:45];
+The durability and versatility of low-dose radiation therapy in treating chronic inflammatory and arthritic conditions [1:40:45];
+Sanjay’s talent as a drummer [1:44:45];
+Peter and Sanjay’s shared passion for cars and racing [1:47:15]; and
+More.
+Show Notes
+How radiation oncology became a distinct, rapidly evolving medical specialty [2:45]
+This is the first time Peter and Sanjay are together not driving
+Peter is resisting the urge to talk about cars (until the end)
+Sanjay might be one of the most knowledgeable human beings on cars and the founder of MD Motörheads (Facebook group of doctors who are gear heads)
+He’s always the bad on to have on the shoulder when you’re contemplating a new set of wheels or a new something for your car
+Sanjay is a radiation oncologist
+The bread and butter of what Sanjay does as a radiation oncologist is a black box to many people (Peter included)
+Peter has much more familiarity with the medical side of oncology than the radiation side
+It would be wonderful to understand more as that field has evolved a lot in the last 25 years
+It’s one of the youngest fields
+It’s not steeped in some of the traditions that surgery and medicine are
+It’s rapidly evolving and the technology has changed so much in the last decade or two
+When did radiation oncology become its own discipline, with its own set of boards and everything like that?
+As a kid growing up in Houston, some of Sanjay’s friends were radiologists
+As an elementary school kid, he remembers CT scanning was pretty new in the 80s
+In the 70s and prior to that, it was just a fellowship
+Radiologists would have a
+cobalt-60 machine
+that they would train on for a few weeks and you’d do a few easy calculations and do some crude treatments
+Radiation oncology really came into its own starting in the 70s and more into the 80s
+The
+ACR
+had a separate carve out
+Radiation oncology residency training is completely independent of diagnostics now
+It’s an intern year followed by 4 years of radiation oncology
+There’s just a little bit of overlap with diagnostics, but not a lot of diagnostic training just because there’s so much to do on the therapeutic side
+Defining radiation, ionizing vs. non-ionizing, and common misconceptions about radiation exposure [5:30]
+The idea of using low-dose radiation to heal injuries
+A lot of people are going to be very interested in this idea
+And why aren’t we using low-dose radiation more to heal some of these nagging orthopedic injuries that people have?
+What radiation is
+We can’t have that discussion without giving people some understanding of what radiation is
+Peter wants to do it in a way that’s both rigorous enough that we can really get into some of the science of this
+But also get into it gently enough that people that maybe don’t remember high school physics well enough can come along for the ride and not get lost
+⇒
+Radiation
+itself, the term itself has got a bit of a negative connotation, but basically it’s part of the
+electromagnetic spectrum
+Figure 1. The electromagnetic spectrum
+. Image credit:
+NASA
+at
+Wikipedia
+We have everything in the range of increasing energy of photons, which are just particles of light
+On the one end you have radio waves and microwaves, and the other end you’ve got ultraviolet
+And then you get into X-rays and radio waves
+In the middle of all that is the visible spectrum (you’ve got the rainbow, red, green, blue that we can see)
+The human eye can only perceive a tiny little narrow spectrum
+These are actually wavelengths and energies, which are the very low end energies
+Both radio waves and microwaves are what they call
+non-ionizing
+Discussed in previous podcasts with
+Attariwala
+from
+Prenuvo
+[
+episode #61
+]
+Figure 2. Types of electromagnetic radiation: non-ionizing versus ionizing radiation
+. Image credit:
+Spazturtle
+at
+Wikipedia
+⇒
+The bottom line is that the low energy stuff is non-ionizing and that cannot damage tissue
+That goes all the way up to visible light
+Then when you start going to the higher energy X-rays, that’s when you get both X-rays as well as ultraviolet light and then the higher particle stuff
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Sanjay Mehta, M.D.
+Sanjay Mehta completed his undergraduate studies at the University of Texas at Austin. He earned his medical degree at the University of Texas, Southwestern Medical School at Dallas. He completed an internship in medicine/pediatrics at UT Houston Medical School, MD Anderson Cancer Center and completed his Radiation Oncology Residency at UTMB Galveston. He was an assistant professor at UTMB St. Joseph Medical Center. Dr. Mehta is currently the president of Century Cancer Centers in Houston, TX. His practice specializes in a patient-centered approach using non-invasive treatment of cancer using Image-Guided Radiation Therapy (IGRT) and Intensity Modulated Radiation Therapy (IMRT).
+Website:
+drsanjaymehta.com

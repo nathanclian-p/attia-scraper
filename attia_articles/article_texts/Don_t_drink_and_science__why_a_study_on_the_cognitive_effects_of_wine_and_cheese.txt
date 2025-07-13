@@ -1,0 +1,74 @@
+Upon reading the headline, I thought it was a prank. “Eating cheese and drinking red wine can reduce your risk of Alzheimer’s,” announced the
+Mirror
+. I checked the date – not April Fool’s Day. This
+article
+was in earnest.
+A Study’s Surprising Findings
+The article reported results of a
+study
+by Klinedinst et al. on the effects of 49 different whole foods on fluid intelligence (FI) – the ability to think abstractly and solve problems independently of any prior learning. Though FI tends to decline with age in everyone, the extent of FI decline correlates with Alzheimer’s disease (AD) risk. The 1,787 participants (age 46-77 at study conclusion) were followed for a 10-year period, over which time they completed food frequency questionnaires (FFQs) on their food and alcohol consumption and were subject to three fluid intelligence tests (FITs) – one at baseline and two follow-ups. To assess how known AD risk factors might impact diet effects, participants were subclassified based on the presence (FH+, n = 482) or absence (FH-, n = 1305) of AD family history, as well as based on APOE subtype – those with at least one copy of the high-risk APOE4 allele (APOE4+, n = 369), vs. those without (APOE4-, n = 967).
+Using models which controlled for socioeconomic status, BMI, sex, tobacco use, and education level, the authors report results as standardized parameter estimates (ꞵ) – the change in the outcome variable per standard deviation change in the predictor variable of interest. For example, a ꞵ of 0.5 means that every standard deviation rise in the predictor variable will correlate with a 0.5 standard deviation rise in the outcome variable. They found that a high level of cheese consumption was the strongest dietary predictor of higher FIT scores among FH- (ꞵ = 0.207,
+P
+< 0.001), APOE4+ (ꞵ = 0.162,
+P
+= 0.001), and APOE4- (ꞵ = 0.073,
+P
+= 0.008) subgroups, with no significant association observed in the FH+ group. Further, they show that in the APOE4+ group, daily consumption of any kind of alcohol is significantly beneficial (ꞵ = 0.101,
+P
+= 0.022), while red wine in particular was associated with higher FIT scores among APOE4- (ꞵ = 0.59,
+P
+= 0.039) and FH+ (ꞵ = 0.100,
+P
+= 0.014) groups. The authors conclude from these data that “consistent alcohol consumption daily, but not weekly or monthly consumption, may further improve score performance,” and that “up to a bottle a day of red wine could be beneficial, under the right conditions.”
+How is this not a joke?
+A
+whole bottle
+of wine
+every day?
+That’s about
+six
+standard drinks per day, folks. Forty-two drinks per week – at least
+3x
+the National Institute on Alcohol Abuse and Alcoholism’s definition of “heavy drinking.”
+These results – and the conclusions the study authors draw from them – contradict virtually all existing data on alcohol and Alzheimer’s disease, which I explored some time ago on an “
+Ask Me Anything
+” podcast episode. And as it turns out, we don’t need to look very closely to find countless flaws in study design and interpretation which would give us reason to dismiss these results completely. Where do I begin?
+Flaws in Measurements
+As I’ve indicated in many newsletters and podcasts, self-report – such as through the use of FFQs – is a roundly terrible method of measurement. This is especially true when participants are asked to recall in detail everything they’ve had to eat or drink for the past
+two to seven years (!)
+, the intervals between baseline and follow-up FFQs in the Klinedinst et al. study. In addition to thwarting accurate memory of every detail, this extended interval also prevents participants from indicating how their diets may have changed over that period of time, so certain foods or drinks may be artificially overrepresented if a given participant just happened to be consuming more of them in the weeks leading up to the survey.
+Additionally, the authors indicate that they included 49 different whole foods or drinks in their questionnaire. This hardly seems like an adequate number to cover every possible food or drink without lumping them together in categories too broad to provide any meaningful information. Ironically, the authors point out this same flaw in previous work to explain why their study is superior for differentiating between various types of alcohol.
+Flaws in Analysis
+Klinedinst et al. intended for their study to investigate the effect of various dietary components on FI decline, a goal which requires observing how FI
+changes
+relative to baseline over time as a function of consumption of a given food or drink. But the vast majority of the results reported by the study authors represented significant differences in FI present at
+baseline
+. Cheese intake, for instance, was the strongest predictor of FIT scores at baseline, but
+no association
+was found between daily cheese consumption and changes in FIT scores over time. Similarly, general alcohol intake and FIT scores were only positively correlated at baseline, though consumption of red wine in particular did appear associated with changes in FIT scores over time in the FH+ group. In other words, although the investigators attempted to run a longitudinal study (following participants for several years and tracking changes in FI over time), nearly all of their longitudinal results were negative. So instead, most of the “positive” results they report are instead cross-sectional – representing only a snapshot correlation between wine/cheese consumption and baseline FI.
+One might be tempted to argue that a difference in baseline is indicative of that food or drink exerting effects in the years of life prior to the study start, but we have two important reasons to be skeptical of that interpretation. First, assuming those who started with the highest, say, cheese consumption continued to eat more cheese than others, wouldn’t we expect that they would exhibit slower FI decline if cheese were indeed responsible for their higher baseline FIT scores? In other words, if only the baseline but not the
+rate
+of FI decline varied as a function of cheese consumption, it would suggest that the difference at baseline was in fact caused by some other variable(s), which would have exerted effects exclusively or primarily prior to the study start (genetics, for instance).
+This brings me to our second major reason for skepticism. Even if we look only at the correlation between differences in cheese intake and differences in FIT scores at baseline (i.e., reading Klinedinst et al. as a cross-sectional study), we can’t make conclusions about the causative role of cheese because we can’t possibly correct for every relevant covariate. The investigators did not, for example, correct for certain psychiatric conditions or social isolation – factors which have been shown to be independently associated with AD. Perhaps some people eat less cheese because they’re not attending wine-and-cheese nights or grabbing a pizza with friends on a regular basis. Food and drink are intimately tied to other aspects of our lives, and it’s easy to come up with dozens of ways that additional variables might influence or covary with both diet patterns
+and
+FI decline or AD risk.
+Flaws in Interpretation & Reporting
+Perhaps the most egregious faults of Klinedinst et al. are their bold, sweeping conclusion statements based on a small handful of significant – but inconsistent – results in select sub-populations, particularly on the subject of alcohol consumption. Daily alcohol consumption of any type was only associated with higher baseline FIT scores in the APOE4+ group – only about 21% of study participants. No significant associations with red wine were observed in this group, though red wine was associated with slower decline over time in the FH+ group, which likely overlapped considerably with the APOE4+ group given that the high-risk allele would have been passed down through families. Meanwhile, in the FH- group,
+weekly
+alcohol was associated with significantly
+lower
+baseline FIT scores, and white wine consumption, although associated with higher baseline FIT scores in this group, was associated with significantly
+more rapid decline
+over the course of the study.
+How do these results make any logical sense? How would daily alcohol be beneficial but weekly alcohol be detrimental? How can red wine have no effect on those with high-risk APOE4 genetics but have positive effects in those with a family history of AD? The authors offer no explanation for these inconsistencies, instead choosing to make broad statements about daily alcohol consumption improving cognitive trajectories and red wine being “additionally protective.” (Despite the fact that effect sizes with red wine were, in fact, smaller than the single significant result with daily alcohol consumption more generally.)
+It’s worth noting also that the investigators only reported values which met the criteria for significance, so we cannot know if there existed any trends in other sub-groups or other alcohol intake frequencies. Further, the authors offer no information regarding the actual quantities of alcohol consumed (or any other foods or drinks for that matter), making it impossible to judge any true dose-dependency – though somehow, I can’t help but think that having access to those numbers wouldn’t give me any more confidence in the authors’ claim that “a bottle a day of red wine” is beneficial.
+The Punchline
+So can cheese and alcohol prevent cognitive decline? As the old saying goes, if something seems too good to be true, it probably is, and the Klinedinst et al. is certainly no exception. The many failures of this study invalidate the authors’ conclusions, especially when we consider that the preponderance of reliable evidence to date conflicts with their findings. All in all, this study is little more than a bad joke, and perhaps these researchers have just been following their own advice on alcohol intake too closely to recognize the innumerable flaws. So maybe they’ve managed to make a point about wine and intelligence after all: you’d have to be chronically drunk to mistake this level of stupidity for valid science.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama

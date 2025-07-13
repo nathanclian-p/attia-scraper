@@ -1,0 +1,164 @@
+Susan Desmond-Hellmann is a physician and scientist whose remarkable career has spanned clinical medicine, oncology, biotech innovation, and global health leadership. In this episode, Susan shares insights from her journey training in internal medicine during the early AIDS crisis, treating HIV-related cancers in Uganda, and developing groundbreaking cancer therapies like Herceptin and Avastin. She reflects on her leadership roles at UCSF and the Bill and Melinda Gates Foundation, offering lessons on guiding large-scale health initiatives, navigating uncertainty, and fostering scientific innovation. The conversation explores the promise of precision medicine, the integration of patient care and policy, and the evolving role of artificial intelligence in transforming diagnostics, drug development, and global access to care.
+Subscribe on:
+APPLE PODCASTS
+|
+SPOTIFY
+|
+RSS
+|
+OVERCAST
+We discuss:
+Susan’s medical training, the start of the AIDS epidemic, and the transformative experiences that shaped her career [3:00];
+Susan’s experience working on the frontlines of the HIV/AIDS crisis in Uganda [12:30];
+Susan’s time working in general oncology and her transition to biotech where she helped develop taxol—a top-selling cancer drug [26:30];
+Genentech’s origins, and its groundbreaking use of recombinant DNA to develop biologic drugs [33:45];
+Susan’s move to Genentech, and her pivotal role in the development and success of Herceptin as a groundbreaking therapy in targeted oncology [44:00];
+The rise of antibody-based cancer therapies: the development of Rituxan and Avastin [52:15];
+The step-by-step drug development process and the scientific and strategic challenges involved [1:01:30];
+The ethical and economic controversy surrounding Avastin’s high cost and limited survival benefit [1:12:30];
+Susan’s tenure as chancellor at UCSF: leading during a financially strained period, and her strategic approach to fundraising and institutional development [1:14:45];
+What Susan learned as CEO of the Bill and Melinda Gates Foundation: strategic processes and decision-making frameworks [1:26:00];
+Susan’s philosophy of leadership and how she sought to build an empowering, values-driven culture at the Gates Foundation [1:35:15];
+The erosion of public trust in science during COVID, the communication failures around controversial treatments like ivermectin, and the need for better public health engagement and transparency [1:39:30];
+The role of AI in transforming medicine: from drug development to cancer detection and beyond [1:53:00]; and
+More.
+Show Notes
+Susan’s medical training, the start of the AIDS epidemic, and the transformative experiences that shaped her career [3:00]
+Susan grew up in Reno, NV
+Went to Catholic school for 12 years
+Attended the University of Nevada, both to undergrad and and to medical school
+Her dream residency was internal medicine at UCSF and she got her first pick (that was in 1982)
+Remind me where we were in the AIDS epidemic in San Francisco in ’82. What was known?
+The first indication of AIDS was in
+MMWR in 1981
+In 1982, we knew something was happening, especially to gay men
+There was a sense it was homosexuals, hemophiliacs, and Haitians (the 3 H’s)
+There was so much mystery still involved that Susan and her colleagues were in a study to look at drawing their blood to see if they had been infected as a result of treating patients
+What were they presenting with at the time?
+It’s hard for anyone of Peter’s generation to imagine, having never seen a drug-naive patient
+These men would present with
+Pneumocystis carinii
+pneumonia
+This was unusual because it was a disease that immunosuppressed patients could get very rarely
+Most clinicians had never seen it before
+What was also clear is that there were many other infections that were not as obvious or life-threatening as pneumocystis was when we saw it right away
+What was interesting from an outpatient perspective was
+Kaposi’s sarcoma
+Kaposi’s sarcoma is a really unusual purple-colored tumor, very visible externally
+It caused nodules
+In patients with HIV infection, it also caused internal organ involvement
+Patients would cough up blood or they would vomit blood
+What was really sad and difficult is the combination of
+cachexia
+and Kaposi’s sarcoma meant that everybody knew you had AIDS (you sort of wore it)
+What was interesting for Susan was that this old-fashioned Kaposi’s sarcoma was fundamentally different than what we were seeing
+Kaposi’s sarcoma was a very big problem in San Francisco
+It was very common in gay men, and it was common in the population we saw
+We also saw a non-Hodgkin’s lymphoma in numbers much smaller
+Was there ever a sense of fear among the medical staff that we don’t know what this is, we don’t know how it’s transmitted, and therefore we don’t know how to protect each other or ourselves or other patients for that matter?
+It’s hard for Peter to imagine given how much we take for granted today
+Susan thinks it’s probably a reflection of her personality and wish to be a physician that her memories of those days are much more about sadness about her patients
+About people her age dying
+A story that brings it to life
+Many patients started selling their life insurance because they were sure they wouldn’t live long enough and they wanted the money now
+Then when the antiretroviral therapy came along, they wished they hadn’t
+Susan was just really sad
+Fears about contagion
+There were fears about the residents and about contagion
+But in San Francisco there was such a wish to help the patients, and such a good spirit about playing a role in helping, that we all persevered
+For the first patients Susan took care of in the hospital (in 1982), she was gowned, gloved, masked, and had a cap on
+It was like going into an operating room
+You finished your residency in internal medicine. Did you go directly into your fellowship?
+Susan did a chief residency at the university hospital for 1 year
+That was the first time she knew she really liked managing
+She liked interacting with people and helping people succeed
+After that year, she went to an oncology fellowship
+Susan adds, “
+To this day I love oncology. If you love medicine, and I do, and you love patients, and I do, it’s the combination of you get to call on your compassion gene and your nerdy science gene
+.”
+When she was at the VA in Reno as a third year medical student, she had an attending (Stephen Hall), and he was the oncologist who was teaching her about medicine
+She loved everything about how he showed up
+She loved his compassion, his intellect
+After that, she had this bug in her mind, she wanted to be like him
+Peter can relate, when he was in his third year of medical school, he went to NCI for 3 months with
+Steve Rosenberg
+It was the exact same experience
+He remembers learning many lessons from Steve
+One of them was about cancer diagnosis
+Of course at the NCI, nobody’s showing up with
+stage I, II, or III cancer
+By definition, every patient there is showing up with metastatic cancer, and they’ve progressed through all standard treatments
+These are people that have 6 months to live
+Maybe you can achieve a durable remission for 10% of them
+He said, “
+Look, cancer will do one of two things to a family. It will take a strong family and bring them much closer together, it will take a fractured family and blow them wide apart. As a doctor, as a nurse, as an anybody in the field of oncology, your ability to kind of be there for that family is as important, potentially more important, than it is in any other specialty of medicine.
+”
+[Steve was the guest in
+episode #177
+]
+Tell me a little bit about the state of oncology in the mid-eighties when you’re embarking on your medical oncology fellowship
+Help people understand what the world of cancer looked like roughly 40 years ago
+Breast cancer is a good example
+The common therapy that was used were very old, decades old:
+Cytoxan
+,
+Methotrexate
+,
+5-FU
+There were no new chemotherapy drugs, and hadn’t been in a while
+The field was stifled; there wasn’t a lot going on
+Susan was really interested in cancer epidemiology
+Asking the question: Why did people get cancer and couldn’t we do something about it?
+In the second year of her fellowship, she wanted to study the relationship between
+Hepatitis B
+and
+hepatocellular carcinoma
+To understand the viral link with cancer
+The mentor she was supposed to work with ended up not coming to San Francisco, so she decided to go to Berkeley and get a Master’s in Public Health
+She really scrambled because she didn’t want to waste a year
+What was the nature of the program? It was a 3-year fellowship with a research track on the side
+UCSF was a very academic place
+You could do 2 or 3 years, and many people went into the lab
+Susan didn’t want to go into the lab, she wanted to learn more about statistics and epidemiology
+She thought she wanted to be a cancer epidemiologist
+To this day, she still thinks that is one of the great opportunities to make a big impact,
+“
+I’m a pragmatist. The good news was that all that learning at Berkeley and at UCSF in epi and biostat I brought to drug development. Clinical trials have a lot in common with doing epidemiology
+.”‒ Susan Desmond-Hellmann
+You brought up Hep B and hepatocellular carcinoma, was it understood at the time what we know now?
+It was, yeah
+Palmer Beasley
+, one of the fathers of that relationship, was the guy who was supposed to come [to UCSF]
+There were preliminary papers, and something relatively early, but it was emerging science
+Do you recall what the incidence of Hep B was and Hep C back then?
+She doesn’t
+If you weren’t in Asia, she thinks it was relatively low
+But increasing, which is partly why the vaccines are so important
+Susan’s experience working on the frontlines of the HIV/AIDS crisis in Uganda [12:30]
+Tell me how you wound up in Uganda
+After she got her Master’s in Public Health, she became the oncologist at UCSF in the university hospital (Moffett) for the AIDS clinic
+San Francisco General had a very well-known program run by oncologists for AIDS patients who were in the safety net hospital
+In the university hospital, if you were very sick and you had Kaposi’s sarcoma, you saw Susan
+Susan had just gotten married, and her
+husband
+was also an intern
+He was in the lab, in ID, doing immunology work
+Two of the chiefs of medicine at UCSF were approached by The Rockefeller Foundation who had started to become worried about heterosexual transmission of HIV
+Remember Susan talked about the Haitians and the hemophiliacs and homosexuals?
+One H wasn’t heterosexual
+There was a lot of disbelief about African HIV
+Some people thought it must be gay sex, but people are too embarrassed to admit it
+There were other theories, but people just did not understand what was going on in Africa
+The Rockefeller Foundation gave UCSF a grant to study heterosexual transmission of HIV
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Susan Desmond-Hellmann, M.D., M.P.H.
+Susan Desmond-Hellmann earned a Bachelor of Science degree and medical degree at the University of Nevada. She completed her clinical training in internal medicine and oncology at UCSF, and earned a Master’s in Public Health from UC Berkeley. Dr. Desmond-Hellmann joined the faculty at UCSF as Associate Adjunct Professor of Epidemiology and Biostatistics. Soon thereafter, she worked for two years as a visiting faculty at the Uganda Cancer Institute where she studied HIV/AIDS and Cancer. When she returned to the US, she worked for two years as a medical oncologist in private practice before returning to clinical research.
+Dr. Desmond-Hellman has spent her career working as a physician-scientist, she is a member of the National Academy of Medicine, and has held a number of high-profile leadership roles. She worked for Genentech from 1995-2009 first as a clinical scientist, then chief medical officer, and executive vice president (and later president) of development and product operations. She led the development of Herceptin®. In 2009, she became UCSF’s ninth chancellor and first woman to hold the position. During this time she championed the new field of precision medicine. She served as a member of the National Institutes of Health’s advisory committee on the National Center for Advancing Translational Science and co-chaired a National Academy of Sciences committee that produced the report, “
+Toward Precision Medicine: Building a Knowledge Network for Biomedical Research and a New Taxonomy of Disease
+.” Dr. Desmond-Hellmann stepped down from chancellor of UCSF in 2014 to become the CEO of the Bill & Melinda Gates Foundation, a position she held for six years. She has served as a board member at Pfizer since 2020. In 2021, she was appointed to the President’s Council of Advisors on Science and Technology. In 2024, she became a member of the Board of Directors at OpenAI. Dr. Desmond-Hellmann also serves in leadership roles for a number of non-profit organizations including the Global He@lth 2030 Innovation Task Force, California Academy of Sciences, and Howard Hughes Medical Institute. [
+UCSF Library
+]

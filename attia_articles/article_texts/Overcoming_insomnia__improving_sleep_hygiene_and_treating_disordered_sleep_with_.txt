@@ -1,0 +1,176 @@
+Ashley Mason is a clinical psychologist and an associate professor at UCSF, where she leads the Sleep, Eating, and Affect (SEA) Laboratory. In this episode, Ashley provides a masterclass on cognitive behavioral therapy for insomnia (CBT-I), detailing techniques like time in bed restriction, stimulus control, and cognitive restructuring to improve sleep. She explains how to manage racing thoughts and anxiety, optimize sleep environments, and use practical tools like sleep diaries to track progress. She also offers detailed guidance on sleep hygiene; explores the impact of temperature regulation, blue light exposure, and bedtime routines; and offers guidance on finding a CBT-I therapist, along with sharing practical steps you can take on your own before seeking professional help.
+Subscribe on:
+APPLE PODCASTS
+|
+SPOTIFY
+|
+RSS
+|
+OVERCAST
+We discuss:
+Defining insomnia: diagnosis, prevalence, and misconceptions [3:00];
+How insomnia develops, and breaking the cycle with cognitive behavioral therapy for insomnia (CBT-I) [7:45];
+The different types of insomnia, and the impact of anxiety, hydration, temperature, and more on sleep [11:45];
+The core principles of cognitive behavioral therapy (CBT) and how CBT-I is used to treat insomnia [20:00];
+Implementing CBT-I: time in bed restriction, sleep scheduling, and the effect of napping [29:45];
+Navigating family and partner sleep schedules, falling asleep on the couch, sleep chronotypes, and more [39:45];
+Key aspects of sleep hygiene: temperature, light exposure, and circadian rhythm disruptions [44:45];
+Blue light and mental stimulation before bed, and the utility of A-B testing sleep habits [52:45];
+Other simple interventions that may improve sleep [57:30];
+Ashley’s view on relaxation techniques and mindfulness-based practices [1:02:30];
+The effectiveness of CBT-I, the role of sleep trackers, and best practices for managing nighttime awakenings [1:04:15];
+Guidance on intake of food and alcohol for good sleep [1:16:30];
+Reframing thoughts and nighttime anxiety to reduce sleep disruptions [1:18:45];
+Ashley’s take on sleep supplements like melatonin [1:21:45];
+How to safely taper off sleep medications like benzodiazepines and Ambien [1:26:00];
+Sleep problems that need to be addressed before CBT-I can be implemented [1:38:30];
+The importance of prioritizing a consistent wake-up time over a fixed bedtime for better sleep regulation [1:40:15];
+Process S and Process C: the science of sleep pressure and circadian rhythms [1:45:15];
+How exercise too close to bedtime may impact sleep [1:47:45];
+The structure and variability of CBT-I, Ashley’s approach, and tips for finding a therapist [1:50:30];
+The effect of sauna and cold plunge before bed on sleep quality [1:56:00];
+Key takeaways on CBT-I, and why no one should have to suffer from insomnia [1:58:15]; and
+More.
+Show Notes
+Defining insomnia: diagnosis, prevalence, and misconceptions [3:00]
+Where did your interest in insomnia arise?
+Ashley has been interested in sleep for a long time
+She went to the University of Arizona for her doctoral work and studied with the late
+Dick Bootzin
+He’s one of the co-inventors of cognitive behavioral therapy for insomnia (CBT-I)
+Ashley found CBT-I particularly interesting because it works so well
+We have so many different psychological treatments and they all have varying degrees of efficacy and effectiveness
+The thing about CBT-I is that it’s kind of like a recipe: if you do it, it works
+This was always just so interesting because it was so different than so many other psychotherapies out there that had so much more unpredictable outcomes
+Ashley became much more interested in CBT-I after her postdoctoral work
+When she was a post-doc at UCSF and started her assistant professorship, there was this gaping hole in treatment available for people with insomnia
+She thought this might be a good way for her to get back into some clinical work (she was just doing research at the time)
+“
+I fell back in love with it because there’s almost nothing as rewarding as being able to see a patient seven times and that seventh time have them say something along the lines of, ‘I have my life back.’
+”‒ Ashley Mason
+Patients say something along the line of, “
+I have my life back
+.”
+I’m going to get my drivers license back
+I’m not afraid to drive with my kids in the car anymore
+I’m going to go back to work
+Ashley grew the clinic that she does CBT-I in
+She loves it so much that she does it on top of her job
+She meets with patients after hours, at night because it’s the most rewarding thing, and you can have such a big impact on people
+And people need it
+Help folks understand a little bit about insomnia and maybe go through some of the definitions around the different types of insomnia and maybe some of the different causes for it
+And also what some of the other treatments for insomnia are
+⇒
+90% of adults at some point are going to struggle with insomnia, and at any given moment that might be between 5-10%
+The interesting thing about insomnia is that it’s a very clinical diagnosis
+There’s no blood test for insomnia
+We can’t put you in a sleep lab overnight and do a test to see if you have insomnia
+We don’t diagnose insomnia based on one night of bad sleep
+If someone says, “
+I didn’t sleep at all last night, or I haven’t slept even for just the last week,
+” that’s not going to get a diagnosis of insomnia
+There’s a whole suite of different “somnias” that we could talk about
+The point that is the most salient [for defining insomnia] is just that when you have a problem sleeping and when it’s been going on for at least 3 months (a long time)
+When you really feel it’s a problem, that’s when it’s time to get help
+⇒
+There’s plenty of people who don’t sleep a whole lot, but it’s not distressing to them, it’s not causing any problems in their life; they’re not going to meet a definition of insomnia per se
+The folks who will tell you, “
+I can’t sleep, haven’t been sleeping for months. It’s interfering with my life. It’s really upsetting.
+”
+And they’ve probably already started trying a whole bunch of things to try and help themselves to fix it (and this is where things get interesting)
+Peter clarifies the point estimates [of prevalence] of insomnia
+5-10% of the population would have insomnia at any point in time
+Where it’s been going on for months, and it’s causing distress and impacting life
+At the low end, that’s 1 in 20
+At the high end, that’s 1 in 10 adults
+That’s a higher estimate than Peter would have guessed, given her definition
+⇒ Everything Ashley is talking about today is adults (she doesn’t do pediatrics)
+Insomnia is for most people, probably quite episodic
+It’s not necessarily a permanent state
+People go in and out of it
+The question is how quickly do people go out of it when they go in it?
+And that’s what CBTI is so beautiful for ‒ it’s helping people get out of it quickly
+There’s going to be things in your life that are going to just happen and they’re going to put you over the threshold for insomnia
+How insomnia develops, and breaking the cycle with cognitive behavioral therapy for insomnia (CBT-I) [7:45]
+How insomnia begins and then how it’s perpetuated
+These things are actually quite different
+Everybody has a certain level of
+predisposing factors
+that are going to put us at risk for having sleeping problems, in particular, insomnia
+Then we may experience what’s called a
+precipitating factor
+That could be a major life event like losing your job, getting a divorce, getting in a car accident
+Some major unexpected unhappy life event that might throw you into a bout of insomnia
+That event will end, and you will move on
+But in the meantime, when you’re dealing with that event,
+you develop behaviors to cope
+with it
+For example, pop a
+Benadryl
+to help you sleep or an
+Ambien
+(something stronger)
+You might start taking naps the next day after a bad night of sleep to try and cope with it
+You might start reading in bed a lot or flipping through your smartphone in bed
+Doing all these different types of behaviors to try and help yourself calm down and actually get to sleep, which in the short term make a lot of sense
+You’re trying to help yourself in the acute moment
+But in the long term, these kinds of behaviors aren’t actually doing you any favors
+And over time that precipitating factor is going to go away
+But all of these behaviors that you’ve started doing to respond to the precipitating event, they’re what stick around; and those are what are going to perpetuate insomnia symptoms and problems
+Can you say more about the predisposing factors? Are those genetic?
+Genetic predisposing factors
+1 – Patients will say they are a light sleeper
+That’s tough to fix
+Ashley will recommend something like earplugs and eye mask, a white noise machine
+2 – If you are higher on the general psychological reactivity, you’re going to probably get pushed over the threshold more easily than someone else
+Some people might get in a car accident, a fender bender, and they’re over it by the next day
+Other people might feel more anxious as a result of that event
+And that’s going to differ from person to person
+You can argue that that’s genetic
+You can argue that that’s based on early childhood or other experiences
+Nature and nurture probably both contribute to that predisposition and there’s not a whole lot that we can do about that
+The beauty of CBT-I
+When people come in for treatment, they’re often pretty focused on what caused their insomnia
+Ashley doesn’t ask people what caused their insomnia until the end of her first session with them
+She’s asking them all these other kinds of questions about their behaviors now
+And at the end she asks, “
+Okay, so when did this start? What do you think might have caused this?
+”
+And get their attribution for what’s going on
+Because at the end of the day, the intervention’s the same
+That might differ a lot from the practice of medicine
+She’s not an MD, she’s a PhD
+In a lot of disease states, we often look at what caused what’s going on
+She’s not really concerned
+She’s more concerned about what you’re doing now that’s perpetuating the problem, and that’s where she intervenes
+“
+That’s why this particular treatment is so effective for so many different presentations of insomnia and causes of insomnia.
+”‒ Ashley Mason
+Whether people have difficulty falling asleep in the beginning of the night, waking up in the middle of the night, waking up too early in the morning
+You might think these people all need wildly different treatment, but that’s not actually the case
+Peter’s takeaway ‒
+the focus is much more on the coping strategy and the behavior that came out of the predisposing factor or the precipitating event
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Ashley Mason, Ph.D.
+Ashley Mason, PhD, is an
+Associate Professor of Psychiatry
+in Residence at the Weill Institute of Neurosciences, Department of Psychiatry and Behavioral Sciences, and the Osher Center for Integrative Health at the University of California, San Francisco (UCSF). Dr. Mason received her PhD from the University of Arizona, completed her resident training in behavioral medicine at the VA Palo Alto Health Care System, and completed a National Institutes of Health (NIH) fellowship training at the UCSF Osher Center for Integrative Health.
+Dr. Mason has an active federally and philanthropically funded research program. She directs the
+Sleep, Eating, and Affect (SEA) Laboratory
+, which focuses on the development of novel mind and body treatments that address long-neglected targets in (1) mood disorders, principally clinical depression and anxiety, (2) insomnia and sleep-related anxiety, and (3) reward-related behaviors, in particular, craving-related and compulsive overeating. She focuses on “mind” treatments that employ cognitive-behavioral processes and reward-based learning, and “body” treatments that include thermal therapies. Clinically, Dr. Mason directs insomnia treatment at the UCSF Osher Center, where she provides cognitive behavioral therapy for insomnia (CBT-I) to patients with insomnia and patients who want to quit using substances for sleep. She has published more than 70 peer-reviewed manuscripts, and her work has been featured in many news outlets, including
+NPR
+,
+AXIOS
+, and
+WIRED
+magazine.
+Conflict of Interest and Funding Disclosures
+: Dr. Mason reports funding for her research from the National Institutes of Health (NIH), including the National Center for Complementary and Integrative Health (NCCIH), the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), and the National Heart, Lung, and Blood Institute (NHLBI), as well as the US Department of Defense (DOD), the Medical Technology Enterprise Consortium (MTEC), The Donner Foundation, The Tiny Foundation, The Aoki Foundation, and SCICOMM Media / Huberman Lab. Dr. Mason has consulted for Oura Health and Evolve Global.
+Instagram:
+ashleymasonphd
+X:
+@DrAshleyMason

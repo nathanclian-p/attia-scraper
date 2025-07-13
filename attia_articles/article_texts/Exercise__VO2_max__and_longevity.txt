@@ -1,0 +1,162 @@
+Mike Joyner is a physician-researcher and one of the world’s leading experts on human performance and exercise physiology. In this episode, Mike discusses how to combat age-related declines in health and fitness levels by using various modes of exercise to improve lifespan and healthspan. Mike explains the impact of exercise on the autonomic nervous system, blood pressure, heart rate, heart rate variability, heart rate recovery, and max heart rate. He dives deep into VO
+2
+max, including how it’s measured, what is driving it, and how to improve it. Mike provides training insights for the average person, including training volume and exercise intensity as well as simple metrics to track. Furthermore, he gives his take on the theoretical “J-curve” relationship between exercise and longevity, as well as whether possible health dangers may be associated with excessive exercise.
+Subscribe on:
+APPLE PODCASTS
+|
+RSS
+|
+GOOGLE
+|
+OVERCAST
+|
+STITCHER
+We discuss:
+Mike’s training as an anesthesiologist and interest in exercise physiology [2:30];
+How exercise increases longevity [7:00];
+The impressive data on the benefits of exercise [9:45];
+The Centenarian Decathlon and other ways to mitigate age-related decline in strength and stability [15:00];
+The violent dropoff in strength and activity with age and how exercise preserves fitness in old age [19:00];
+Benefits of exercise on mortality and fracture risk, and the interplay of nutrition and exercise [22:00];
+How exercise benefits the autonomic nervous system and why this plays an important role in our health [26:30];
+VO
+2
+max, heart rate recovery, heart rate variability, and other metrics of fitness positively impacted by exercise [28:30];
+Reduction in all-cause mortality with increased fitness levels and VO
+2
+max [32:45];
+Does the relationship between exercise and longevity follow a J-curve? [40:00];
+Mitigating age-related decline in fitness by elevating your VO
+2
+max at a young age [46:15];
+Breaking down the variables that drive VO
+2
+max [54:30];
+Learning from elite athletes: Training regimens, aerobic efficiency, and other impressive metrics [1:00:15];
+Health benefits of light exercise for the average person [1:09:00];
+Simple training metrics to track, and Mike’s current exercise regimen [1:11:15];
+How to boost your VO
+2
+max, and the importance of form and tempo with interval training [1:18:15];
+Training advice for the average person [1:25:15];
+Why professional athletes have longer careers than they’ve had in the past [1:27:30];
+Use of performance-enhancing drugs in professional sports [1:29:45];
+Can the miracle of exercise be put in a pill? [1:36:00];
+Mike’s current research and questions he’s most interested in answering [1:39:00];
+Use of convalescent plasma to treat COVID-19 [1:41:15];
+Parting thoughts on the current state of fitness and exercise in society [1:47:15];
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Comments
+This field is for validation purposes and should be left unchanged.
+Δ
+Mike’s training as an anesthesiologist and interest in exercise physiology [2:30]
+Peter has been following Mike’s work for 25-30 years
+Growing up, endurance sports meant a lot to Peter, and has motivated him to understand the physiology better
+Before Mike went to medical school, he volunteered to be a subject in a study on lactate threshold or anaerobic threshold
+He was 19 years old
+This study was at the University of Arizona
+He realized then, if he wanted a career as a research physiologist, doing invasive studies, putting catheters in people, he should go to medical school
+Originally, Mike was thinking of going into cardiology or pulmonary medicine
+When he was working at the VA in Tucson on a surgery rotation and saw what was done for anesthesia, it clicked‒ this was what he wanted to do
+It was a lot like an exercise test
+You measure people’s breathing, blood pressure, heart rate
+You give them drugs that affect their autonomic nervous system
+He has pursued this vision for over 40 years now
+Peter remembers loving his anesthesia rotation, “
+As a physiology geek, anesthesia and critical care for that matter, are both two remarkable specialties that are the tip of the spear of what physiology is
+”
+When you think about exercise or people climbing mountains or adapting to some unusual environment, the brain stem has to do all sorts of incredible things to maintain homeostasis (or the internal environment) in a way that allows you to survive and thrive
+Mike realized, “
+In anesthesia in critical care you turn those mechanisms off, and the physicians and the nurses really become the patient’s brain stem as they regulate the breathing of the patient, the blood pressure of the patient, the heart rate, and so forth
+”
+What drew Mike to the Mayo Clinic?
+He got out of medical school in the early summer of ‘87 and moved to Rochester, Minnesota  for his internship and residency at the Mayo Clinic
+He has been there ever since, for 35 years
+He grew up in Tucson, AZ
+Mike read a review article about skeletal muscle blood flow, the regulation of skeletal muscle blood flow
+There were a lot of new ideas in the mid-80s about the regulation of skeletal muscle blood flow.
+The world’s leading expert was a man named
+John Shepherd
+Who is a very senior member of the faculty at the Mayo Clinic
+Mike wrote him a letter, it was before email and stuff
+John was friends with the head of the department of anesthesiology (
+Alan Sessler
+); he took the letter to him
+Mike wanted to both do his residency and spend time in the lab
+He worked with Dr. Shepard
+The department and residency program were very research friendly and that’s why he decided to go to Rochester, MN
+He thought he would only stay for 3-4 years
+How exercise increases longevity [7:00]
+Exercise for longevity
+Peter thinks about longevity through the lens of 5 modifiable behaviors:
+i) exercise,
+ii) sleep,
+iii) nutrition,
+iv) emotional health, and all the tools around distressed tolerance, and then
+v) exogenous molecules
+These can be manipulated to impact both your lifespan and healthspan
+4 are behavioral (Medications aren’t behavioral in the sense that compliance is relatively straightforward)
+Exercise
+is in a league of its own both on
+It’s ability to extend life and reduce all-cause mortality is well documented
+This is why Peter’s practice spends a lot of time focusing on exercise; it has the most impact
+It’s also one of the most challenging things to get people to change their behavior around because of the significant time commitment
+If you were at a party and somebody asked, “Mike, can you explain why exercise helps you live longer?”
+The answer is multifactorial
+1 – The risk factors that contribute to cardiovascular disease and all-cause mortality are all influenced by exercise and physical activity
+These would be blood pressure, diabetes, to some extent lipids and cholesterol, and also how you deal with stress
+These are the the big 3
+There are some other new age or second wave risk factors like
+endothelial
+function
+The lining of the blood vessels in your body that improve with exercise
+Your
+autonomic nervous system
+is influenced positively by exercise
+People may have heard of
+vagal tone
+or
+heart rate variability (HRV)
+; they are influenced positively by exercise
+Figure 1.  Anti-aging effects of exercise and cellular hallmarks of aging
+.  Image credit:
+Rejuvenation Research
+2015
+There are 5-6 things and when you add each one, the modest increase in cholesterol [HDL], modest reduction in blood pressure, those sorts of things, when you add them up, you get X percent improvement in health span, life expectancy (or any metric you want to use)
+But when you look at the epidemiology, people who do the sorts of things you just mentioned, have a much bigger benefit than just the simple sum of the other risk factors
+There seem to be some sort of synergy here or some sort of X factor that we don’t really understand yet
+⇒
+Exercise improves a collection of 5 lifestyle related factors: the autonomic nervous system, blood pressure, lipids, the lining of the blood vessels, and diabetes
+The impressive data on the benefits of exercise [9:45]
+Hazard ratios and natural experiments reported in the literature
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Mike Joyner, M.D.
+Michael J. Joyner, M.D. earned both his undergraduate and medical degrees from the University of Arizona.  He completed his internship and residency at the Mayo Clinic College of Medicine in Rochester, Minnesota, where he continues to practice anesthesiology.
+Dr. Joyner is a Professor of Anesthesiology at the Mayo Clinic with a joint appointment in the Department of Physiology & Biomedical Engineering.  He has held numerous leadership positions, and is the Frank R. and Shari Caywood Professor of Anesthesiology.  He is also the Vice Chair for Research in the Department of Anesthesiology and Perioperative Medicine.
+Dr. Joyner is an expert in human performance and exercise physiology.  His lab is interested in how humans respond to various forms of physical and mental stress during activities such as exercise, hypoxia, standing up and blood loss.  Dr. Joyner and his team study how the nervous system regulates blood pressure, heart rate and metabolism in response to these forms of stress. They are also interested in how blood flow to muscle and skin responds to these stressors. These responses are studied in young healthy subjects, healthy older subjects and people with conditions such as heart failure.
+By studying normal physiology and how it is affected by aging, sex and disease, Dr. Joyner and his colleagues gain insight into what body systems are potential therapeutic targets for intervention. Their research also provides insight into the many complex mechanisms that operate together to keep us healthy and able to adapt to the demands of life — or fail in a way that makes us unable to adapt.
+Dr. Joyner’s research has been funded by the NIH since 1993.  The Mayo Clinic name him a Distinguished Investigator in 2010.  Dr. Joyner has been a consultant to the NIH and NASA and has held leadership positions with prestigious scientific journals.
+Dr. Joyner has a keen interest in how new ideas emerge, fade and then re-emerge in physiology. And he is a forceful advocate for integrative approaches in science as a powerful tool to integrate and critique data from reductionist approaches. [
+Mayo Clinic
+and
+DrMichaelJoyner.com
+]
+Twitter:
+@DrMJoyner

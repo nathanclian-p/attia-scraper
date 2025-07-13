@@ -1,0 +1,75 @@
+The global obesity epidemic may be fueling a parallel rise in autoimmune conditions, in which the body mounts an immune response against its own, healthy tissue. If true, this connection between body weight and autoimmunity would further compound public health crises related to obesity, but although past observational studies hinted at a connection, the critical question has remained unanswered: does obesity
+cause
+these conditions, or is it merely a bystander? A recent study sought to address this gap, with the hope that improving our understanding of the relationship between obesity and autoimmune disease might provide new approaches to prevention or treatment of the latter.
+Inferring causality from observational data
+Observational studies can only show correlations and cannot establish causality, in large part because of the potential for confounding variables. Obesity, for instance, is associated with numerous other variables — such as diet quality, metabolic health, exercise habits, and even age — which may
+independently
+impact risk of autoimmune disease, making it impossible to isolate the effects of obesity
+per se
+. While randomized controlled trials are a classic solution to the problem of confounds (as known and unknown confounding factors should be evenly distributed between the groups when group assignments are random), such trials would be impractical and unethical for assessing the effects of obesity, given the many
+known
+health risks of excess body weight. Thus, to investigate the question of causality in the obesity/autoimmunity relationship, authors Li
+et al.
+employed a technique commonly used for
+simulating
+a randomized trial in an observational study: Mendelian randomization (MR).
+Longtime readers will likely be familiar with MR from previous
+newsletters
+, but as a brief refresher, this methodology uses gene variants that are
+predictive
+of a specific exposure (in this case, increased body weight) as a proxy for the exposure itself. Because gene variants are randomly assigned at conception (that is, they are not influenced by the individual’s lifestyle or environment), using these variants simulates randomization and eliminates the influence of the many confounding variables associated with obesity itself.
+About the study
+The investigators analyzed genetic data from over 550,000 individuals from the UK Biobank and the FinnGen study for single-nucleotide polymorphisms (SNPs) in DNA that are known to predict various obesity metrics.
+1
+Specifically, the authors used 68 SNPs that were predictive of body mass index (BMI), 52 that were predictive of hip circumference, 41 for waist circumference, and 29 for waist-to-hip ratio. They then investigated the associations between these SNPs and 15 autoimmune diseases, including asthma, celiac disease, and type 1 diabetes, among others.
+Looking at one of the metrics, BMI, Li
+et al.
+found that for each point increase in BMI (or more precisely, a unit increase in the genetically predicted BMI), the risk of several autoimmune conditions increased significantly. The data showed a 28% increased risk for asthma (odds ratio (OR): 1.28; 95% CI: 1.18-1.09;
+P
+<0.001), 37% for hypothyroidism (OR: 1.37; 95% CI: 1.24-1.51;
+P
+<0.001), 52% for psoriasis (OR: 1.52; 95% CI: 1.27-1.83;
+P
+<0.001), 22% for rheumatoid arthritis (OR: 1.22; 95% CI: 1.06-1.40;
+P
+=0.005), and a 55% increase in risk for type 1 diabetes (OR: 1.55; 95% CI: 1.32-1.83;
+P
+<0.001). As expected for a pseudo-randomized study, nearly all of these associations remained robust even after accounting for potential confounding factors like smoking and drinking behaviors. The single exception was rheumatoid arthritis, which lost statistical significance after adjustment (though significance had only been borderline in the unadjusted model). Results were generally similar for the other obesity metrics tested, though associations were somewhat stronger for waist circumference and weaker for waist-to-hip ratio.
+Some less common autoimmune conditions had limited data available, meaning we may not yet understand the full scope of obesity’s impact on autoimmune disease. Additionally, the data used for this study came from people of European descent (for whom we have the most information regarding associations between SNPs and health implications), meaning the study’s findings are primarily applicable to this population, and further research is needed to confirm any relationships in other ethnic groups. Regardless, the data presented provide a compelling case for a causal link between excess weight and several autoimmune conditions.
+How does fat drive autoimmunity?
+Why might obesity trigger autoimmune conditions? To understand this, we need to think about the effects of excess adiposity on inflammation. The accumulation of fat tends to fuel systemic inflammation by triggering the release of pro-inflammatory molecules (including IL-1, IL-6, IL-17, TNF-α, and IFN-γ), but not all fat contributes equally to this inflammatory state. Unlike subcutaneous fat,
+visceral and ectopic fat
+(fat that accumulates around and within internal organs) are particularly strong drivers of chronic inflammation, which in turn can overwhelm the body’s regulatory mechanisms and potentially lead to autoimmune responses (for more on addressing chronic inflammation, see
+AMA #59
+).
+But how much fat does it take to drive inflammation and autoimmunity? Unfortunately, there is no single threshold that applies to everyone. As discussed in greater depth in a premium article on
+body composition
+, individuals vary in their capacity for “normal” fat storage in subcutaneous depots, and once this capacity is exceeded, fat begins to accumulate in the viscera, triggering greater systemic inflammation. Though the exact level of fat required to reach this “spillover” point may differ across individuals, everyone will eventually reach their personal threshold if fat accumulation continues.
+I often use a bathtub analogy to explain this concept. Imagine subcutaneous fat as the place your body was designed to store excess energy safely — like water in a bathtub. Some people have a large tub, while others have a smaller one (determined in part by genetics), but if water flowing in (i.e., the calories you’re consuming) consistently exceeds the water draining out (i.e., the calories you’re expending), the tub eventually overflows.
+The implication from these mechanistic insights is that
+visceral fat
+— rather than BMI
+per se
+— drives the association between obesity and autoimmunity. Indeed, this conclusion would be supported by Li
+et al.
+’s data showing generally stronger positive associations with autoimmune conditions for genetic variants associated with waist circumference — a rough indicator of visceral fat — than with genetic variants for BMI itself. However, because everyone has an [unknown] upper limit to their capacity to store fat subcutaneously, the probability of exceeding that limit increases for everyone as total fat mass increases. Thus, the best strategy for avoiding autoimmunity caused by excess visceral fat is to keep
+total
+fat mass in check.
+The bottom line
+The link between obesity and disease is not new, but this study reinforces just how far-reaching the consequences of excess adiposity can be. It provides causal evidence that obesity may
+directly
+increase the risk of autoimmune conditions, adding to the long list of reasons to prioritize metabolic health. The message is clear: addressing obesity isn’t just about aesthetics or even traditional obesity-associated health concerns like cardiovascular disease or diabetes. It’s about preventing a
+cascade
+of potential health consequences that can significantly impact the length and quality of life, and autoimmune conditions are another addition to this list. With the extensive impacts of excess fat accumulation, avoiding it by maintaining energy balance is a critical element of any plan for preventing chronic disease.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+1. Li X, Zhu J, Zhao W, et al. The causal effect of obesity on the risk of 15 autoimmune diseases: A Mendelian randomization study.
+Obes Facts
+. 2023;16(6):598-605. doi:10.1159/000534468

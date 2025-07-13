@@ -1,0 +1,120 @@
+Julia Wattacheril is a physician scientist and director of the Metabolic Dysfunction Associated Steatotic Liver Disease (MASLD) program at Columbia University Irving Medical Center. In this episode, Julia delves deep into the complex world of liver health, beginning with a foundational overview of liver physiology. She provides an in-depth look at how alcohol impacts liver function, breaking down the metabolism of ethanol and its detrimental effects. Julia then shifts the focus to understanding liver function tests and optimal enzyme levels, providing a detailed explanation of AST and ALT and elucidating why fluctuations in these levels may or may not be concerning. She provides a primer on the four major stages of liver disease, discussing risk and emphasizing the importance of early diagnosis. Julia highlights the role of liver disease in increasing the risk of cancer and cardiovascular disease and covers in detail the various strategies for diagnosing, treating, and preventing the progression of liver disease.
+*Dr. Wattacheril’s views expressed in this conversation reflect her own, not those of her institution.
+Subscribe on:
+APPLE PODCASTS
+|
+RSS
+|
+GOOGLE
+|
+OVERCAST
+|
+STITCHER
+We discuss:
+Julia’s training, the importance of liver health, and the challenges and innovations of hepatology [3:15];
+The complex and crucial functionality of the liver, its four most essential functions, and more [8:45];
+Liver injuries: historical and evolving understanding of causal factors, and the progression to liver diseases and cancer [13:15];
+How the liver metabolizes nutrients, and what happens in the presence of excess calories or alcohol [24:45];
+Methods of diagnosing liver disease, and how insights guide treatment and management strategies [33:30];
+The poisonous nature of ethanol to the liver [40:30];
+Varied responses to alcohol, damaging effects of alcohol beyond the liver, and the process of advising patients on their alcohol consumption [47:15];
+Understanding liver enzymes—AST and ALT—interpreting levels, lifestyle factors that affect them, and diagnostic approaches [58:30];
+Interpreting liver function tests for fatty liver disease, and the challenges of diagnosing liver pathologies, particularly in children versus adults [1:13:15];
+Comprehensive liver health assessments via imaging and various diagnostic tools to prevent overlooking potential liver pathologies [1:18:45];
+Potential impact of recreational drugs, statins, and other medications on liver function test results [1:26:45];
+Shifting nomenclature from NAFLD to MASLD to reflect accuracy in the underlying pathophysiology and understanding of liver diseases [1:30:30];
+Pathophysiology of MASLD, the need for proactive screening, and the significance of liver fat percentage as an indicator of metabolic health [1:36:30];
+The importance of screening for and considering rare conditions alongside common metabolic diseases associated with fatty liver accumulation [1:42:45];
+Practical strategies for managing MAFLD [1:45:30];
+The impact of fructose consumption on liver health and the challenges of disentangling its effects from other factors like obesity and insulin resistance [1:52:45];
+The potential of GLP-1 agonists for the treatment of MASLD [1:57:45];
+How the four stages of liver disease have evolved [2:00:30];
+Increased cancer and heart disease risk associated with early stage MAFLD [2:05:15];
+Emerging drugs and therapies for addressing fat accumulation and fibrosis related to MAFLD [2:12:15];
+Peter’s major takeaways [2:18:45]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Comments
+This field is for validation purposes and should be left unchanged.
+Δ
+Julia’s training, the importance of liver health, and the challenges and innovations of hepatology [3:15]
+Tell folks a little bit about your training, what it means to be a hepatologist and what led you there
+Julia is a transplant hepatologist
+Her clinical hat is divided into 50% liver transplant and 50% general liver care
+How she got to that path ‒ she did medical school in Houston at the Baylor College of Medicine and completed residency there as well
+A GI fellowship at Vanderbilt in Nashville
+Then a transplant fellowship at Columbia
+When it comes to her faculty time division, she tends to focus on
+MASLD
+(or NAFLD as it used to be called)
+Metabolism and a nexus with endocrinology is also a big focus of hers
+Give folks a sense of what the liver does
+People have heard Peter say this before, but it’s worth repeating, “
+The liver is this essential organ for which we don’t have extracorporeal support (that’s just a fancy word that means outside of body support).
+”
+If a person’s lungs don’t work, you have extracorporeal support
+You have a ventilator that can do the job of the lung for a temporary period of time, hours, weeks, even months
+Believe it or not, if the heart doesn’t work, we have extracorporeal support in terms of intra aortic balloon pumps or even ventricular assist devices
+If the kidneys don’t work, we have extracorporeal support in the form of dialysis
+Peter is not suggesting any of these things are a substitute for the real thing, but they’re remarkable bridges that save many lives
+And yet we don’t have anything that even remotely resembles extracorporeal support for the liver
+We have this essential organ and if it is injured, we don’t even have a way to bridge people to transplantation
+Anything you want to say about that? Is that just a staggering feature of this organ?
+It’s not for lack of trying
+There have been some devices like the
+MARS machine
+that have been developed
+The bulk of liver disease has historically been chronic, and so you have time for intervention
+It’s the acute phases that we really need either a 3D printed liver or an accessory liver that could function either inside the body or outside of the body
+Those efforts are being undertaken, but it both hearkens to the complexity of what the liver does and how hard it is to mimic when the liver is injured, what it can do
+It also gives you a focus on the panoply of liver diseases, the timeline to development of liver disease, and the functional aspect of what it takes to actually get some of these devices to market
+Peter’s story from his time at Hopkins
+One of the attendings who had trained at one of the universities in Virginia told a story about when he was in his training: they were using baboons as a bridge to transplantation (not xenotransplantation)
+They would literally put a baboon in a bed next to the human in acute liver failure
+They would run conduits between them and obviously they had somehow
+ABO
+matched the baboon to the human, and they would basically circulate the human’s blood through the baboon using the baboon’s liver to detoxify and carry out
+gluconeogenesis
+(or whatever other features were critical in the acute moment)
+Apparently, this somewhat worked
+You could take a person who was completely jaundiced, on the verge of death and buy them another week or so until a liver transplant showed up
+According to the story of this one attending, it worked really well until once a patient emerged from basically a state of unconsciousness due to their liver failure and realized what was going on and freaked out and panicked and pulled the cannulas out
+It turned into a big bloody mess that ended with the baboon dying and the patient nearly dying, and that put an end to it
+That story always stuck with Peter as the depths to which one had to go to try to basically save people during this period of acute liver failure while you either hoped for a recovery and/or found a transplant
+Any of those stories ever come your way?
+Not so much the animal portion
+If you’ve read about
+accessory livers
+, you learn a lot about this from living donation: how much liver is required when people are in acute liver failure
+It’s not something apart from the pediatric population that a small segment of liver could actually solve
+For accessory livers, you’re implanting a human liver to basically function as a temporary means of metabolism and recovery of immune function and all the other functions that we’ll get to
+But it’s much more on the human side than cannulas to a baboon, which is a good mimicker
+We learned a lot about liver disease from alcohol in the baboon
+This model was one that mimicked human responsiveness more so than other animal models
+For example, nutrient deprivation that occurs from carbohydrate load from alcohol versus direct injury to the liver
+The complex and crucial functionality of the liver, its four most essential functions, and more [8:45]
+The liver is clearly complex enough that in the year 2024, we still do not have a way to approximate it the way we do most other vital organs
+There’s something about it that’s obviously quite susceptible to injury in the modern environment
+How would you get people to understand and appreciate the absolute beauty of this what Peter considers a very underappreciated organ?
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Julia Wattacheril, M.D., M.P.H.
+Julia Wattacheril earned her medical degree and completed her residency at Baylor College of Medicine. She completed a fellowship in gastroenterology at Vanderbilt University, where she also earned a Masters in Public Health. She completed a second fellowship in transplant hepatology at NewYork-Presbyterian Hospital/Columbia University Medical Center.
+Dr. Wattacheril is an associate professor of medicine, physician scientist, and director of the Metabolic Dysfunction Associated Steatotic Liver Disease (MASLD) program at Columbia University Irving Medical Center. Her clinical and translational work spans the multidisciplinary care of MASLD patients at all stages of their disease to the investigation of rare genetic variants influencing the development and progression of MASLD before and after liver transplantation. She currently leads an interdisciplinary research group using semi-automated techniques to identify at-risk and protected phenotypes within the electronic health record (EHR) for multi-omic analysis. Of particular interest for clinical outcomes discovered through EHR phenotyping include rapid progression to advanced liver disease, need for transplantation, and hepatocellular carcinoma. Her current projects test hypotheses at scale across populations. She has a particular commitment to develop and translate science and medicine not just across disciplines but to those most affected and often least included in the conversation. [
+Columbia
+] Dr. Wattacheril’s views expressed in this conversation reflect her own, not those of her institution.

@@ -1,0 +1,54 @@
+One of the great dangers with diabetes is the substantial increase in risk of
+other
+chronic diseases, such as dementia. Individuals with both type 1 and type 2 diabetes face significantly higher risks of cognitive impairment compared to the general population, and this suggests there may be shared biological mechanisms at work. (Alzheimer’s disease has even gained the nickname “type 3 diabetes.”)
+Diabetes is well known to cause vascular complications in the heart, kidney, and eye, yet effects on the brain’s microvascular network — comprising over 95% of vessel length density
+2
+— has received limited research attention despite its critical role in cognitive function. The brain’s heavy dependence on continuous oxygen and nutrient delivery makes it particularly vulnerable to vascular disruptions, and indeed, studies on Alzheimer’s disease have shown that small capillaries in the brain experience stalled blood flow more frequently and for longer durations compared to healthy brains.
+1
+Could the association between diabetes and Alzheimer’s disease stem from the diabetes-attributable vascular complications in the brain? A recent study published in
+Nature Metabolism
+addressed this question, examining what happens to these tiny vessels in the brains of a mouse model of type 1 diabetes. The findings point to a somewhat surprising role for a well-known immune molecule — and a potential new avenue for intervention.
+3
+A direct look at brain blood flow in living mice
+The researchers began with a straightforward question: do the brains of diabetic mice experience more microscopic “traffic jams” in their vasculature than healthy brains? Using advanced microscopy techniques, the investigators directly examined blood flow in diabetic mice versus healthy controls. Diabetes was induced by treatment with streptozotocin, a drug that selectively destroys the insulin-producing cells in the pancreas, creating a condition that closely resembles human type 1 diabetes.
+Diabetic mice showed a 2-4x increase in brain capillary stalling compared to controls, with 1.82–3.64% of capillaries blocked at any given time versus 0.47–0.93% in normal brains. In other words, the diabetic mice were receiving less blood flow to their brains than healthy controls. The majority of the clogs were primarily formed by red blood cells, which were typically getting stuck in medium-sized venules (second- to fourth-order branches), whereas only 25-32% of blockages in the diabetic mice involved white blood cells.
+Because diabetes-associated vascular damage is thought to arise in large part from the toxic effects of hyperglycemia and resulting inflammation, the authors sought to assess the role of aberrant glycemic control in contributing to these stalls by treating mice with insulin to lower blood sugar levels. Though insulin treatment lowered blood glucose in diabetic mice to nearly the level of control mice, the obstruction rates remained elevated, showing only a slight reduction from the degree of obstruction observed in animals with uncontrolled diabetes. This suggests that high blood sugar could not completely account for the vascular problems in diabetic mice — something else was playing a role.
+Identifying an unexpected cause
+To investigate what
+else
+could be causing red blood cells to get stuck in diabetic brains, the research team took a closer look at potential mechanisms related to inflammation. They adopted a systematic approach, screening serum from diabetic mice for 29 different inflammatory molecules, searching for potential drivers of vascular dysfunction. To avoid being fooled by potential inflammatory artifacts caused by streptozotocin treatment itself, the researchers performed blood screens in two separate mouse models of diabetes: mice treated with streptozotocin to chemically induce diabetes, and a genetic model that spontaneously develops autoimmune diabetes.
+While many inflammatory molecules were elevated in diabetic blood, only one — interleukin-10 (IL-10) — remained
+consistently
+high at both time points tested (4 weeks and 8 weeks after diabetes onset). The results were surprising, as IL-10 has an established reputation as an
+anti
+-inflammatory mediator that typically
+protects
+against tissue damage in conditions like infection and stroke. Yet IL-10 is what is known as a “pleiotropic” cytokine, meaning it can have multiple effects depending on the biological context, potentially acting in a protective manner in one setting and a harmful manner in another. Indeed, when the authors injected IL-10 into healthy mice, they found significant increases in vessel blockages, confirming that elevated IL-10 directly contributes to vascular problems rather than protecting against them.
+Testing IL-10 blockade as a therapeutic strategy
+Of course, merely identifying a culprit is only laying the groundwork for what really matters: can this mechanism be targeted therapeutically to reduce vessel blockages and improve cognitive trajectories?
+As a first step in addressing this question, the investigators utilized an immunotherapeutic approach involving antibodies to block the IL-10 receptor, thus blocking the effects of IL-10. This treatment decreased stalled capillaries by 63%, downregulated pathways involved in cell adhesion (which likely contributes to blood cell stalling), and expanded capillary diameter by 25% in branches near arterioles, potentially helping clear existing blockages and prevent new ones from forming. These results demonstrate that blocking IL-10 may be a viable treatment strategy for mitigating blood flow disruptions in diabetic brains.
+These vascular improvements were also found to translate to better cognitive function. Diabetic mice treated with IL-10 receptor antibodies showed improvements in learning and memory tasks relative to untreated mice, performing comparably to non-diabetic controls on a series of tests related to cognition and sensorimotor skills.
+Key questions for clinical translation
+Before we get too excited about these findings, it’s important to reiterate that these tests were merely a first step. As we detailed in a
+recent newsletter,
+significant hurdles always exist between preclinical research and viable human therapies, and in the case of the present work, certain specific concerns are worth noting.
+There’s the obvious limitation that this work was done in mouse models that don’t perfectly mirror human diabetes and brain microvasculature. Most diabetic mice in this study were chemically treated with streptozotocin to completely destroy pancreatic beta cells, which itself might contribute to systemic inflammation, and the genetic diabetes model that they used is known to exhibit various defects in immune function (some of which are responsible for their development of diabetes). It’s unclear whether the results would therefore translate to a natural, human context of either type 1 or type 2 diabetes. Additionally, the study used injected microspheres to assess blood vessel blockages, a useful research tool that may not perfectly replicate how actual blood cells behave in human diabetic brains.
+Perhaps more concerning is the safety question around blocking IL-10 in humans. IL-10 plays crucial immune regulatory roles throughout the body — recall that as a pleiotropic cytokine, it also serves the purpose of
+protecting
+against excessive inflammation and autoimmune reactions. Systemically blocking this molecule could potentially leave patients vulnerable to infections or inflammatory conditions. While the researchers didn’t report any obvious signs of infection or immune problems in the mice that received IL-10-blocking treatments, the study was relatively short and focused primarily on vascular and cognitive outcomes rather than comprehensive immune function. Mice used in research are also largely protected from pathogens in laboratory settings, so what’s safe for temporary use in a controlled laboratory may not translate to long-term human use in an open environment.
+Still, the researchers were able to show that blocking IL-10 was effective in reducing vessel blockages and improving cognition, and two methodological details lend a little extra promise with respect to potential translation to human therapies. First, the treatment in this study was performed with an antibody rather than genetic manipulation, and second, the antibody was applied systemically (via intravenous injection) rather than requiring specific injection into the brain or cerebrospinal fluid to exert its effects. In other words, it’s possible to target this pathway with non-invasive pharmacological interventions, though developing more focal approaches may be necessary to avoid off-target effects.
+The bottom line
+This research reveals that brain complications in type 1 diabetes may stem from an unexpected source — an often anti-inflammatory immune molecule causing microscopic traffic jams that impair cognition in mice. The findings suggest that current diabetes management, focused primarily on blood sugar control, may be missing an important piece of the puzzle, though this remains to be proven in humans.
+The discovery reminds us of the complex nature of the immune system in chronic diseases, highlighting how the same immune signals can be protective in one context and harmful in another. While IL-10’s essential immune roles make systemic blockade potentially risky, if these findings hold up in human studies, they could point toward new therapeutic approaches that complement current diabetes care. For now, the established principles of diabetes management remain unchanged, but this work unveils a potential critical link underlying the long-recognized association between diabetes and cognitive decline — and opens intriguing possibilities for the future.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Cruz Hernández JC, Bracko O, Kersbergen CJ, et al. Neutrophil adhesion in brain capillaries reduces cortical blood flow and impairs memory function in Alzheimer’s disease mouse models. Nat Neurosci. 2019;22(3):413-420. doi:10.1038/s41593-018-0329-4
+Ji X, Ferreira T, Friedman B, et al. Brain microvasculature has a common topology with local differences in geometry that match metabolic load. Neuron. 2021;109(7):1168-1187.e13. doi:10.1016/j.neuron.2021.02.006
+Sharma S, Cheema M, Reeson PL, et al. A pathogenic role for IL-10 signalling in capillary stalling and cognitive impairment in type 1 diabetes. Nat Metab. 2024;6(11):2082-2099. doi:10.1038/s42255-024-01159-9

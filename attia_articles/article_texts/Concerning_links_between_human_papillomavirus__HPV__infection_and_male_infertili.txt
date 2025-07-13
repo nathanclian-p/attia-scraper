@@ -1,0 +1,101 @@
+When it comes to human papillomavirus (HPV), the first thing that comes to mind might be the links between this common sexually transmitted infection (STI) and cervical cancer. Indeed, infection with a “high-risk” HPV type is now thought to be a
+necessary
+step in cervical cancer development,
+1
+and therefore, after the FDA approved the first HPV vaccine back in 2006, the CDC quickly began recommending routine vaccination of female adolescents and young adults. A few years later, vaccination was recommended for males as well, partly in an effort to prevent spread to females.
+Yet mounting evidence indicates that some subtypes may also have significant negative effects on
+male
+fertility and reproductive health. A recent study in Argentina shed further light on these effects, underscoring the importance of HPV screening and vaccination, regardless of sex.
+The HPV epidemic
+HPV, a family encompassing over 200 viruses usually transmitted through sexual contact, isn’t just common – it is practically ubiquitous. Over 85% of all sexually active individuals will acquire an HPV infection at some point in their lives, and with an estimated 13 million Americans infected each year, it is
+by far
+the most common STI in the United States and likely worldwide.
+2,3
+Fortunately, HPV infection is also usually harmless. In most cases, it resolves on its own in a matter of months, often going completely unnoticed. Yet a small subset of HPV viruses have long been recognized as having the potential to persist for years and lead to certain cancers. Most notable among these is cervical cancer, though infection with these HPV types is also a major risk factor in cancers of the oropharynx and anus.
+4
+Though these latter cancers can occur in either sex, women have continued to be the primary focus when it comes to HPV’s potential long-term consequences, and vaccination rates among girls and young women continue to outpace those among boys and young men.
+5
+However, new insights on health impacts that are
+specific
+to males may help to even this imbalance and promote more equal emphasis on preventative measures in males and females.
+About the study
+For this cross-sectional study, authors Olivera
+et al.
+recruited 205 male patients (mean age: 35 years; 95% CI: 34–36 years) with concerns related to fertility or the lower urinary tract and, as controls, urology or andrology patients with no fertility or urinary concerns.
+6
+Individuals who had previously been vaccinated against HPV, had undergone a vasectomy, or had certain known urogenital conditions or bacterial infections were excluded. Participants provided a semen sample following 3-5 days of abstinence from sexual activity, and the samples were analyzed for the presence of various HPV subtypes and a number of other viral, bacterial, and fungal pathogens.
+Of the 205 patients tested, 19% (27 participants) were found to be HPV-positive (HPV+). These participants were divided into two groups: 20 patients were infected with at least one HPV type associated with high cancer risk and thus were designated as the “high-risk” HPV (HR-HPV) group, while the remaining seven had exclusively low-risk infections and were designated as the “low-risk” HPV (LR-HPV) group. Additionally, 43 patients had no detected urogenital pathogens in semen samples, and these individuals served as a control group. Results from individuals with infections
+other
+than HPV were excluded from further study. Semen samples were then evaluated for semen quality, inflammatory markers, and markers of oxidative stress.
+Sperm analysis revealed that the groups did not differ significantly in sperm count or other routine sperm parameters related to motility or morphology. However, those in the HR-HPV group exhibited greater sperm necrosis – a form of cell death that is typically indicative of injury or a pathogenic state – than either the LR-HPV or control groups. In line with this finding, sperm from the HR-HPV group also showed substantially elevated production of reactive oxygen species (ROS) compared to the other groups, which may have led to cell damage and thus to the observed increase in rates of necrosis. (Indeed, this would agree with earlier research indicating that HPV infection leads to DNA damage in sperm, possibly via ROS production.
+7
+) Together, these findings add to a growing body of evidence that high-risk HPV can compromise male fertility through negative effects on sperm integrity and viability.
+What it means for aspiring fathers
+While these findings are concerning, we must keep them in perspective. Yes, nearly everyone who is sexually active will contract HPV at some point, and yes, it is increasingly evident that
+certain types
+of HPV can cause infertility in males. Olivera
+et al.
+’s results show that even these high-risk HPV infections are quite common, but these facts together still do not spell inevitable doom for men hoping to have children someday.
+First, we must recognize that this study – like most others that have investigated HPV and male fertility parameters – involved testing a single sperm sample from each patient, representing a single snapshot in time. While high-risk HPV types are known to persist in certain areas of the body (including the cervix) for years or even decades after infection, persistence in
+semen
+is unclear. It is entirely possible that seminal infections – along with any impacts on fertility – resolve over time.
+Additionally, if seminal infections
+do
+persist, they won’t necessarily result in complete infertility or prevent men from fathering children. High-risk HPV may
+reduce
+fertility and make it
+more challenging
+to conceive, but this is very unlikely to be a binary, all-or-nothing effect, and the magnitude of fertility reduction probably varies across individuals and across infections. The fact is, we don’t currently have even the slightest idea what percentage of high-risk HPV infections end up causing sufficient difficulty with conception to be noticeable or require medical intervention.
+And finally, even if HPV
+does
+result in significant difficulty with conception, options are available to overcome the negative impact. If a fertility clinic detects seminal HPV infection as the cause of a couple’s infertility, the couple may still be able to conceive through various assisted reproductive technology (ART) options such as intrauterine insemination (IUI) or
+in vitro
+fertilization (IVF). As part of this process, semen can undergo “sperm washing” procedures designed to remove the virus prior to IUI or IVF.
+7
+For couples that can afford to wait a little longer to conceive after the infertility diagnosis (i.e., younger couples), an easier “fix” might be achieved through HPV vaccination, as vaccination
+following
+infection and infertility diagnosis has been shown to be effective in clearing virus from semen and in increasing rates of conception for those with HPV-attributed infertility.
+8
+But of course, vaccines are most beneficial when administered
+before
+infection, and indeed, the
+best
+option for overcoming HPV-attributed infertility is to prevent HPV from taking hold in the first place by being vaccinated against high-risk forms of HPV.
+High-risk HPV is a [preventable] concern for both sexes
+The notion that HPV can have negative health impacts in males is not new, as certain HPV-related cancers have long been known to affect both sexes. But Olivera
+et al
+.’s results add to a growing body of evidence that high-risk HPV types can be detrimental in ways that are
+unique
+to men, compromising fertility through increases in ROS-associated sperm damage. (Of note, HPV infection does
+not
+appear to cause infertility among females.
+9
+) Further, these data indicate that these effects are
+common
+– accounting for a substantial percentage of cases of male infertility, which itself afflicts nearly one out of every 10 men of reproductive age in the United States. Taken together with risks for HPV-related cancers, these findings underscore that high-risk HPV is a concern for
+everyone
+, regardless of their sex.
+And yet, it doesn’t need to be. Existing vaccines target several of the high-risk types of HPV. In just the two decades since they were approved, they have shown astounding efficacy in preventing high-risk infections and reducing incidence of HPV-related cancers in both sexes – in addition to reducing male infertility.
+10,11
+And while there are certainly other options to help overcome HPV-attributed infertility, compared to the HPV vaccine (which is free with most insurance plans), they are typically expensive and drawn-out – and perhaps less likely to succeed.
+So let’s take stock. Like females, males face the potential for significant health and wellness concerns caused by high-risk HPV. Like females, males can largely prevent those negative consequences with HPV vaccination. Like females, males can usually receive the vaccine free of charge. So why do males continue to lag behind females in HPV awareness and prevention?
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+1. Okunade KS. Human papillomavirus and cervical cancer. J Obstet Gynaecol. 2020;40(5):602-608. doi:10.1080/01443615.2019.1634030
+2. Foresta C, Garolla A, Parisi S, et al. HPV prophylactic vaccination in males improves the clearance of semen infection. EBioMedicine. 2015;2(10):1487-1493. doi:10.1016/j.ebiom.2015.09.005
+3. Chesson HW, Dunne EF, Hariri S, Markowitz LE. The estimated lifetime probability of acquiring human papillomavirus in the United States. Sex Transm Dis. 2014;41(11):660-664. doi:10.1097/OLQ.0000000000000193
+4. Lewis RM, Laprise JF, Gargano JW, et al. Estimated prevalence and incidence of disease-associated human Papillomavirus types among 15- to 59-year-Olds in the United States. Sex Transm Dis. 2021;48(4):273-277. doi:10.1097/OLQ.0000000000001356
+5. Van Dyne EA, Henley SJ, Saraiya M, Thomas CC, Markowitz LE, Benard VB. Trends in human Papillomavirus-associated cancers – United States, 1999-2015. MMWR Morb Mortal Wkly Rep. 2018;67(33):918-924. doi:10.15585/mmwr.mm6733a2
+6. Villarroel M, Galinksy A, Lu PJ, Pingali C, Valenzuela C. Human Papillomavirus Vaccination Coverage in Children Ages 9–17 Years: United States, 2022. National Center for Health Statistics (U.S.); 2024. doi:10.15620/cdc:145593
+7. Olivera C, Paira DA, Olmedo A, et al. Impact of high-risk and low-risk human papillomavirus infections on the male genital tract: effects on semen inflammation and sperm quality. Front Cell Infect Microbiol. 2024;14:1420307. doi:10.3389/fcimb.2024.1420307
+8. Sucato A, Buttà M, Bosco L, Di Gregorio L, Perino A, Capra G. Human Papillomavirus and male infertility: What do we know? Int J Mol Sci. 2023;24(24):17562. doi:10.3390/ijms242417562
+9. Garolla A, De Toni L, Bottacin A, et al. Human Papillomavirus Prophylactic Vaccination improves reproductive outcome in infertile patients with HPV semen infection: a retrospective study. Sci Rep. 2018;8(1):912. doi:10.1038/s41598-018-19369-z
+10. Yuan S, Qiu Y, Xu Y, Wang H. Human papillomavirus infection and female infertility: a systematic review and meta-analysis. Reprod Biomed Online. 2020;40(2):229-237. doi:10.1016/j.rbmo.2019.10.019
+11. Arbyn M, Xu L. Efficacy and safety of prophylactic HPV vaccines. A Cochrane review of randomized trials. Expert Rev Vaccines. 2018;17(12):1085-1091. doi:10.1080/14760584.2018.1548282

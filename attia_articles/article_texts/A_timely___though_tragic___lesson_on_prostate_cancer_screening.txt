@@ -1,0 +1,43 @@
+As most of you are likely aware, last weekend it was announced that former President Joe Biden had been diagnosed with stage 4 (i.e., metastatic) prostate cancer. Putting politics and conspiracy theories aside, and speaking strictly from a medical perspective, the news is nothing short of a tragic demonstration of Medicine 2.0 at its worst.
+Prostate cancer is one of the very few forms of cancer for which metastasis, and therefore mortality, are almost entirely preventable. Thus, news of such advanced disease in
+anyone
+is unacceptable in my mind. But the fact that this occurred in a man who presumably was receiving the best possible medical care — a man whose health had, until recently, been a matter of national security — underscores a bitter truth: despite our ability to catch and treat prostate cancer well before it spreads, this form of cancer remains the second leading causing of cancer deaths among men. Around 35,000 men die of prostate cancer each year in the United States alone,
+1
+and most of those deaths are preventable. Tragic indeed.
+As such, I’d like to take this high-profile case as an opportunity to try to make some small dent in those numbers. In the video below, I explain
+why
+prostate cancer still contributes to so many unnecessary deaths and what
+you
+can do to prevent yourself or your loved ones from becoming part of those terrible statistics someday. In addition to the video, I have summarized some of these points in-text below.
+Why screening recommendations fall short
+One of the reasons why prostate cancer mortality is so preventable is that it tends to develop fairly slowly, so it’s usually possible to catch it in early stages through screening via a blood test for a protein made by prostate cells, prostate-specific antigen, or PSA. Of course, this is only true if screening is performed regularly and if the data are interpreted correctly, which requires some nuance. Blanket use of PSA in a paint-by-numbers fashion — high vs. low cutoffs — is of limited use, but sadly forms the basis of most guidelines.
+The current guidelines are to perform annual PSA tests for men between the ages of 55–69, whereas
+no
+screening is recommended for men 70 years of age or older. The rationale behind this cessation of screening? Because prostate cancer can take several years to develop and reach advanced stages, men with a life expectancy of less than 10 years are unlikely to experience any extension of lifespan by screening for such a slow-progressing disease, as something else will probably kill them first. Or so the theory goes. However, there are a few critical flaws with this logic:
+It is not uncommon for men to live well beyond the age of 80, so we can’t assume that any given 70-year-old man will die within the next 10 years.
+Certain cases of prostate cancer are more aggressive than others, so even a 10-year life expectancy might well be cut in half if we ignore prostate cancer as a possibility.
+Catching prostate cancer before it spreads is more than just a matter of extending lifespan — it has the potential to drastically improve
+quality of life
+in those final years. Even if PSA tests over age 70
+don’t
+confer any potential survival benefit, which I would argue they certainly do if done correctly, they can still allow us to detect and treat cancer before it leads to excruciating and debilitating bone metastases.
+The failure of these screening guidelines is apparent in the case of the former president himself — an 82-year-old man who received his last PSA test in 2014 at the age of 72, who now faces a painful battle with advanced disease.
+What you can do
+Unfortunately, even news of President Biden’s diagnosis is unlikely to prompt any major changes to screening recommendations, so many physicians may continue to advise their older patients against continued PSA checks. But patients aren’t helpless in the face of faulty guidelines.
+Advocate for yourself with physicians by specifically requesting a PSA test. We’ve received countless stories from men who caught prostate cancer early because they pushed their doctors. The tests are covered by Medicare for anyone over 50, and even without insurance, PSA tests are fairly low cost — typically $5-30 depending on the service and location. A small price to pay for potentially huge dividends for health. The table, below, summarizes how we use PSA in our practice to screen men for prostate cancer.
+Even if this message doesn’t [yet] apply to you — whether young or old, male or female — you can spread the word (and perhaps provide a friendly push) to those you love. The more people who hear of the shortcomings of screening recommendations, the more of a dent we might make in the deaths and suffering attributable to a largely preventable disease.
+Table: How each PSA‐derived metric modifies prostate-cancer risk
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Key statistics for prostate cancer. American Cancer Society. Accessed May 22, 2025. https://www.cancer.org/cancer/types/prostate-cancer/about/key-statistics.html
+Perera M, Smith L, Thompson I, et al. Advancing traditional prostate-specific antigen kinetics in the detection of prostate cancer: A machine learning model. Eur Urol Focus. 2022;8(5):1204-1210. doi:10.1016/j.euf.2021.11.009
+Pellegrino F, Tin AL, Martini A, et al. Prostate-specific antigen density cutoff of 0.15 ng/ml/cc to propose prostate biopsies to patients with negative magnetic resonance imaging: Efficient threshold or legacy of the past? Eur Urol Focus. 2023;9(2):291-297. doi:10.1016/j.euf.2022.10.002
+Wang S, Kozarek J, Russell R, et al. Diagnostic performance of prostate-specific antigen density for detecting clinically significant prostate cancer in the era of magnetic resonance imaging: A systematic review and Meta-analysis. Eur Urol Oncol. 2024;7(2):189-203. doi:10.1016/j.euo.2023.08.002
+Catalona WJ, Partin AW, Slawin KM, et al. Use of the percentage of free prostate-specific antigen to enhance differentiation of prostate cancer from benign prostatic disease: a prospective multicenter clinical trial. JAMA. 1998;279(19):1542-1547. doi:10.1001/jama.279.19.1542

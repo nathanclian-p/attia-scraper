@@ -1,0 +1,117 @@
+This video clip is from
+episode #205 – Energy balance, nutrition, & building muscle with Layne Norton, Ph.D. (Pt.2)
+, originally released on May 2, 2022.
+Show Notes
+Dispelling myths that excess protein intake increases cancer risk through elevations in mTOR and IGF [1:55:30]
+Layne knows that many people have heard that
+mTOR
+and
+IGF-1
+are bad
+David Sinclair
+said, “
+I really try to limit mTOR and IGF-1
+”
+“
+It will never cease to amaze me how many scientists do not understand the difference between a short-term, truncated acute response to a stressor versus dysregulated signaling that persists indefinitely
+”— Layne Norton
+mTOR elevations that lead to cancer and whatnot, those originate mostly via insulin resistance
+Elevations in insulin result in
+insulin signaling
+through
+AKT
+(shown in pink in the figure below), which can then transmit to mTOR (shown in purple at the bottom of the figure)
+This is pushing that button on a chronic, low level (as opposed to a pulsatile stimulus)
+Figure 5. Insulin signaling stimulates mTOR.
+Image credit:
+Endotext
+There’s a big difference between a dose of protein that causes mTOR to rise and go back down in a natural rhythm [and a chronic stimulus]
+This is also tissue-specific; we’re talking about in skeletal muscle, not liver, not brain necessarily, those sorts of things
+The same is true for IGF-1
+Layne asks, “
+Where are all the resistance-trained people that are getting cancer by the droves?
+”
+The amplitude of response from mTOR due to resistance training dwarfs what protein does
+If we look at the meta-analyses on cancer incidence amongst resistance trainers, we see lower levels of cancer in people who resistance train
+This tells Layne there’s a difference between these 2 signals
+Peter points out that people would say the difference is a healthy user bias
+But instead, lifting doesn’t increase mTOR to the point of it being detrimental to your health
+Or this increase in mTOR is tissue-specific; this is an important part of it
+Viewed in a certain light, exercise seems unhealthy but we know it is not
+Consider exercise in general and suppose you knew nothing about exercise
+If I told you I’m going to do something that’s going to make you elevate your heart rate, elevate your inflammatory markers, elevate your reactive oxygen species, raise your blood pressure, increase hepatic glucose output…. What would you say?
+You’d think this couldn’t be good for you; don’t do it
+But exercise is good for us
+Exercise is a
+short-term stressor
+, it’s a controlled dose of a stressor that your body can handle
+There’s a difference between an acute response and a chronic response
+If you look at people with elevated inflammation, their inflammatory markers are not super high but are elevated all the time
+It’s the chronic pulse that’s the problem
+For the argument that there is a healthy user bias for people who have high rates of IGF-1 and mTOR
+There is no evidence that they have a higher incidence of cancer
+There are some confounding variables because people who have high levels of mTOR activation and IGF-1 typically have insulin resistance
+They typically have poor dietary habits and lifestyles
+These things are tied together
+Layne is not saying that mTOR plays no role, but it can’t be the cart before the horse sort of thing
+People will say
+Rapamycin
+is an mTOR inhibitor and that’s a cancer treatment drug
+But is it a good idea to use chemotherapy to prevent cancer?
+Peter adds that Rapamycin has never been a particularly successful cancer therapeutic used constituently
+It does show benefits for longevity in basically all animal models
+So the extrapolation would be pulsatile rapamycin is probably beneficial
+But in that application, it’s not really being taken to constantly suppress mTOR
+If you took it all the time, you’re suppressing
+mTOR complex 2
+and
+mTOR complex 1
+Peter agrees with the point that tissue specificity and time course are very difficult things to infer from the outside, which is sort of the meta view of all things equal
+IGF levels have a J curve with mortality and therefore very, very high levels of IGF must be problematic
+And high protein increases IGF and therefore must be bad
+Diet
+Layne points out, “
+we have this idea that like, there’s this perfect diet out there. That’s going to be the one diet that’s going to reduce cancer and cardiovascular disease and mortality and all that. And the fact is that there’s probably trade offs for everything
+.”
+There are people that will say that protein increases cancer
+There’s a ton of cofounders to that
+Meta-analysis looking at cancer and protein content of the diet look at above 70 g protein per day (1.2 g / kg body weight)
+Most Americans eat high protein according to the
+RDA definition
+but where is this from?
+Burgers, hot dogs, and processed meat
+What is the incidence of cancer in people who just have a high protein, but overall healthy diet?
+Here’s the thing, most people who eat high levels of meat eat low levels of fruits and vegetables
+Layne notes, “
+What they found was that at the highest levels of meat intake, but also with the highest levels of fruit and vegetable intake, there was no difference in cancer incidents between the lowest level of meat intake and even with the highest level of fruit and vegetable intake
+”
+So high protein is not an issue in a healthy diet
+He doesn’t want to extrapolate too much on 1 study (even though it was a large one), but it suggests that the quality of the overall diet is what is important
+“
+You can achieve good diet quality on a whole host of different diets
+”— Layne Norton
+You can have a ketogenic diet that is very poor quality or high quality
+The same is true for plant-based, intermittent fasting, etc.
+A lot of it boils down to: What are the food choices you’re making on balance?
+Are you getting enough fruits and vegetables and minerals and micronutrients?
+Every time we try to say, fruits and vegetables have these benefits on health that we see pretty consistently, so let’s try and take out these isolated micronutrients and give them in the supplements
+We’re always disappointed with the results
+We have to eat the whole food to get those benefits
+If the mTor story were true in terms of dietary protein, we would’ve expected in that study to see a linear increase in cancer, especially at each level of fruit and vegetable intake
+But we didn’t
+What we saw was more of a linear inverse association with fruit and vegetable intake
+§
+Layne Norton, Ph.D.
+Layne Norton is a natural pro bodybuilder, professional powerlifter, and a bodybuilding / figure / physique coach.  He has won numerous bodybuilding and powerlifting competitions and currently holds the world record for the IPF 93 kg class squat (303 kg, 668 lbs).  He is the co-author of several books, including
+Fat Loss Forever: How to Lose Fat and KEEP It Off
+, as well as several research publications. He has a degree in biochemistry from Eckerd College and earned his PhD in nutritional sciences from the University of Illinois.
+Website:
+Biolayne
+Podcast:
+Physique Science Radio
+Twitter:
+@BioLayne
+Facebook:
+Layne Norton
+Instagram:
+Biolayne

@@ -1,0 +1,52 @@
+It’s no secret that childhood obesity has risen at an alarming rate over the last few decades. In addition to its many complications for physical health, obesity in children and adolescents often comes with
+bullying
+and social isolation, which can have devastating consequences for both short- and long-term mental health. It is in this public health environment that a recently published
+study
+investigated the efficacy of a much-celebrated weight loss drug – semaglutide (trade names Ozempic and Wegovy) – as a treatment for obesity in an adolescent population. The imperative for effective weight management strategies in children and teens is clear, but in our desperation for effective obesity treatments, are we allowing ourselves to be too shortsighted on testing?
+Miracle drug?
+Semaglutide is in the class of drugs known as GLP-1 receptor agonists, which I discussed in detailed in “Ask Me Anything”
+episode #29
+and returned to more recently in AMA
+episode #45
+. In adults with obesity, these medications have demonstrated impressive weight loss effects – a 68-week phase III
+semaglutide trial
+reported body weight reductions of over 17% from baseline. These results – along with social media endorsements by celebrities and influencers – have prompted hype over this drug as a “miracle pill,” (though it’s an injection) and investigating its efficacy in combating obesity in adolescents seems a logical next step.
+About the study
+Study authors Weghuber et al. conducted a double-blind, randomized trial in which 201 adolescents aged 12 to <18 with overweight or obesity (BMI ≥85th percentile according to age-specific growth charts) were randomized in a 2:1 ratio to receive either once-weekly semaglutide or placebo for a period of 68 weeks. Semaglutide dosage was scaled up over the first four months of the study to a maximum dose of 2.4 mg, and in addition to pharmaceutical interventions, both groups also received counseling about nutrition and physical activity.
+At the end of the intervention period, the average change in BMI among participants in the semaglutide group was -16.1% from baseline, compared to a slight increase from baseline in the placebo group (+0.6%). Because adolescence is a period of rapid growth, change in BMI is a more useful metric than change in absolute body weight; however, the latter also showed improvements with semaglutide treatment (-14.7% from baseline) compared to placebo (+2.7%). The proportion of participants in the semaglutide group who achieved substantial weight loss also exceeded the proportion of those who did so in the placebo group, with 76% (99 out of 131) participants on semaglutide exhibiting a body weight reduction of at least 5%, compared with 18% (11 out of 62) on placebo (estimated OR: 14.0; 95% CI: 6.3-31.0;
+P
+<0.001). Changes in waist circumference and lipid levels similarly favored the semaglutide group, as did exploratory endpoints related to quality of life, though heart rate was found to be elevated by 1.2 beats per minute (bpm) relative to baseline in the semaglutide group compared to a heart rate reduction of 2.3 bpm in controls. (Of note, in our practice we typically see overnight heart rate increases of 8-10 bpm in adults on semaglutide, which returns to baseline when treatment is discontinued.)
+Adverse events were observed in a majority of patients on both the semaglutide (79%, 105 out of 131 participants) and placebo (82%, 55 out of 67 participants). While it’s likely that some of the reported adverse events in both groups were unrelated to treatments (e.g., COVID-19 infection, acne), the most common events were gastrointestinal symptoms such as nausea and diarrhea, which have been reported in previous semaglutide trials. The rate of adverse events was higher in the semaglutide group, at 435.7 events per 100 person-years vs. 362.9 in the placebo group.
+We don’t know what we don’t know
+The study had its share of limitations in its patient demographics and primary reliance on intention-to-treat analyses, but given the magnitude of the treatment’s effects, we can probably assume that these relatively minor flaws would not have altered the overall meaning of the findings: semaglutide is indeed effective at inducing weight loss in adolescents with obesity. But are results from Weghuber et al. really enough to support widespread clinical use of this medication for this age group?
+Science has only just scratched the surface on deciphering the byzantine pathways involved in metabolic regulation. These pathways intersect with and influence virtually every physiological process in the human body in ways we don’t fully understand, so pharmaceutical interventions targeting particular aspects of metabolic control can have myriad unforeseen effects. This is likely why the long history of “diet pills” has been such a troubled one: from fatal hyperthermia observed with dinitrophenol in the 1930s to heart valve damage associated with “fen-phen” in the 1990s to increased risk of heart attack and stroke with sibutramine in the 2000s.
+Standards for safety testing have certainly improved over the last century, but even after several GLP-1 agonist trials, we still don’t have a complete understanding of how these drugs impact the body. They are known to stimulate insulin release from the pancreas, which likely accounts for some of their metabolic benefits. However, GLP-1 receptors are also highly expressed in the brain, where the pathways and effects of GLP-1 signaling remain murky at best. Indeed, several rodent
+studies
+have indicated that GLP-1 receptor agonists impact appetite partially – or even
+entirely
+– through their actions in the central nervous system, and it remains unknown whether these actions involve long-term synaptic adaptations or how they impact other autonomic and behavioral processes controlled by interconnected brain regions.
+Uncertainty is greater with use in adolescents
+The problem only grows more complicated when we place it on a backdrop of adolescence, a critical phase of growth, sexual maturation, and neural development. Clinical trials in adults have shown that as much as 40% of semaglutide-induced weight loss is attributable to a loss of lean mass. As I explained in a
+recent newsletter
+, this loss in bone and muscle mass would be alarming in many
+adults
+. But in adolescence, a period of development that has life-long impacts on bone density, cardiovascular fitness, and other variables affecting longevity? Significant losses in lean mass could be devastating. Of note, body composition metrics were not conducted in the Weghuber et al. study, so we cannot know for certain if the lean mass proportion of semaglutide-induced weight loss would be equivalent to that in adults, but even reductions in the amount of lean mass
+gained
+during adolescence would be cause for concern.
+An additional consideration in prescribing these medications for young people is the duration of treatment.
+Data
+in adults show that body weight reductions on semaglutide rebound if treatment is ceased, and based on results from a short post-treatment study extension by Weghuber et al., adolescents appear to be subject to similar weight regain. These findings indicate that the medications must be taken indefinitely to sustain weight loss. For those starting therapy in their teens, this means several decades of use, yet the longest GLP-1 agonist clinical
+trials
+to date have lasted only two years. Data from these studies indicate that the drug remains efficacious as long as treatment continues, but that could change with longer duration. Again, we don’t know if and how these medications might trigger long-term adaptations in endocrine pathways or metabolic, hedonic, or other brain circuits, especially in individuals who haven’t yet reached maturity.
+Further, the clinical impact of certain side effects can often accrue as a function of time spent on the drug. For instance, the small elevation in heart rate detected by Weghuber et al. in semaglutide patients might be irrelevant for those who have just started treatment, but if the trial were extended to five or six decades, might that chronic, slightly increased strain on the cardiovascular system eventually correspond to significant divergence in hypertension and related morbidities between treatment arms? Of course, obesity itself is a major risk factor for hypertension, so it’s possible that avoiding treatment over minor heart rate concerns is being penny wise and pound foolish. But this example illustrates the overarching point that we simply don’t know the health implications of decades-long use of GLP-1 agonists.
+The bottom line
+The rise of child and adolescent obesity has increased the clinical urgency for effective treatments, but if the rocky past of weight loss drugs can teach us anything, it’s that we mustn’t let ourselves be carried away by hype or even by a few promising study results. It’s possible that GLP-1 receptor agonists will improve the lives and overall health of countless individuals, including adolescents. But we still know so little about these medications and their effects, and more thorough research is needed to help illuminate the blind spots. In the meantime, we must be realistic about the long-term possibility of negative consequences from semaglutide and approach its prescription and use with a commensurate level of caution, taking into account the availability of alternative approaches such as bariatric surgery.
+Each case must be evaluated individually to determine whether benefits outweigh possible risks. Age is an important variable in that evaluation, and minors run the greatest risks with regard to developmental impacts and long-term health. Improving our mechanistic understanding and extending follow-up periods in teen trials may eventually eliminate some of those risks, but until then, turning to semaglutide as a mainstream treatment for adolescent obesity seems, in a word, premature.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama

@@ -1,0 +1,16 @@
+This week I read this fantastic article on alcohol and epidemiology:
+Remember when a glass of wine a day was good for you? Here’s why that changed
+. In particular, I was impressed with the nuance they explore around the difference between folks who drink nothing at all versus very small amounts, and some of the reasons that might explain this difference (and how this handicaps such analyses).
+“It all comes down to the way we used to study drinking,” the article starts. It points out two of my “favorite” biases that are virtually unavoidable in observational epidemiology: confounding and selection bias. (We cover selection bias and confounding in a blog article — read Parts
+III
+&
+IV
+for more info.) The deeper I look into nutritional epidemiology, the less I like it, and I never liked it to begin with.
+The impetus for the article above was due to a recent
+study in
+The Lancet
+that concluded, quite succinctly, “Our results show that the safest level of drinking is none.” In addition, there was a 10-year randomized trial of alcohol consumption that
+was scrapped
+because of alcohol industry ties to the study. (Of course, it would be nice to see such a trial, as prospective randomization helps take care of some of the biggest limitations, but not necessarily under that kind of arrangement.)
+I could go on about all the different ways we can fool ourselves and the problems of drawing conclusions from observational studies — even including the recent Lancet conclusions — but would rather stop here and ask you to read the article at the top as it’s critically important to understand.
+– Peter

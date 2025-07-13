@@ -1,0 +1,63 @@
+Chronic low back pain has a frustrating reputation. Many who experience it are familiar with a cycle of hope and disappointment — trying physical therapies, adjusting posture, diligently performing stretches and exercises, only to find relief to be temporary at best. It’s almost as though something fundamental has been overlooked.
+Indeed, research strongly suggests exactly that. While chronic back pain is often viewed as just a physical malfunction waiting to be mechanically repaired, it is instead a multidimensional experience connected with our emotions, thoughts, and everyday interactions. Consider, for instance, how stress and anxiety amplify our perception of pain, prolonging episodes that might otherwise be brief. This mind-body connection, which underlies the “biopsychosocial model” of chronic pain, is a growing area of interest, and, as a 2023 study by Bemani
+et al.
+suggests, it holds promising implications for treatment of low back pain.
+1
+A multidimensional approach to treating pain
+Bemani
+et al.
+explored whether integrating psychological strategies into physiotherapy would yield better pain reduction compared to traditional physiotherapy alone. Seventy participants with moderate chronic low back pain (defined as self-reported pain between a 3 and 7 on a scale of 1 to 10 and lasting for at least 3 months) were randomized in a 1:1 ratio to standard physiotherapy or a multidimensional therapy approach. Standard physiotherapy included structured education on spinal anatomy, muscle-strengthening exercises, and passive treatments like ultrasound and electrotherapy, whereas the multidimensional therapy included these interventions
+plus
+psychological techniques based on cognitive-behavioral therapy (CBT). These techniques involved understanding pain neuroscience (for those curious, they based this on the book
+Explain Pain
+2
+)
+, developing coping strategies, managing anxiety, and gradually confronting movements they previously feared. Treatment sessions actively engaged patients, with frequent discussions and tailored home assignments designed to reinforce new skills. Both groups participated in two treatment sessions per week for six weeks.
+Initially, both groups improved along similar trajectories, with average pain scores falling from about 5 out of 10 down to roughly 2 out of 10 by the end of the 6-week treatment (control baseline=5.03±0.95; experimental baseline=5.03±0.92; control 6-week=2.43±1.85; experimental 6-week=1.86±1.65). While the experimental group demonstrated a slightly greater drop, this difference between groups was not statistically significant, so based on these results, we might be tempted to view psychological interventions as merely an added bonus with no substantial impact on the patients’ experience of pain itself.
+However, participants were then followed for a number of weeks after the end of 6-week interventions, and this post-treatment period revealed divergence between the two groups. By 10 weeks from the study start, the control group’s pain score began to rise while the experimental group remained steady (control 10-week=3.29±2.01; experimental 10-week=1.74±1.74) — a moderate but statistically significant between-group difference. This trend continued, and at the 22-week timepoint, the control group again had increased in average pain score and the experimental group had not (control 22-week=3.86±2.35; experimental 22-week=1.66±2.00). Statistically, the difference at this final timepoint was considered a large between-group effect (effect size =-0.89; 95% CI=-1.38 to -0.39).
+Notably, the study found comparable improvements in
+disability
+scores across both groups. Physical functioning (e.g., walking, bending, performing daily tasks) improved similarly, irrespective of treatment type.
+Interpreting these results
+Overall, Bemani
+et al.
+’s results indicate that standard physiotherapy and a multidimensional approach perform comparably in temporary pain alleviation, but only the latter fundamentally alters the underlying processes perpetuating chronic discomfort. The more holistic approach seemed to equip patients with
+enduring
+tools to manage pain flare-ups and stressors, thereby transforming their long-term relationship with pain.
+Chronic pain isn’t just about physical function; it’s about how we interpret, respond to, and manage discomfort when it arises. While physical interventions help restore muscle and joint function, psychological strategies may change how individuals
+experience and relate
+to pain — which perhaps explains why the two interventions did not differ in results with respect to disability scores. Interestingly, this explanation is somewhat at odds with the fact that the study reported no between-group differences in pain catastrophizing (thoughts that magnify the experience of pain) and kinesiophobia (fear of movement). The lack of significance on these secondary outcomes may reflect an insufficient sample size, or perhaps these specific negative thought patterns do not underlie the benefit of psychological treatment on pain.
+Additionally, while the improvements with a multidimensional approach are encouraging, it is important to remember that this was a small-scale study with limited diversity among participants. The study was restricted to those between the ages of 18-50, yet chronic low back pain is increasingly prevalent with age, so it will be important to determine how the addition of psychological techniques might improve pain management in those over 50. Further, those with anxiety or depression were excluded from the study, and since these conditions are often comorbid with chronic pain and often treated in part with CBT, it would be interesting to see if this group might benefit
+more
+from a multidimensional approach to pain treatment than what was observed in this study cohort.
+Regardless, these data demonstrate that integrating psychological interventions can meaningfully enhance the effectiveness of chronic pain management — despite leaving us with questions as to precisely
+how
+they have this effect and how it might vary across different individuals.
+Real-word application
+So why is it that a biopsychological approach to pain management is not yet the standard of care? Any new therapy takes time and extensive study before it’s fully accepted and adopted by the medical community, but some barriers to implementing multidimensional care in routine practice may also relate to broader perceptions at the societal and individual level. Patients might initially feel skeptical about incorporating psychological treatments into pain management, perhaps interpreting it as a suggestion that their pain is “all in their head.” Shifting this perspective is vital. Pain science, as discussed recently on
+The Drive
+by
+Dr. Sean Mackey
+, unequivocally supports the interplay of mind and body. The emotional and psychological elements don’t diminish the reality of physical pain; rather, they represent a crucial dimension that we must address explicitly.
+What’s more encouraging is that integrating these psychological approaches doesn’t necessarily require specialized mental health practitioners in every case. Many physiotherapists can be trained to implement basic psychological and educational techniques effectively — discussing pain neuroscience, demonstrating coping strategies, and gently guiding patients through feared activities. Such integration makes this multidimensional approach more accessible, practical, and scalable across diverse clinical settings.
+Breaking the pain cycle
+Chronic low back pain isn’t merely a physical issue to be mechanically repaired; it’s deeply influenced by emotional and psychological factors. Critically, this is
+not
+to say that chronic pain is “all in the head,” but to dismiss the role of the mind altogether, particularly in our
+experience
+and
+response
+to pain, is to ignore a vital target for pain
+treatment
+. As the biopsychological model posits, an individual’s thoughts, beliefs, and environment can influence the intensity and duration of their pain, and integrating psychological strategies like cognitive-behavioral techniques into physiotherapy may help sustain pain relief over time. Embracing this holistic approach may ultimately help to break the cycle of hope and disappointment that plagues so many suffering from recurring low back pain.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Bemani S, Sarrafzadeh J, Dehkordi SN, Talebian S, Salehi R, Zarei J. Effect of multidimensional physiotherapy on non-specific chronic low back pain: a randomized controlled trial. Adv Rheumatol. 2023;63(1):57. doi:10.1186/s42358-023-00329-9
+Butler DS, Lorimer Moseley G. Explain Pain 2nd Edn. Noigroup Publications; 2013.

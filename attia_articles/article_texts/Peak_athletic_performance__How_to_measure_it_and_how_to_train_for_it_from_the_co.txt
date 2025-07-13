@@ -1,0 +1,122 @@
+Olav Aleksander Bu is an internationally renowned sports scientist acclaimed for his coaching prowess with elite athletes spanning a diverse range of sports disciplines. In this episode, Olav delves deep into the intricacies of VO2 max and its profound impact on performance. They explore the relationship between VO2 max and ATP production, energy efficiency, and power, as well as the impact of low-intensity training on VO2 max. The conversation extends to Olav’s experiences pushing the boundaries with high-performance athletes and the data driven interventions he uses to improve performance. They also dissect the role of lactate threshold, discuss other important metrics to track, and explore the exciting possibility of utilizing a portable VO2 testing device as a practical alternative to traditional lab-based assessments.
+Subscribe on:
+APPLE PODCASTS
+|
+RSS
+|
+GOOGLE
+|
+OVERCAST
+|
+STITCHER
+We discuss:
+Olav’s background, expertise in exercise physiology, coaching experience, and interest in the extremes of human capability [4:15];
+The processes of energy conversion within the human body and its implications for performance [9:30];
+Improving movement efficiency, and the importance of mindfulness in training to optimize performance [20:00];
+The relationship between VO2 max, power output, and endurance performance in different sporting contexts [34:45];
+How VO2 max is measured in the lab, and why it’s a crucial predictor of both lifespan and quality of life [44:45];
+Absolute vs relative VO2 max, the significance of functional threshold power in cycling, and the importance of longer duration tests for accurate assessments [54:00];
+Portable VO2 testing devices as a practical alternative to lab-based tests [1:05:15];
+The complexities of measuring ventilation and its impact on performance metrics like VO2 max and heart rate [1:15:45];
+Training interventions to increase VO2 max, and factors that impact performance outcomes [1:23:30];
+The respiratory exchange ratio (RER) and endurance sports, and how factors such as diet composition and exercise intensity influence RER values and performance [1:32:45];
+Science-guided training for versatile athletes: maximizing VO2 max, power, torque, and cadence in cycling, and the importance of incorporating diverse stimuli to enhance performance [1:41:00];
+Physiological limitations on VO2 max [2:02:15];
+The different energy systems used during work, and other things to monitor like VCO2 and heart rate [2:06:00];
+Lactate threshold and other metrics to guide your training [2:10:30];
+Analysis of a lactate power curve: exploring lactate dynamics in endurance training and performance [2:23:15]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Phone
+This field is for validation purposes and should be left unchanged.
+Δ
+Olav’s background, expertise in exercise physiology, coaching experience, and interest in the extremes of human capability [4:15]
+What we are about to discuss today fascinates Peter to no end, but more than that, Olav is someone who brings a level of expertise that is so high that it really allows Peter to engage at a level of curiosity that he rarely gets to
+Tell people who you are, what you do, and the types of athletes that you work with
+Olav grew up on a farm on the west coast of Norway
+He had to participate in a lot of work at a farm when he was a kid against his will
+He saw neighbors and others playing and he would would very much like to do that as well
+A long time ago, he started to really appreciate all the hardship
+As a kid, he developed a very keen interest for technology and was extremely curious
+He liked to really pick things apart and understand how things were put together
+Fascinated about everything from the universe and rockets and so on
+Living at the farm, he got the possibility to pick apart a lot of machineries and things to see how they worked
+Being with animals on the farm, he has a strong connection with animals
+As he started to grow older, he became very interested in things that were extreme
+Extreme sports is something that resonates a lot with him
+There is probably no extreme sport that he hasn’t participated in on an okay level
+He earned a degree in electro techniques and went on to engineering
+He was not cut out for working 8-4
+He was more interested in entrepreneurship
+He liked to build things in a new way, new things, solve things that nobody has solved before
+Extreme things fascinate him
+An event happened in 2011
+This was after he started his second company
+We had used a helicopter to get into the mountains
+Half of his family died on this trip, and it made a shift in his life
+He got even more into sports
+He began to combine the field of exercise physiology and his strength in technology, and he began research
+A lot of research happens in a laboratory setting where you are taking out components and looking at how it reacts, but rarely are we able to transform that back into humans in a way that makes the same difference
+He began to use technology to study elite athletes in the setting where they normally exercised, and he used that to continue to drive performance
+Today, 3 of his athletes hold records in triathlon: short course, long course Olympic medal, World Championship medal, short course, the Ironman World Championship, 70.3 and full distance from Kona and St. George last year
+Kristian Blummenfelt
+,
+Gustav Iden
+, and Ken Jenina
+Olav always learns from them because he’s very curious about how they feel and how they perceive things
+While there’s a lot we can measure with data, there’s still a lot of things we can’t measure
+You need that context
+Today he’s building a company and scaling these companies using AI
+The company called
+Entalpi
+uses large numerical models, large language models
+He likes physics ‒
+enthalpy
+and
+thermodynamics
+are fundamental laws that humans can’t escape
+On the other side of things, Olav works to coach coaches at the highest levels
+Olympic level, world level
+The processes of energy conversion within the human body and its implications for performance [9:30]
+Peter remarks that the triathlete is a remarkable athlete in several levels
+He/she must be very good in 3 disciplines that are related, but quite distinct
+Different body types: if you look at the world’s best swimmers, the world’s best cyclists, and the world’s best runners, they actually have quite different physiology, depending on the distances they race and certainly different methods of training
+The triathlete therefore has to be really respected because they have to be almost world-class in each of those things to be world-class in their sport and their physiology as a result of that is remarkable
+There are so many things that we’re going to talk about today, including temperature management, energy expenditure, energy consumption
+Peter wants to make sure that the listener is able to follow where we go
+We’re going to get into some really serious weeds
+We’re going to talk about
+MCT transporters
+for
+shuttling lactate
+out of cells and all of those things [in a future episode]
+As Peter and Olav are sitting here right now having a discussion, and their bodies are converting chemical energy into electrical energy, back into chemical energy
+It requires the substrates of oxygen and hydrocarbons to do that
+Can you explain in a little bit of detail exactly what that process looks like for us right now as we’re sitting here under obviously a very low physiologic demand?
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Olav Aleksander Bu
+Olav Aleksander Bu is the chief scientist and co-founder of the companies
+ENTALPI
+and
+SANTARA TECH
+. He has worked as the head of performance for the Norwegian Olympic team in triathlon since 2015. As an internationally renowned coach, who has made solid contributions in revolutionizing the way top athletes train through his unique training methodology “Entalpi”. As head coach for the Olympic and world record-holding champion Kristian Blummenfelt and world champion Gustav Iden, he has been vital in making history within triathlon in recent years. With his athletes and the “Norwegian Method”, he has forever changed the swim-bike-run landscape. Olav has been essential in winning an Olympic gold medal, breaking world records, and sweeping all three podium places in WTS in Bermuda 2018. [
+ENTALPI
+]
+Instagram:
+@olavaleksander

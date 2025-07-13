@@ -1,0 +1,144 @@
+In this “Ask Me Anything” (AMA) episode, Peter dives deep into the question of whether there is such a thing as “too much exercise.” He explores the theoretical “J-curve” relationship between exercise and longevity, whereby mortality risk declines with increasing activity levels only to see an uptick above a certain exercise volume threshold. While Peter maintains that exercise is perhaps the single most important tool we have to live longer and live better, he explains the challenges involved in identifying an optimal dose. He takes a hard look at studies—many of which have contradictory results—to highlight major limitations in methodology and how readers could be misled. Additionally, he discusses the rare, but real, risks associated with extreme levels of physical activity and concludes by weighing the benefits against the risks of exercise.
+If you’re not a subscriber and listening on a podcast player, you’ll only be able to hear a preview of the AMA. If you’re a subscriber, you can now listen to this full episode on your
+private RSS feed
+or on our website at the
+AMA #38 show notes page
+. If you are not a subscriber, you can learn more about the subscriber benefits
+here
+.
+We discuss:
+How exercise reduces risk for all-cause mortality [2:30];
+Defining the metric called “MET” and how it’s useful for evaluating different exercises [7:45];
+The challenge in determining the optimal dose of exercise and the limitations of methods used to study the effect of exercise [13:30];
+Using VO
+2
+max as a proxy for fitness to better predict mortality risk [19:00];
+Reviewing data which support the theory of a “J-curve” relationship between exercise and longevity [24:45];
+Importance of understanding p-values and statistical significance [33:30];
+Deconstructing the studies that show a J-curve: major limitations and how one could be misled [36:45];
+Peter’s takeaways on the theoretical “J-curve” relationship between exercise and longevity [51:15];
+Risk of sudden cardiac death from vigorous physical exertion [53:45];
+Atrial fibrillation associated with extreme levels of exercise [1:00:00];
+Parting thoughts: benefits of exercise far outweigh the risks [1:04:00]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Email
+This field is for validation purposes and should be left unchanged.
+Δ
+How exercise reduces risk for all-cause mortality [2:30]
+Overall question of today’s episode
+:
+What is the optimal dose of exercise for longevity?
+Four pillars of exercise:
+1) Stability (the foundation)
+2) Strength
+3) Zone 2 aerobic training
+4) Zone 5 (high intensity, e.g., HIIT)
+See
+AMA #12
+How much should one be working out?
+When you look at the literature, it doesn’t quite agree with each other
+For example,
+Alex Hutchinson
+,
+Mike Joyner
+, and
+AMA #27
+don’t necessarily agree with the “J-curve” argument whereas in the
+James O’Keefe episode
+he discusses his research which talks about a J-curve
+The core questions for today include
+:
+What is the optimal dose of exercise for longevity?
+And can you do too much?
+We’re NOT really looking at what is the minimum dose?
+See Peter’s
+weekly email
+responding to articles exploring the 10,000 steps rule
+Why explore whether there’s validity to there being “too much exercise”?
+“Even if majority of people aren’t in the situation where they’re butting up against potential limits of exercise in terms of crossing from being benefit to risk, I think it’s a very important question nevertheless” says Peter
+And it might speak to some of the mechanistic insights around exercise
+And of course for those people who do want to push the limits, it probably gives us some insight as well.
+How is exercise so beneficial, not only for our health span, but also for our lifespan:
+Figure 1.
+@peterattiamd
+Why is exercise so important and why should people make the time for it and put the effort in to understand this?
+There’s really no need to spend time discussing this beyond just stating that regardless of which chronic disease you’re looking at, whether it be ASCVD, cancer, Type 2 diabetes, Alzheimer’s disease, all cause mortality, it doesn’t matter
+Exercise is going to reduce the toll of mortality across all of those things
+Some of the mechanisms by which it does it:
+It can improve lipids
+It can reduce inflammatory markers.
+It can reduce flow mediated shear stress in arteries
+Much of the benefit in cancer comes through the metabolic benefits of exercise
+we know for example that the second leading environmental or modifiable risk of cancer after smoking is in fact obesity
+It’s really less the adiposity of obesity that’s the problem, and the metabolic consequences of obesity that are found in many, but not all obese patients
+Diabetes is probably one of the most clear places where you just dramatically see an improvement.
+The improvement has to do with glucose disposal and insulin sensitivity within the muscle
+“There really isn’t any ambiguity here
+” says Peter
+*****
+For more info and references related to the benefits of exercise on lifespan and healthspan, please see below:
+What is the relation between exercise and longevity?
+Background
+:  At the most basic level, physical activity increases blood flow throughout the body, improving energy and nutrient transport in tissue. Improving physical fitness can be achieved by performing exercises, which are planned, structured physical activities that require bodily exertion, and has been shown to have numerous health-positive effects on lifespan (quantity of life) and healthspan (quality of life), listed below:
+Figure A.
+Lifespan benefits of exercise.
+Figure B.
+Continuation of Figure A “Lifespan benefits of exercise.”
+Figure C.
+Health span benefits of exercise.
+ALP, alkaline phosphatase; ASCVD, atherosclerotic cardiovascular disease; BALP, bone alkaline phosphatase; BDNF, brain-derived neurotrophic factor; BMD, bone mineral density; GH, growth hormone; GLP-1, glucagon-like peptide-1; GLUT4, glucose transporter 4; HDL-C, high density lipoprotein cholesterol; IGF-1, insulin like growth factor 1; LDL-C, low density lipoprotein cholesterol; NGF, nerve growth factor; NTX, amino-terminal crosslinked telopeptide of type 1 collagen; P1NP, procollagen type 1 N-terminal propeptide; PPAR-𝛾, peroxisome proliferator-activated receptor gamma; REM, rapid eye movement; ROS, reactive oxygen species; SWS, slow wave sleep; TNF-⍺, tumor necrosis factor ⍺
+(
+Nystoriak
+2018,
+Hojman
+2018,
+Stanford
+2014,
+Yang
+2019,
+Farzanegi
+2019,
+Dishman
+2006,
+Beaulieu
+2016,
+Dorling
+2018,
+Andrade
+2016,
+Hawley
+2014,
+Mitchell
+2013,
+Marini
+2020,
+Schoenfeld
+2010)
+*****
+Defining the metric called “MET” and how it’s useful for evaluating different exercises [7:45]
+MET stands for metabolic equivalent of task
+It’s basically an energy currency in the body
+One MET is the energy cost of being alive at rest
+One MET is equivalent to 3.5 milliliters per minute, per kilogram of oxygen utilization, and that relationship for the most part just holds
+In other words, if you are doing 10 METs of exercise, you are consuming 35 milliliters of oxygen per minute, and that becomes relevant as we start to think about VO
+2
+max
+How many METs do you get doing various things? (some approximate examples)
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member

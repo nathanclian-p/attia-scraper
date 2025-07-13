@@ -1,0 +1,72 @@
+Despite widespread prevalence of erectile dysfunction (ED), a disproportionately low number of individuals seek medical help for the condition. Many are held back by the stigma surrounding sexual health discussions, and the issue is compounded by the common perception that ED is a distressing, though isolated, personal issue with ramifications confined to the bedroom. However, this viewpoint significantly underestimates the
+broader
+health implications that ED can signal.
+Indeed, ED should not be viewed
+solely
+as a concern of sexual or reproductive health. In particular, the medical community has long recognized an association between erectile function and cardiovascular (CV) health, which has been supported by decades of research. And yet, despite the strong correlation, there remains a glaring gap in
+public
+awareness and understanding of what ED can actually signify about systemic vascular issues and risk of atherosclerotic cardiovascular disease (ASCVD). So what’s the link?
+​​Mechanisms linking ED and CVD
+ED and CVD are intricately intertwined, and central to this relationship is the endothelium, a single layer of cells lining our blood vessels. The endothelium is fundamental to vascular health, as it controls the dilation of blood vessels through production of nitric oxide (NO). NO acts as a key signaling agent for blood vessels to relax and expand, thus increasing blood flow, a process critical to both cardiac function and the mechanics of achieving an erection.
+However, in states like ED and CVD, the production and availability of nitric oxide are often compromised. This is exacerbated by periods of elevated oxidative stress (caused by aging, chronic disease, chronic stress, etc.). When nitric oxide levels are suboptimal, endothelial dysfunction can arise, leading to restricted blood flow and compromised erectile function, as well as kick-starting or worsening the process of atherosclerosis.
+ED and CVD are also linked in their mutual tendency to be aggravated by chronic low-grade inflammation. Elevated levels of inflammatory biomarkers are common to both conditions, fostering further damage to the endothelium and accelerating atherogenesis. This explains in part why ED and CVD share many risk factors, such as hypertension, diabetes, hyperlipidemia, obesity, and smoking, and clues us in to why these conditions may co-present so often.
+And yet, ED does not merely
+co-occur
+in many instances with CVD — it frequently
+precedes
+overt cardiovascular symptoms due to the smaller diameter of penile arteries compared to coronary arteries. (Indeed, as we’ve often pointed out in the past, cardiovascular disease itself often has no symptoms at all until the occurrence of a potentially fatal event such as a heart attack or stroke.) This implies that ED could often be one of the
+first signs
+of systemic vascular disease, acting as an early warning rather than merely a concurrent symptom. Recognizing this temporal relationship shifts the perception of ED from an isolated concern to a significant indicator of endothelial health, accentuating its clinical importance and its potential as an early diagnostic tool for assessing ASCVD risk. (That said, it’s important to note that ED is neither a cause nor a direct consequence of ASCVD, but rather that these represent two distinct manifestations of the same underlying pathology.)
+How good of an indicator is ED for cardiovascular disease?
+Just how strong is ED as an indicator of ASCVD? The relationship between the two conditions has been substantiated by a breadth of research, including a landmark study from 2005 that examined data from 9,457 men (aged 55+) who participated in the control arm of the Prostate Cancer Prevention Trial (conducted from 1994-2003).
+1
+Individuals with ED or CVD at baseline were excluded, resulting in a final cohort of 4,247 men. Over a nine-year period, these men were assessed for both ED and CVD every three months. Statistical adjustments were made for various confounding variables such as age, body mass index, blood pressure, serum lipids, and lifestyle factors.
+The findings revealed that 57% of participants (2,420 individuals) developed ED within five years and 65% by the seven-year mark. Adjusted models from the study indicated that incident ED was associated with 25% increased risk for any cardiovascular event (hazard ratio (HR) of 1.25; 95% CI: 1.02–1.53;
+P
+=0.04). Among specific CV events, the greatest statistically significant increase in risk was observed for angina (HR=1.53; 95% CI: 1.03–2.28;
+P
+=0.04), though associations for strokes and heart attacks neared significance, with HRs of 1.70 (95% CI: 0.98–2.96;
+P
+=0.06) and 1.29 (95% CI: 0.96–1.74;
+P
+=0.10), respectively.
+When including participants with baseline ED (doubling the sample size), the risk increases were even greater, especially for transient ischemic attack (stroke-like symptoms that resolve within 24h, caused by short-term reduction in blood flow to the brain), which demonstrated an HR of 1.92 (95% CI, 1.12–3.26;
+P
+=0.02). The adjusted HR for any CV event in this larger cohort was 1.45 (95% CI, 1.25–1.69;
+P
+<0.001). Ultimately, the risk of a new cardiovascular event was 0.015 per person-year for men without initial ED, compared to 0.024 per person-year among those with initial ED. This means that for every 100 men who had ED at the start of the study, about 2.4 new cardiovascular events would be expected to occur each year.
+These findings were reinforced by a 2013 meta-analysis of longitudinal studies involving 92,757 participants across an average follow-up of 6.1 years.
+2
+This study also revealed significant positive associations between ED and risk of cardiovascular events on par with those seen in the 2005 study. Moreover, the authors reported that symptoms of ED typically appeared two to five years before the onset of cardiovascular symptoms, with more severe ED correlating with a greater atherosclerotic burden and increased risk of coronary artery disease (CAD), peripheral artery disease (PAD), and major adverse cardiac events (MACE).
+These studies underscore ED’s potential as a marker of CV risk, suggesting that it can be utilized in clinical settings as an early warning sign for impending cardiovascular issues. Not only does this broaden the scope of cardiovascular risk assessment, but it also emphasizes the importance of integrating ED evaluation into routine health checks for men, offering a crucial opportunity for early intervention and management of both sexual and cardiovascular health.
+The impact of management
+A question naturally follows: can treating ED also prevent or slow ASCVD progression?
+Emerging evidence suggests that phosphodiesterase-5 (PDE-5) inhibitors (e.g., tadalafil, sildenafil) — foundational in the management of ED — may also play a role in mitigating CVD progression. For example, a recent longitudinal study of 509,788 men demonstrated that those who were treated with tadalafil for urogenital issues (including ED) showed a 34% decrease in risk of all-cause mortality, a 27% decrease in risk of heart attack, and a 34% decrease in risk of stroke relative to those who did not take medication.
+3
+(Benefits were also seen in separate analyses for sildenafil, though the effect was slightly attenuated.) As noted previously, the underlying mechanisms appear to be linked to improvements in endothelial function — a crucial aspect in the genesis of atherosclerosis and subsequent cardiovascular complications.
+Both ED and CV health also often improve with the same lifestyle modifications — such as diet, physical activity, weight management, and smoking cessation — and indeed, such measures are recommended for ED by the American Urological Association.
+4
+This is supported by evidence that such lifestyle changes can improve endothelial function, reduce oxidative stress, and enhance nitric oxide production, which are critical for both maladies.
+5,6
+Don’t ignore ED
+Despite the well-established link between ED and cardiovascular risk, awareness of this connection among the public has been limited. Though authoritative bodies such as the American College of Cardiology point to the need for cardiovascular risk evaluation as an essential component of ED management, clinicians can only utilize ED as an early indicator of CV risk when patients choose to seek medical attention for erectile issues in the first place.
+Seeking help provides a critical opportunity to detect CVD relatively early and intervene to slow its progression,
+in addition
+to offering a chance to improve quality of life and resolve the mental health issues that often accompany ED. So although the clinical community has long recognized the links between ED and CVD, it’s time we rise to the challenge of ensuring that message is heard loud and clear by patients, too:
+erectile dysfunction is not merely a sexual health concern but is a pivotal canary in the coalmine for overall vascular health
+— and accordingly, it should be treated with the seriousness and medical attention it deserves.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Thompson IM, Tangen CM, Goodman PJ, Probstfield JL, Moinpour CM, Coltman CA. Erectile dysfunction and subsequent cardiovascular disease. JAMA. 2005;294(23):2996-3002. doi:10.1001/jama.294.23.2996
+Vlachopoulos CV, Terentes-Printzios DG, Ioakeimidis NK, Aznaouridis KA, Stefanadis CI. Prediction of cardiovascular events and all-cause mortality with erectile dysfunction: a systematic review and meta-analysis of cohort studies. Circ Cardiovasc Qual Outcomes. 2013;6(1):99-109. doi:10.1161/CIRCOUTCOMES.112.966903
+Jehle D von K, Sunesra R, Uddin H, et al. Benefits of tadalafil and sildenafil on mortality, cardiovascular disease, and dementia. Am J Med. 2025;138(3):441-448.e3. doi:10.1016/j.amjmed.2024.10.039
+Burnett AL, Nehra A, Breau RH, et al. Erectile dysfunction: AUA guideline. J Urol. 2018;200(3):633-641. doi:10.1016/j.juro.2018.05.004
+Esposito K, Giugliano F, Di Palo C, et al. Effect of lifestyle changes on erectile dysfunction in obese men: a randomized controlled trial. JAMA. 2004;291(24):2978-2984. doi:10.1001/jama.291.24.2978
+Vlachopoulos C, Jackson G, Stefanadis C, Montorsi P. Erectile dysfunction in the cardiovascular patient. Eur Heart J. 2013;34(27):2034-2046. doi:10.1093/eurheartj/eht112

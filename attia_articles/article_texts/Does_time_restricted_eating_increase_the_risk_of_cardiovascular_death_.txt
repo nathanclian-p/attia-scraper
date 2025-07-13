@@ -1,0 +1,56 @@
+No matter what your stance on a particular topic is, you can nearly
+always
+find a study that supports your point of view. What matters more than being able to find a published study with a particular outcome is the
+quality
+of that study. Case in point: last Monday, researchers presented unpublished (read: not peer-reviewed) data from an observational study, concluding that time-restricted eating (TRE) was associated with a 91% increase in the risk of cardiovascular (CV) death, which resulted in a frenzy of headlines by many news outlets. If you already think that TRE is harmful to health, you might take the headline at face value; but if you look with a closer eye, you’ll find that the results from this study are virtually meaningless.
+What do we know about this study?
+This study was presented as a
+poster
+at a conference, meaning that study details are limited and the full study still needs to be peer-reviewed before publication, as noted above. Randomized trials have been used to study the potential health benefits of TRE, but usually with limited duration. The motivation for this study was to see if long-term use of TRE affected mortality, something that would be extremely difficult to do with a randomized trial. For this retrospective, observational study, the researchers used data from the National Health and Nutrition Examination Survey (NHANES) collected between 2003 and 2018 from more than 20,000 people in the US. Each year, NHANES collects demographic, biomarker, and dietary data from approximately 5,000 randomly selected US residents to track changes in overall population trends. Each food recall questionnaire requires the participant to remember what they ate, how much, and at what times on the previous day. This study required that every participant completed two food recall surveys less than two weeks apart, and averaged their two feeding windows to determine each person’s eating duration.
+Try to quantify exactly how much food you ate yesterday and recall when you ate it. Unless you are the type of person who writes all of this information down while preparing your meals, you likely can’t do this with any accuracy. Asking this question of a large group produces unreliable data contaminated by recall biases. If survey respondents misremember the time of their first and last food intake by just 30 minutes, total eating duration changes by an hour.
+A common form of TRE, sometimes called 16:8, or sixteen hours of fasting followed by eight hours of opportunity to eat, is less common across the population than a pattern of eating three to four meals spread throughout the day, over twelve or more hours. For this reason, the participants were broken out into five categories based on their average eating duration: < 8 hours (the TRE group), 8-<10 hours, 10-<12 hours, 12-16 hours (the reference group), or >16 hours. Each eating duration group was followed for a median of eight years for outcomes of all-cause mortality, CV mortality, and cancer mortality using the National Death Index database.
+Like most hazard models of mortality, these outcomes were adjusted for age, sex, race, total energy intake, education, income, food security status, smoking, drinking, physical activity, diet quality score, body mass index (BMI), BMI squared, and any self-reported health conditions. This number of adjustments alone should tell you that many variables contribute to our dietary patterns and potentially confound any relationship between feeding window and mortality. If you’re interested in a deeper dive into nutrition research and the limits of nutritional epidemiology, my conversation with
+David Allison
+is an excellent starting point.
+What did the study find?
+Although there were no significant differences in all-cause mortality – the most important metric, obviously – across any of the eating duration groups, the TRE group had a hazard ratio for CV death of 1.91 (95% CI: 1.20-3.03) compared to the reference (12-16-hour) group – a
+relative
+91% increase in the risk of CV death, and an absolute increase of 3.9% in the risk of CV mortality – which
+is
+significant.
+But, of equal importance, the TRE group wasn’t just different from the non-TRE group based on the timing; there were significant differences in other lifestyle habits and co-morbidities.
+This is highlighted by the fact that the relative increase in CV deaths was
+disproportionately driven
+by the deaths of people with pre-existing conditions. For unknown reasons, the percentage of CV deaths in the TRE group was nearly 38% in those with pre-existing CVD compared to 15% in the reference group.  Family history of CVD and rates of diabetes and dyslipidemia were not included in the poster presentation, and it’s unclear if they were considered in this risk analysis.
+Beyond the mortality differences in the subanalysis of participants with pre-existing conditions, the significant discrepancies between group sample sizes and limited demographic information are more reasons to be skeptical of the findings. The TRE group had only 414 participants and a total of just 31 deaths compared to the reference group, which had 11,831 participants and 423 deaths. The TRE group also had a higher average BMI, were more likely to smoke, and were on average younger compared to the reference group, indicating that the groups themselves are
+different
+in more ways than just eating duration, making it almost impossible to compare the two groups.
+Flaws in methodology
+While it is valid to ask the underlying scientific question, “Does the long-term implementation of TRE affect lifespan?” the flawed methodology leaves that question still to be answered. Not only due to the substantial bias in nutritional self-reporting but also because the only requirements were
+two
+food recall surveys at the beginning of the observation period. The researchers assumed this was enough data to represent the participants’ “normal” eating patterns of both eating duration and total energy intake – for the next
+eight
+years, a lofty expectation given that most people will have some degree of fluctuation in their diet over nearly a decade.
+For participants who completed both questionnaires and had long-term follow-up data, the only other exclusion criteria were either eating >8000 kcal or <800 kcal per day for men, >6000 kcal or <600 kcal per day for women, or an “unusual” diet on either recall day. It’s unclear what makes a diet “unusual,” but where the participants fell in this extreme range of caloric intake, which would largely be considered unhealthy at both ends for most people, is a huge missing factor in this analysis. Although the analysis adjusted for total energy intake, this could potentially be a confounding factor, not necessarily in comparing the groups to one another, but in evaluating the likelihood of mortality. That is, if you are overeating, regardless of the duration, are you more likely to die? Previous controlled trials have demonstrated that TRE can be more effective at reducing overall
+energy intake
+than caloric restriction alone; but when
+TRE
+is implemented in an
+isocaloric
+setting, it does not have any additional benefit over caloric restriction, essentially saying that it matters
+how many calories
+you eat more than
+when you eat them
+.
+The utility and drawbacks of TRE
+It’s not that there is no value in TRE; many people find it an incredibly useful way to lose or maintain weight, simply because rather than tracking calories or controlling portion size, one can focus on eating window alone. However, one of the biggest drawbacks of this approach is that it can be difficult to obtain adequate protein, especially as the eating window shortens. Although not included in the poster data, DEXA scans which measure lean mass are collected as part of the NHANES data. The authors reported that, in unpublished data, people who were in the TRE group had less lean mass than those in the reference group, which would demonstrate this shortcoming of TRE. However, without quantifying the inter-group differences, it’s impossible to say whether it explains the differences in deaths. Obtaining sufficient protein to maintain and build muscle is something to keep in mind if TRE is either something you already do or plan to try in the future. It’s an especially important consideration as you age since it becomes increasingly difficult to gain muscle later in life, particularly if you are inactive.
+The bottom line
+It’s unfortunate that results such as these, which aren’t even in their finished form, are being used to scare people away from time-restricted eating, which is a proven weight loss strategy.  This is yet another nutritional study that affirms my disappointment in the field – not because the topic is unworthy of research, but because of the willingness to draw sensational conclusions from flawed data.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama

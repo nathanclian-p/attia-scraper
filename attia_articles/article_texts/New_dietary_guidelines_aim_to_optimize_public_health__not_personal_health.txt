@@ -1,0 +1,94 @@
+Every five years, the USDA revises its set of “Dietary Guidelines for Americans.” Often, these updates go largely unnoticed, barely receiving even the briefest mention in news outlets. But in the past few months, the release of the scientific report that will inform new guidelines for 2025-2030 attracted an unusual level of public attention thanks to one particular change from previous editions — namely, the addition of a recommendation to decrease consumption of animal-derived proteins (including meat, poultry, and eggs) in favor of plant-based protein sources like beans, peas, and lentils.
+1
+What’s changed?
+This isn’t the first time meat has come under fire with the Dietary Guidelines for Americans (DGA). Starting in 2015, the guidelines have recommended limiting intake of red and processed meats, and reduced consumption of saturated fats (which are primarily found in animal products such as meats and dairy) has been a part of the DGA since 1980. Past versions of the DGA have also highlighted beans, peas, and lentils as possible sources of plant-based protein, along with nuts, seeds, and soy products.
+2
+So what makes the new version so different?
+One key update is in the
+scope
+of the DGA’s recommendations for limiting consumption of animal proteins. While previous guidelines have restricted this advice to red and processed meats, the 2025-2030 report recommends cutting back on meat
+in general
+(with the exception of seafood), as well as limiting consumption of eggs. This marks a significant deviation from earlier versions, which had supported lean meat options such as chicken breasts and ground turkey.
+In addition to this expanded denunciation of animal-derived proteins, another important change in the new guidelines relates to the prioritization of beans, peas, and lentils as
+primary
+protein sources, rather than as supplemental or alternative options. To this end, the report recommends that beans, peas, and lentils be reassigned from the “vegetable foods group” to the “protein foods group” and that they be listed as
+first
+protein options — followed by nuts, seeds, and soy products, then by seafood, and finally by meats, poultry, and eggs as last options.
+Where did the changes come from?
+Updates to the DGA don’t come out of nowhere. An advisory committee of nutrition experts is responsible for analyzing up-to-date research in order to form a scientific report that serves as the foundation for any changes to guidelines. The committee tends to be relatively conservative, only adding to or altering previous recommendations when a mountain of evidence seems to support the change (for example, the committee did not introduce the recommendation to reduce consumption of added sugars until its 2015-2020 revision
+3
+). So how strong is the evidence that motivated the new recommendation against meat consumption?
+At a surface level, it might seem fairly compelling.
+Many
+observational studies — often with impressively large cohort sizes — have reported correlations between animal protein consumption and all-cause mortality, cardiovascular disease, metabolic disease, and a host of other maladies. Likewise, several studies have reported
+inverse
+associations between adherence to a plant-based diet and risk of mortality or various health problems.
+A closer look
+However, once we dig a little deeper, this body of “evidence” starts to fall apart as quickly as a house of cards. We’ve discussed the many shortcomings of studies on plant and animal protein — and why they fail to show what they claim to show —
+ad nauseam
+over the years (see
+here
+,
+here
+, and
+here
+as just a few examples). But as a brief recap, a fundamental problem with the vast majority of evidence condemning animal protein is that it
+derives from observational data that are rife with confounds related to the overall health of participants
+.
+Health is one of the top motivations for adopting a vegetarian or vegan diet in the United States,
+4
+and it is highly likely that an individual who cares about their health enough to commit to this sort of dietary restriction likewise cares about their health enough to engage in other health-promoting behaviors like exercise, prioritization of sleep, and avoidance of smoking. By contrast, many people who eat a lot of meat do so
+despite
+popular perception (however misguided) that it is detrimental to health, and we can assume these individuals are more likely to similarly ignore other health advice. Thus, a pattern emerges: people who eat less meat are, on average, healthier than people who eat more meat for reasons
+other
+than their dietary habits, and therefore, people who eat less meat are less likely to develop or die from chronic health conditions
+independently
+of their decision to eschew animal proteins. This pattern shows up in observational data as a correlation between meat consumption and disease, though the true causal relationship is with other dietary and non-dietary variables.
+Of note, a few randomized trials (which avoid the confounds that plague observational studies) have reported health benefits of cutting meat out of participants’ diets. However, many of these come with their own considerable
+flaws
+, such as discrepancies in total calorie intake between groups. Indeed, several overarching systematic reviews and meta-analyses of randomized trials on this subject have reported
+no negative impact
+of meat consumption (or positive impact of
+avoiding
+meat consumption) on risk of cardiovascular disease, type 2 diabetes, or other conditions commonly associated with meat-heavy diets.
+5,6
+Optimizing public versus personal health
+Does all of the above mean that the advisory committee got it wrong in their recommendations for updates to the DGA? That depends on how you interpret the
+purpose
+for dietary guidelines in the first place.
+Federal guidelines on nutrition are intended to promote health and fitness at the national population level, largely as a means of reducing the burden on the healthcare system. The best way to accomplish this goal is to raise the health of those on the
+lower end
+of the population’s health spectrum, as these are the individuals who have the greatest room for improvement by relatively simple measures and are also those who would otherwise incur the vast majority of medical costs. And for individuals who lack the time or interest for gaining a detailed understanding of nutrition’s effects on health, a short set of simple, clear guidelines — such as “replace meat with beans and peas” — has a better chance of making an impact than an exhaustive description of nuances and exceptions — such as “limit highly processed foods, including processed meats, and avoid getting your meat from fast food joints, where you’re more likely to pair meat with empty calories from fries or soda…. Also, prioritize lean meat sources with high amounts of essential amino acids, but be careful about how you prepare it so you’re not loading up on additional fats and salt, and make sure that in addition to meat, you’re getting plenty of vegetables and fiber.” Thus, when it comes to the goal of optimizing
+public
+health, the present updates to past dietary guidelines make sense.
+But these updates become problematic if we interpret them as advice for optimizing
+personal
+health. For those who already pay a fair amount of attention to their health, such reductive guidelines can be counterproductive. For instance, although animal-derived protein tends to be higher quality and more bioavailable than plant-based proteins, the new guidelines might steer people away from the former, leading to insufficient intake of essential amino acids to support building and maintaining muscle mass.
+In other words, the DGA are meant to help those at more imminent risk of nutrition-related health problems, not to help any given individual attain maximal possible health. (Think of them like a walker or cane — great for improving mobility among the elderly or injured, but if used by an Olympic sprinter during a race, it will probably do more harm than good.)
+The bottom line
+Federal dietary guidelines serve a valuable purpose for public health in providing steps for avoiding both nutritional deficiencies and nutritional excess. Their simplicity makes them accessible and actionable for anyone — from elementary school students learning about food groups to adults without the time, money, education, or energy to undertake their own deep dive into nutrition research. They are a practical approach for improving the
+average
+health of the nation and reducing strain on the healthcare system, but they have never been intended to serve as a means of achieving
+maximal
+health for the
+individual
+.
+This is the lens through which we must view the recent addition of a recommendation to limit all meat, poultry, and eggs and prioritize beans, peas, and lentils as protein sources. The advice has been broadcast at face value by news outlets as validation of the notion that meat is unambiguously bad for health, but in truth, this guideline is merely a way of promoting an all-around healthier diet through factors
+correlated
+with meat consumption — for instance, overconsumption of saturated fats and processed foods and underconsumption of fiber and plant-derived vitamins and minerals.
+Such a simplistic guideline is expedient, but it can also be misleading for those who are already attentive to diet quality and other aspects of a healthy lifestyle. Human physiology (and the role of nutrition in affecting it) is extraordinarily complex and cannot be reduced to the few general statements of the DGA. Optimizing personal health requires a far more nuanced and sophisticated approach that takes into account the many dietary variables at play and the circumstances and preferences of the individual. So five years down the road, when the USDA rolls out the next set of updates to the DGA, let’s all take them with a few grains of salt… and perhaps with a nice chicken sandwich or omelet, too.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Scientific Report of the 2025 Dietary Guidelines Advisory Committee: Advisory Report to the Secretary of Health and Human Services and Secretary of Agriculture. HHS and USDA; 2024. doi:10.52570/dgac2025
+Phillips JA. Dietary guidelines for Americans, 2020-2025. Workplace Health Saf. 2021;69(8):395. doi:10.1177/21650799211026980
+O’Rourke J. Making sense of latest US dietary guidelines. Boston University. January 19, 2016. Accessed March 26, 2025. https://www.bu.edu/articles/2016/making-sense-of-new-dietary-guidelines/
+Torna E, Smith E, Lamothe M, Langkamp-Henken B, Andrade JM. Comparison of diet quality of US adults based on primary motivation for following a vegetarian diet: A cross-sectional online study. Nutr Res. 2021;90:13-23. doi:10.1016/j.nutres.2021.04.001
+Zeraatkar D, Johnston BC, Bartoszko J, et al. Effect of Lower Versus Higher Red Meat Intake on Cardiometabolic and Cancer Outcomes: A Systematic Review of Randomized Trials. Ann Intern Med. 2019;171(10):721-731. doi:10.7326/M19-0622
+Sanders LM, Wilcox ML, Maki KC. Red meat consumption and risk factors for type 2 diabetes: a systematic review and meta-analysis of randomized controlled trials. Eur J Clin Nutr. 2023;77(2):156-165. doi:10.1038/s41430-022-01150-1

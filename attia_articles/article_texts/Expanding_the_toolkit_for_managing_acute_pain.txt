@@ -1,0 +1,46 @@
+Despite affecting millions of people daily, pain remains a challenging condition to treat effectively and safely. The landscape of pain management has remained largely unchanged for decades, dominated by three primary players: NSAIDs, acetaminophen, and opioids. While these medications have helped countless patients manage acute and chronic pain, each comes with significant and well-documented limitations and risks, signaling a pressing need for alternatives.
+Fortunately, recent developments have given reason for new hope on this front. In a milestone for pain medicine, the FDA approved suzetrigine (brand name: Journavx), the first new class of analgesic drugs in over 20 years and an important step forward in expanding our pain management toolkit.
+Concerns with traditional pain medications
+Our current standard approaches each come with significant drawbacks.
+NSAIDs (e.g., ibuprofen, naproxen) work well for mild to moderate pain but often prove insufficient for more severe cases. Moreover, their mechanism of action — suppressing inflammation — may impede healing in some contexts, as inflammation is a crucial part of the repair process. NSAIDs also carry risks of gastrointestinal bleeding and cardiovascular complications, particularly with prolonged use.
+Acetaminophen (brand name: Tylenol) offers a different mechanism of action but similarly falls short for moderate to severe pain. While generally safe when used as directed, its narrow therapeutic window means that exceeding recommended doses can quickly lead to liver toxicity.
+Opioids remain our most potent tools for managing severe pain, but their effectiveness comes at a steep price. Beyond common side effects like constipation and respiratory depression, their potential for dependence and addiction has contributed significantly to the ongoing opioid crisis.
+Why is pain so difficult to target?
+The 20-year drought in new pain medications isn’t for lack of trying, yet developing effective analgesics has proven remarkably challenging. This reflects several fundamental difficulties in targeting pain. As Dr. Sean Mackey explains in a
+new episode
+of
+The Drive
+, pain isn’t a single entity but rather a complex experience involving multiple biological systems. It can arise from tissue damage, nerve injury, inflammation, or combinations thereof. This complexity makes it difficult to identify specific molecular targets that might provide relief without disrupting other essential functions. Pain is also inherently subjective, making it challenging to measure consistently in clinical trials. What one person describes as severe pain might be moderate to another, complicating the assessment of new treatments.
+Even when seemingly promising targets are identified, developing effective drugs against them often proves difficult. For example, the sodium channel NaV1.7 has long been implicated in the generation of pain, as nerve fibers that mediate pain rely on sodium dynamics to transduce pain signals. However, although NaV1.7 itself is specific to pain-sensing nerve fibers, it bears a high degree of genetic similarity to other members of the larger family of sodium channels (which are critical for nerve and muscle function more broadly), and as a result, it has been difficult to target pharmacologically with high specificity.
+1
+Suzetrigine’s success
+Given such an uphill battle in developing pain management strategies, Vertex Pharmaceuticals’ success with suzetrigine represents a significant achievement. The drug works by blocking NaV1.8, another sodium channel specific to pain-sensing nerves. However, because NaV1.8 is not as similar to other sodium channels at NaV1.7, honing in on NaV1.8 is less likely to have detrimental off-target consequences.
+The efficacy of suzetrigine was demonstrated in phase 3 clinical trials focusing on post-surgical pain following abdominoplasty and bunionectomy procedures.
+2
+High-dose suzetrigine showed significant improvements in pain scores compared to placebo. For abdominoplasty, the least squares mean difference in SPID48 (Sum of Pain Intensity Differences over 48 hours) between suzetrigine and placebo was 48.4 (95% CI: 33.6, 63.1; P<0.0001) for abdominoplasty and 29.3 (95% CI: 14.0, 44.6; P=0.0002) for bunionectomy — both clinically meaningful results that suggest real benefit for patients. However, when compared to hydrocodone-acetaminophen (brand name: Vicodin; a combination of a mild opioid and acetaminophen), suzetrigine performed similarly but not better.
+As this was tested in a post-surgical setting, both placebo and suzetrigine had high incidence of adverse events reported (50.0% for suzetrigine and 56.3% for placebo), most commonly nausea, constipation, headache, dizziness, and hypotension. However, adverse reactions
+specific
+to suzetrigine were infrequent and included itchiness (2.1%), muscle spasms (1.3%), increased blood creatine phosphokinase (1.1%), and rash (1.1%).
+3
+Where do we stand now?
+While the approval of suzetrigine represents progress, several important limitations should be noted. The primary trials focused on relatively minor surgical procedures that typically don’t require intensive pain management. We don’t yet know how effective suzetrigine might be for more severe post-surgical pain. Likewise, the trials used Vicodin as the active comparator, not stronger opioids like oxycodone or morphine, leaving questions about suzetrigine’s relative efficacy in managing more severe pain. Reflecting these limitations in testing to date, suzetrigine is currently only approved for moderate to severe
+acute
+pain – and, at $15.50 per 50mg pill, it is significantly more expensive than existing options for this purpose, which may limit access and adoption. However, its utility for
+chronic
+pain conditions remains an area of ongoing investigation.
+Despite the limitations, suzetrigine’s approval carries several important implications. It provides clinicians with another tool for managing acute pain, potentially reducing reliance on opioids in some cases. Because suzetrigine acts primarily on peripheral nerves, it appears to lack the addiction potential of opioids, though long-term safety data are still to come.
+Further, the successful development of an NaV1.8 blocker may encourage further research into similar mechanisms, potentially leading to improved versions or related compounds — just as the GLP-1 receptor agonists and statins of today are huge improvements over their first-generation relatives. Indeed, numerous other NaV1.8-targeting drugs, along with some targeting the closely related NaV1.7 and NaV1.9 channels, are in the pipeline.
+A new player in pain management
+The approval of suzetrigine marks an important milestone in pain management — the first new analgesic drug class in over two decades. While it’s likely not the revolutionary opioid replacement we might have hoped for, it represents meaningful progress in expanding our pain management options. Its development also demonstrates that novel analgesic mechanisms can be successfully targeted, potentially paving the way for future innovations. For clinicians, suzetrigine offers a new option for managing moderate to severe acute pain, particularly in cases where opioid avoidance is desirable. However, the high cost and limited evidence base mean this drug is likely to serve as a complementary tool rather than as a replacement for existing analgesics. The journey to better pain management continues, but the FDA approval of a new class of pain medicine is a step in the right direction.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Vetter I, Deuis JR, Mueller A, et al. NaV1.7 as a pain target – From gene to pharmacology. Pharmacol Ther. 2017;172:73-100. doi:10.1016/j.pharmthera.2016.11.015
+Vertex Announces Positive Results From the VX-548 Phase 3 Program for the Treatment of Moderate-to-Severe Acute Pain. Vertex Pharmaceuticals Newsroom. Accessed March 19, 2025. https://news.vrtx.com/news-releases/news-release-details/vertex-announces-positive-results-vx-548-phase-3-program
+Safety Profile. Accessed March 19, 2025. https://www.journavxhcp.com/safety

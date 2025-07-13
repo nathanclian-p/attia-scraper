@@ -1,0 +1,135 @@
+In this “Ask Me Anything” (AMA) episode, Peter tackles a topic that’s been dominating headlines and sparking widespread concern: microplastics and plastic-associated chemicals, including BPA, PFAS, and phthalates. Peter explores the science behind these substances including how and why they’ve become so prevalent, the extent of our exposure, and the potential risks to our health. Most importantly, he provides a practical framework for understanding microplastics and plastic-associated chemicals and minimizing exposure while distinguishing genuine risks from exaggerated concerns.
+If you’re not a subscriber and listening on a podcast player, you’ll only be able to hear a preview of the AMA. If you’re a subscriber, you can now listen to this full episode on your
+private RSS feed
+or on our website at the
+AMA #67 show notes page
+. If you are not a subscriber, you can learn more about the subscriber benefits
+here
+.
+Play
+#332 - AMA #67: Microplastics, PFAS, and phthalates: understanding health risks and a framework for minimizing exposure and mitigating risk
+#332 - AMA #67: Microplastics, PFAS, and phthalates: understanding health risks and a framework for minimizing exposure and mitigating risk
+1x
+15s
+30s
+0:00
+25:21
+We discuss:
+The complexity of the topic of microplastics and associated chemicals [1:30];
+Definitions: microplastics, BPA, PM2.5, phthalates, and more [6:30];
+The reasons behind the increase in microplastics in our environment and the surge in interest in them [12:00];
+The various ways that humans are exposed to microplastics and nanoplastics [14:00];
+Volume of plastic consumed by humans, and how the body eliminates or absorbs microplastics [16:00];
+How microplastics accumulate in the body, the variability in tissue accumulation, and the challenges in studying their long-term health effects [21:30];
+Limitations of blood tests for microplastics, and the importance of reliable biomarkers for guiding behavior and interventions [26:30];
+The speculative health risks of microplastics, the limitations of current research, and the need for more robust studies [29:15];
+The challenges of measuring microplastics in human tissues, the need for better methodologies, and the importance of critically evaluating study relevance and claims [39:45];
+If it’s unclear whether microplastics actually cause harm, should we still be concerned about exposure? [42:15];
+Strategies to minimize microplastic exposure [45:00];
+The financial cost and effort involved in various microplastic exposure mitigation strategies [51:00];
+The role of airborne microplastics in total exposure and accumulation [1:03:00];
+Chemicals associated with plastics, their role as endocrine disruptors, and the challenges in linking exposure to specific health outcomes [1:04:00];
+BPA: role in plastic production, and its potential developmental risks [1:05:45];
+BPA’s potential health risks: pregnancy, fertility, obesity, and diabetes, and the socioeconomic confounders in the data [1:08:30];
+Regulatory limits on BPA exposure, and practical considerations for reducing exposure [1:12:45];
+The prevalence of BPA in modern products and how to identify it [1:17:15];
+PFAS: chemical structure and purpose in products [1:18:30];
+Why PFAS are considered endocrine disruptors [1:19:45];
+The main sources of PFAS exposure, and practical steps to reduce exposure [1:21:30];
+The potential health risks of PFAS exposure [1:24:00];
+Phthalates: role in making plastics flexible, and presence in personal care products [1:24:45];
+Why phthalates are considered endocrine disruptors [1:25:15];
+The main sources of phthalate exposure, and how manufacturing practices are evolving to reduce exposure [1:26:45];
+Practical strategies to reduce exposure to phthalates in food, air, water, and personal care products [1:28:30];
+Navigating microplastics and associated chemicals: a framework for personalized risk reduction [1:29:30]; and
+More.
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+Live Better, Longer: An Introductory Guide to Longevity by Peter Attia,
+weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Phone
+This field is for validation purposes and should be left unchanged.
+Δ
+Show Notes
+The complexity of the topic of microplastics and associated chemicals [1:30]
+Overview of the Episode’s Focus
+:
+The AMA will focus entirely on microplastics and other chemicals such as BPAs, PFAS, and phthalates.
+Growing public interest and numerous listener questions have driven the need for this deep dive.
+The discussion aims to address:
+Whether people should be worried about these chemicals.
+Which chemicals pose real risks.
+Practical steps to reduce exposure.
+Challenges of researching this topic
+This AMA required the most research and effort compared to any previous episode.
+Peter and his team of analysts dedicated about a month to researching this topic.
+Preparation involved sorting through an overwhelming amount of incomplete and complex information.
+It was hard to organize the topic due to:
+The sheer volume of conflicting data.
+A lack of clear, definitive answers.
+Finding Clarity:
+A night of rest provided Peter with a clearer perspective on how to “land the plane” and present the information effectively.
+No Simple Answers:
+Peter emphasized that this is a nuanced and complex topic.
+Listeners should not expect a straightforward or one-word solution.
+The discussion is built on 75 pages of research notes, indicating the depth and breadth of the issue.
+Purpose of the Episode:
+To help listeners navigate the uncertainty and asymmetry in available research.
+To define the boundary conditions necessary for making informed decisions.
+To provide a framework for personal risk assessment and exposure reduction strategies.
+Peter intends to:
+Acknowledge the gaps in current research.
+Highlight areas where more information is needed.
+Provide guidance without pretending to have all the answers.
+Goal for Listeners:
+Equip listeners with the tools to make risk-based decisions for themselves and their families.
+Offer practical strategies for minimizing exposure while understanding where real risks lie.
+“
+The further from the shore, the deeper the water
+.”
+Definitions: microplastics, BPA, PM2.5, phthalates, and more [6:30]
+Microplastics and Nanoplastics (MNPs)
+Definitions:
+Microplastics: Plastic particles smaller than 5 millimeters.
+Nanoplastics: Particles smaller than 1 micrometer (µm).
+NOTE: 1 micrometer is 1/1,000 of a millimeter (Peter misspoke and said meter instead of millimeter)
+Common Study Classifications: Current research focuses on plastics smaller than 1 millimeter.
+Abbreviation: Referred to as MNPs (Micro/Nano Particles).
+Prevalence:
+Ubiquitous in the environment:
+Found in water, food (fruits, vegetables, meat), and air.
+Present on surfaces of produce and within animal products.
+Bisphenol A (BPA) and Bisphenols
+Definition:
+BPA is part of a family of chemicals called bisphenols.
+Used to produce polycarbonate plastic (rigid plastics).
+Common Uses:
+Found in products like Nalgene water bottles, epoxies, and resins.
+Current Trends:
+BPA use has declined over the past 15 years.
+Often replaced by other bisphenols: BPS and BPF.
+Uncertainty remains about whether these substitutes are safer.
+Particulate Matter 2.5 (PM2.5)
+Definition:
+Airborne particles smaller than 2.5 micrometers in diameter.
+Health Relevance:
+Particles this small can enter the bloodstream when inhaled.
+They cross the alveolar air sacs in the lungs into systemic circulation.
+Sources of PM2.5:
+Mostly from air pollution (not microplastics).
+Burning wood and fossil fuels (especially coal) are major sources.
+Natural gas combustion produces less PM2.5.
+Microplastics contribute only a small percentage to PM2.5 levels.
+Phthalates
+Definition:
+{end of show notes preview}
+Would you like access to this entire podcast episode, its extensive show notes, and more premium content?
+Become a Member

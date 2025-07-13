@@ -1,0 +1,94 @@
+We’ve all been there, battling a cold with congestion so relentless that breathing through your nose is impossible. You reach for your decongestant of choice, but the much-desired relief for your stuffy nose never comes. You wonder if you took enough of the medication, or if it’s past its expiration date, or perhaps if you’re just cursed. But the truth is simple: the medicine was never effective in the first place.
+Oral phenylephrine is a common “active” ingredient in many popular cold, flu, and allergy medications, yet last November, the FDA proposed removing this decongestant from the market due to a lack of efficacy. Is this true? And if so, how did phenylephrine become so popular in the first place, and what alternatives might be more effective in bringing relief to those stubborn stuffy sinuses?
+Phenylephrine 101
+Phenylephrine is a vasoconstrictor, meaning it narrows blood vessels. When applied to the nasal passages, its targeted action can reduce swelling and open up your airways, a mechanism that has made phenylephrine appealing for decades. In fact, the drug’s history stretches back to the 1930s, with a patent filed in 1933. In 1976, it was recognized as generally safe and effective by the FDA and approved for over-the-counter (OTC) use.
+The real boost in phenylephrine’s popularity, however, came in 2006. In light of concerns over the use of a different decongestant — pseudoephedrine (Sudafed) — for illicit methamphetamine production, Congress passed restrictions that moved pseudoephedrine behind pharmacy counters. Major cold and flu brands needed an alternative decongestant that could remain out in front for easy purchase, and thus, phenylephrine became the go-to substitute in products like Sudafed PE, Dayquil, and many others. Until now.
+In a 2023 decision, the FDA moved to re-evaluate oral phenylephrine, and in November 2024, they proposed removing it from the market altogether.
+1
+Is this decision warranted?
+A closer look
+The FDA’s proposal came after a number of randomized, placebo-controlled clinical trials called into question the efficacy of phenylephrine as a nasal decongestant.
+2
+For instance, a 2009 trial in 379 participants with seasonal allergies compared the standard dose of phenylephrine (10 mg) to placebo and to an alternative decongestant, loratadine-montelukast.
+3
+While loratadine-montelukast was found to be effective in improving nasal congestion scores, participants treated with phenylephrine were indistinguishable from those given placebo in post-treatment symptoms.
+Yet an abundance of evidence also clearly shows that phenylephrine is an effective vasoconstrictor, which indeed ought to reduce swelling. So why does this seemingly logical mechanism fail to generate congestion relief in practice?
+The ineffectiveness has little to do with phenylephrine
+per se
+but rather with its route of administration. Phenylephrine taken orally, as you would in a cold medicine, is subject to first-pass metabolism in the liver. This removes the drug from the system before it reaches the site at which it is needed (i.e., the nose). Indeed, the oral bioavailability of phenylephrine is quite low (38%) compared to pseudoephedrine (90%).
+4
+A common way to overcome low bioavailability is to administer higher doses. But in a 2015 trial testing a range of phenylephrine doses up to
+four times
+the standard dose (10, 20, 30, and 40 mg),
+none
+of the doses tested differed from placebo in their ability to improve subjective nasal congestion scores in participants with seasonal allergies.
+5
+Though future studies may evaluate even higher doses, it is worth noting that risks associated with vasoconstriction (e.g., decreased heart rate and increased blood pressure) become more likely as doses climb upward. (Importantly, at the doses currently found on the market, phenylephrine is considered safe. If you have a bottle of Dayquil in your medicine cabinet, it is safe to use – it just isn’t effective for nasal decongestion.)
+How did phenylephrine slip through the system?
+As discussed in detail in
+last week’s newsletter
+, the FDA requires any new drugs to be proven safe and effective through a rigorous clinical trial process before receiving market approval, so how did phenylephrine slip through despite a lack of efficacy? Unfortunately, at the time that it was first commercialized, the high standards we have at present simply did not exist.
+6
+While the first step in US history toward regulatory oversight of foods and drugs occurred in 1906 with the passage of the Pure Food and Drug Act (which ensured products were accurately labelled with their ingredients) and the creation of the FDA, it wasn’t until 1938 that the Food, Drug, and Cosmetic Act regulated the safety of drugs on the market. Even then, it would be another 24 years before the Kefauver-Harris Amendments introduced the requirement that drugs had to be deemed both safe
+and effective
+.
+Because phenylephrine reached the market in the 1930s, it was available to consumers before the new requirements came about. When the new regulations were passed, the FDA did review all current drugs on the market, but the standards simply were not as rigorous as they are now. For example, as modern critics of phenylephrine have pointed out, the FDA panel cited unpublished, manufacturer-sponsored studies and relied on only four studies demonstrating efficacy despite
+seven
+showing no difference between the FDA-approved dose (10 mg) and placebo.
+4
+To make matters worse, the capacity of the FDA was overwhelmed with the sheer number of already-marketed OTC medications to review. In an effort to handle the volume, the FDA developed a monograph system — essentially a rulebook specifying which active ingredients were “generally recognized as safe and effective” for certain uses. Because phenylephrine made it onto the monograph (based on the lower standards of the time) as a nasal decongestant, companies in the 2000s were able to make the swap from pseudoephedrine to phenylephrine in cold medicines and continue to market them for congestion relief, despite a lack of evidence backing up the claim.
+Alternative options
+Although phenylephrine may be ineffective, we fortunately aren’t doomed to suffer nasal congestion every allergy season or with every cold. As discussed above, one effective alternative to phenylephrine is pseudoephedrine (e.g., Sudafed), often regarded as the gold standard oral decongestant. Studies have consistently shown that pseudoephedrine significantly improves nasal airflow and congestion scores. In one head-to-head trial involving 38 participants with seasonal allergies, a 60-mg dose of pseudoephedrine led to a 21.7% average decrease in congestion scores over six hours — far exceeding the 7.1% reduction with phenylephrine (which was statistically indistinguishable from placebo).
+7
+Because pseudoephedrine travels through the bloodstream, it can address congestion across all nasal regions, giving relief for more widespread congestion. However, its mild stimulant properties (elevated heart rate, jitteriness) mean that those with high blood pressure should be cautious about using this drug. And due to concerns about illicit methamphetamine production, pseudoephedrine is kept behind the pharmacy counter in many places, requiring you to show ID and abide by purchase limits.
+Another strong contender for clearing a stuffy nose is oxymetazoline (e.g., Afrin, Vick’s Sinex), a topical nasal spray that can offer quick, potent relief. Working directly on nasal tissues, it starts reducing swelling within minutes and may last up to 12 hours, as confirmed by MRI-based trials showing a marked drop in turbinate volume (the structures that swell and block air flow).
+8
+In this trial, run by Proctor & Gamble for their own product, the difference between sham and treatment ranged from ~20-50% depending on specific nasal area. Because only a small amount is absorbed into the bloodstream, oxymetazoline spares you from the jitteriness sometimes linked to oral decongestants. The main drawback is a risk of rebound congestion if you use it for more than 3–5 days in a row — an effect known as rhinitis medicamentosa. Most people handle oxymetazoline well for short-term use, but
+it’s crucial to heed the 3-day limit
+to avoid a cycle of worsening stuffiness once you stop.
+If congestion is driven by inflammation — such as with allergies — prescription steroid sprays like fluticasone or budesonide can gradually reduce swelling without causing rebound effects, though they take days or weeks to reach their full potential. Montelukast (brand name Singulair, mentioned briefly above) is also effective for relieving nasal congestion caused by inflammation and doesn’t require such a build-up period. However, some observational data suggest that the use of montelukast may be associated with increased risk of psychiatric concerns such as depression and anxiety in adolescents and young adults,
+9
+so young patients and those at high risk of psychiatric conditions should consider other treatments.
+For adjunct options, you might explore saline nasal irrigation, menthol rubs, or other supportive measures; though in many cases, these may offer
+perceived
+— but not clinically significant — benefits. Most studies in a Cochrane review on nasal irrigation, for instance, found little effect of saline treatment, despite at least one trial in children reporting moderate relief in nasal obstruction.
+10
+Simple interventions such as menthol rubs, humidifiers, or nasal strips may also foster a subjective feeling of clearer breathing, likely due to sensations like cooling or physically lifting the nasal passages, rather than delivering a quantifiable improvement in airflow. Adhesive nasal strips are a safe approach to physically pull open the nasal passages to increase air flow. Any of these supportive measures can be safely combined with pharmacological approaches.
+The bottom line
+Although the FDA maintains rigorous standards for new drug approvals, phenylephrine slipped through under older, less stringent regulations that never required comprehensive proof of effectiveness. This loophole allowed phenylephrine to dominate over-the-counter decongestant shelves for years, even as evidence accumulated that it offered little relief. However, although oral phenylephrine may soon disappear from store shelves, various effective alternatives are available.
+Tailor strategies to your symptoms and comfort level. If you want fast and powerful short-term relief, consider a brief course of oxymetazoline spray. When you need an oral solution that reliably reduces stuffiness over multiple days, pseudoephedrine is an excellent choice, provided you can handle its mild stimulant properties and follow pharmacy regulations. Importantly, you should not combine multiple pharmaceutical decongestants, as doing so increases the potential side effect risk while providing no additional benefit for congestion. Meanwhile, non-drug interventions like saline rinses or nasal strips can be a safer long-term component of your congestion toolkit. Each approach has its pros and cons, but together they offer a wide spectrum of alternatives to phenylephrine, helping you breathe easier.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+1. Office of the Commissioner. FDA Proposes Ending Use of Oral Phenylephrine as OTC Monograph Nasal Decongestant Active Ingredient After Extensive Review. U.S. Food and Drug Administration. November 8, 2024. Accessed February 7, 2025. https://www.fda.gov/news-events/press-announcements/fda-proposes-ending-use-oral-phenylephrine-otc-monograph-nasal-decongestant-active-ingredient-after
+2. Livier Castillo J, Flores Valdés JR, Maney Orellana M, et al. The use and efficacy of oral phenylephrine versus placebo treating nasal congestion over the years on adults: A systematic review.
+Cureus
+. 2023;15(11):e49074. doi:10.7759/cureus.49074
+3. Day JH, Briscoe MP, Ratz JD, Danzig M, Yao R. Efficacy of loratadine-montelukast on nasal congestion in patients with seasonal allergic rhinitis in an environmental exposure unit.
+Ann Allergy Asthma Immunol
+. 2009;102(4):328-338. doi:10.1016/S1081-1206(10)60339-0
+4. Hendeles L, Hatton RC. Oral phenylephrine: an ineffective replacement for pseudoephedrine?
+J Allergy Clin Immunol
+. 2006;118(1):279-280. doi:10.1016/j.jaci.2006.03.002
+5. Meltzer EO, Ratner PH, McGraw T. Oral phenylephrine HCl for nasal congestion in seasonal allergic rhinitis: A randomized, open-label, placebo-controlled study.
+J Allergy Clin Immunol Pract
+. 2015;3(5):702-708. doi:10.1016/j.jaip.2015.05.007
+6. Office of the Commissioner. Part I: The 1906 Food and Drugs Act and Its Enforcement. U.S. Food and Drug Administration. April 24, 2019. Accessed February 7, 2025. https://www.fda.gov/about-fda/changes-science-law-and-regulatory-authorities/part-i-1906-food-and-drugs-act-and-its-enforcement
+7. Horak F, Zieglmayer P, Zieglmayer R, et al. A placebo-controlled study of the nasal decongestant effect of phenylephrine and pseudoephedrine in the Vienna Challenge Chamber.
+Ann Allergy Asthma Immunol
+. 2009;102(2):116-120. doi:10.1016/S1081-1206(10)60240-2
+8. Pritchard S, Glover M, Guthrie G, et al. Effectiveness of 0.05% oxymetazoline (Vicks Sinex Micromist®) nasal spray in the treatment of objective nasal congestion demonstrated to 12 h post-administration by magnetic resonance imaging.
+Pulm Pharmacol Ther
+. 2014;27(1):121-126. doi:10.1016/j.pupt.2013.08.002
+9. Jordan A, Toennesen LL, Eklöf J, et al. Psychiatric adverse effects of montelukast-A nationwide cohort study.
+J Allergy Clin Immunol Pract
+. 2023;11(7):2096-2103.e1. doi:10.1016/j.jaip.2023.03.01010.
+10. King D, Mitchell B, Williams CP, Spurling GKP. Saline nasal irrigation for acute upper respiratory tract infections.
+Cochrane Database Syst Rev
+. 2015;2015(4):CD006821. doi:10.1002/14651858.CD006821.pub3

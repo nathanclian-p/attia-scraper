@@ -1,0 +1,58 @@
+The rising tide of metabolic disease represents one of the greatest health challenges of our time. Metabolic disorders, such as type 2 diabetes (T2D) and non-alcoholic fatty liver disease (NAFLD), are each independently associated with elevated risk of numerous other deadly conditions, including cancer and cardiovascular disease. But metabolic disorders are also highly interconnected, with 50-70% of patients with NAFLD also presenting with T2D.
+1
+Given the health implications of these conditions and the frequency with which they co-occur, interest is growing in whether various metabolic derangements might
+interact
+in their effects on promoting other diseases. Indeed, a study by Kim
+et al.
+recently explored the effects of concurrent T2D and NAFLD on cardiovascular risk relative to each of these conditions in isolation, offering timely insights on a critical question for health in the developed world.
+What they did
+The investigators analyzed data from the Korean National Health Insurance Service, a single-payer system covering more than 97% of the Korean population.
+2
+This comprehensive dataset allowed investigators to examine nearly 7.8 million participants (mean age: 45.9±13.7) over a median follow-up of 8.13 years to assess associations between T2D, NAFLD, and the incidence of heart attacks, ischemic strokes, and all-cause mortality.
+Participants were grouped based on T2D status (defined as fasting glucose >126 mg/dL or use of antidiabetic medication) and NAFLD severity, which was calculated using a fatty liver index incorporating triglycerides, γ-glutamyl transferase, BMI, and waist circumference. NAFLD was categorized as grade 1 (fatty liver index between 30 and 60) or grade 2 (index >60). Individuals with existing cardiovascular disease at baseline or a history of cardiac events within one year of follow-up were excluded from the analysis.
+Cardiovascular risk with metabolic disease
+Among patients with T2D, the majority also had some degree of fatty liver disease (60.79% vs. 31.22% in non-diabetics), confirming a high co-occurrence of T2D and NAFLD as expected. Also as expected, healthy control participants (those with neither T2D nor NAFLD) demonstrated a lower five-year absolute risk of a cardiovascular event than participants with either T2D or NAFLD, with healthy controls showing a five-year absolute risk of 1.03% (95% CI: 1.02-1.04%) compared to a 3.34% (95% CI: 3.27-3.41%) risk for T2D alone and 1.42% (95% CI: 1.40-1.45%) risk for grade 2 (severe) NAFLD alone. But among participants with
+both
+T2D and severe NAFLD, the five-year risk of a cardiovascular event was 4.66% (95% CI: 4.54-4.78%), meaning that someone with both conditions has about a 1-in-20 chance of developing CVD in the next five years. These results thus demonstrate that
+the risk of a cardiac event with both conditions was higher than with either condition alone
+.
+Data on all-cause mortality risk were even more dramatic, as diabetic patients with severe fatty liver disease showed a 5.91% (95% CI: 5.78-6.05%) five-year mortality rate. This risk level was
+nearly five times higher than healthy controls
+, who showed a risk of 1.25% (95% CI: 1.24-1.26%).
+A multiplicative effect
+These findings might seem obvious — having two risk factors is associated with greater risk than having only one. But upon closer examination, we see that the increased risk associated with both conditions is not merely
+additive
+,
+but rather
+multiplicative
+.
+That is, while severe NAFLD alone increased absolute risk of cardiovascular events by 0.42% and T2D alone by 2.34%, the combination increased risk by 3.63% — roughly 36% higher than the 2.66% expected from simple addition of the risks associated with each condition in isolation. This indicates that T2D and NAFLD have
+synergistic
+effects on raising risk of cardiovascular events, a pattern that was also observed even in the context of mild fatty liver disease (grade 1 NAFLD). Grade 1 NAFLD increased cardiac risk to the tune of 1.23% (95% CI: 1.22-1.25%) for non-diabetics but 3.94% (95% CI: 3.87-4.02%) for those with T2D — again, a multiplicative, rather than additive, relationship. Of note, five-year absolute risk also increased exponentially with age.
+The synergistic effect held true for mortality as well. T2D alone held a 3.68% risk (95% CI: 3.61-3.74%; a 2.43% increase over controls), while severe fatty liver disease alone held a 2.09% risk (95% CI: 2.06-2.12%; a 0.84% increase from controls). If you were to simply add the individual increases in risk from each disease together, this would leave us with a total increase in risk of 3.27%, but recall that the actual risk among participants with both conditions was 5.91% – a 4.66% higher risk than controls.
+These findings align with our understanding of metabolic disease as a systemic condition with complex interconnections. While this was an observational study limited to the Korean population, it certainly wouldn’t be surprising, given our current understanding of the underlying biology, if these patterns were found to translate to other demographics. The multiplicative effect observed here supports the concept that metabolic dysfunction represents a foundation for several major chronic diseases, with each condition potentially worsening others through various feedback mechanisms. This study adds quantitative evidence to further support what we’ve long suspected: the whole of metabolic health is greater than the sum of its parts.
+Why this matters for you
+If you’re living with or at risk for type 2 diabetes or fatty liver disease, this study reinforces the importance of addressing these conditions early and comprehensively. They aren’t isolated problems but
+systemic
+issues that are
+deeply connected
+, sharing root causes like insulin resistance and inflammation. Further, this study underscores that even mild fatty liver disease can substantially raise cardiovascular risk, especially when paired with T2D.
+For those without these conditions, the findings serve as a powerful reminder of the importance of prevention. Lifestyle interventions — such as weight management, regular exercise, proper sleep, and blood glucose control (see more in
+AMA #51
+on metabolic health) — can target the underlying drivers of metabolic disease and significantly reduce risk of developing these conditions. By taking action now, you can not only improve your overall metabolic health, but also prevent the onslaught of other health outcomes, such as cardiovascular disease.
+In metabolic disease, the adverse health effects of one metabolic condition appear to
+amplify
+those of another, creating a compounding risk that exceeds the sum of their individual impacts. But here’s the good news: the same strategies that help to
+avoid
+one condition usually help to avoid others as well. By addressing these conditions early with lifestyle modifications and pharmacological interventions, we have the potential to prevent not just one disease, but a cascade of multiplicative health risks.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+1. Stefan N, Cusi K. A global view of the interplay between non-alcoholic fatty liver disease and diabetes. Lancet Diabetes Endocrinol. 2022;10(4):284-296. doi:10.1016/S2213-8587(22)00003-1
+2. Kim KS, Hong S, Han K, Park CY. Association of non-alcoholic fatty liver disease with cardiovascular disease and all cause death in patients with type 2 diabetes mellitus: nationwide population based study. BMJ. 2024;384:e076388.

@@ -1,0 +1,61 @@
+This week, I’m sharing another collection of oldies-but-goodies – pieces from our newsletter archive that address a variety of topics of continued interest to our audience. Some provide additional context for recent or upcoming content; some address frequently asked questions; and some are simply worth repeating for anyone who might have missed them.
+The world of biomedical science is constantly evolving, but in evaluating what has changed, we like to pause now and then to acknowledge information and ideas that have remained relevant despite the passage of time – a celebration of “aging well,” if you will.
+Protecting against hearing loss
+In the few years since this
+piece
+was originally published, I’ve increasingly emphasized the importance of preserving hearing. This emphasis certainly reflects the fact that hearing plays a significant role in maintaining independence and quality of life with age, but it has also arisen in light of mounting evidence of a direct link between hearing loss and cognitive decline. Having devoted some attention to this connection in other
+newsletters
+and an
+AMA
+over the past couple of years, it only seems appropriate to follow up with a reminder of practical recommendations for safe noise limits and strategies for minimizing exposure and consequent hearing damage.
+Does exercise affect lifespan?
+I’ve often described exercise as the closest thing we have to a panacea, as the improvements in stability, strength, and cardiorespiratory fitness that come with regular exercise are strongly associated with reductions in risk of all the most deadly and debilitating chronic diseases, as well as in all-cause mortality. Nearly all of the evidence in favor of the many health benefits of physical activity comes from observational data, which, as we’ve seen many times, generally cannot establish causality.
+This
+newsletter
+highlights a first-of-its-kind randomized trial (the Generation 100 study),
+1
+which reported
+no
+improvement in mortality risk with moderate- or high-intensity training over standard physical activity recommendations, but despite these apparent findings, the study in fact exemplifies one key reason why we might never gain clear interventional evidence for the benefits of exercise despite widespread recognition of their existence and magnitude. Namely, with such overwhelming observational and preclinical evidence that exercise is necessary for health, it would be
+unethical
+to design a trial in which control participants are required
+not
+to exercise. In other words, the scientific world is already so convinced of the benefits of exercise that preventing individuals from engaging in it would constitute willful harm. Thus, this newsletter serves as a reminder of both the importance of exercise and that a lack of interventional data doesn’t
+always
+mean that causality is still in question.
+Hyperbolic discounting: friend and foe of goal achievement
+The human brain is a remarkable product of evolution, but in some cases, certain adaptations that served our early ancestors well have become more problematic for life in the modern world. One such adaptation is a cognitive bias known as hyperbolic discounting, which refers to a hard-wired pattern of bias toward immediate rewards over delayed rewards, even if the delayed rewards are significantly larger. This tendency can easily derail plans for long-term goal achievement (e.g., eat the cake now, or stick to a healthy diet and wait for the bigger reward of seeing a reduction in body fat down the road?), but we can also leverage it to our advantage. This
+newsletter
+offers some practical tips for using hyperbolic discounting to
+help
+us (rather than hurt us) in achieving our long-term goals – for instance, by breaking them into short-term goals or pre-committing ourselves to the healthier choice in advance – a timely reminder as we navigate the holiday season and new year.
+Are “safe” levels of air pollution really safe?
+In light of the increasing size and frequency of wildfires in the US and across the world,
+2
+concerns have grown over air quality and the potential health impacts of airborne particulate matter that arises from these fires and other sources. Thus, we return to this
+piece
+from early 2022, in which we consider current EPA recommended limits for particulate exposure and evaluate evidence as to whether exposures below this limit might still increase risk of morbidity and mortality. Finally, though it may be impossible to
+completely
+avoid airborne particulates, we provide relatively simple strategies for reducing exposure.
+New insights on maximizing protein utilization for muscle protein synthesis
+The vital importance of maintaining muscle mass with age is a common refrain on
+The Drive
+and our other content, as is the necessity of sufficient dietary protein consumption in order to stimulate muscle protein synthesis (MPS) and avoid muscle breakdown. But researchers had long believed that dietary protein only drove these anabolic responses up to a maximum of approximately 3 hours after ingestion – meaning that an individual would need to consume protein several times throughout the day to maximize MPS. Such distribution is challenging for many (and virtually impossible on most time-restricted feeding protocols).
+However, a study published last year challenged this limit to protein-stimulated MPS. In this
+article
+, we discuss the implications of the discovery that anabolic responses can indeed last as long as 12 hours post-ingestion, noting that the type of protein and the matrix in which it is consumed may be critical variables that allow us to take full advantage of this extended window. This piece is worth returning to as a companion to my subsequent podcast interview with the senior author,
+Dr. Luc van Loon
+, and to our recent
+premium article
+on recommendations for protein intake and distribution.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Stensvold D, Viken H, Steinshamn SL, et al. Effect of exercise training for five years on all cause mortality in older adults-the Generation 100 study: randomised controlled trial. BMJ. 2020;371:m3485. doi:10.1136/bmj.m3485
+MacCarthy J, Richter J, Tyukavina S, Weisse M, Harris N. The Latest Data Confirms: Forest Fires Are Getting Worse. World Resources Institute. August 13, 2024. Accessed November 3, 2024. https://www.wri.org/insights/global-trends-forest-fires

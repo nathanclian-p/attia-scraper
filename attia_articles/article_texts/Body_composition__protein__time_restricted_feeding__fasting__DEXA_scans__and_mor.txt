@@ -1,0 +1,105 @@
+In this “Ask Me Anything” (AMA) episode, Peter discusses the importance of understanding body composition and explains how to interpret the most important metrics revealed by a DEXA scan, such as lean muscle tissue mass, visceral adiposity tissue mass, bone mineral density, and more. He discusses common concerning trends in these metrics as well as strategies to address them. He goes through DEXA scan results of both male and female patient case studies and explains the prescribed intervention for each patient. Additionally, Peter answers numerous questions about dietary protein including how much we need, when we need it, and how intake should be divided throughout the day to optimize muscle protein synthesis. Finally, Peter provides his updated point of view on time-restricted feeding and fasting and how his personal approach and recommendations for patients has evolved.
+If you’re not a subscriber and listening on a podcast player, you’ll only be able to hear a preview of the AMA. If you’re a subscriber, you can now listen to this full episode on your
+private RSS feed
+or on our website at the
+AMA #40 show notes page
+. If you are not a subscriber, you can learn more about the subscriber benefits
+here
+.
+We discuss:
+Interpreting DEXA scans: important metrics, radiation levels, and more [2:15];
+DEXA metrics: Bone mineral density (BMD) [12:00];
+DEXA metrics: Visceral adipose tissue (VAT) [14:30];
+DEXA metrics on lean tissue: appendicular lean mass index (ALMI) and fat-free mass index (FFMI) [20:45];
+Concerning trends in BMD, VAT, & muscle mass revealed through DEXA scans [24:15];
+Muscle and lean tissue loss with age and how to overcome anabolic resistance [29:15];
+Female patient case studies: DEXA scan results and prescribed interventions [35:00];
+Male patient case studies: DEXA scan results and prescribed interventions [42:45];
+Protein consumption: recommended daily intake, Peter’s personal approach, timing around workouts, and more [48:15];
+What to look for with protein supplements [53:15];
+Protein intake: optimal timing and how it should be divided throughout the day [55:30];
+Time-restricted feeding (TRF): Peter’s updated perspective [57:45];
+Three strategies for reducing energy intake in over-nourished patients [1:03:15];
+Prolonged fasting: potential benefits and tradeoffs [1:07:15];
+A protein-supplemented version of time-restricted feeding (TRF) [1:09:30];
+Theories about time-restricted feeding (TRF) and its positive influence on sleep and circadian rhythm [1:12:00]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Comments
+This field is for validation purposes and should be left unchanged.
+Δ
+Interpreting DEXA scans: important metrics, radiation levels, and more [2:15]
+What is a DEXA scan?
+DEXA scan is sort of a moving X-ray
+You lay on a table and get a really low-powered X-ray—meaning very little ionizing radiation
+There’s a plate behind the object or the person being X-rayed, and it’s effectively looking at what’s hitting the plate
+The more dense something is in front of the plate, the less electrons that are going to hit the back of the plate
+Is radiation a concern?
+There’s a unit in radiation that we talk about, and it’s usually millisieverts of radiation, and the more radiation to some extent is harmful
+So the U.S. Nuclear Regulatory Commission (NRC) recommends that a person receive no more of 50 millisieverts in a year,
+To put that in context, just living at sea level is something to the tune of one to two millisieverts per year—maybe 4% of your annual allotment
+So if you lived in Colorado, where you’re basically a mile above sea level, it’s about twice that amount that you’re getting
+If you look at something like an East Coast to West Coast flight — it would be about 40 microsieverts
+And again, a microsievert is 1/1000th of a millisievert
+A mammogram would be about 400 microsieverts or a 0.4 millisieverts
+Chest X-ray, depending on the size of the individual, maybe 25 to 50 microsieverts
+Conversely, a CT scan of the chest, abdomen, and pelvis could be up to 20 millisieverts, which would be about 40% of your annual allotment
+All that just to put DEXA in context because it is a virtually radiation-free technology comparatively—it’s typically less than 20 microsieverts
+So a DEXA has no more radiation than even the lowest end of a chest X-ray
+It has 1/20th of the radiation of a mammogram
+And it has about half the radiation of a cross-country flight
+How often should someone do a DEXA scan? ⇒
+This is a type of scan that you would do once, maybe twice per year
+What is DEXA looking at?
+It has the capacity to distinguish effectively three things: i) bone ii) fat, and iii) other
+Those are basically the three buckets that DEXA is distinguishing based on the density of what the electrons are going through
+DEXA gives you four broad pieces of information
+1 – Body fat
+calculated in two ways, but probably the best way to do it is to take the total amount of fat and divide it by the total mass of the individual. And that gives you percent body fat
+Technically, you can subtract out bone mass when you do that and get tissue fat percent. And by the way, that doesn’t differ very much because bones don’t weigh that much, just in case you’re wondering where that discrepancy can be.
+2 – BMD, bone mineral density
+That is both reported in an absolute amount in grams centimeter squared
+And it’s also reported in a z-score
+⇒ Check out the previous
+AMA on bone health
+3 – An estimate of VAT or visceral adipose tissue
+It’s just an estimate based on looking at the amount of fat that is in the torso, above the anterior superior iliac crest, and the ribs, and kind of trying to subtract out what it believes is in the subcutaneous space, and therefore looking at the difference
+visceral fat is a relatively small fraction of total body fat, but it’s important to get that right because it’s so much more indicative of risk
+4 – Appendicular lean mass index (ALMI) and fat-free mass index (FFMI)
+Sometimes it does this directly, it just tells you the appendicular lean mass index, but sometimes you just have to calculate it
+And you can always calculate the fat-free mass index, both of which we’ll talk about
+These are measures of how much lean mass you have or muscle mass in the extremities
+This is always reported as total amount of lean tissue divided by height in kilograms per meter squared
+Both appendicular lean mass index and fat-free mass index, which is just total mass that is not fat, divided by height in kilograms per meter squared
+They’re both reported therefore in kilograms per meter squared
+Summary:
+You essentially get those four things from DEXA and you want to see how you stack up against a population
+The population is typically stratified by your sex and by your age, therefore, we have nomograms for each of these things,
+And that’s how we present the data to a patient and that’s how we therefore make decisions about where you rank and what you need to do
+*Point of clarification when choosing a place to get a DEXA scan
+:
+Not every place you get a DEXA scan will give you those exact metrics (BMD, VAT, ALMI and FFMI), but every place will provide the metrics you need to come to the conclusion of that for yourself
+There is one important exception:
+There are some DEXA places that only give total body z-score for bone, and they don’t break it out individually by hip and lumbar spine
+You can’t make a diagnosis of osteopenia or osteoporosis, or frankly assess BMD clinically without that feature
+In other words, if you just look at total body BMD, the z-score for the total body is too easy to mask what’s going on in those areas
+So if there’s any concern about BMD, you’re going to have to go to a place that is able to give the segmented information
+DEXA metrics: Bone mineral density (BMD) [12:00]
+Overview of BMD
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member

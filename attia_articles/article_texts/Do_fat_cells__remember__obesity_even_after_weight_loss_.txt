@@ -1,0 +1,63 @@
+For anyone who has lost a significant amount of weight, keeping it off can feel even harder than losing it in the first place. Even with disciplined habits and strong motivation, the body often seems to push back. Why?
+A new study sheds light on this frustration, suggesting that fat cells might retain a molecular “memory” of obesity, long after you’ve lost weight.
+1
+Much media coverage has interpreted this discovery as validation for the hopelessness of weight loss, but is this conclusion merited? While this study does offer crucial insights into how biology can subtly influence your metabolic health, a closer examination reveals key questions still remaining.
+The molecular echo of obesity
+Researchers Hinte
+et al.
+explored whether obesity leaves a biological imprint, not by changing DNA itself, but through
+epigenetic modifications
+— molecular changes that alter how the genes of DNA are
+expressed
+. Their findings reveal that obesity might imprint fat cells in ways that linger, even after significant weight loss.
+In their study, the scientists analyzed gene expression in adipose tissue samples from individuals with severe obesity who had undergone bariatric surgery and had maintained at least a 25% reduction in BMI two years after the procedure. They compared gene expression from these samples with samples from participants prior to surgery-induced weight loss as well as with samples obtained from lean, never-obese controls. The results were striking: the previously obese individuals’ fat cells (adipocytes) continued to behave abnormally even two years after weight loss. In
+both
+pre- and post-weight loss adipose tissue samples, pathways related to the metabolism and function of adipocytes were consistently expressed
+less
+, while those related to fibrosis and cell death were expressed
+more
+, than non-obese controls. In other words, certain dysregulations in gene expression associated with obesity
+do not resolve
+with weight loss, such that the cells behave as if they “remember” being obese.
+To dig deeper into the molecular unpinnings of this “memory,” Hinte
+et al.
+turned to mechanistic experiments in mice. Excess weight gain was induced in adult mice by feeding them a high-fat diet for a period of either 12 or 25 weeks, after which the mice were switched to a standard chow diet, resulting in weight loss. As controls, separate groups of mice were fed with standard chow continuously to remain lean throughout the experiment. Even after high-fat-fed mice returned to a healthy weight, fat cells retained epigenetic markers linked to inflammation and impaired fat storage, similar to the phenotype in the human samples. Overall, most of the downregulated (57–62%) and upregulated (68–75%) differentially expressed genes could be explained by at least one of the studied epigenetic factors. The convergence of mouse and human data suggest that adipocytes indeed retain many epigenetic features of an obese phenotype. But what are the practical consequences of this type of “memory” of obesity?
+When these formerly obese mice faced a high-fat diet again, they regained weight nearly
+twice
+as fast as mice who had never been obese. After this second high-fat diet period, the epigenetic signatures could account for 31% of upregulated and 60% of downregulated differentially expressed genes. Adipose tissue also exhibited greater glucose and fatty acid uptake compared to lean controls, as well as showing impaired development of new, healthy fat cells (or “adipogenesis”). Impairments in adipogenesis can lead to dysfunctional fat storage, with lipids spilling into non-adipose tissues (like liver or muscle) and creating an inflammatory environment that often precedes metabolic disease.
+Taken together, these findings suggest that obesity imprints a lasting molecular signature on adipose tissue. Even after weight loss, these changes persist and may predispose the body to respond more aggressively to future high-fat or high-calorie exposure, priming the body for metabolically unhealthy fat storage.
+But does this “memory” actually
+cause
+weight regain?
+Translating fat cell memory into practical insights
+Despite the compelling findings that fat cells show a form of “memory” for obesity, these data don’t show that weight regain is attributable to epigenetic changes within fat cells themselves. It is true that the difficulty keeping weight off after weight loss has a biological basis, and it is currently understood to involve disrupted leptin signaling. Leptin, a hormone secreted by fat cells, signals to the brain that the body is satiated and has sufficient energy stores in the form of fat. After significant weight loss, leptin levels drop sharply, prompting the brain to react as though the body is starving (even if ample fat mass is still present), thereby increasing hunger and food cravings and reducing energy expenditure (for more detail on leptin and its role in weight dynamics, refer to my podcast episode with
+Dr. Rudy Leibel
+). Because leptin originates from fat cells, it is plausible that adipose tissue epigenetic alterations such as those identified by Hinte
+et al.
+could influence leptin dynamics and thus indirectly drive weight regain. However, the present study did not investigate this possibility, so future work is necessary to establish this causal link.
+So if we can’t be sure that epigenetic changes contribute to weight regain, we’re left with the question: what
+does
+this study tell us?
+At most, it suggests that adipose tissue in formerly obese individuals retains a pro-inflammatory, metabolically altered phenotype. So while the maintained features don’t fully explain why people regain weight, they could explain why previously obese individuals
+remain more vulnerable to metabolic diseases
+— even after maintaining weight loss. As an analogy, we can imagine fat cell memory as akin to a knee injury. Injuring your knee might not cause re-injury, but it has the potential lasting consequence of pain and stiffness. As such, it is plausible that conditions such as insulin resistance, fatty liver, and abnormal fat storage are all more likely if this epigenetic “memory” persists.
+Other practical questions remain open: the human data came from individuals who were sufficiently obese to merit bariatric surgery and dropped in BMI by at least 25%, but will similar molecular changes occur with less dramatic weight loss? And do epigenetic changes continue indefinitely, or could fat cells eventually “forget” their past?
+In short: this isn’t a story about weight regulation. It’s a story about metabolic resilience — or the lack thereof — in the post-obese state. And that’s a meaningful message, albeit a very different one from the headlines that have surrounded this study to date.
+Weight loss is still beneficial for health
+At first consideration, the finding that weight reduction fails to reverse various pathological features of obesity can make any weight loss efforts seem hopeless. But it’s important to recognize that this study was not designed to capture the many, many established ways in which reduction in fat mass
+does
+improve metabolic, cardiovascular, mental, and cognitive health. Fat cells might retain a molecular memory, but that is a far cry from indicating that weight loss does not have numerous, profound benefits for health and well-being. Indeed, even the possibility [as yet untested] that these epigenetic changes might increase risk of weight regain should
+reinforce
+, not diminish, your commitment to achieving and maintaining a healthy weight, as maintaining a lean state following obesity will require dedicated effort — but those efforts pay clear, long-term dividends.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Hinte LC, Castellano-Castillo D, Ghosh A, et al. Adipose tissue retains an epigenetic memory of obesity after weight loss.
+Nature
+. 2024;636(8042):457-465. doi:10.1038/s41586-024-08165-7

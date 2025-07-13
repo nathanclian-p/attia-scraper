@@ -1,0 +1,125 @@
+Olav Aleksander Bu is an internationally renowned sports scientist acclaimed for his coaching prowess with elite athletes spanning a diverse range of sports disciplines. In this episode, Olav returns to dive deeper into his groundbreaking work as an endurance coach, exercise scientist, engineer, and physiologist. The discussion explores his data-driven approach to coaching, unpacking key performance metrics like functional threshold power, VO2 max, and lactate threshold, while emphasizing the importance of consistent testing protocols. Olav shares insights on how training methodologies differ across sports, the impact of nutrition on endurance performance, and the evolving strategies for carbohydrate metabolism in fueling athletes for races. Olav concludes with a discussion on the use of artificial intelligence for optimizing training insights and performance.
+Subscribe on:
+APPLE PODCASTS
+|
+RSS
+|
+GOOGLE
+|
+OVERCAST
+|
+STITCHER
+We discuss:
+Olav’s unique, engineering-driven approach to endurance coaching [2:45];
+Definitions and applications of key performance metrics: FTP, power, anaerobic threshold, and lactate threshold [4:45];
+Lactate threshold: factors affecting lactate threshold, testing protocols, and how elite athletes’ efficiency affects their performance and lactate profiles [14:15];
+VO2 max: definition, testing, factors affecting its accuracy, and methods for optimizing oxygen utilization in elite athletes [22:15];
+Testing VO2 max: common mistakes and key factors to consider—preparation, warm-up, timing, and more [34:00];
+VO2 max testing continued: measuring instruments, testing protocols, and advanced insights gained from elite athletes [41:45];
+The influence of supplements like beetroot concentrate and adaptogens on VO2 max and performance [49:45];
+How respiratory quotient (RQ) reflects metabolic shifts during exercise, the challenges in measuring and interpreting RQ in elite athletes, and the physiological adaptations needed for prolonged endurance events [53:30];
+Triathlon training: the challenge of maintaining elite performance across triathlon distances, metabolic efficiency, and swimming challenges [1:03:15];
+How reducing drag in swimming could revolutionize performance and the role of biofeedback tools in optimizing efficiency across various endurance sports [1:07:00];
+How endurance athletes prioritize effort regulation using RPE, heart rate, and power output, and the role of lactate in cardiac and athletic efficiency [1:20:00];
+Lactate’s role as a fuel, buffering methods to combat lactic acidosis, and the variability in athlete response to bicarbonate supplementation [1:25:45];
+The physiological mechanisms behind differences in performance between two elite athletes: lactate transport, cardiovascular efficiency, and compensatory systems [1:33:00];
+Comparing interventions like acetaminophen to enhance performance in high-heat conditions versus natural adaptations to heat [1:37:15];
+Advancements in nutrition science, changes in cyclist body composition, and the impact of fueling strategies on athletic performance and growth [1:39:30];
+Optimizing endurance performance with utilization of carbohydrates, and the potential role of ketones [1:48:00];
+Insights gained from elite performers in the 2020 and 2024 Olympics [1:58:30];
+The use of artificial intelligence to optimizing training insights and performance [2:06:30]; and
+More.
+Show Notes
+Olav’s unique, engineering-driven approach to endurance coaching [2:45]
+Last time we spoke really about the most nuanced ins-and-outs of cardiorespiratory fitness [
+episode #294
+]
+For the person who didn’t catch that episode, can you give the one-minute version of what you do and why you’re certainly one of the few people that would be poised to talk about what we’re going to talk about today?
+Olav’s background is in engineering, and that principle has guided him through his journey in endurance sports (or sports in general)
+He embarked on a journey 15 years ago of extreme in-depth longitudinal studies on 2 of the arguably fittest athletes in the whole world [
+Kristian Blummenfelt
+and
+Gustav Iden
+]
+A large part of that involves technology development simply because he is working at the edge of available information
+In some cases they have to develop technology to allow them to gain a more granular understanding of why things are the way they are
+In many ways, he’s an applied scientist
+Is your laboratory both a
+CPET lab
+and a racing environment where you work with triathletes?
+Yes and no
+Olav works with a mixture of athletes, between triathletes, cyclists, runners, track and field, to even sailors (which is on the explosive end of the domain and not endurance)
+Definitions and applications of key performance metrics: FTP, power, anaerobic threshold, and lactate threshold [4:45]
+We’re going to use a lot of terms today (anaerobic threshold, lactate threshold, VO
+2
+max, FTP). Can you define FTP (functional threshold power)?
+There are a couple definitions, the original definition of FTP (by
+Andy Coggan
+) was to do a 5-minutes all-out effort, have a short pause, then do a 20-minute all-out effort, and then subtract 5% from that to find your FTP
+Typically that would be your 20-minutes all-out effort minus 5%
+The reason for that is to try to get a ballpark idea of your sustainable power output over an hour
+Over the years we have learned  that this is not accurate and there have become different ways of doing it
+Some people do a warmup, then do 20-minutes all-out and subtract 5% (that’s different)
+Peter used to do a gentle warmup for a hour, do 20 minutes, and then subtract 10%
+Peter wants people to understand the spirit of FTP and not get mired in the details
+FTP approximates an energy zone that is more than just an all-out, but clearly less than what you could hold indefinitely ‒ it’s directionally about the highest output you could have for an hour
+There are different ways to approximate it
+Olav adds that
+it’s more important to determine this consistently
+using the same protocol for comparisons
+How does FTP differ from another term that is used interchangeably (erroneously), which is critical power?
+Critical power is determined from doing multiple all-out efforts
+You apply a reverse extrapolation to figure out the critical power
+“
+I like the critical power approach a little bit better
+.”‒ Olav Aleksander Bu
+What is that trying to approximate?
+Critical power is where you try to divide something into 2 zones (that’s an oversimplification)
+To distinguish between non-severe and a severe state
+In the same way as FTP is trying to figure out what power you are capable of staying at for a prolonged period
+Where you get into a territory where small changes have a huge consequence on the duration that you’re capable of holding it
+Where does critical power typically lie in relation to FTP?
+This depends a little on how you test FTP
+How FTP has been used recently had deviated from how the authors originally devised it
+Normally, FTP would be slightly lower in power output than critical power
+But this depends on how critical power is defined
+From a metabolic perspective, critical power sits somewhere between your maximum lactate steady state (anaerobic threshold) and
+VO
+2
+max
+Typically, it’s more close to VO
+2
+steady state (we’ll define that soon)
+Many of these metrics (FTP, critical power) are easiest to think about in terms of cycling because we use power meters. Do the same concepts still apply in swimming and running?
+Yes
+For simplicity, it helps to use 1 condensed number such as
+critical pace
+Testing this in running and swimming is not too different from what you would do in cycling
+However, you have access to more granular information that you lose when you call it FTP or critical power
+If you present only that number, you have taken 2-dimensional information and made it 1-dimensional (meaning that you only look at the Y-axis and you take away the how long you are able to sustain something)
+When you first do
+critical power testing
+, it’s more interesting to know how how far you are able to get over 1 minute, 5 minutes, and 50 minutes
+And then see what happens the next time you do it for 1 minute, 5 minutes, and 50 minutes
+It’s quite crucial to understand what’s happening with the different balances in the body
+Most people think of
+FTP
+as a 20-minute power, so it’s even simpler (more condensed) information
+2 things can normally happen with training
+1 – You increase your general capacity (power and/or capacity are increased)
+2 – At some point we are all time limited, and this is where we need to prioritize what’s more important for us: explosive speed or endurance
+This becomes interesting for how you guide training, understanding what’s happening between different power or pace and durations
+How do we define anaerobic threshold (AT)?
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Guest name
+Olav Aleksander Bu is the chief scientist and co-founder of the companies
+ENTALPI
+and
+SANTARA TECH
+. He has worked as the head of performance for the Norwegian Olympic team in triathlon since 2015. As an internationally renowned coach, he has made solid contributions in revolutionizing the way top athletes train through his unique training methodology “Entalpi”. As head coach for the Olympic and world record-holding champion Kristian Blummenfelt and world champion Gustav Iden, he has been vital in making history within triathlon in recent years. With his athletes and the “Norwegian Method”, he has forever changed the swim-bike-run landscape. Olav has been essential in winning an Olympic gold medal, breaking world records, and sweeping all three podium places in WTS in Bermuda 2018.
+Instagram:
+olavaleksander

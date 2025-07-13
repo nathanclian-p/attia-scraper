@@ -1,0 +1,92 @@
+This audio clip is from
+episode #47 – Matthew Walker, Ph.D., on sleep – Part I of III: Dangers of poor sleep, Alzheimer’s risk, mental health, memory consolidation, and more
+, originally released on April 1, 2019.
+Show Notes
+Sleep and Alzheimer’s disease, and the 4 pillars of sleep [11:15]
+Walker was studying the brainwave patterns in people with dementia but not getting anywhere
+Noticed that different pathologies hit sleep centers, others spared until late in process
+Needed to measure patients while sleeping, not aware: then results took off
+Could sleep disruption be a biomarker of dementia, or even an underlying cause?
+“Based on the weight of the data that we have, the evidence, I think it is causal. I think that sleep, at this stage, may be one of the most significant lifestyle factors that determines your risk ratio for Alzheimer’s disease. I feel the causal evidence for that now in humans and animals is strong enough to make that statement. And I don’t make that statement lightly.”
+Could poor sleep lead to neuronal energy deprivation (like vascular disease and insulin resistance)?
+Sleep impacts oxidative stress
+From
+Matthew’s book
+: “Wakefulness is low level brain damage” and “sleep is the price we pay for wakefulness”
+It’s a tenable hypothesis that evolutionarily, sleep may have been the default state ⇒
+“Perhaps the default state of life on the planet was sleep, and it was from sleep that wakefulness emerged.”
+Alzheimer’s disease
+The first thing is that we see that within insufficient sleep, you get increases in oxidative stress and that leads to a whole cascade of things that lead to neuronal death
+Hippocampus (memory) 1st damaged in Alzheimer’s (forgetfulness)
+⇒
+Remarkable discovery
+: In 2012, Rochester University team found that
+brain has “sewage” system
+(glymphatic system, glial cells) similar to lymphatic system
+Sanitation system that kicks in when in deep sleep and glial cells shrink up to 200% in size make room for cerebral spinal fluid fill brain and wash out “metabolic detritus” of wakefulness
+Figure 1
+. Schematic depiction of the glymphatic pathway. In this brain-wide pathway, CSF enters the brain along para-arterial routes, whereas ISF is cleared from the brain along paravenous routes. Convective bulk ISF flow between these influx and clearance routes is facilitated by AQP4-dependent astroglial water flux and drives the clearance of interstitial solutes and fluid from the brain parenchyma. From here, solutes and fluid may be dispersed into the subarachnoid CSF, enter the bloodstream across the postcapillary vasculature, or follow the walls of the draining veins to reach the cervical lymphatics.
+Image credit: (
+Iliff et al., 2012
+)
+How is this related to AD?
+β-amyloid is one of things washed away, a core protein in Alzheimer’s formation which escalates Alzheimer’s risk
+PET scan to map β-amyloid in brain: obvious difference. If 7 hrs of sleep or less, there is marked difference in amount of β-amyloid built up compared to 7 hrs or more. Just an association, but when animals (rats) deprived of sleep or sleep is fragmented, get immediate β-amyloid buildup
+⇒
+This study in humans
+was the “turning point” for Matthew
+Take deep sleep away from a human for one single night and you can see significant
+increase in circulating levels of amyloid and tau
+the next day
+They still get 8 hours total, but you selectively take away their non REM deep sleep by playing auditory tones
+Their “sewage system” never kicks into gear to clear those proteins out
+What about variation among people: can you miss things you’d see in homogeneous populations?
+For example, the term Alzheimer’s disease was likely based on a
+patient with genetic mutation
+(
+PSEN1 or PSEN2 mutation
+) and early onset (<1% of total Alzheimer’s pop, present in 50s and die by 60, so it’s like a different disease)
+99% of cases of AD are late-onset AD
+APOE genotype ⇒ could these people have different susceptibilities to sleep deprivation?
+The role of β-amyloid in AD
+May not main causal driver, more a result of AD
+But if sleep is more about clearance than generation, it is congruent with idea that other things on back end are driving it primarily
+Alzheimer’s so complicated because genetic predisposition + multiple pathways driving injury to very sensitive organ
+Subtypes of Alzheimer’s
+Likely in the future we will have at least 5 subtypes of AD
+Uncomfortable pinning one path ingredient as causal trigger
+Tau and AD
+Data better for tau predicting cognitive decline
+Tau accumulation can also result from sleep insufficiency
+Fact that find sleep to be a strong predictor for this risk means links between insufficient sleep and this heterogeneous disease are quite strong
+The future of subtypes and AD:
+When we eventually subtype Alzheimer’s, we will likely find that subsets of sleep features are linked to subsets of Alzheimer’s
+e.g., deep sleep deprivation predictive of one subtype, sleep fragmentation predictive of another
+The 4 Pillars of Sleep [26:00]
+Regularity (consistency of schedule)
+Continuity (waking up many times per night?)
+Quantity (in total, and in each stage)
+Quality (how good the “electrical signature” of sleep is; caffeine, alcohol, etc. can have an effect on quality)
+⇒ Alzheimer’s is very complex
+:
+Different sleep features will be predictive of different aspects of the amyloid pathology cascade, for example
+§
+Matthew Walker, Ph.D.
+Dr. Walker earned his degree in neuroscience from Nottingham University, UK, and his PhD in neurophysiology from the Medical Research Council, London, UK. He subsequently became a Professor of Psychiatry at Harvard Medical School, USA. Currently, he is Professor of Neuroscience and Psychology at the University of California, Berkeley, USA. He is also the founder and director of the
+Center for Human Sleep Science
+.
+Dr. Walker’s research examines the impact of sleep on human health and disease. He has received numerous funding awards from the National Science Foundation and the National Institutes of Health, and is a Kavli Fellow of the National Academy of Sciences.
+Dr. Walker is the author of the International Bestseller,
+Why We Sleep
+. It has a singular goal: to reunite humanity with sleep.
+In addition, Dr. Walker is an internationally recognized
+speaker
+, a successful
+entrepreneur
+, and a Sleep Scientist for Google.
+[
+sleepdiplomat.com
+]
+Twitter
+:
+@sleepdiplomat

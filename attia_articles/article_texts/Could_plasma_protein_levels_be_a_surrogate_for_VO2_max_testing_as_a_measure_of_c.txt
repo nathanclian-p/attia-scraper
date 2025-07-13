@@ -1,0 +1,133 @@
+The evidence that increasing cardiorespiratory fitness (CRF) levels positively correlates with improved mortality and morbidity is indisputable. The most accurate way of assessing CRF is by measuring the ventilation rate of oxygen during a maximal exercise test, also known as a VO
+2
+max test. Yet maximal exercise tests have significant overhead, which makes them infeasible to perform regularly on all patients.
+1
+Most people will have to seek out (and pay out-of-pocket for) a VO
+2
+max test unless there is a clinical indication for exercise testing, and even if there
+is
+a clinical indication, a patient’s physical limitations might preclude them from being able to do the test. However, there may be less cumbersome ways to estimate VO
+2
+max on the horizon. A recent study used proteomic analyses to characterize profiles associated with increasing CRF as an alternative to VO
+2
+max tests.
+Proteomics
+Analogous to the other “-omics” fields, the goal of proteomics is to quantify the totality of the types and concentrations of, you guessed it, proteins, to associate protein profiles with a particular outcome, such as CRF. A person’s VO
+2
+max is the integration of high-intensity exercise over a long time, meaning that VO
+2
+max is changeable with behavior. To measure a person’s VO
+2
+max indirectly requires a metric that can reflect changes in exercise over time. Unlike genomics, which evaluates the largely stable genome, protein concentrations are a downstream representation of genetic
+expression
+. Thus, protein concentrations can be more dynamic, giving proteomic analysis a higher potential to be a readout for CRF.
+About the study
+Several recent cohort studies have used proteomics to correlate measured plasma protein levels with cardiorespiratory fitness. However, each study had a single population with limited follow-up time. The recent study, by Perry and colleagues, used the Coronary Artery Risk Development in Young Adults (CARDIA) trial proteomics data to create a model that outputs an integrated proteomics CRF score, using 1569 participants to develop the model and 669 to validate.
+2
+The model was then tested to determine how well the proteomics data correlated with measures of CRF in 12,000 additional participants from three other cohorts (Fenland, BLSA, and HERITAGE trials) and another 22,000 subjects from the UK Biobank to correlate the proteomic CRF score with all-cause mortality (ACM), cause-specific mortality, and incidence of chronic disease. The UK Biobank data were also used to assess the interaction of a proteomic CRF score and polygenic risk scores for chronic diseases.
+How well does the CRF proteomics score predict VO
+2
+max?
+Each of the cohort studies used aptamers, short single strands of nucleotides with high affinities for a protein target, to interrogate the concentration of between five to seven thousand proteins. The UK Biobank data interrogated closer to 1500 proteins using an antibody-based assay. Of the thousands of proteins quantitated, 307 were selected as markers for CRF using penalized regression methods, which “penalizes” or reduces the correlation coefficient as more and more variables (i.e. proteins) are added to the model. Selecting the proteins with the strongest correlation with VO
+2
+max will maximize the number of proteins used while minimizing the penalty of the regression methods. The levels of the selected proteins were then used to develop an integrated proteomic CRF score. Many of the proteins used in the score have mechanistic plausibility to changes in CRF, such as leptin (which is reflective of adiposity), and fatty acid binding protein 4 (FABP4, a protein involved with energy expenditure and fuel utilization).
+The integrated proteomic CRF scores had a high correlation with exercise tolerance test time in the CARDIA validation set (Spearman correlation 𝜌=0.79) and a moderate correlation (Spearman correlation 𝜌=0.67) in the combined subsequent cohorts. The correlation was higher among the subsequent cohorts (BSLA 𝜌=0.68 and HERITAGE 𝜌=0.71) that measured VO
+2
+max from maximal exercise testing. While the Fenland study was the largest included cohort with more than 10,000 subjects, the correlation of VO
+2
+max with CRF scores was lower in this group (𝜌=0.35), likely due to the increased variability in VO
+2
+max estimated from using submaximal exercise methods. In other words, the proteomics CRF score is imperfect but moderately predicts a
+measured
+VO
+2
+max. In contrast, the proteomic CRF score is much less accurate in predicting the suboptimal
+estimated
+VO
+2
+max from submaximal exercise testing.
+Correlation with all-cause mortality
+Although the proteomic CRF scores are modestly correlated with participants’ measured VO
+2
+max, the true value of a blood-based CRF estimate lies in its ability to predict the risk of mortality and morbidity. Regression models were used to correlate the calculated CRF score with mortality and morbidity data from the UK Biobank data (median 13.7-years follow-up). For every standard deviation increase in proteomic CRF score was associated with an 89% increase in risk of ACM (HR=1.89; 95% CI: 1.79-2.00). Decreasing CRF was associated not only with a higher risk of ACM but also with disease-specific mortality, including cardiovascular, respiratory, and cancer-related deaths. This finding aligns with previous research indicating that poor cardiovascular fitness leads to a significant increase in the risk of death.
+In addition to the risk of mortality, lower proteomic CRF scores were also associated with an overall higher
+incidence
+of cardiovascular disease, metabolic conditions, and neurologic conditions. Even in chronic diseases with known genetic components, a high CRF is known to mitigate the risk of disease incidence and progression. For chronic diseases such as type 2 diabetes and Alzheimer’s disease, an estimated polygenic risk score (i.e., risk determined from a combination of genes related to disease) was combined with the proteomic CRF score, and results indicated an additive effect of the two scores: the highest risk of disease was observed in those with low CRF and high genetic risk. For any given polygenic risk score, a higher proteomic CRF score mitigated some of the added risk conferred by genetics, confirming that to some extent, high genetic risk for some chronic diseases can be modified by increasing CRF.
+Although the proteomic CRF score demonstrates a significant decrease in risk of mortality and incident disease with increasing cardiovascular fitness, it is a less dramatic difference than reported in VO
+2
+max studies. The two largest VO
+2
+max studies report a four to five-fold risk increase in ACM between the lowest and highest levels of CRF over 8 to 10 years of follow-up.
+3,4
+The lowest fitness and highest fitness groups are separated by 2.5-3 standard deviations, estimated by the given percentile ranges, which for the same separation would only be an estimated 2.7-fold increase in risk of ACM by the CRF proteomic scores. Although the prediction trend is directionally the same, the
+magnitude
+of ACM risk is lower using the proteomics score, which indicates that it is not as good of a predictor of ACM as measuring VO
+2
+max itself. Each proteomic CRF score was associated with a wide range of VO
+2
+max values and is, therefore, less sensitive to differences in fitness. This is somewhat expected since proteomic CRF scores are based on the concentration of hundreds of proteins. For the two tests to be equivalent, each proteomic CRF score needs to be associated with a narrower range of VO
+2
+max values, comparable to the measurement uncertainty of VO
+2
+max testing, about 2.6 ml/kg/min.
+5
+Proteomic changes with exercise interventions
+To have value for longitudinal monitoring, a proteomic CRF score must be able to reflect
+changes
+in fitness. Using data from the HERITAGE study, in which a 20-week exercise intervention was performed with repeat VO
+2
+max testing, the investigators found that each standard deviation change in the proteomic CRF score corresponded to approximately a 0.84±0.25 ml/kg/min difference in VO
+2
+max. Not surprisingly, the proteins that exhibited the most significant changes during this relatively short follow-up were also correlated with phenotypic changes in metabolic health, such as improved hemoglobin A1c and lower volumes of visceral adipose tissue. The dynamic response of the CRF score to an exercise intervention demonstrates that this may be a plausible way to track CRF with less overhead than repeat VO
+2
+max testing. However, one standard deviation improvement in the CRF score is a relatively large change compared to the <1 ml/kg/min improvement in VO
+2
+max. The HERITAGE study started with sedentary subjects and used an exercise training frequency of three times per week and slowly increased both duration and intensity over time, reaching about Zone 2 intensity for the last six weeks of the trial. The large change in CRF score may be a reflection of acute effects that occur in the first few months of beginning to exercise. Longer-term data with continued exercise is needed to assess any temporal proteomic changes that occur with improving VO
+2
+max.
+Feasibility of clinical translation
+In addition to longitudinal monitoring, a proteomic CRF score could also be used to assess risk in people with injuries or older adults who cannot perform maximal exercise testing. When compared to standard risk factors alone (e.g., age, sex, body mass index, smoking status), the addition of the proteomic CRF score improved risk prediction for mortality, which could make it a useful clinical metric. However, requiring the measurement of hundreds of plasma protein concentrations is a potential barrier to clinical translation. To test whether proteomic CRF scores might still have predictive value when using a smaller number of proteins, the authors conducted an additional analysis using only the 21 most important proteins rather than the full set of 307. While the effect sizes of morbidity and mortality predictions were slightly lower using an abbreviated number of proteins, the abbreviated CRF score still had utility in improving risk prediction over standard clinical factors while being a reasonable test to implement in broader populations.
+Too good to be true?
+There are several (major!) limitations of the current study that need to be addressed before the proteomic CRF score can be clinically implemented. There was a
+five-year
+gap between the conduction of VO
+2
+max testing and blood collection for proteomics analysis in the CARDIA study. Any change, whether improvement or decline, in physical fitness in this period would add variability to CRF estimates. Additionally, the model was developed from people in a limited age range (42-57). Lack of age representation in older and younger adults may reduce the predictive value for adults outside of middle age. A more robust model would be developed from concurrent measurements of proteomics and VO
+2
+max from a wider age range of adults.
+The bottom line
+Cardiorespiratory fitness, as measured by VO
+2
+max, is one of the, if not the, best predictors of lifespan and healthspan that we currently have at our disposal. Predicting morbidity and mortality risk from standard clinical risk factors is improved by the addition of CRF metrics, but VO
+2
+max testing is neither simple, rapid, nor inexpensive, which is why it is not conducted broadly despite its clinical value. Blood-based tests, by contrast, are well suited for longitudinal monitoring and can be performed in patients who cannot perform maximal exercise. Although measuring VO
+2
+max from maximal exercise testing is superior in predicting mortality and chronic disease, a proteomics CRF score obtained through a blood test may be sufficient as a surrogate for VO
+2
+max testing one day, provided the models can more accurately represent current VO
+2
+max.
+For a list of all previous weekly emails, click
+here
+.
+podcast
+|
+website
+|
+ama
+References
+Ross R, Myers J. Cardiorespiratory fitness and its place in medicine.
+Rev Cardiovasc Med
+. 2023;24(1):14.
+Perry AS, Farber-Eger E, Gonzales T, et al. Proteomic analysis of cardiorespiratory fitness for prediction of mortality and multisystem disease risks.
+Nat Med
+. 2024;30(6):1711-1721.
+Mandsager K, Harb S, Cremer P, Phelan D, Nissen SE, Jaber W. Association of Cardiorespiratory Fitness With Long-term Mortality Among Adults Undergoing Exercise Treadmill Testing.
+JAMA Netw Open
+. 2018;1(6):e183605.
+Kokkinos P, Faselis C, Samuel IBH, et al. Cardiorespiratory Fitness and Mortality Risk Across the Spectra of Age, Race, and Sex.
+J Am Coll Cardiol
+. 2022;80(6):598-609.
+Vickers RR Jr.
+Measurement Error in Maximal Oxygen Uptake Tests
+. Human Performance Department, Naval Health Research Center; 2003. https://apps.dtic.mil/sti/tr/pdf/ADA454282.pdf

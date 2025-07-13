@@ -1,0 +1,140 @@
+Check out more content with Dom D’Agostino:
+(July 16, 2018)
+Dom D’Agostino, Ph.D.: ketosis, n=1, exogenous ketones, HBOT, seizures, and cancer
+(June 22, 2020)
+AMA with Dom D’Agostino, Ph.D., Part I of II: Ketogenic diet, exogenous ketones, and exercise
+(July 20, 2020)
+AMA with Dom D’Agostino, Ph.D., Part II of II: Ketosis for cancer and chronic disease, hyperbaric oxygen therapy, and the effect of ketosis on female health
+In part 2 of this special AMA episode,
+ketosis
+expert Dom D’Agostino once again joins Bob Kaplan, Peter’s Head of Research, to discuss the impact of ketosis on various chronic diseases as well as the latest research on the metabolic management of cancer. Dom also discusses the numerous applications of hyperbaric oxygen therapy, provides insights into the application of ketosis on female health and performance, and much more. If you’re not a subscriber and listening on a podcast player, you’ll only be able to hear a preview of the AMA.  If you’re a subscriber, you can now listen to this full episode on your
+private RSS feed
+or on the website
+show notes page
+. If you are not a subscriber, you can learn more about the subscriber benefits
+here
+.
+We discuss:
+Update on Dom’s Press-pulse therapeutic strategy for the metabolic management of cancer [2:05];
+Potential role for vitamin C in cancer treatment [12:45];
+Glutamine targeting in cancer therapy—evidence that the mitochondria in cancer are damaged? [17:45];
+Can a ketogenic diet lessen the toxicity of cancer therapies? [24:45];
+3BP—a promising agent in cancer therapy [26:45];
+The relationship between cancer and ketogenic diets [29:30];
+Hyperbaric oxygen therapy (HBOT)—primer, protocols, and therapeutic uses [33:30];
+Is there a potential role for HBOT in treating COVID-19 patients? [44:15];
+Non-cancer applications of HBOT [47:30];
+The inverse relationship between glucose and ketones [50:30];
+Is a ketogenic diet appropriate for type 1 diabetics? [54:00];
+How ketosis may reduce the risk for Alzheimer’s disease and Parkinson’s disease [1:00:30];
+Ketosis for females—considerations, fertility, performance, and the latest research [1:11:00];
+Low-carb diets during pregnancy and postpartum [1:17:00];
+A high-protein diet to counteract common hormonal issues associated with the ketogenic diet [1:21:15];
+Nutritional tips for remaining metabolically flexible [1:22:45];
+What is one belief Dom has changed his mind about? [1:26:45];
+In utero experiments, and other interesting questions Dom wants to explore [1:29:45];
+The anti-catabolic effect of ketones, cancer cachexia, and nutritional interventions for cancer patients [1:38:30];
+What is the one interesting experiment Dom would do if money and time were no barrier? [1:46:25]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Comments
+This field is for validation purposes and should be left unchanged.
+Δ
+Update on Dom’s Press-pulse therapeutic strategy for the metabolic management of cancer [2:05]
+Dom’s Press-Pulse paper with Tom Seyfried from 2017
+:
+Press-pulse: a novel therapeutic strategy for the metabolic management of cancer
+Dom discussed this paper on his
+first appearance on The Drive podcast
+Tom Seyfried
+has also
+previously discussed
+the Press-Pulse approach with Peter
+The press-pulse concept
+It’s the idea of using ketone metabolic therapy (or therapeutic ketosis) and other modalities to compromise tumor growth and proliferation
+This weakens the tumor making it more susceptible to be killed by other modalities
+⇒ Example, the
+ketogenic diet combined with hyperbaric oxygen therapy
+(HBOT)
+Being in a state of therapeutic ketosis…
+Suppresses insulin signaling, which drives PI-3 kinase, lowers glucose availability to the tumor,
+It elevates ketone bodies which can not be readily utilized by most cancers as a source of fuel
+Ketones also impair antioxidant pathways that the tumors use to defend itself (e.g., the pentose phosphate pathway generates more glutathione in cancer cells and that is being fed by glucose)
+*
+In summary
+—if you reduce glucose availability and inhibit insulin, which suppresses glycolysis, you’re creating a scenario where
+if you give an oxidative challenge with hyperbaric oxygen therapy, you can potentially kill the cancer cells
+The ketogenic diet and hyperbaric oxygen therapy prolong survival in mice with systemic metastatic cancer
+Poff et al., 2013
+In 2013,
+Dr. Angela Poff
+studied the ketogenic diet with hyperbaric oxygen
+Hyperbaric oxygen was delivered at 2.5 atmospheres of oxygen, 90 minutes, 3 times per week
+The ketogenic diet combined with the hyperbaric oxygen protocol proved to decrease tumor burden and extend the lifespan in VM-M3 mouse model (developed by
+Thomas Seyfried
+)
+Tom Seyfriend’s paper:
+The glucose ketone index calculator: a simple tool to monitor therapeutic efficacy for metabolic management of brain cancer
+Supports the idea that a lower the glucose-ketone (ideally in the 1 to 2 range) slows tumor growth and proliferation and makes it more vulnerable to HBOT
+Many different things that you can combine in press-pulse therapy
+A weakened tumor from therapeutic ketosis may be more vulnerable to a number of other cancer specific metabolic drugs—
+PI3K inhibitors (see
+Lew Cantley episode
+of The Drive)
+2-Deoxy-d-glucose—which inhibits hexokinase and inhibits glycolysis
+3-Bromopyruvate (3BP)
+Dichloroacetate (DCA)
+Metformin
+Vitamin C at high doses
+Dom and team has done in vitro
+experiments
+with high doses of vitamin C—presented by
+Janine Deblasi, now PhD student researcher
+,
+SGLT2 inhibitors
+Dom’s
+2017 review
+was more of a preclinical concept, but now there are a number of relevant papers coming out—
+Valter Longo’s
+mouse study
+showed a remarkable effect using a nontoxic combination of a fasting-mimicking-diet (FMD) with IV vitamin C against KRAS mutated cancers
+Another
+paper
+showed a decrease in tumor burden in a woman with metastatic thymoma treated with a ketogenic diet and fasting combined with prednisone and other immune based therapies
+Figure 1. PET image showing decrease in tumor burden in a woman with metastatic thymoma treated with a ketogenic diet and fasting combined with prednisone and other immune based therapies.
+Image credit:
+Phillips et al., 2020
+Tom Seyfried also has been a coauthor on several case studies such as a person with—
+triple negative breast cancer
+and
+Somebody with
+glioblastoma
+Potential role for vitamin C in cancer treatment [12:45]
+Vitamin C as a PRO-oxidant?
+Most people think of vitamin C as an antioxidant
+But high concentrations of vitamin C can be a prooxidant–making it relevant in cancer treatment
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Dom D'Agostino, Ph.D.
+Dom is an Associate Professor at the University of South Florida where he teaches at the Morsani College of Medicine and the Department of Molecular Pharmacology and Physiology. He focuses on neuropharmacology, medical biochemistry, physiology, neuroscience, neuropharmacology. Dom holds a PhD in neuroscience and Physiology. [See full bio at
+KetoNutrition.org
+]
+Twitter:
+@DominicDAgosti2
+Instagram:
+@dominic.dagostino.kt

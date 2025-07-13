@@ -1,0 +1,82 @@
+This audio clip is from our sleep series with Matthew Walker, Ph.D. —
+episode #127 – fasting, gut health, blue light, caffeine, REM sleep, and more
+. This episode originally aired on September 7, 2020.
+§
+Show Notes
+The relationship between fasting and sleep [46:15]
+Sleep issues with prolonged fasting
+Peter says some of his patients who do multi-day fasting (3+ days) will struggle with falling asleep and staying asleep at night (less so with time-restricted eating or just a 1-day fast)
+On flip side, the sleep you DO get actually seems remarkable
+Peter, for example, notices that the following sleep metrics improve:
+Heart rate variability goes up by 25- 50%
+Resting heart rate goes down
+Body temperature goes down
+His best nights in terms of staging—Deep sleep is 25%, REM sleep is 25%.
+What are Matt’s thoughts overall on the relationship between food deprivation and sleep?
+Matt commonly hears the following from fasters—
+They struggle with falling asleep and staying asleep
+However, he also hears in many cases that the lesser amount of sleep doesn’t bother them
+In other words, they don’t feel as sleepy as they normally would (i.e., that little sleep would normally have them feeling miserable)
+What might explain these observations?
+Some animal literature centers around a chemical called
+orexin
+In the middle of your brain there is a tiny structure called the
+hypothalamus
+Despite its size, it has profound effects on almost all of our behaviors, such as:
+Eating behaviors
+Sleep-wake regulation
+Thermoregulation.
+And within the hypothalamus, there is a cluster of cells called orexin cells
+One of their functions is to actually monitor the body’s energy balance by sensing, among other things, concentrations of circulating levels of leptin and ghrelin
+They essentially get a map of the body’s energy balance.
+The brain’s sensing neurons will release the chemical contained inside of them, which is called orexin.
+⇒ See this paper:
+Role of orexin in modulating arousal, feeding, and motivation
+How is orexin relevant to sleep?
+Orexin turns out to be a wake promoting chemical
+So when you release and dump orexin into the brain and the body, it wakes the brain up
+Normally it shuts down at night and that’s part of the mechanism of what we call the sleep-wake switch
+What attenuates orexin during a fed state?
+1—Hunger signaling hormones like leptin and ghrelin will regulate it
+2—It’s also regulated by the master circadian clock called the
+suprachiasmatic nucleus
+Orexin, like many other hormones and chemicals, seem to be under the control of our 24 hour circadian rhythm which is regulated by the suprachiasmatic nucleus
+You can think of this as the central master clock of the brain which also regulates the release of other things (like melatonin from the pineal gland) and essentially giving out the instructions as to when to release wake promoting chemicals like orexin and when to release sleep promoting chemicals
+3—Another part of regulation of orexin is independent of your sleep-wake, it’s actually
+dependent on your body’s energy balance
+When animals go under conditions of starvation, these orexin cells sense the change in the energy balance and they start dumping out more orexin which forces the animal artificially awake for a longer period of time
+The evolutionary reason is because it’s recognizing that the amount of time the animal is normally awake for it to forage for food is not sufficient because it’s starving
+In other words, the
+brain is telling the animal to stay awake longer so it can find more food
+and avoid starvation
+In
+humans
+under conditions of fasting, Matt thinks
+you are giving the body an ancient, evolutionary signal of starvation which causes the brain to dump more orexin into the system
+and therefore your sleep becomes compressed
+*Partial explanation for why sleep metrics improve while in a fasted state:
+It turns out that while the sleep is compressed, the body makes up for that by increasing the quality of that  sleep (something you see with insomnia patients being treated with sleep restriction therapy)
+Important note: This is NOT sustainable over the long term
+But, it does partly explain the observations of
+i) improved sleep metrics, and
+ii) people subjective feeling like they aren’t as sleepy as they typically would expect due to the shorter
+§
+Matthew Walker, Ph.D.
+Dr. Walker earned his degree in neuroscience from Nottingham University, UK, and his PhD in neurophysiology from the Medical Research Council, London, UK. He subsequently became a Professor of Psychiatry at Harvard Medical School, USA. Currently, he is Professor of Neuroscience and Psychology at the University of California, Berkeley, USA. He is also the founder and director of the Center for Human Sleep Science.
+Dr. Walker’s research examines the impact of sleep on human health and disease. He has received numerous funding awards from the National Science Foundation and the National Institutes of Health, and is a Kavli Fellow of the National Academy of Sciences.
+Dr. Walker is the author of the International Bestseller, Why We Sleep. It has a singular goal: to reunite humanity with sleep.
+In addition, Dr. Walker is an internationally recognized
+speaker
+, a successful
+entrepreneur
+, and a Sleep Scientist for Google.
+[sleepdiplomat.com]
+Twitter
+:
+@sleepdiplomat
+Center for Human Sleep Science
+:
+https://www.humansleepscience.com/
+Matthew’s publications
+:
+https://www.humansleepscience.com/p-u-b-l-i-c-a-t-i-o-n-s

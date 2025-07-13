@@ -1,0 +1,212 @@
+George A. Brooks is a renowned professor of integrative biology at UC Berkeley. Known for his groundbreaking “lactate shuttle” theory proposed in the 1980s, George revolutionized our understanding of lactate as a crucial fuel source rather than just a byproduct of exercise. In this episode, George clarifies common misconceptions between lactate and lactic acid, delves into historical perspectives, and explains how lactate serves as a fuel for the brain and muscles. He explores the metabolic differences in exceptional athletes and how training impacts lactate flux and utilization. Furthermore, George reveals the significance of lactate in type 2 diabetes, cancer, and brain injuries, highlighting its therapeutic potential. This in-depth conversation discusses everything from the fundamentals of metabolism to the latest research on lactate’s role in gene expression and therapeutic applications.
+Subscribe on:
+APPLE PODCASTS
+|
+RSS
+|
+GOOGLE
+|
+OVERCAST
+|
+STITCHER
+We discuss:
+Our historical understanding of lactate and muscle metabolism: early misconceptions and key discoveries [3:30];
+Fundamentals of metabolism: how glucose is metabolized to produce ATP and fuel our bodies [16:15];
+The critical role of lactate in energy production within muscles [24:00];
+Lactate as a preferred fuel during high-energy demands: impact on fat oxidation, implications for type 2 diabetes, and more [30:45];
+How the infusion of lactate could aid recovery from traumatic brain injuries (TBI) [43:00];
+The effects of exercise-induced lactate [49:30];
+Metabolic differences between highly-trained athletes and insulin-resistant individuals [52:00];
+How training enhances lactate utilization and facilitates lactate shuttling between fast-twitch and slow-twitch muscle fibers [58:45];
+The growing recognition of lactate and monocarboxylate transporters (MCT) [1:06:00];
+The intricate pathways of lactate metabolism: isotope tracer studies, how exceptional athletes are able to utilize more lactate, and more [1:09:00];
+The role of lactate in cancer [1:23:15];
+The role of lactate in the pathophysiology of various diseases, and how exercise could mitigate lactate’s carcinogenic effects and support brain health [1:29:45];
+George’s current research interests involving lactate [1:37:00];
+Questions that remain about lactate: role in gene expression, therapeutic potential, difference between endogenous and exogenous lactate, and more [1:50:45]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Comments
+This field is for validation purposes and should be left unchanged.
+Δ
+Our historical understanding of lactate and muscle metabolism: early misconceptions and key discoveries [3:30]
+George’s colleague,
+Iñigo San-Millán
+has been a multiple-time guest on this podcast [episodes
+#85
+&
+#201
+], and George’s name has come up many times
+Peter referenced George’s work in his
+book
+It’s great to sit down with him and talk about
+lactic acid
+, which is probably a misunderstood molecule
+Should we think about this as lactate or lactic acid?
+We can say lactate
+The body does not make lactic acid ‒  that has been a hundred-year mistake
+Lactate is not just an innocent bystander; it’s a participant in the process of powering muscle and all cells
+100 years ago,
+Otto Meyerhof
+made a seminal discovery; tell us a little about what that was and how that started a chain of understanding that brought us to where we are today
+In the early 20th centuries, people were trying to unite what was known from fermentation technology to what was coming out of studies of muscle metabolism
+Meyerhof was a great man, a great investigator, and one of the things he did was to quantify how much glycogen is in muscle
+And how when it degrades, it produces lactate (at that time thought to be lactic acid)
+The experimental set up that Meyerhof and colleagues used was half a frog in a jar without oxygen supplementation, without any perfusion that has blood flow
+In this half a frog, the muscles were made to contract, and they contracted until they couldn’t contract anymore
+Then quantitatively, Meyerhof could say, well, there was X amount of glycogen and there was X amount of lactate produced
+Figure 1
+.
+That was really instrumental in developing this pathway
+But if you look at this, this is really not what we are
+These muscles are made in nature to contract once or twice
+The frog hops; it gets away or gets eaten
+The muscle is not representative of us
+But in this situation, they stimulated the muscle to contract
+It stimulated glycolysis to produce ATP
+And at the end the muscle fatigues
+And at the end there was a lot of lactate and there was also a lot of acid
+This is how he came to associate lactate (or lactic acid) production and oxygen lack (because there was no oxygen around here), and this led to the idea of lactic acidosis and the anaerobic threshold and the oxygen debt
+But if you just look at this simple, simple apparatus where we have a half a frog made to contract, this is really the aegis of our
+understanding of how carbohydrate is used in the body
+Most textbooks talk about:
+glycolysis
+goes on to make
+pyruvate
+and when there’s no oxygen →
+lactic acid
+[
+anaerobic glycolysis
+shown in the figure below]
+Figure 2. Anaerobic glycolysis (produces lactate) versus aerobic glycolysis (which occurs in the mitochondrion)
+. Image credit:
+Nature Reviews Cancer
+2004
+This has been a problem, and it spills over not only into muscle physiology, but it spills over into pulmonary medicine
+It spills over into cardiology
+It spills over into nutrition
+We know a lot of things that could not be known at that time
+Peter’s recap
+Some folks couldn’t see that image, but it was basically a schematic of an experiment
+The musculature of part of a frog is put into an anaerobic chamber (with no oxygen), and it’s not perfused (so there was no blood to carry hemoglobin to carry oxygen to the muscles)
+Presumably electrodes were placed somewhere on the musculature within the chamber and the electrodes provided the stimulation for muscle contraction
+The question became: what is it that fueled the contraction?
+Obviously, it’s the glycogen within the muscle
+But if
+glycogen
+(or glucose) is being used to fuel contraction without oxygen, it somehow must be happening in the absence or exclusion of the
+mitochondria
+And so what they were measuring was the consumption of glycogen, the production of lactate, and presumably they could measure the pH in the solution
+Peter is assuming that the pH, which is a measure of acidity, was going down
+Peter asks, “
+And so the interpretation of that observation was what at the time?
+”
+“
+But since then, people have associated the appearance of lactate with oxygen lack. That’s a mistake
+.”‒ George Brooks
+First of all, that was important in terms of quantifying glycolytic pathway precursor and product
+You start with a certain amount of precursor, you wind up with a certain amount of product
+There was no oxygen there
+It’s a stress-strain kind of relationship
+The muscle is stressed to perform, and it uses what it has (glycogen)
+It produces lactate and there is also an
+acidosis
+There’s association with lactate and lactic acidosis and fatigue; this whole thing was boiled up in one knot
+When George learned exercise physiology, it was all those same things: fatigue, acidosis, lactic acid
+Peter asks, “
+In the experiment that Meyerhof did almost exactly 100 years ago, at some point I assume the frog’s leg stopped contracting in the presence of the stimulus. And is it believed that that was due to a depletion of glycogen, or was it believed that the degree of acidosis had become so significant that the acidosis crippled in some way the actin and myosin filaments of the muscle and prevented either further contraction or relaxation?
+”
+Exactly, at that time, people were trying to understand why muscles contracted, and it was just a simple kind of thing like, let’s have tea
+Would you like tea with cream or would you like it with lemon? Oh, I would like with both.
+So right then you get this curdling, the acidosis
+One idea of muscle contraction was that actually the actin and myosin kind of curdle and then they have to uncurdle
+So it was believed that the accumulation of lactic acid, caused fatigue
+When you look back at that experiment, what do you believe was the explanation for why the frog’s muscles ceased to contract in the presence of an ongoing stimulus?
+Peter asks this so people can understand how George thinks about this problem today based on the entirety of his work
+George thinks there was
+ATP
+and
+creatine phosphate
+depletion in this anaerobic environment
+Peter asks, “
+By the way, in an experiment of that nature, how much does the pH go down?
+”
+George doesn’t think they reported pH, but he pH would probably go just a bit under 7
+Peter explains for folks listening who aren’t familiar with
+pH
+, the number can be as low as 1 and as high as 14 [shown in the figure below]
+Physiologically in a mammal, it’s very hard to get too much below the high 6s and too high above the high 7s
+Physiology tends to exist in the 7s with 7.38 being perfectly neutral
+The higher the number, the more basic, and the lower the number, the more acidic
+Figure 3. The pH scale
+. Image credit:
+Natural Bio Health
+A funny anecdote (maybe not so funny), but common story when Peter was training in surgery
+When trauma patients are brought into the trauma bay, one of the pieces of data that the paramedics have on the way in is the pH
+They can measure blood pH very quickly and easily, and that became a way that we would triage readiness in the ICU and in the operating room
+When gunshot wound victims or stab victims were being brought in, even if they were alive, if their pH was seven or 6.9, we knew that it was very unlikely that they would survive even if their heart was still beating at the moment that that was reported to us
+Peter can think of 1 case that was a miraculous case where a guy was brought in with a pH of 6.9 on arrival and he managed to survive
+It is funny how the body really, really regulates acid-base balance
+Let’s fast-forward a little bit ‒
+Meyerhof
+won the
+Nobel Prize
+for that observation in 1922
+We sometimes refer to him as the father of physiology or the father of muscle physiology or the father of exercise physiology
+He was awarded it along with
+A.V. Hill
+, and A.V. Hill is a very famous name in physiology
+Peter doesn’t remember exactly when
+Warburg
+made his seminal observation, but he’s guessing it was about 2 decades later (in the 1940s)
+Otto Warburg was actually Meyerhof’s professor in Germany
+The
+Warburg effect
+with
+cancer cells
+: cancer cells will take sugar (glucose) and make lactate, and they do that under fully aerobic conditions (under room air, where the oxygen is actually higher than it ever is in the body)
+And these cancer cells will just break down carbohydrate, break down glucose
+Quantitatively, you wind up with this lactate and acid
+If you look at the glycolytic pathway, at the end is this pyruvate anion and a proton NADH, (this redox carrier), it gives us lactate anion and
+NAD+
+So the last step in glycolysis does not make acid; it’s actually an alkalizing step
+[see the figure below, since NAD+ carries the H+ ion, acid is not produced]
+Figure 4. Glycolysis and the production of lactate
+. Image credit:
+Frontiers in Ophthalmology
+2023
+But in metabolism, there’s a lot of things that can give rise to acid, and some of the intermediates in the glycolytic pathway are acids
+There’s lactate and there’s acid
+Peter’s observations in the ICU to be concerned about pH is really important
+Sometimes people also measure lactate
+In
+sepsis
+or other conditions
+Lactate is used as a surrogate for something that was of greater concern in the ICU: pH balance
+Fundamentals of metabolism: how glucose is metabolized to produce ATP and fuel our bodies [16:15]
+At a high level, this is what Peter tells a patient:
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+George A. Brooks, Ph.D.
+George Brooks earned his PhD at the University of Michigan where he studied mitochondrial energetics under John Faulkner. He then completed a postdoctoral fellowship in muscle biology at the University of Wisconsin. Dr. Brooks is a Professor of Integrative Biology at UC Berkeley and the director of the Exercise Physiology Lab.
+Dr. Brook’s research focuses on metabolic adjustments in response to exercise. He was the first scientist to propose the “lactate shuttle” theory in the 1980s, positing that lactate was actually a fuel source, rather than an unfortunate byproduct of exercise. He works in both animals and humans to elucidate the pathways and controls of lactic acid formation and removal before, during and after exercise. In addition to basic research, he collaborates with others to identify the causes and develop treatment modalities for conditions in lactic acidosis in persons suffering from injuries and infections such as traumatic brain injury, heart failure, inflammatory conditions, and HIV infection. He also conducts research on the “crossover concept” to understand how the body selects combinations of fatty acids, carbohydrates and amino acids for use during sustained exercise and other conditions. This work investigates the effects of exercise training, gender, age, and high altitude on substrate utilization. The results have direct implications for the prevention and management of metabolic inflexibility that contributes to obesity and type 2 diabetes in youth and aging.
+Dr. Brooks has published more than 400 manuscripts throughout his decades-long career in exercise physiology research and has authored two textbooks, including
+Exercise Physiology: Human Bioenergetics and Its Applications
+. [
+Berkeley Research
+]

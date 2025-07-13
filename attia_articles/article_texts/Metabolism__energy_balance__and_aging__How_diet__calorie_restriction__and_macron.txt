@@ -1,0 +1,220 @@
+Eric Ravussin is a world-renowned expert on obesity, metabolism, and aging whose pioneering research has shaped much of what we understand today about energy balance and caloric restriction. In this episode, Eric shares insights from his cutting-edge work on energy expenditure—a critical factor in understanding how our bodies regulate weight and appetite. He discusses methods for measuring energy output, energy balance, food intake, and appetite regulation, and explores key studies on macronutrient manipulation. Eric then delves into the CALERIE study on caloric restriction, highlighting insights related to biomarkers of both primary and secondary aging. The conversation also covers the potential of GLP-1 agonists to replicate these effects and looks ahead to how AI and technology could transform metabolic research in the coming years.
+Subscribe on:
+APPLE PODCASTS
+|
+RSS
+|
+GOOGLE
+|
+OVERCAST
+|
+STITCHER
+We discuss:
+Eric’s background and current work metabolism and measuring energy expenditure [3:00];
+The science behind metabolic chambers for measuring energy expenditure, and the complexities of indirect and direct calorimetry [8:00];
+The body’s regulatory systems for maintaining energy balance and the primary influence of energy intake on body weight [18:30];
+The epidemic of obesity and a discussion of resting metabolic rate [24:45];
+The impact of exercise, appetite, gut hormones, and eating patterns on weight regulation [28:45];
+Experiments looking at how macronutrient composition affects energy expenditure [38:45];
+The challenges of studying diet in real-life settings, the potential of personalized nutrition, and how public health policy could play a role in guiding nutritional habits [51:00];
+The importance of protein in the diet, the limitations of dietary data collection, and how AI could potentially transform nutrition science [1:08:15];
+How Eric’s interest in caloric restriction (CR) began with Biosphere 2, metabolic efficiency’s role in aging, and goals of the CALERIE study [1:15:15];
+The CALERIE study: exploring the real-world impact of caloric restriction [1:28:00];
+Notable findings from the CALERIE study after two years: sustained weight loss, participant retention, and more [1:40:00];
+The effect of caloric restriction on the hallmarks of aging [1:47:00];
+The challenge of applying CR to the general population, the potential of drugs and exercise to mimic the effects of CR [1:55:45];
+Upcoming study comparing caloric restriction to time-restricting eating, and Peter’s takeaways from the discussion [2:02:45]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Email
+This field is for validation purposes and should be left unchanged.
+Δ
+Eric’s background and current work metabolism and measuring energy expenditure [3:00]
+Eric and Peter worked together at NuSI
+Peter was part of an organization called
+NuSI
+, and Eric was 1 of 6 of the principal investigators for a very audacious experiment and part of something called the Energy Balance Consortium, along with
+Kevin Hall
+,
+Steve Smith
+,
+Rudy Leibel
+,
+Mike Rosenbaum
+, and
+Marc Reitman
+It was a once in a lifetime opportunity to do something that had never been done before, which was a multi-center indirect calorimetry inpatient study that was really aimed at trying to at least pilot what would be necessary to do the definitive experiment to answer a question which has to do with the nature of calories and weight gain
+For 4 years, they had the pleasure of working together and really getting into the weeds of how one technically tries to measure these things and how difficult it is and all of the challenges and potential pitfalls of this
+Give folks a sense of your life’s work and your life’s passion
+Eric has been at
+Pennington Biomedical Research
+for 24 years
+He was the Associate Executive Director for Clinical Science
+He joined Pennington after spending 2.5 years at Eli Lilly
+Before that, he was 15 years at the NIH (intramural research)
+“
+The reason I came to this country was to build the first metabolic chamber or indirect calorimetry chamber to measure energy expenditure in people over periods of hours and days.
+”‒ Eric Ravussin
+Tell folks a little bit about what it means to be intramural versus extramural NIH
+The NIH budget is about $33-35 billion, but there is a group which is intramural
+Most of the money (80-85%) goes to all the academic institutions doing biomedical research in the country (extramural research)
+In intramural research you are an employee of the NIH, you work at the NIH campus, and your funding comes from the organization that you work for
+Eric was intramural based in Phoenix Arizona
+He worked a lot with the Pima Indians ‒ they have the highest prevalence of type 2 diabetes and the second-highest prevalence of obesity in the world
+What Eric likes about intramural research is that you are judged after the fact
+You have a budget and you can do whatever you want, and every 3 years you are judged
+Whereas extramural, we chase these grants and you have to basically provide preliminary data, hypothesis, and you are judged before doing the study
+Eric thinks you can be much more creative being intramural than extramural
+Pennington is a pretty unique institution
+It’s becoming the largest institution for research in nutrition and obesity
+We concentrate mostly on nutrition and obesity
+We have about 500 people working at Pennington and everybody is doing research
+We have no formal teaching (yes, we have postdocs and things like that)
+We do research and we have maybe a functional budget of $80 million per year
+50% or 45% of that is NIH extramural money coming to Pennington
+We do some sponsored project for pharma or biotech
+We have grants from associations like the American Diabetes Association or American Heart Association and so on
+We do basic science, clinical science, and population science
+Basically, which is to reach the community and implement some of the discovery into the community
+The science behind metabolic chambers for measuring energy expenditure, and the complexities of indirect and direct calorimetry [8:00]
+There’s 2 things:
+indirect calorimetry
+and
+direct calorimetry
+You generate your energy metabolism or ATP by oxidative process, and you oxidize carbohydrate, fat, and a little protein
+The build up these ATPs which are used for generation or maintenance of the cells or activity and so on
+Now, when you have this metabolism, you produce heat
+If you have no exercise, no external work, all the energy which is provided in generating this ATP is lost as heat
+And this is direct calorimetry
+Eric was fortunate when he did his Ph.D. back in Lausanne, Switzerland to have access to both indirect and direct calorimetry
+You can really do fantastic studies
+We did a study of measuring
+in vivo
+what we call the P/O ratio
+How many oxygen do you need to generate 1 ATP and all these kinds of things, by the combination of these 2 techniques
+When you’re doing
+direct calorimetry
+on something like food, if you want to know the energy content of food, you can burn the food and measure the heat
+It is also possible to do direct calorimetry in humans, and Eric was fortunate to be at a place which had 1 of the 2 direct calorimeters
+At the time, there was one in Bethesda (it doesn’t exist anymore, nor does the one in Switzerland)
+A
+direct calorimeter
+a little bit bigger than a cubic meter box, and you recover all the heat and you have dry heat by convection and you have a gradient layer capturing the heat production
+You collect the evaporative heat losses from perspiration, expiration and so on, and you merge all that and you have a complete heat balance of the person
+With direct calorimetry, we measure these 2 kinds of heat, and this is basically equal to your metabolic rate
+You generate energy by oxidation of substrate and the byproduct is heat
+And without exercise or external work, energy in is equal energy out
+Eric did a lot of these studies during his Ph.D.
+Now going to
+indirect calorimetry
+, this is an easier one than direct
+A metabolic chamber is like a hotel room in which you can live 1-2 days
+Peter stayed in one of these rooms at Pennington in Baton Rouge
+Here we measure oxygen consumption and CO
+2
+production
+Oxygen is used to oxidize the substrate; it produces CO
+2
+and water
+Knowing oxygen consumption and CO
+2
+production, you can calculate the energy expenditure or the energy generated by this oxidative process; and you can also calculate the substrate that you oxidize
+If the ratio between the VCO
+2,
+the CO
+2
+production and the oxygen consumption is 1, you oxidize carbohydrate
+If the ratio is 0.7, you oxidize fat
+And protein is something in between (0.82) depending on the protein
+Peter summarizes
+:
+By measuring just these 2 things: the concentration of oxygen consumed and the rate at which it’s being consumed, and the same with the production of CO
+2
+You can infer the
+total energy consumption
+(total calories consumed, kcal)
+And by looking at the ratio of VCO
+2
+and VO
+2
+,  you can calculate what fraction of that is coming from
+oxidizing carbohydrate versus fat
+Peter explains, “
+Having spent probably a total of eight days of my life inside metabolic chambers across a period of a couple of years, it never ceases to amaze me, never just how accurately these rooms work
+.”
+Peter uses an indirect calorimeter all the time
+measuring VO
+2
+max
+It’s basically the same technology, but it’s easier because you’re strapping the mask to your face, so you have perfect access to exactly the O
+2
+consumption and the CO
+2
+production
+It’s doing the exact same calculation
+It’s going to tell you exactly how much energy you’re utilizing and where the substrate comes from
+In that situation, you’re interested in knowing the maximum amount of VO
+2
+or O
+2
+consumption
+What would you estimate is the error on the hotel room sized indirect calorimeter where you don’t have the luxury of just slapping a mask to the person’s face for a few days?
+When Eric was at the NIH, they did a lot of reliability testing in the same person
+You can also calibrate the system with standard gas that you know the exact concentration
+You can also mimic someone by burning alcohol or propane and you can vary the rate of burning
+When Eric did a study with 4 different chambers, they validated the chambers, ones against the other one, and we accepted to have 3% deviation for CO
+2
+or oxygen
+Based on stoichiometry, you know exactly how much alcohol or propane you burn, you know how much CO
+2
+should be produced, and how much oxygen has been consumed
+And this is what we did
+The indirect calorimeter is very, very precise and you don’t have the inconvenience of the mask
+You couldn’t measure with a mask for 24 hours or 2 days
+When Peter as in that chamber for a couple of days (on separate occasions), we were trying to replicate his life as much as possible
+He had 3 meals prepared
+He had an exercise bike, weights, and equipment
+We were very interested in seeing how that would compare with what we knew Peter was experiencing in the outside world based on when we could put a mask on him.
+We also spent about 10 days using
+doubly labeled water
+(which we’ll talk about at some point)
+All of that is to say that scientists such as yourself have some pretty high fidelity tools to measure energy expenditure; but it comes with a caveat, which is it has to be done under this very controlled setting
+These people need to be in a metabolic ward inside a chamber
+Which  is basically a NASA grade gas chamber with O
+2
+and CO
+2
+sensors
+Peter asks, “
+How many sensors… would be in a particular chamber?
+”
+We don’t need many because we need to homogenize the air in the room
+We have to measure humidity
+We have to measure temperature because you have to do this correction, what we call STPD, which is standard pressure, et cetera, to calculate the energy generated by this oxygen
+It’s quite phenomenal the accuracy of those ‒ the accuracy or the precision is about 2.5%
+Now if you repeat yourself 5x and myself, there’s a little bit more variability because we vary from one day to another one and so on
+But this is quite amazing that we can calculate so precisely your energy expenditure during a day or two days and so on
+The accuracy of calories consumed
+…
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Eric Ravussin, Ph.D.
+Dr. Eric Ravussin is a world expert in the conduct of translational research in obesity and type 2 diabetes. Over his more than 35 year career, he has conducted numerous clinical investigations on measures of energy expenditure, body composition, carbohydrate metabolism and biomarkers of aging in health and disease states. More specifically over the past 20 years he has established a wet lab studying skeletal muscle and adipose tissue cross talks and the relationship of these two tissues on inflammation, nutrient partitioning and insulin sensitivity. He has published more than 450 peer reviewed manuscripts in the field of obesity, type 2 diabetes and aging. He has mentored more than 60 postdoctoral fellows. Over the past 15 years he has conducted translational research on the impact of caloric restriction on biomarkers of aging, looked at the impact of weight loss and weight gain (overfeeding) in the cross talk between adipose and skeletal muscle and has conducted randomized clinical trial on the impact of dietary, activity, surgical and pharmacological interventions on insulin sensitivity.
+Dr. Ravussin is the director of the Nutrition Obesity Research Center at the Pennington Biomedical Research Center at Louisiana State University. There he serves as the Douglas L. Gordon Chair in Diabetes and Metabolism and is the Boyd Professor of Metabolic Chambers and Human Translational Physiology. [
+Pennington Biomedical Research Center
+]

@@ -1,0 +1,164 @@
+Andy Galpin is a Professor of Kinesiology at California State University at Fullerton, where he studies muscle adaptation and applies his research to work with professional athletes. In this episode, Andy returns to the podcast and continues the conversation about training for longevity. He examines the training practices of powerlifters, Olympic weightlifters, Strongmen/women, CrossFit athletes, and sprinters in order to extract insights that can be applied to the individual wanting to optimize for longevity. Andy goes into detail about exercise load and repetition, training volume, the importance of learning proper movement patterns, the advantage of working to technical failure instead of the number of reps, and much more. Andy ties the discussion together by providing a hypothetical training plan for an individual wanting to optimize for longevity and offers advice for avoiding injury.
+Subscribe on:
+APPLE PODCASTS
+|
+RSS
+|
+GOOGLE
+|
+OVERCAST
+|
+STITCHER
+We discuss:
+Review of the function and organization of skeletal muscle [3:15];
+Review of muscle fiber types [9:30];
+Hypertrophy: changes in muscle fibers and the underlying mechanisms that make a muscle grow [19:30];
+Defining sarcoplasmic hypertrophy and how it relates to the number of reps in a set [30:15];
+Training for maximum strength: what we can learn from powerlifters and a hypothetical training plan [32:45];
+Ideal reps, volume, and load for the powerlifter [44:45];
+What should powerlifters do on their off days? [56:45];
+Are there consequences of powerlifting on long-term health? [1:02:00];
+Defining Olympic weightlifting: a test of power [1:04:30];
+Training principles of Olympic weightlifting [1:07:45];
+Tracking power output when training [1:17:15];
+Frequency of training for Olympic weightlifting [1:22:15];
+How post-activation potentiation (and the opposite) can improve power training and speed training [1:24:30];
+The Strongman competition: more breadth of movement, strength, and stamina [1:32:00];
+Training principles of Strongmen and advice for someone new to the Strongman competition [1:36:45];
+CrossFit: a combination of weightlifting movements, endurance, and circuit training [1:50:15];
+Learning from elite athletes, heart rate recovery, V02 max, and other metrics [1:58:45];
+Optimizing towards being a well-rounded athlete as opposed to a specialist [2:09:45];
+What we can learn from the sprinters about speed, acceleration, peak velocity, and technique [2:17:45];
+A training plan for the “centenarian athlete” [2:24:30];
+Debunking some training and exercise myths [2:33:00];
+The “do nots” of training and tips for avoiding injury [2:34:15]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Name
+This field is for validation purposes and should be left unchanged.
+Δ
+Review of the function and organization of skeletal muscle [3:15]
+Let’s begin with a review of the major topics covered last time
+The discussion last time was pretty technical; today’s discussion will be a little less so, but will assume that the viewer/ listener has some familiarity with what was talked about
+What cells of muscles look like and how they function at the big, whole-muscle level
+The term muscle refers to a collective group
+For example, your quadriceps (thigh) is made of four muscles (that’s why it’s called a quad)
+The biceps is multiple bicep muscles, orientation and insertion
+In general, the way that humans move is, muscles will contract, and the end of muscles will come together to form a tendon
+Those tendons connect to bone
+When you contract muscle, it pulls that connective tissue (the tendon), that pulls the bone, and you move
+You’ve got muscles throughout your body up and down, and they have different orientations, and they have different responsibilities
+Some are meant to be what we call antigravity; this is to keep you up all day, and they don’t produce a lot of force for speed, but they’re meant to be non-fatigable
+And others are the opposite, they provide explosion, power, propulsion
+For example, consider the
+calf muscles
+; the
+gastrocnemius
+, that big one in the middle; if you point your toe to your face that pops out at you
+That’s meant to be for power, sprinting, and jumping
+The one that’s actually lower near
+soleus
+is meant to be on all day, so that you can stand, walk all day, and not get fatigued
+This despite the fact that both of them come together to form the Achilles that wraps around the bottom of your heel, inserts the bottom of your foot, and that’s what makes your foot go up and down
+In general, muscle is meant to create movement
+Muscle actually does a lot of other things though that are vital to health, including
+pumping fluid up and down
+Because of gravity, blood will pull towards the lower part of your body
+Muscle contraction is in large part what squeezes the blood back up into your heart, and into your lung
+Muscle is the
+amino acid reserve
+That’s the place where you store amino acids, so that you can use them to create red blood cells, or immune cells, or anything else
+Muscle is also the primary place actually where you
+regulate blood glucose
+, including glucose/ glycogen storage
+Andy could go on and on, but muscle in general has a very important function in your body for movement as well as signaling
+The last part to acknowledge here is, we typically will call muscle an
+endocrine organ
+, meaning it will send signals out through the body, through what are called
+myokines
+, or what some people will call
+exerkines
+(if they’re coming out as a responsive exercise)
+That’s sending signal to your liver, or kidney, or brain, or lung, or anywhere else
+At the level of the individual muscle
+Each muscle is actually made up of billions, if not more individual muscle fibers
+Muscle fibers or cells, myofiber, cell fiber ‒ these can be used interchangeably
+Figure 1. Diagram of a skeletal muscle fiber
+. Image credit:
+Wikipedia
+Muscle fibers are basically long cylinders
+If you think about this like a ponytail
+A ponytail is nothing but a collective, a whole bunch of individual hairs; and this is how you can think of skeletal muscle
+Skeletal muscle
+is a long, long cylinder; it is very strong
+Cardiac
+, and
+smooth muscle
+are quite different
+The function of the muscle fiber is to contract
+If you look at the whole muscle, it is surrounded by a bed of capillaries
+As
+blood goes into a muscle
+, it comes in the big artery, then it’s going to go through a bunch of capillaries, and those capillaries are really surrounding, and mixing in and out that whole ponytail
+Capillaries all over, and so they’re circulating around the individual fibers
+That’s going to get you nutrients in (like glucose or anything else), and get waste products out (like carbon dioxide, etc.)
+Visualize that big long cylinder, the capillaries are around it, and you have a whole bunch of
+organelles
+that do things
+Probably the most pertinent is what are called
+nuclei
+, these are called
+myonuclei
+If you remember basic biology, the nucleus is what controls any cell
+Most cells in the world have one nucleus, but skeletal muscle is unique, because there are an infinite number of nuclei spread throughout the duration of the muscle, and that gives you a lot of what we call plasticity
+The more nuclei you have, the more control centers you have, the easier it is to respond to stressors, damage, adaptations, etc.
+That’s why skeletal muscle is so adaptable to either good stimuli or bad stimuli
+An example of bad stimuli would be the case of spaceflight, or physical inactivity
+In addition to that are your
+mitochondria
+, and that’s what’s going to be able to produce a lot of your cellular energy
+Finally, you’ve got what we call the contractile units
+The things that make your muscle fibers
+contract
+together and squeeze on top of each other are
+actin
+, and
+myosin
+The figure below shows actin in green and myosin in purple
+These are two molecules that reach up, the myosin grabs the actin, and pulls it together, smashes it literally on top of the cell
+That’s why, when you flex a bicep muscle, it actually gains height, because you’re stacking things on top of each other, and that requires the muscle to go vertically
+Figure 2. Macro view of muscle contraction
+. Figure credit:
+OpenStax Anatomy and Physiology Figure 10.10
+Review of muscle fiber types [9:30]
+Can you explain, at that cellular level, what the difference is between the gastrocnemius and the soleus?
+Earlier Andy drew a contrast between the soleus and the gastrocnemius, and alluded that one is slow to fatigue and one is fast to fatigue (the figure below identifies these muscles in the calf)
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member
+Andy Galpin, Ph.D.
+Andy Galpin earned his undergraduate degree in Exercise Science at Linfield College where he played football and won a DIII National Championship. He earned his Master’s degree in Human Movement Sciences from the University of Memphis and his Ph.D. in Human Bioenergetics from Ball State University. Andy is a Professor of Kinesiology at California State University, Fullerton where he is also the Director for the Center for Sport Performance. He is an active member of the National Strength and Conditioning Association & American College of Sports Medicine. He serves on the advisory board of many private and non-profit companies in the area of human performance. He is the author of the best-selling book
+Unplugged
+and routinely speaks at conferences, clinics, and podcasts around the globe. Andy also works as a high performance coach and consultant to numerous professional athletes (MMA, Boxing, Wrestling, BJJ, MLB, NFL, etc.). [
+CSU Fullerton
+]
+Website:
+andygalpin.com
+Instagram:
+@drandygalpin
+Twitter:
+@DrAndyGalpin

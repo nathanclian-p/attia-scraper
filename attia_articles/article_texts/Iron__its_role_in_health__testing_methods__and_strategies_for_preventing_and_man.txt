@@ -1,0 +1,114 @@
+In this “Ask Me Anything” (AMA) episode, Peter delves into the crucial yet often overlooked topic of iron and iron deficiency. He explores why iron is indispensable for the body, explains the repercussions of iron deficiency, and sheds light on the prevalence of this issue and who is most susceptible. Peter outlines strategies for increasing iron levels, covering dietary iron, supplementation, and infusion options, while also discussing the suitability of each approach for different individuals. Shifting gears, Peter tackles rapid-fire questions on creatine and sodium, as well as inquiries related to his book.
+If you’re not a subscriber and listening on a podcast player, you’ll only be able to hear a preview of the AMA. If you’re a subscriber, you can now listen to this full episode on your
+private RSS feed
+or on our website at the
+AMA #58 show notes page
+. If you are not a subscriber, you can learn more about the subscriber benefits
+here
+.
+Play
+#297 - AMA #58: Iron: its role in health, testing methods, and strategies for preventing and managing iron deficiency
+#297 - AMA #58: Iron: its role in health, testing methods, and strategies for preventing and managing iron deficiency
+1x
+15s
+30s
+0:00
+17:57
+We discuss:
+Overview of today’s topics and the importance of understanding iron levels in the body [1:45];
+The importance and ubiquity of iron in the body, and the role of the protein called ferritin [4:30];
+The processes of iron absorption, utilization, and transportation [9:30];
+Options for testing iron levels and how to interpret the results [13:45];
+What does it mean to be iron deficient and how is it different from anemia? [17:15];
+Symptoms of iron deficiency and/or anemia [22:15];
+How prevalent is iron deficiency and who is most susceptible? [24:30];
+The importance of consuming an adequate amount of iron daily to prevent deficiency [30:30];
+The best way to improve iron levels for someone who is deficient [34:45];
+Iron supplementation: various formulations and potential side effects [37:45];
+Intravenous iron infusion as an alternative to oral supplements — plus restless legs syndrome and other topics [42:00];
+Iron supplementation: who should and should not consider it [44:00];
+Peter’s approach to creatine and his pre- and post-workout supplements [50:15];
+Navigating sodium intake: effect on blood pressure, who should use precaution, and other considerations [54:45];
+Peter’s thoughts about the potential of writing another book [57:15]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Phone
+This field is for validation purposes and should be left unchanged.
+Δ
+Overview of today’s topics and the importance of understanding iron levels in the body [1:45]
+Today’s focus is on something that we haven’t really covered before, but we see a lot of questions come through, which is related to iron deficiency/ferritin
+This is something that people see on blood tests…
+so why does it matter?
+Why is iron necessary in the body?
+What happens if you’re deficient?
+What are those symptoms?
+How prevalent is it?
+Who is most susceptible?
+And then ultimately really lean into what can someone do about this? And is there even any concern if you have too much iron?
+Peter says:
+This is a topic that is far more complicated topic than we’re going to cover today, and that’s by design
+“
+As we got down the rabbit hole of iron biology, it was like the most overwhelming thing I’ve ever encountered, at least for me. And I realized that we needed to bring it way back to make it more actionable. And I think we’ve struck that balance here today
+.”
+The goal of this podcast is for listeners to:
+Know what blood tests you should get so you can ask for them
+Know how to look at it and interpret it
+And know what to do about it
+Additionally, Peter will answer some rapid-fire questions unrelated to iron, such as the following:
+Do you take creatine?
+Do you worry about the sodium in your venison sticks?
+A few other questions that we’ve seen come through a lot that will also tack on at the end of this
+The importance and ubiquity of iron in the body, and the role of the protein called ferritin [4:30]
+Why is iron so necessary in the body and why is this something that people should think about?
+Basically 2% of the human genome encodes for iron-related proteins—that a staggering amount
+Of these, nearly half are heme-binding proteins
+What is it about iron that’s important in the body?
+Well, a big part of it comes down to all things related to hemoglobin and oxygen binding and oxygen transport
+Another big part is that 6.5% of all enzymes in the human body are iron-dependent.
+An enzyme is a substance that facilitates a chemical reaction
+So if you think about the trillions of chemical reactions that are going on inside of our body, imagine how many of them are facilitated by enzymes that depend on iron.
+If you forget everything else about iron’s importance, just remember this,
+you’re not going to be able to move oxygen around your body without it
+And when it comes to your mitochondria and other very important places in the body where cellular respiration takes place, some of the most important enzymes depend on iron.
+Do only certain tissues require iron, or is it something that is necessary throughout the whole body?
+After a bit of searching, Peter had a hard time finding an example of a tissue that didn’t require iron — which tells you just how important it is
+As we get into how do you measure iron levels and stuff, a very important protein is going to come up over and over again—that protein is called
+ferritin
+If you’ve ever had at least a reasonably comprehensive blood test where they’ve checked more than just your iron level, hopefully you’ve noticed that they’ve checked your ferritin level
+Take home message number one of this podcast is: if your doctors are not checking your ferritin levels, please ask that they do
+It’s not enough to just know what your iron level is, you have to know what that ferritin level is as well
+This is a very, very ubiquitous protein which is sort of analogous to a lipoprotein
+it’s a huge spherical protein and its purpose is to store iron
+And its stores iron to the tune of, about 4,500 iron ions fit within one ferritin sphere
+Where it differs from lipoproteins is that the purpose of lipoproteins is not really to store cholesterol, but really to transport them, and in the case of ferritin, it’s really more about storage and there’s a little bit of transport
+Most ferritin actually resides within tissues, namely the muscle and the liver
+But a small amount of ferritin is obviously found in the serum and that’s how we sample it.
+And that’s why when you go and get a blood test, one of the things you look at is ferritin because it’s measuring the concentration of ferritin
+*A very important point*
+Ferritin is also what is known as an acute phase reactant
+what that means is, anytime inflammation is present in the body, you will see ferritin levels rise and they will rise independent of iron levels
+Ferritin being the total body store of iron, the most dominant protein that speaks to total body iron stores when it is high, all things being equal, iron levels are high, and when it is low, the converse of that is the case
+But when a person has an infection, for example, their ferritin level can be high even if they are deficient in iron
+Similarly, if a person has chronic inflammation, their ferritin level will be elevated as will other acute phase reactants such as C-reactive protein, even while total body stores of iron remain low
+So therefore, you have to be a bit more nuanced in your appreciation for how to measure total body iron stores so that you can not be fooled or misled by high or low levels of ferritin.
+The processes of iron absorption, utilization, and transportation [9:30]
+Figure 1.
+Source:
+Abbaspour et al. J Res Med Sci. Feb 2014
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member

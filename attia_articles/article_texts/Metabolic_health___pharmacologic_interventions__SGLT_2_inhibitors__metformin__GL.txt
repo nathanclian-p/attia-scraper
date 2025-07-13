@@ -1,0 +1,88 @@
+In this “Ask Me Anything” (AMA) episode, Peter explores various pharmacologic tools commonly utilized to improve metabolic health and treat diabetes, including SGLT-2 inhibitors, metformin, and GLP-1 agonists. He examines the available data on these drugs, assessing their comparative effectiveness and their potential in the context of lifestyle interventions. Additionally, he offers insights into whether SGLT2 inhibitors hold promise as geroprotective agents beyond their effects on glycemic control. Next, Peter analyzes the relationship between statin usage and the risk of developing insulin resistance and type 2 diabetes, investigating possible causal pathways and providing insights into strategies for risk reduction. He offers insights on monitoring adverse statin effects and evaluating the need for adjustments, ultimately weighing the trade-off between the risk to overall metabolic health against the benefits of reducing apoB levels through statin use.
+If you’re not a subscriber and listening on a podcast player, you’ll only be able to hear a preview of the AMA. If you’re a subscriber, you can now listen to this full episode on your
+private RSS feed
+or on our website at the
+AMA #53 show notes page
+. If you are not a subscriber, you can learn more about the subscriber benefits
+here
+.
+We discuss:
+Pharmacologic tools for improving metabolic health, and the relationship between statins and insulin resistance [2:00];
+SGLT-2 inhibitors: how they work and help to manage type 2 diabetes [4:15];
+The history of SGLT2 inhibitors—from discovery to the current state [10:15];
+Comparing the various FDA-approved SGLT2 inhibitors [15:00];
+Other beneficial effects of SGLT2 inhibitors outside of glycemic control [20:15];
+Exploring SGLT2 inhibitors as potential geroprotective molecules [22:45];
+The side effects and risks associated with SGLT2 inhibitors [31:45];
+Medications, lifestyle interventions, and other considerations for treating diabetes and improving metabolic health [37:45];
+Metformin as a tool for pre-diabetics, and how metformin compares to lifestyle interventions [44:00];
+How GLP-1 agonists compare to metformin and SGLT2 inhibitors in terms of glycemic control and weight loss [49:15];
+Exploring the relationship between statin use and the risk of developing insulin resistance and type 2 diabetes [52:30];
+Possible mechanisms of statin-induced insulin resistance and diabetes, and potential mitigation strategies [1:04:30];
+How to monitor for adverse effects of statin use and assess the need for adjustments [1:11:45];
+Weighing the benefits and risks of statin use: does the diabetes risk outweigh the benefits of lowering apoB with a statin? [1:15:30];
+Parting thoughts [1:20:45]; and
+More.
+§
+Get Peter’s expertise in your inbox 100% free.
+Sign up to receive
+An Introductory Guide to Longevity by Peter Attia
+, weekly longevity-focused articles, and new podcast announcements.
+"
+*
+" indicates required fields
+This field is hidden when viewing the form
+H-o-n-e-y-p-o-t
+CAPTCHA
+Email
+*
+Name
+This field is for validation purposes and should be left unchanged.
+Δ
+Pharmacologic tools for improving metabolic health, and the relationship between statins and insulin resistance [2:00]
+Today’s conversation will be on two topics
+The first discussion will be like a follow-up to
+AMA #51
+, which was on metabolic disease
+Metabolic disease is one of the “four horsemen” with the other three being cardiovascular disease, neurodegenerative disease, and cancer
+In AMA #51, Peter explained how metabolic disease feeds those other types of diseases.
+Also discussed how to measure and evaluate your metabolic health as well as the lifestyle factors that can contribute to improved metabolic health
+However, one thing that was missing from AMA #51 was the pharmacological options for people to improve their metabolic health — this is part of today’s discussion
+The main pharmacological options include SGLT2 inhibitors, metformin, GLP-1 agonist, and a few others
+Peter will also cover whether any of these drugs have a geroprotective benefit for people who’s metabolic health is otherwise in good shape
+The second part of today’s episode will be about the relationship between statins and insulin resistance
+Peter will cover all the issues and data on statins, not just the relationship to T2D
+But much more broadly around the relationship between statins and metabolic health
+He will, of course, put this in the broader context of net benefit vs net harm
+SGLT-2 inhibitors: how they work and help to manage type 2 diabetes [4:15]
+⇒ SGLT-2 inhibitors were discussed on
+episode #148 with Rich Miller
+***
+SGLT2 stands for sodium-glucose cotransporter protein-2
+The nephron is the functional cellular unit of the kidney and in the proximal tubule
+The kidney is a unique organ in that it’s really a tiny organ, but it is overrun with blood
+There’s lots of plasma that’s passing through the renal arteries and the reason for that is, of course, the importance of filtration
+Analogy to help explain how the kidney works
+:
+If you were a kid and your mom said, “I want you to go into your room and clean your dresser out where you have your socks, you underwear, your t-shirts, your shorts, and all that stuff”
+It’s tempting to go in there and, while everything is in the dresser, try to organize it and pull things out that you don’t need and keep what you do need in there
+The kidney doesn’t work that way
+The kidney has one way of filtering, which is it goes to the dresser and takes every single thing out, and then it simply pulls back in what it wants to keep
+That’s very different than the kidney identifying things that we don’t need/want and simply pulling them out
+Why? ⇒ Because in the case of the ladder, it assumes evolutionarily that the kidney will forever be able to recognize bad things
+But in the former, it assumes evolutionarily that the only thing the kidney needs to understand is what is good
+And obviously that’s a much better strategy because that’s a finite set of things as opposed to an infinite set of things
+The way this works at the cellular level:
+As plasma rolls through the kidney, it pulls everything out—Glucose, sodium, potassium, magnesium, chloride, you name it
+As the filtrate runs through the kidney, it selectively pulls back into the circulation the things that it knows we need
+And that’s why the kidney is the
+most important organ in the body for regulating our electrolytes
+Glucose
+One of those things that happens to get filtered is glucose
+And even though the kidney’s job is not really managing glucose concentration, there’s an interesting opportunity to prevent the kidney from reabsorbing all of the glucose that it immediately shunted out when the plasma came through the kidney in the first place
+in other words, even though the kidney’s goal is not interfering with glucose concentration the way it is doing deliberately with sodium, potassium, chloride, et cetera, there’s an opportunity
+{end of show notes preview}
+Would you like access to extensive show notes and references for this podcast (and more)?
+Check out this post
+to see an example of what the substantial show notes look like. Become a member today to get access.
+Become a Member

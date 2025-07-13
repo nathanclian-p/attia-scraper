@@ -1,0 +1,119 @@
+This video clip is from
+#151 – Alex Hutchinson, Ph.D.: Translating the science of endurance and extreme human performance
+, originally released on March 1, 2021.
+Show Notes
+The case study of Oskar Svensson: Why a higher VO2 Max isn’t always better, and the difference between maximum aerobic capacity and efficiency [49:15]
+Oskar Svensson
+⇒
+See Alex’s profile on Oskar Svensson
+:
+The Story of the Cyclist with the Highest-Ever VO2 Max
+Oskar Svensson was a former downhill skier who had taken a talent screening to see whether he’d be suitable for something like cycling
+At age 17, completely untrained, he scored something like 74 milliliters per kilogram per minute in VO2 max
+He started training as a cyclist as a teenager and pretty quickly scored 83, then 85, then 92
+Then, a
+scientific journal was eventually published
+saying his score was 96.7 when he was 18 years old
+This is not only the highest recorded score in human history, but it’s also higher than all the rumors
+History of high scores
+Reports exists of people in the 90s, but high VO2 max numbers sprout very easily because it’s hard to do these tests right
+The garden variety machinery used to do these tests is not designed to handle seven liters of oxygen per minute
+The previous VO2 max record holder was
+Bjorn Daehlie
+, the greatest cross country skier in history who in the late 90s reputedly tested 96
+The Norwegian ski team leaked it to the press as a kind of PR move, it was never published in a journal
+Matt Carpenter
+reported measured 90.2
+Kílian Jornet
+reported measured 89.5
+Steve Prefontaine
+measured 84
+A lot of people who have high numbers, but virtually none of them are published in the scientific literature
+Oskar’s VO2 max
+Oskar’s score of 96.7 is “higher than the rumors, but it’s way higher than the verified numbers”
+They even disassembled the machine and send it back to the manufacturer to get it calibrated
+It came back showing that it was indeed working properly
+After his retirement they
+published the data
+and shared it
+He was tested again several months later, he has put on 2.5 kilos of body weight
+His VO2 max number came down into the 80s
+But his
+absolute level of maximal oxygen consumption had barely come down
+Alex finds this second test to be the most convincing argument that the original test was accurate
+Oskar’s cycling career, and why VO2 max doesn’t correlate perfectly with performance
+⇒ See
+Why a Higher VO2 Max Isn’t Always Better
+He turned pro at age 20 with team called
+Joker
+The expectations were out of line with what was reasonable
+Officially announced his retirement when he was 23
+Why wasn’t he successful?
+Reanalyzing his data:
+History of VO2 scores:
+Starts at 74, goes past 80, hits 90 something, then tops at 96
+Then he actually comes back down and after he retired from cycling, he was back down to 77
+Looking at his efficiency:
+A much more interesting story
+He started out at his most efficient when he was untrained
+The more he trained, the less efficient he got, meaning he could deliver more aerobic energy, but he used more aerobic energy in order to maintain a given pace.
+For a given output,
+how much input (oxygen) do you need to get this output?
+An athlete over time should get better and better
+For a fixed wattage, you want to see what’s called PvO2 (power at a given VO2) come down as you get better
+In running, this would be the vVO2
+In other words, for a given oxygen consumption, you want velocity to go up just as you would want power to go up
+Peter is very surprised by that — “
+I would have been less surprised if it had been unchanged, but I was very surprised that it deteriorated
+.”
+Long-standing debate:
+Is there an inverse relationship between VO2 max and efficiency?
+Said another way,
+if you build your engine bigger, do you necessarily end up with a less efficient engine?
+Still no consensus on this
+If you just take a bunch of elite athletes and you measure their VO2 max, you tend to see an inverse relationship — The people who have the highest VO2 max tend to have slightly lower, slightly worse economies
+People that have the best economy, tend to have
+slightly worse VO2 max
+-Possible explanations for this phenomenon
+:
+Possibility #1: You don’t tend to hit the lottery twice
+If you happen to have a VO2 max that’s 92, then you’re not going to have the best possible economy
+And when you’re only looking at elite athletes, that means that everyone else there’s going to have something special
+So if they don’t have the best VO2 max, by definition they have to have a great economy, because they have to have something that’s exceptional
+you see this inverse relationship that either you have good economy or you have good VO2 max
+Possibility #2: There’s actually a trade off—if you’re optimizing one physiological parameter it may come at the cost of the other physiological parameter
+The Oskar Svensson data points to this  explanation
+The training he did must have been pretty good for increasing VO2 max
+But it may have actually been bad for his economy at a metabolic level
+A paper was published in response to this Svensson case study
+reanalyzing his data
+That paper was pointing to a potential cell level explanation of what’s happening to certain enzymes at a given point
+The upshot of the paper:
+If you’re doing a lot of training that requires very high VO2 max level outputs, your metabolism and your cells need to make choices to produce high output, instead of to be as efficient as possible.
+And over time that’s what you’ll get better at and you’ll lose that efficiency. And so you’ll pay a slight penalty for optimizing your training for VO2 max
+The question worth considering is what would have happened if you took Svensson’s genetic gift of an engine and instead of maximizing on VO2 max, you train him and he’d get up to 85 or 90 maybe, but you put much more effort into sort of
+zone 2
+(right at lactate of 2.0)
+-Looking at his training In the
+original paper
+…
+Oskar was spending a lot of time in the 300 to 400 watt range, but he could have probably been in the 300 watt range where he’s still just under two millimole of lactate, but he’s dramatically increasing mitochondrial efficiency
+If that
+zone 2
+work represented two thirds of his training volume, he’d likely have a lower VO2 max, but he might have been a better cyclist
+“
+Whatever he did, he paid too high a price for that VO2 max, just by definition, it didn’t work out.
+”
+This observation agrees with the prevailing wisdom among endurance athletes that about 80% of your training should be easy, conversational pace (i.e.,
+zone 2
+)
+⇒ See
+AMA #19
+for a deep dive into zone 2 training
+§
+Alex Hutchinson, Ph.D
+Alex is a sports science journalist, author of the book
+ENDURE: Mind, Body, and the Curiously Elastic Limits of Human Performance
+, and former competitive runner for the Canadian national team. He currently writes the
+Sweat Science
+column for Outside Online. Prior to his journalism career, Alex acquired a Ph.D. from the University of Cambridge. He spent a few years as a postdoctoral researcher with the U.S. National Security Agency working on quantum computing and nanomechanics while simultaneously competing as a middle- and long-distance runner for the Canadian national team.
